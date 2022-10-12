@@ -7,7 +7,7 @@ We present **ConNER** (Enhancing Label **Con**sistency on Document-level **N**am
 
 ## Updates
 
-* \[**Sep 30, 2022**\] First code updates.
+* \[**Oct 12, 2022**\] First code updates.
 
 ## Quick Link
 * [Installation](#installation)
