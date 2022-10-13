@@ -1,0 +1,19 @@
+T1	Multi-tissue_structure 39 48	lymphatic
+T2	Cancer 114 131	T2 gastric cancer
+T3	Cancer 169 175	cancer
+T5	Organism_substance 252 258	plasma
+T7	Cancer 280 286	cancer
+T8	Organism_substance 389 395	plasma
+T11	Cancer 495 509	gastric cancer
+T13	Organism_substance 670 676	plasma
+T15	Multi-tissue_structure 800 810	lymph node
+T16	Organ 847 852	liver
+T17	Multi-tissue_structure 906 916	peritoneal
+T19	Cancer 1011 1028	T2 gastric cancer
+T20	Organism_substance 1067 1073	plasma
+T22	Cancer 1109 1129	T3/T4 gastric cancer
+T23	Cell 1215 1224	lymphatic
+T24	Cancer 1266 1280	gastric cancer
+T25	Cancer 1329 1346	T2 gastric cancer
+T26	Multi-tissue_structure 1384 1394	peritoneal
+T27	Cancer 1515 1532	T2 gastric cancer

@@ -1,0 +1,14 @@
+T3	Tissue 32 41	cartilage
+T4	Cancer 104 109	tumor
+T6	Tissue 201 210	cartilage
+T11	Cell 392 429	human umbilical vein endothelial cell
+T12	Cell 431 436	HUVEC
+T15	Multi-tissue_structure 524 548	chorioallantoic membrane
+T16	Multi-tissue_structure 550 553	CAM
+T18	Cell 618 628	tumor cell
+T20	Cell 712 717	HUVEC
+T24	Multi-tissue_structure 937 950	blood vessels
+T29	Cell 1123 1139	sarcoma-180 cell
+T30	Cell 1151 1178	B16-F10 mouse melanoma cell
+T32	Cell 1346 1352	HUVECs
+T33	Cell 1449 1459	tumor cell

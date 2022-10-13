@@ -1,0 +1,25 @@
+T1	Organism_substance 0 18	Grape seed extract
+T3	Cancer 181 187	cancer
+T8	Organism_substance 624 642	Grape seed extract
+T9	Organism_substance 644 647	GSE
+T10	Cancer 705 710	tumor
+T11	Organism_substance 769 772	GSE
+T13	Organism_substance 822 825	GSE
+T15	Organism_substance 918 921	GSE
+T16	Organism_substance 955 958	GSE
+T19	Cell 1059 1076	endothelial cells
+T20	Organism_substance 1091 1094	GSE
+T22	Cell 1122 1138	endothelial cell
+T23	Tissue 1178 1184	sprout
+T24	Multi-tissue_structure 1200 1210	aorta ring
+T25	Organism_substance 1246 1249	GSE
+T26	Cancer 1264 1269	tumor
+T27	Cancer 1281 1286	tumor
+T28	Cell 1303 1333	MDA-MB-231 breast cancer cells
+T30	Organism_substance 1378 1381	GSE
+T31	Cancer 1395 1400	tumor
+T33	Multi-tissue_structure 1446 1458	blood vessel
+T37	Organism_substance 1615 1618	GSE
+T39	Organism_substance 1673 1676	GSE
+T40	Organism_substance 1767 1770	GSE
+T42	Cancer 1865 1871	cancer

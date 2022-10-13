@@ -1,0 +1,33 @@
+T1	Cancer 0 6	Tumors
+T2	Tissue 14 40	retinal pigment epithelium
+T3	Multi-tissue_structure 56 76	inguinal lymph nodes
+T4	Organ 81 87	spleen
+T8	Tissue 157 175	pigment epithelium
+T9	Multi-tissue_structure 183 189	retina
+T10	Tissue 191 194	RPE
+T11	Multi-tissue_structure 216 225	optic cup
+T12	Organ 279 282	eye
+T20	Tissue 500 503	RPE
+T21	Developing_anatomical_structure 519 526	embryos
+T22	Cell 528 537	RPE cells
+T23	Multi-tissue_structure 558 571	anterior part
+T24	Organ 579 582	eye
+T25	Multi-tissue_structure 596 607	optic nerve
+T26	Cancer 639 645	tumors
+T27	Tissue 675 685	epithelial
+T29	Cell 716 731	pigmented cells
+T30	Organ 749 755	spleen
+T31	Multi-tissue_structure 760 780	inguinal lymph nodes
+T32	Organ 785 791	spleen
+T38	Tissue 919 929	epithelial
+T40	Cell 951 961	Cell lines
+T41	Cancer 984 989	tumor
+T47	Cell 1168 1183	RPE tumor cells
+T48	Multi-tissue_structure 1199 1209	lymph node
+T49	Organ 1214 1220	spleen
+T51	Cancer 1257 1277	TRP-1/Tag RPE tumors
+T53	Organ 1286 1292	spleen
+T54	Multi-tissue_structure 1297 1308	lymph nodes
+T55	Cancer 1375 1381	tumors
+T56	Tissue 1399 1417	pigment epithelium
+T5	Cancer 994 1004	metastases

@@ -1,0 +1,27 @@
+T1	Multi-tissue_structure 24 33	choroidal
+T2	Multi-tissue_structure 53 67	feeder vessels
+T3	Tissue 96 103	macular
+T4	Multi-tissue_structure 162 171	choroidal
+T5	Tissue 225 232	macular
+T6	Multi-tissue_structure 391 405	feeder vessels
+T7	Multi-tissue_structure 492 513	choroidal vasculature
+T10	Multi-tissue_structure 765 779	feeder vessels
+T11	Multi-tissue_structure 781 784	FVs
+T12	Multi-tissue_structure 901 904	FVs
+T14	Multi-tissue_structure 947 968	choroidal vasculature
+T15	Multi-tissue_structure 977 980	FVs
+T16	Immaterial_anatomical_entity 1046 1059	intravenously
+T18	Multi-tissue_structure 1134 1140	vessel
+T19	Multi-tissue_structure 1390 1393	FVs
+T22	Multi-tissue_structure 1528 1542	feeder vessels
+T23	Multi-tissue_structure 1641 1647	fundus
+T24	Multi-tissue_structure 1684 1690	fundus
+T25	Multi-tissue_structure 1703 1705	FV
+T27	Multi-tissue_structure 1791 1797	vessel
+T29	Multi-tissue_structure 1988 2001	feeder vessel
+T31	Multi-tissue_structure 2126 2140	feeder vessels
+T32	Multi-tissue_structure 2217 2226	choroidal
+T33	Multi-tissue_structure 2334 2340	fundus
+T34	Tissue 2359 2372	fundus tissue
+T35	Multi-tissue_structure 2512 2514	FV
+T8	Multi-tissue_structure 1819 1823	site

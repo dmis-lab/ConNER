@@ -1,0 +1,22 @@
+T1	Multi-tissue_structure 0 7	Ventral
+T2	Multi-tissue_structure 12 27	dorsal striatal
+T3	Pathological_formation 130 166	neonatal ventral hippocampal lesions
+T4	Pathological_formation 370 406	neonatal ventral hippocampal lesions
+T5	Pathological_formation 408 412	NVHL
+T6	Pathological_formation 577 581	NVHL
+T7	Pathological_formation 653 657	NVHL
+T8	Multi-tissue_structure 794 811	nucleus accumbens
+T9	Multi-tissue_structure 828 843	caudate-putamen
+T10	Pathological_formation 994 999	NVHLs
+T11	Multi-tissue_structure 1241 1256	striatal region
+T12	Pathological_formation 1402 1407	NVHLs
+T13	Multi-tissue_structure 1540 1555	striatal region
+T14	Multi-tissue_structure 1584 1591	ventral
+T15	Multi-tissue_structure 1592 1607	dorsal striatal
+T16	Multi-tissue_structure 1883 1899	striatal network
+T17	Multi-tissue_structure 525 532	ventral
+T18	Multi-tissue_structure 537 552	dorsal striatal
+T19	Multi-tissue_structure 1356 1363	ventral
+T20	Multi-tissue_structure 1367 1382	dorsal striatal
+T21	Multi-tissue_structure 292 298	neural
+T22	Pathological_formation 1742 1747	NVHLs

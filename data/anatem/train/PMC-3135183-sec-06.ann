@@ -1,0 +1,31 @@
+T1	Cancer 79 100	discohesive carcinoma
+T2	Multi-tissue_structure 129 150	alveolar interstitium
+T3	Multi-tissue_structure 198 206	alveolar
+T4	Multi-tissue_structure 273 279	pleura
+T5	Pathological_formation 300 305	ulcer
+T6	Cancer 311 316	tumor
+T7	Cell 340 363	discohesive tumor cells
+T8	Multi-tissue_structure 375 391	pleural membrane
+T9	Tissue 454 466	fatty tissue
+T10	Multi-tissue_structure 474 489	parietal pleura
+T11	Cancer 495 500	tumor
+T12	Cell 572 583	tumor cells
+T13	Organism_substance 633 655	eosinophilic cytoplasm
+T14	Cellular_component 701 707	nuclei
+T15	Cellular_component 748 756	nucleoli
+T16	Cell 853 861	squamous
+T17	Cell 865 874	glandular
+T18	Cancer 972 977	tumor
+T19	Organism_substance 1005 1010	blood
+T20	Organism_substance 1029 1034	blood
+T21	Multi-tissue_structure 1072 1079	vessels
+T22	Multi-tissue_structure 1094 1100	artery
+T23	Multi-tissue_structure 1157 1171	alveolar septa
+T24	Cell 1204 1220	epithelial cells
+T25	Cancer 1249 1271	interstitial carcinoma
+T26	Cell 1315 1327	lining cells
+T27	Cancer 1348 1359	tumor front
+T28	Cell 1401 1419	type I pneumocytes
+T29	Cancer 1463 1497	nonmucinous adenocarcinoma in situ
+T30	Cancer 1534 1562	bronchioloalveolar carcinoma
+T31	Cancer 1564 1567	BAC

@@ -1,0 +1,10 @@
+T1	Cellular_component 0 8	Telomere
+T4	Cellular_component 215 224	telomeres
+T5	Cell 249 262	somatic cells
+T8	Cell 332 343	lymphocytes
+T12	Cellular_component 577 585	telomere
+T17	Cell 939 949	lymphocyte
+T18	Cell 987 992	cells
+T19	Pathological_formation 1070 1091	lymphoid malignancies
+T20	Cellular_component 1126 1135	telomeres
+T22	Cancer 1279 1294	lymphoid tumors

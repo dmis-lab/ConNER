@@ -1,0 +1,18 @@
+T1	Multi-tissue_structure 80 98	semicircular canal
+T2	Multi-tissue_structure 111 140	posterior semicircular canals
+T3	Multi-tissue_structure 142 145	psc
+T4	Multi-tissue_structure 234 237	psc
+T5	Organism_substance 286 303	saccular otoconia
+T6	Multi-tissue_structure 357 363	cupula
+T7	Organism_substance 374 382	otoconia
+T8	Multi-tissue_structure 402 417	cupular surface
+T9	Multi-tissue_structure 465 484	psc ampullary nerve
+T10	Organism_substance 581 589	otoconia
+T11	Organism_substance 600 608	otoconia
+T12	Multi-tissue_structure 631 636	canal
+T13	Organism_substance 670 678	otoconia
+T14	Multi-tissue_structure 686 691	canal
+T15	Organism_substance 741 750	otoconial
+T16	Organism_substance 811 819	otoconia
+T17	Multi-tissue_structure 896 902	cupula
+T18	Organism_substance 920 928	otoconia

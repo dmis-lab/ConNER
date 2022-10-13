@@ -1,0 +1,16 @@
+T2	Multi-tissue_structure 56 60	node
+T3	Cancer 70 81	lung cancer
+T4	Multi-tissue_structure 86 97	lymph nodes
+T6	Cancer 282 289	cancers
+T10	Cancer 482 502	primary lung cancers
+T11	Multi-tissue_structure 507 529	metastatic lymph nodes
+T13	Cancer 604 619	primary cancers
+T14	Multi-tissue_structure 624 646	metastatic lymph nodes
+T16	Cancer 755 770	primary cancers
+T17	Multi-tissue_structure 775 797	metastatic lymph nodes
+T19	Cancer 895 907	lung cancers
+T22	Multi-tissue_structure 1023 1034	lymph nodes
+T27	Cancer 1313 1325	lung cancers
+T29	Multi-tissue_structure 1365 1387	metastatic lymph nodes
+T1	Cancer 346 362	metastatic sites
+T5	Multi-tissue_structure 1299 1303	node

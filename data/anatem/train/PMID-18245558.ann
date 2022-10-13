@@ -1,0 +1,26 @@
+T1	Cancer 15 25	lung tumor
+T5	Cancer 191 196	tumor
+T6	Cancer 219 224	tumor
+T14	Cancer 516 527	lung cancer
+T18	Cancer 598 612	intratumorally
+T20	Cancer 648 658	lung tumor
+T21	Cancer 667 701	subcutaneous, orthotopic xenograft
+T22	Cancer 730 740	lung tumor
+T25	Cancer 818 823	tumor
+T27	Cancer 935 953	subcutaneous tumor
+T30	Cell 980 1006	Lewis lung carcinoma cells
+T31	Cancer 1032 1045	primary tumor
+T32	Cancer 1077 1097	pulmonary metastases
+T33	Cancer 1103 1108	tumor
+T37	Cancer 1146 1190	subcutaneous human lung tumor A549 xenograft
+T38	Tissue 1227 1244	capillary vessels
+T39	Cancer 1248 1254	tumors
+T40	Cancer 1274 1283	xenograft
+T43	Cancer 1328 1339	A549 tumors
+T44	Multi-tissue_structure 1355 1366	lymph nodes
+T45	Organ 1385 1389	lung
+T47	Cancer 1457 1472	lung metastases
+T50	Cancer 1502 1515	primary tumor
+T53	Cancer 1685 1690	tumor
+T54	Cancer 1725 1730	tumor
+T57	Cancer 1820 1831	lung cancer

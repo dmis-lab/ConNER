@@ -1,0 +1,11 @@
+T2	Organism_subdivision 67 75	hindlimb
+T13	Tissue 399 405	tissue
+T16	Organism_subdivision 531 539	hindlimb
+T18	Organism_subdivision 645 653	hindlimb
+T19	Multi-tissue_structure 690 704	femoral artery
+T24	Organism_substance 875 880	serum
+T26	Tissue 907 916	capillary
+T28	Organism_substance 979 984	Serum
+T31	Tissue 1055 1064	capillary
+T37	Organism_subdivision 1393 1401	hindlimb
+T40	Tissue 1479 1493	hypoxic tissue

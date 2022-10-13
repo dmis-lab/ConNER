@@ -1,0 +1,13 @@
+Long-term immunosuppression in burned patients assessed by in vitro neutrophil oxidative burst (Phagoburst).
+OBJECTIVE:
+To assess the duration and magnitude of immunosuppression induced by burns as measured by the neutrophil oxidative burst in vitro.
+DESIGN:
+Prospective exploratory cohort study.
+SETTING:
+Tertiary referral unit, University Hospital, Linkoping, Sweden (National Burn Unit). PATIENTS AND HEALTHY VOLUNTEERS (CONTROLS): Twenty-eight subjects consecutively admitted to the Burn Unit. The mean total burn surface area (TBSA%) was 36 (range 13-87) and mean age 44 years (range 14-89). Patients' data were collected prospectively in the burn unit, which also included sequential organ failure assessment (SOFA) score.
+INTERVENTIONS:
+None.
+MEASUREMENTS AND RESULTS:
+To assess the changes in the oxidative capacity of neutrophils after the burn, blood samples for the Phagoburst analysis were taken on admission and at least once every second week for the duration of stay in hospital and thereafter monthly up to 12 months after the burn. Neutrophils were stimulated in vitro by Escherichia coli, phorbol 12-phorbol myristate 13-acetate (PMA), and peptide N-formyl-Met-Leu-Phe (fMLP). Oxidative burst was measured by flow cytometry. Oxidative capacity of the neutrophils decreased similarly for all three stimulants: there was a pathological decrease shortly after admission, with the lowest value occurring between days 7 and 10, followed by a gradual recovery during the ensuing months. Full recovery (to the values of the controls) was seen first 3.5 months after the burn. Using multiple regression, we found that only age and time since the burn significantly (p<0.05) affected the oxidative burst. White cell count (WCC) and C-reactive protein (CRP) values returned to reference ranges long before the oxidative burst.
+CONCLUSIONS:
+This study provides evidence that immunosuppression in those injured by burns, as assessed by the in vitro oxidative burst of neutrophils, remains long after the event of the burn (up to 3.5 months after burn). Absence of correlations to TBSA%, FTB%, blood transfusion, opiates provided, and multiple organ failure score and laboratory infection variables together with the finding that decreased oxidative burst was uniform after the injury, suggesting that this immunosuppression is primarily due to the general metabolic response rather than recurring infections.

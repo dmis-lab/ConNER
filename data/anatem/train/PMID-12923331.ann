@@ -1,0 +1,35 @@
+T3	Cancer 49 62	breast cancer
+T4	Tissue 63 67	bone
+T5	Tissue 81 85	Bone
+T6	Cell 123 135	osteoclastic
+T7	Tissue 136 140	bone
+T8	Cell 157 169	cancer cells
+T9	Cell 212 223	osteoclasts
+T10	Cancer 232 247	metastatic foci
+T13	Immaterial_anatomical_entity 345 358	extracellular
+T14	Cell 384 394	osteoclast
+T15	Cell 423 434	osteoclasts
+T18	Cell 480 490	osteoclast
+T19	Cancer 542 548	cancer
+T20	Cell 577 582	cells
+T22	Cell 596 614	breast cancer line
+T23	Cell 616 626	MDA-MB-231
+T24	Cell 659 662	ST2
+T25	Cell 664 672	MC3T3-E1
+T27	Cell 696 711	calvarial cells
+T28	Cell 713 734	Osteoclast-like cells
+T31	Cell 835 845	cell lines
+T32	Cancer 850 857	samples
+T33	Cancer 863 876	breast cancer
+T36	Cell 966 982	MDA-MB-231 cells
+T37	Cell 988 995	stromal
+T38	Cell 999 1017	osteoblastic cells
+T39	Cell 1051 1062	osteoclasts
+T41	Cell 1084 1100	MDA-MB-231 cells
+T42	Cancer 1110 1131	breast cancer samples
+T44	Cell 1189 1201	cancer cells
+T45	Cell 1207 1214	stromal
+T46	Cell 1218 1236	osteoblastic cells
+T49	Cancer 1365 1378	breast cancer
+T50	Cell 1383 1390	stromal
+T51	Cell 1394 1412	osteoblastic cells

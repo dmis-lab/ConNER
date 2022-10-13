@@ -1,0 +1,11 @@
+T4	Cancer 193 199	tumors
+T6	Cancer 285 291	cancer
+T11	Cell 593 597	cell
+T12	Cell 609 613	cell
+T13	Tissue 621 625	tube
+T15	Cell 723 734	endothelial
+T16	Immaterial_anatomical_entity 831 844	Intracellular
+T21	Cell 966 982	endothelial cell
+T27	Cellular_component 1162 1174	mitochondria
+T32	Cell 1321 1326	cells
+T47	Cell 1808 1825	endothelial cells

@@ -1,0 +1,17 @@
+Outcomes of cefazolin versus ceftriaxone therapy in treating lower respiratory tract infections in adults.
+OBJECTIVE:
+To determine whether choice of a first- versus third-generation cephalosporin as initial therapy for lower respiratory tract infections in hospitalized adults affects the course and duration of care, both of which may influence antimicrobial treatment cost.
+DESIGN:
+Retrospective analysis of discharge abstracts and hospital pharmacy records.
+SETTING:
+Forty-eight US acute-care hospitals.
+PATIENTS:
+One thousand ninety-two hospitalized adults (aged > 17 y) with principal diagnoses of lower respiratory tract infections (DRGs 79-80, 89-90).
+INTERVENTIONS:
+Cefazolin or ceftriaxone, given as sole antimicrobial therapy for at least one day.
+MAIN OUTCOME MEASURES:
+(1) The number of patients who received another parenteral antibiotic anytime prior to hospital discharge; (2) the number of days during which patients received any parenteral antibiotic while in the hospital; and (3) the number of days patients remained hospitalized following the start of antibiotic therapy.
+RESULTS:
+Patients treated with cefazolin (n = 763) were more likely to receive another parenteral antibiotic while in the hospital (30.3 vs. 20.7 percent; p < 0.001) and received more total days of therapy (7.2 vs. 6.7 d; p < 0.05) than those treated with ceftriaxone (n = 329). Although the time to hospital discharge did not differ in the full sample (9.2 d for both groups), it was greater among those receiving cefazolin (8.6 vs. 8.0 d; p < 0.05) when patients with lengths of stay exceeding 24 days were excluded from both groups.
+CONCLUSIONS:
+In addition to acquisition cost, differences in course and duration of care should be considered when determining the most cost-effective choice for antimicrobial therapy.

@@ -1,0 +1,15 @@
+T2	Cancer 63 80	colorectal cancer
+T3	Cancer 145 162	colorectal cancer
+T4	Cancer 164 167	CRC
+T9	Tissue 348 354	tissue
+T10	Cancer 362 375	malignant one
+T13	Cancer 497 500	CRC
+T14	Cancer 611 617	tumour
+T15	Tissue 629 645	tissue specimens
+T16	Cancer 652 655	CRC
+T22	Cancer 1076 1079	CRC
+T24	Cancer 1257 1263	tumour
+T25	Cancer 1274 1280	tumour
+T26	Multi-tissue_structure 1291 1295	node
+T30	Cancer 1433 1436	CRC
+T33	Cancer 1596 1599	CRC

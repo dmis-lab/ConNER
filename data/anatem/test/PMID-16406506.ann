@@ -1,0 +1,26 @@
+T2	Cell 14 22	pericyte
+T4	Cancer 38 44	tumour
+T5	Cell 94 103	Pericytes
+T6	Multi-tissue_structure 113 133	tumour blood vessels
+T9	Anatomical_system 187 203	vascular network
+T11	Cell 215 231	tumour pericytes
+T13	Cancer 335 341	tumour
+T15	Cell 443 451	pericyte
+T19	Cancer 591 597	tumour
+T22	Cancer 656 662	tumour
+T26	Cancer 712 718	tumour
+T28	Tissue 739 750	microvessel
+T34	Cell 840 855	tumour pericyte
+T40	Tissue 941 957	microvasculature
+T42	Multi-tissue_structure 1009 1017	vascular
+T46	Cell 1090 1098	pericyte
+T50	Cell 1150 1158	pericyte
+T52	Cellular_component 1171 1191	extracellular matrix
+T56	Cell 1224 1232	pericyte
+T57	Cellular_component 1303 1306	ECM
+T60	Cell 1326 1335	pericytes
+T62	Cellular_component 1386 1389	ECM
+T71	Cell 1525 1555	bone marrow-derived stem cells
+T25	Cellular_component 1425 1437	cell surface
+T27	Developing_anatomical_structure 471 480	embryonic
+T38	Developing_anatomical_structure 961 970	embryonic

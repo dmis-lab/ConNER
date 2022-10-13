@@ -1,0 +1,21 @@
+T1	Organism_substance 62 67	serum
+T2	Organism_subdivision 204 209	meats
+T3	Organism_substance 475 480	blood
+T4	Organism_substance 516 521	serum
+T5	Organism_substance 598 603	serum
+T6	Organism_substance 843 848	serum
+T7	Organism_substance 1527 1539	serum sample
+T8	Developing_anatomical_structure 2552 2557	fetal
+T9	Organism_substance 3345 3358	blood samples
+T10	Organism_substance 6101 6106	serum
+T11	Organism_substance 6275 6280	serum
+T12	Organism_substance 6538 6543	serum
+T13	Organism_substance 6830 6835	serum
+T14	Organism_substance 7504 7509	serum
+T15	Organism_substance 4158 4165	samples
+T16	Organism_substance 5945 5952	samples
+T17	Organism_substance 5085 5091	sample
+T18	Organism_substance 5980 5986	sample
+T19	Organism_subdivision 7574 7578	meat
+T20	Organism_subdivision 5842 5846	body
+T21	Multi-tissue_structure 4608 4612	pulp

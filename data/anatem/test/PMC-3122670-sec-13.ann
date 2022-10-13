@@ -1,0 +1,15 @@
+T1	Organ 499 503	lung
+T2	Organ 540 545	organ
+T3	Organ 558 562	lung
+T4	Organ 563 569	kidney
+T5	Organ 619 624	organ
+T6	Cell 641 675	allogeneic hematopoietic stem cell
+T7	Cancer 773 785	solid tumors
+T8	Organism_substance 1386 1392	Sputum
+T9	Organ 1450 1454	Lung
+T10	Cancer 1524 1536	solid tumors
+T14	Cancer 701 709	leukemia
+T15	Cancer 1501 1509	Leukemia
+T11	Tissue 1081 1088	samples
+T12	Tissue 1358 1364	Sample
+T13	Tissue 2096 2102	sample

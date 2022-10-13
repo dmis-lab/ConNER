@@ -1,0 +1,40 @@
+Subject disposition.
+Data from 110 enrolled subjects were eligible for analysis. The demographics of the study subjects, by site, are recorded in Table 1. The population studied was predominantly not HIV infected (92%), and by the study entry criteria, their probability of infection was considered to be low. The risk categories assigned at the time of study entry were combined into groups for analysis, based on the predisposition for PCP. The analysis groups were as follows: (i) HIV/AIDS, (ii) lung transplant (one subject with a dual organ transplant [lung/kidney] was included in this category), (iii) all other organ transplants and allogeneic hematopoietic stem cell transplants (HSCT), (iv) leukemia, other hematological disorders, and autologous HSCT, (v) other solid tumors, and (vi) other nonmalignant conditions.
+Table 1.
+Subject enrollment, disposition, and demographics by sitea
+Characteristic Valueb
+Site 1 Site 2 Site 3 Site 4
+Enrollment
+Unique subjects 18 29 22 62
+Subjects entering into primary analysisc 18 22 22 48
+Subjects with repeat visits 0 0 0 16
+No. of samples assayed 18 22 22 70
+Gender
+Male 7 10 13 29
+Female 11 12 9 19
+Race
+Caucasian 12 4 0 48
+Black 6 13 0 0
+Other (nonwhite) 0 5 0 0
+No data 0 0 22 0
+Mean (range) age (yr) 57 (26-78) 54 (21-75) 52 (26-74) 56 (23-73)
+Pretest probability of PCP
+Moderate 0 3 4 0
+Low 18 19 18 48
+Sample type
+BAL 18 20 20 43
+Sputum 0 1 1 0
+Other LRT 0 1 1 5
+At-risk group
+HIV/AIDS 0 3 6 0
+Lung transplant 8 0 1 31
+Other transplants 1 7 3 0
+Leukemia 1 1 7 0
+Other solid tumors 2 1 1 7
+Other nonmalignant conditions 6 10 4 10
+a
+The testing and enrollment sites for the study were Duke University School of Medicine, Durham, NC; Albert Einstein College of Medicine and Montefiore Medical Center, Bronx, NY; Centre Hospitalier Universitaire Vaudois and University of Lausanne, Lausanne, Switzerland; and Medizinische Universitat and Landeskrankenhaus Natters, Innsbruck, Austria.
+b
+Except where otherwise indicated, values are numbers of patients.
+c
+Subjects were excluded from analysis if they withdrew consent or if there was inadequate sample left for PCR testing.

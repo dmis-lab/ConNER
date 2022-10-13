@@ -1,0 +1,29 @@
+T1	Cancer 41 48	primary
+T2	Cancer 53 74	metastatic carcinomas
+T3	Organ 82 87	liver
+T4	Cancer 104 136	primary hepatocellular carcinoma
+T5	Cancer 138 141	HCC
+T6	Cancer 148 169	metastatic carcinomas
+T7	Organ 177 182	liver
+T8	Multi-tissue_structure 245 251	biopsy
+T9	Multi-tissue_structure 279 288	specimens
+T10	Cancer 378 381	HCC
+T11	Cancer 387 408	metastatic carcinomas
+T12	Cancer 432 451	cholangiocarcinomas
+T13	Cancer 460 486	metastatic adenocarcinomas
+T15	Cancer 615 620	tumor
+T16	Tissue 656 666	epithelial
+T17	Cellular_component 676 684	membrane
+T19	Cancer 827 853	Metastatic adenocarcinomas
+T20	Cancer 1015 1018	HCC
+T21	Cancer 1179 1182	HCC
+T22	Cancer 1187 1213	metastatic adenocarcinomas
+T23	Cancer 1220 1224	HCCs
+T24	Multi-tissue_structure 1242 1258	bile canalicular
+T25	Cancer 1331 1352	metastatic carcinomas
+T26	Cancer 1479 1482	HCC
+T27	Cancer 1488 1509	metastatic carcinomas
+T28	Cancer 1516 1534	cholangiocarcinoma
+T29	Cancer 1580 1601	metastatic carcinomas
+T30	Cancer 1409 1412	HCC
+T31	Cancer 424 428	HCCs

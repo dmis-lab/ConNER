@@ -1,0 +1,14 @@
+T4	Multi-tissue_structure 74 80	airway
+T5	Tissue 98 111	microvascular
+T6	Multi-tissue_structure 124 130	Airway
+T7	Tissue 148 161	microvascular
+T10	Cell 398 414	endothelial cell
+T15	Cell 662 679	endothelial cells
+T20	Tissue 817 826	capillary
+T21	Cellular_component 855 867	basal lamina
+T22	Cell 900 917	endothelial cells
+T23	Multi-tissue_structure 951 964	blood vessels
+T27	Multi-tissue_structure 1039 1045	airway
+T28	Tissue 1063 1076	microvascular
+T31	Multi-tissue_structure 1325 1332	airways
+T34	Immaterial_anatomical_entity 1588 1601	intracellular

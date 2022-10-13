@@ -1,0 +1,16 @@
+T1	Tissue 35 39	pulp
+T2	Tissue 216 220	pulp
+T3	Tissue 559 563	pulp
+T4	Organ 603 608	teeth
+T5	Tissue 619 623	pulp
+T6	Organ 682 687	teeth
+T7	Tissue 732 738	pulpal
+T9	Organ 1027 1032	tooth
+T11	Organ 1131 1136	teeth
+T12	Tissue 1210 1214	pulp
+T13	Organ 1272 1277	teeth
+T14	Tissue 1304 1308	pulp
+T15	Tissue 1541 1545	pulp
+T8	Pathological_formation 576 585	cariously
+T10	Pathological_formation 644 653	cariously
+T16	Pathological_formation 1237 1246	cariously

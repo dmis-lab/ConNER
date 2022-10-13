@@ -1,0 +1,40 @@
+T1	Cancer 30 58	nonsmall cell lung carcinoma
+T2	Cancer 77 111	"lymphoepithelioma-like" carcinoma
+T3	Cancer 206 234	nonsmall cell lung carcinoma
+T4	Cancer 236 241	NSCLC
+T5	Cancer 361 367	tumors
+T6	Cancer 607 612	NSCLC
+T7	Cancer 641 665	nasopharyngeal carcinoma
+T8	Cancer 711 716	NSCLC
+T9	Cancer 730 753	squamous cell carcinoma
+T10	Cancer 755 758	SCC
+T11	Cancer 773 787	adenocarcinoma
+T12	Cancer 789 791	AD
+T13	Cancer 806 826	large cell carcinoma
+T14	Cancer 828 831	LCC
+T15	Cancer 849 881	lymphoepithelioma-like carcinoma
+T16	Cancer 883 885	LE
+T17	Cancer 1350 1353	SCC
+T18	Cancer 1375 1377	AD
+T19	Cancer 1392 1395	LCC
+T20	Cancer 1297 1299	LE
+T21	Cancer 1441 1443	LE
+T22	Cancer 1524 1527	SCC
+T23	Cell 1578 1603	nontumor epithelial cells
+T24	Cancer 1692 1694	LE
+T25	Cancer 1788 1790	LE
+T26	Cancer 1865 1868	SCC
+T27	Cancer 1982 1984	LE
+T28	Multi-tissue_structure 2069 2079	lymph node
+T29	Cancer 2199 2201	LE
+T30	Cancer 2475 2485	primary LE
+T31	Organ 2493 2497	lung
+T32	Cancer 2663 2665	LE
+T33	Cancer 1243 1248	NSCLC
+T34	Cancer 1264 1267	SCC
+T35	Cancer 1280 1282	LE
+T36	Organ 2673 2677	lung
+T37	Cancer 2809 2819	primary LE
+T38	Organ 2827 2831	lung
+T39	Cancer 2854 2875	EBER1-positive NSCLCs
+T40	Cell 1495 1506	tumor cells

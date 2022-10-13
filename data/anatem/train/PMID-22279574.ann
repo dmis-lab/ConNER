@@ -1,0 +1,23 @@
+T1	Cellular_component 0 13	Mitochondrial
+T5	Cancer 108 113	tumor
+T9	Cancer 240 246	cancer
+T11	Cancer 317 329	solid tumors
+T15	Cancer 522 534	solid tumors
+T20	Cell 686 690	cell
+T28	Cancer 861 876	tumor xenograft
+T29	Cancer 944 949	tumor
+T32	Cell 1045 1049	cell
+T33	Cell 1076 1093	lung cancer cells
+T34	Cell 1116 1126	lung cells
+T36	Cell 1149 1153	cell
+T37	Cellular_component 1203 1215	mitochondria
+T47	Immaterial_anatomical_entity 1475 1490	intraperitoneal
+T48	Organism_subdivision 1504 1508	oral
+T50	Cancer 1554 1574	A549 xenograft tumor
+T52	Organ 1625 1629	lung
+T53	Cell 1644 1673	4T1 mouse breast cancer cells
+T59	Cancer 1947 1952	tumor
+T61	Cell 1979 1996	lung cancer cells
+T63	Cancer 2028 2033	tumor
+T71	Cancer 2253 2264	lung cancer
+T2	Immaterial_anatomical_entity 1424 1436	pericellular

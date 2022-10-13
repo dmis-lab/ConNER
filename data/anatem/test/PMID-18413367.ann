@@ -1,0 +1,28 @@
+T2	Multi-tissue_structure 36 44	cervical
+T5	Tissue 69 75	stroma
+T8	Cell 109 120	fibroblasts
+T10	Cancer 135 141	cancer
+T16	Cancer 320 325	tumor
+T17	Tissue 326 332	stroma
+T19	Cell 376 386	fibroblast
+T21	Cancer 442 447	tumor
+T24	Multi-tissue_structure 595 603	cervical
+T32	Cell 756 782	SiHa cervical cancer cells
+T39	Cancer 894 899	tumor
+T42	Cancer 995 1000	tumor
+T52	Cell 1150 1162	NIH3T3 cells
+T60	Cell 1363 1374	fibroblasts
+T65	Cell 1468 1480	NIH3T3 cells
+T66	Cancer 1544 1549	tumor
+T69	Cell 1578 1590	NIH3T3 cells
+T73	Cell 1674 1684	SiHa cells
+T74	Cell 1734 1746	NIH3T3 cells
+T77	Cancer 1816 1821	tumor
+T78	Tissue 1822 1828	stroma
+T81	Cell 1892 1903	fibroblasts
+T82	Cell 1918 1930	cancer cells
+T91	Cell 266 270	cell
+T92	Cell 1437 1441	cell
+T100	Cancer 508 526	surgical specimens
+T1	Tissue 674 680	stroma
+T3	Cellular_component 790 797	plasmid

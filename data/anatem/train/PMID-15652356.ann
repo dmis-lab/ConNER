@@ -1,0 +1,23 @@
+T3	Cell 31 48	fetal paraganglia
+T4	Cancer 53 66	neuroblastoma
+T6	Cancer 142 154	Solid tumors
+T7	Cell 220 231	Tumor cells
+T14	Anatomical_system 527 553	sympathetic nervous system
+T15	Anatomical_system 555 558	SNS
+T18	Developing_anatomical_structure 638 643	fetal
+T19	Cell 653 668	SNS paraganglia
+T20	Cancer 670 683	Neuroblastoma
+T21	Developing_anatomical_structure 700 714	SNS precursors
+T22	Cancer 731 745	neuroblastomas
+T23	Cell 761 769	neuronal
+T24	Cell 773 787	neuroendocrine
+T25	Tissue 832 846	necrotic zones
+T29	Cancer 1043 1056	neuroblastoma
+T31	Cell 1126 1145	neuroblastoma cells
+T32	Tissue 1150 1156	tissue
+T33	Developing_anatomical_structure 1186 1195	embryonic
+T34	Cell 1238 1251	hypoxic cells
+T35	Cell 1263 1271	neuronal
+T36	Cell 1272 1286	neuroendocrine
+T38	Cancer 1483 1497	neuroblastomas
+T58	Cell 1359 1371	neural crest

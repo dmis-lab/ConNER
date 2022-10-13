@@ -1,0 +1,11 @@
+Ventral and dorsal striatal dopamine efflux and behavior in rats with simple vs. co-morbid histories of cocaine sensitization and neonatal ventral hippocampal lesions.
+UNLABELLED:
+RATIONAL: Exposing animal models of mental illness to addictive drugs provides an approach to understanding the neural etiology of dual diagnosis disorders. Previous studies have shown that neonatal ventral hippocampal lesions (NVHL) in rats produce features of both schizophrenia and addiction vulnerability.
+OBJECTIVE:
+This study investigated ventral and dorsal striatal dopamine (DA) efflux in NVHL rats combined with behavioral sensitization to cocaine.
+METHODS:
+Adult NVHL vs. SHAM-operated rats underwent a 5-day injection series of cocaine (15 mg/kg/day) vs. saline. One week later, rats were cannulated in nucleus accumbens SHELL, CORE, or caudate-putamen. Another week later, in vivo microdialysis sampled DA during locomotor testing in which a single cocaine injection (15 mg/kg) was delivered.
+RESULTS:
+NVHLs and cocaine history significantly increased behavioral activation approximately 2-fold over SHAM-saline history rats. DA efflux curves corresponded time dependently with the cocaine injection and locomotor curves and varied significantly by striatal region: Baseline DA levels increased 5-fold while cocaine-stimulated DA efflux decreased by half across a ventral to dorsal striatal gradient. However, NVHLs, prior cocaine history, and individual differences in behavior were not underpinned by differential DA efflux overall or within any striatal region.
+CONCLUSION:
+Differences in ventral/dorsal striatal DA efflux are not present in and are not required for producing differential levels of acute cocaine-induced behavioral activation in NVHLs with and without a behaviorally sensitizing cocaine history. These findings suggest other neurotransmitter systems, and alterations in striatal network function post-synaptic to DA transmission are more important to understanding the interactive effects of addictive drugs and mental illness.

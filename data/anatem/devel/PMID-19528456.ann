@@ -1,0 +1,22 @@
+T1	Cell 10 20	tumor cell
+T7	Cancer 120 125	tumor
+T9	Cancer 211 217	tumors
+T14	Cell 324 346	colon carcinoma (HT29)
+T17	Cell 358 403	squamous carcinoma (SCCVII) clonal cell lines
+T21	Tissue 504 510	tissue
+T22	Cancer 526 538	solid tumors
+T24	Cell 587 597	tumor cell
+T25	Cell 609 613	cell
+T26	Cell 674 690	endothelial cell
+T27	Cancer 711 717	tumors
+T28	Cell 731 742	cell clones
+T30	Immaterial_anatomical_entity 851 862	intradermal
+T32	Multi-tissue_structure 994 1006	blood vessel
+T34	Cell 1064 1081	tumor cell clones
+T35	Cancer 1090 1100	HT29 tumor
+T37	Cancer 1199 1209	xenografts
+T39	Cell 1251 1262	cell clones
+T40	Cancer 1297 1309	SCCVII tumor
+T42	Cancer 1422 1427	tumor
+T44	Cell 1471 1482	tumor cells
+T45	Cancer 1505 1511	tumors

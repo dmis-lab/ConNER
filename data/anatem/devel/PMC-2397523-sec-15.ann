@@ -1,0 +1,9 @@
+T1	Cancer 1251 1261	metastases
+T2	Cancer 1467 1477	metastases
+T3	Cancer 1626 1639	breast cancer
+T4	Cancer 1689 1702	breast cancer
+T5	Cancer 1787 1800	breast cancer
+T6	Cell 2097 2108	tumour cell
+T7	Cancer 2130 2145	invasive tumour
+T8	Multi-tissue_structure 1051 1056	nodes
+T9	Multi-tissue_structure 1005 1010	nodes

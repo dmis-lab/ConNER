@@ -1,0 +1,12 @@
+T1	Multi-tissue_structure 91 100	brainstem
+T2	Cell 474 481	neurons
+T3	Multi-tissue_structure 532 548	cochlear nucleus
+T4	Multi-tissue_structure 489 508	inferior colliculus
+T5	Multi-tissue_structure 553 572	inferior colliculus
+T6	Cell 1003 1011	neuronal
+T7	Multi-tissue_structure 1153 1172	inferior colliculus
+T8	Multi-tissue_structure 1244 1260	cochlear nucleus
+T9	Multi-tissue_structure 1292 1311	inferior colliculus
+T10	Cell 1679 1687	neuronal
+T11	Multi-tissue_structure 1720 1739	inferior colliculus
+T12	Multi-tissue_structure 1764 1780	cochlear nucleus

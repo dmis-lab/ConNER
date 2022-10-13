@@ -1,0 +1,28 @@
+T26	Cellular_component 45 59	chromosome 17p
+T27	Cellular_component 107 117	chromosome
+T28	Cancer 138 178	virus-positive hepatocellular carcinomas
+T29	Cancer 200 224	hepatocellular carcinoma
+T5	Cancer 226 229	HCC
+T6	Cancer 377 380	HCC
+T7	Cellular_component 518 529	chromosomal
+T8	Cancer 565 568	HCC
+T9	Cell 649 657	cellular
+T10	Cancer 752 755	HCC
+T11	Cell 811 819	cellular
+T12	Cell 926 934	cellular
+T13	Organ 1048 1053	liver
+T14	Tissue 1071 1087	hepatoma samples
+T15	Cancer 1143 1148	Tumor
+T16	Cancer 1202 1206	HCCs
+T17	Cellular_component 1244 1258	chromosome 17p
+T18	Cell 1283 1287	cell
+T19	Cancer 1321 1330	hepatomas
+T20	Cellular_component 1541 1557	chromosome 17p13
+T21	Cancer 1683 1688	tumor
+T22	Cancer 1803 1807	HCCs
+T23	Cellular_component 1859 1873	chromosomes 8q
+T24	Cell 1954 1962	cellular
+T25	Cancer 2026 2030	HCCs
+T45	Cellular_component 784 805	chromosome 17p11.2-12
+T51	Cellular_component 1435 1448	chromosome 17
+T52	Cellular_component 1892 1895	16p

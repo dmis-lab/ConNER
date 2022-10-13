@@ -1,0 +1,25 @@
+T1	Multi-tissue_structure 0 7	Retinal
+T2	Tissue 36 54	pigment epithelial
+T3	Tissue 81 88	macular
+T4	Multi-tissue_structure 143 162	retinal vasculature
+T5	Pathological_formation 173 203	pigment epithelial detachments
+T6	Pathological_formation 205 208	PED
+T7	Tissue 235 242	macular
+T11	Organ 348 352	eyes
+T12	Pathological_formation 403 406	PED
+T15	Multi-tissue_structure 522 530	Vascular
+T16	Multi-tissue_structure 552 558	retina
+T18	Pathological_formation 663 666	PED
+T20	Pathological_formation 736 739	PED
+T21	Multi-tissue_structure 760 774	serous retinal
+T22	Multi-tissue_structure 807 815	vascular
+T25	Multi-tissue_structure 996 1003	retinal
+T28	Multi-tissue_structure 1115 1124	choroidal
+T29	Multi-tissue_structure 1218 1227	choroidal
+T30	Pathological_formation 1263 1266	PED
+T31	Multi-tissue_structure 1293 1309	retinal vascular
+T32	Organism_substance 1357 1363	serous
+T33	Multi-tissue_structure 1381 1387	retina
+T34	Multi-tissue_structure 1402 1409	Retinal
+T35	Organ 1444 1448	eyes
+T36	Pathological_formation 1454 1457	PED

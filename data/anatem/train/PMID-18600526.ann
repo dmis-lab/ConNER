@@ -1,0 +1,9 @@
+T3	Cancer 87 92	tumor
+T9	Cancer 251 262	tumor sites
+T10	Cancer 282 287	tumor
+T13	Cell 435 446	tumor cells
+T14	Tissue 459 484	tumor surrounding tissues
+T15	Cell 494 524	tumor infiltrating macrophages
+T24	Cell 750 758	cellular
+T34	Cell 1157 1165	cellular
+T35	Cancer 1215 1221	cancer

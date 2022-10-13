@@ -1,0 +1,7 @@
+Reduced prognostic power of ventricular late potentials in post-infarction patients of the reperfusion era.
+AIMS:
+To test the prognostic value of ventricular late potentials (LPs) in a large cohort of post-infarction patients in the modern reperfusion era.
+METHODS AND RESULTS:
+1800 consecutive survivors of acute myocardial infarction in sinus rhythm and under 76 years of age were enrolled. Many (99%) of the patients received reperfusion/revascularization therapy (91% percutaneous coronary intervention) and up-to-date pharmacological treatment (99% aspirin, 93% beta-blockers, 90% ACE-inhibitors, and 85% statins). LPs were calculated in 968 patients and found to be present in 90 (9.3%). The primary endpoint was the composite of cardiac death and serious arrhythmic events. The secondary endpoint was the composite of sudden cardiac death and serious arrhythmic events. During follow-up (median 34 months), 26 patients reached the primary endpoint. The presence of LPs was not significantly associated with the primary endpoint in univariable or multivariable analysis. In contrast, low (< or = 30%) left ventricular ejection fraction (hazard ratio 9.6, 95% confidence interval 4.1-22.4), heart rate turbulence category 2 (7.5, 2.4-23.9) and category 1 (5.3, 1.9-14.9) were significant predictors in both univariable and multivariable analysis.
+CONCLUSION:
+Ventricular LPs are of limited use for risk stratification in unselected post-infarction patients in the modern reperfusion era.

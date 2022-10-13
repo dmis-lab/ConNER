@@ -1,0 +1,9 @@
+Bcl-2 decreases cell proliferation and promotes accumulation of cells in S phase without affecting the rate of apoptosis in human ovarian carcinoma cells.
+OBJECTIVES:
+The Bcl-2 protein is an important regulator of the apoptotic cascade and promotes cell survival. Bcl-2 can also delay entry into the cell cycle from quiescence. In the present study, we used two isogenic human ovarian carcinoma cell lines, which expressed differential levels of Bcl-2 proteins, to demonstrate that Bcl-2 may regulate the growth rates of adenocarcinoma cells.
+METHODS:
+The growth rates of two isogenic ovarian cancer cell lines were determined by XTT assays and flow cytometry combined with PI staining. Bcl-2-overexpressing SKOV3 cells were modified to express a doxycycline-inducible anti-Bcl-2 single-chain antibody and the effects of Bcl-2 protein inhibition on cell proliferation and apoptosis were assessed.
+RESULTS:
+We demonstrate that Bcl-2 promotes the accumulation of proliferating carcinoma cells in S phase. The Bcl-2-overexpressing SKOV3 cell line proliferates markedly faster and shows delayed progression to G2M phase compared to its low Bcl-2-expressing counterpart SKOV3.ip1 cell line. Single-chain antibody-mediated inhibition of Bcl-2 in SKOV3 cells was associated with increased growth rates and more rapid cell cycle progression. Treatment with cisplatin resulted in more cells accumulating in S phase in Bcl-2-overexpressing SKOV3 cells, while the inhibition of Bcl-2 abolished delayed entry into G2M phase without affecting cisplatin-induced apoptosis.
+CONCLUSIONS:
+Our results suggest that, in ovarian cancer cells, Bcl-2 delays cell cycle progression by promoting accumulation of cells in S phase without affecting the rate of apoptosis. Thus, in addition to its known role at the G0/G1 checkpoint, we demonstrate for the first time that Bcl-2 also regulates the S phase.

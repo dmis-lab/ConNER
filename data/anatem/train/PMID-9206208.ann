@@ -1,0 +1,13 @@
+T3	Cancer 56 80	hepatocellular carcinoma
+T4	Cancer 174 179	tumor
+T6	Cell 283 288	cells
+T7	Cancer 290 295	tumor
+T10	Cancer 340 364	hepatocellular carcinoma
+T11	Multi-tissue_structure 374 392	nonneoplastic area
+T12	Cancer 409 414	tumor
+T15	Cellular_component 615 623	granules
+T16	Organism_substance 641 650	cytoplasm
+T19	Cancer 734 758	hepatocellular carcinoma
+T21	Cancer 855 860	tumor
+T22	Organ 894 899	liver
+T32	Cancer 627 633	masses

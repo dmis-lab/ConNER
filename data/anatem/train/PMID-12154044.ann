@@ -1,0 +1,19 @@
+T1	Cancer 34 40	cancer
+T6	Organ 169 176	mammary
+T7	Cell 226 250	mammary epithelial cells
+T9	Cell 387 408	mammary stromal cells
+T10	Cell 415 436	endothelial cell type
+T12	Cell 493 514	mammary stromal cells
+T13	Multi-tissue_structure 544 567	microcapillary networks
+T14	Cellular_component 624 641	basement membrane
+T18	Multi-tissue_structure 1017 1042	networks of blood vessels
+T19	Immaterial_anatomical_entity 1055 1060	lumen
+T20	Cell 1072 1076	RBCs
+T22	Cell 1153 1158	cells
+T23	Multi-tissue_structure 1191 1208	cellular networks
+T24	Immaterial_anatomical_entity 1246 1251	lumen
+T25	Cell 1259 1263	RBCs
+T27	Cell 1335 1338	RBC
+T28	Multi-tissue_structure 1350 1357	vessels
+T30	Organism_substance 1440 1445	serum
+T33	Organ 1508 1521	mammary gland

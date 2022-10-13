@@ -1,0 +1,22 @@
+T1	Organ 12 17	organ
+T3	Organism_substance 47 52	serum
+T4	Immaterial_anatomical_entity 72 83	intravenous
+T6	Immaterial_anatomical_entity 114 125	intravenous
+T10	Organ 252 257	lungs
+T12	Multi-tissue_structure 328 346	lung vascular tree
+T13	Organ 390 396	organs
+T15	Tissue 498 504	tissue
+T16	Organ 530 535	liver
+T17	Multi-tissue_structure 537 546	Tail vein
+T20	Organ 717 722	liver
+T23	Organ 842 847	organ
+T24	Immaterial_anatomical_entity 873 886	intravenously
+T26	Organ 934 939	lungs
+T27	Organism_substance 998 1003	serum
+T28	Organ 1019 1023	lung
+T31	Organism_substance 1153 1158	serum
+T36	Cell 1456 1466	lung cells
+T38	Organism_substance 1562 1567	serum
+T41	Organism_substance 1758 1763	serum
+T44	Organism_substance 1926 1931	serum
+T45	Tissue 1958 1964	tissue

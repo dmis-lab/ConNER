@@ -1,0 +1,39 @@
+T1	Cell 46 62	skin fibroblasts
+T3	Multi-tissue_structure 76 84	striatum
+T4	Tissue 103 108	graft
+T5	Cell 157 178	donor cell population
+T6	Anatomical_system 216 238	central nervous system
+T7	Cell 248 259	fibroblasts
+T8	Multi-tissue_structure 274 287	skin biopsies
+T10	Cell 341 346	cells
+T11	Immaterial_anatomical_entity 351 364	intracerebral
+T13	Multi-tissue_structure 395 403	striatum
+T14	Cell 473 489	skin fibroblasts
+T15	Cell 545 550	cells
+T16	Multi-tissue_structure 622 630	striatum
+T17	Tissue 658 675	fibroblast grafts
+T19	Tissue 776 781	graft
+T20	Cell 822 826	cell
+T21	Cell 894 899	cells
+T22	Tissue 1041 1047	grafts
+T24	Cell 1087 1098	fibroblasts
+T25	Cellular_component 1110 1131	endoplasmic reticulum
+T26	Cellular_component 1136 1144	vesicles
+T27	Cellular_component 1155 1175	astrocytic processes
+T28	Cell 1180 1196	phagocytic cells
+T29	Tissue 1221 1227	grafts
+T30	Tissue 1233 1239	grafts
+T31	Tissue 1274 1285	capillaries
+T32	Tissue 1313 1324	endothelium
+T33	Cellular_component 1326 1349	intercellular junctions
+T34	Cellular_component 1365 1370	sites
+T35	Cell 1393 1410	endothelial cells
+T36	Cell 1441 1457	skin fibroblasts
+T37	Immaterial_anatomical_entity 1509 1522	intracerebral
+T40	Tissue 1607 1613	grafts
+T41	Cell 1696 1712	skin fibroblasts
+T42	Cancer 1728 1734	tumors
+T43	Tissue 1761 1766	graft
+T44	Tissue 1864 1870	grafts
+T45	Cell 1957 1973	skin fibroblasts
+T47	Anatomical_system 2003 2025	central nervous system

@@ -1,0 +1,15 @@
+T6	Cell 101 133	metastatic prostate cancer cells
+T7	Organ 148 152	Bone
+T8	Cancer 215 230	prostate cancer
+T9	Cancer 232 234	PC
+T10	Cellular_component 311 318	nuclear
+T12	Cancer 365 367	PC
+T16	Cell 473 481	PC cells
+T20	Cellular_component 745 754	chromatin
+T30	Cell 1038 1046	PC cells
+T34	Cell 1172 1183	C4-2B cells
+T35	Cell 1223 1234	LNCaP cells
+T46	Cell 1506 1514	PC cells
+T51	Cell 1621 1629	PC cells
+T59	Multi-tissue_structure 1861 1868	PC bone
+T62	Cell 1970 1990	osteotropic PC cells

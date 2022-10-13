@@ -1,0 +1,11 @@
+T1	Multi-tissue_structure 130 144	insular cortex
+T2	Multi-tissue_structure 149 162	temporal lobe
+T3	Multi-tissue_structure 247 255	cortical
+T4	Multi-tissue_structure 488 500	right insula
+T5	Multi-tissue_structure 530 534	left
+T6	Multi-tissue_structure 642 655	left temporal
+T7	Multi-tissue_structure 660 674	insular cortex
+T8	Anatomical_system 166 180	cardiovascular
+T9	Multi-tissue_structure 1865 1881	left hemispheric
+T10	Organ 368 375	cardiac
+T11	Multi-tissue_structure 2205 2220	left hemisphere

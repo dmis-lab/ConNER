@@ -1,0 +1,10 @@
+T1	Cancer 0 5	Tumor
+T2	Cancer 55 61	cancer
+T3	Cancer 117 123	Cancer
+T4	Cell 187 192	cells
+T5	Cancer 257 263	cancer
+T6	Cell 273 278	cells
+T7	Cancer 366 372	cancer
+T9	Cell 482 492	tumor cell
+T10	Cell 594 602	cellular
+T11	Cell 630 641	tumor cells

@@ -1,0 +1,13 @@
+CA IX and response to PMRT
+Kaplan-Meier probability plots of OS after PMRT among CA IX positive and CA IX negative patients revealed improved survival after PMRT in both subgroups of patients (Figure 2). Fifteen-year OS probabilities were improved by 7% and 9% after PMRT for the subgroups of CA IX positive and CA IX negative patients, respectively. The HR of overall mortality after PMRT was 0.87 (95% CI 0.60 to 1.27) for the small subgroup of 151 CA IX positive patients and 0.82 (95% CI 0.69 to 0.97) for the large subgroup of 813 CA IX negative patients. HRs and 95% CIs after PMRT did not differ significantly between CA IX positive and CA IX negative patients for OS, DSS, DM, or LRR (Table 4). In multivariate analysis by Cox regression, no significant interaction was found between CA IX and randomization status for any of the four end-points. Similar tendencies were observed when the women were separated into premenopausal and postmenopausal women, and into women with one to three positive nodes and those with more than three positive nodes.
+Table 4
+Hazard ratios
+CA IX positive (n = 151) CA IX negative (n = 794)
+Overall mortality 0.87 (0.60-1.27) 0.82 (0.69-0.97)
+Disease-specific mortality 0.83 (0.55-1.27) 0.76 (0.63-0.93)
+Distant metastases 0.83 (0.54-1.25) 0.76 (0.63-0.91)
+Locoregional recurrence 0.23 (0.08-0.61) 0.16 (0.09-0.28)
+Presented are hazard ratios (95% confidence intervals) of overall mortality, disease-specific mortality, distant metastases and loco-regional recurrence probabilities after postmastectomy radiotherapy in carbonic anhydrase (CA) IX positive and in CA IX negative high-risk breast cancer patients.
+Figure 2
+Overall survival in high-risk breast cancer patients. Shown are Kaplan-Meier probability plots of overall survival in high-risk breast cancer patients as a function of randomization to postmastectomy radiotherapy (RT) within the subgroups of carbonic anhydrase (CA) IX negative and CA IX positive patients. The values given in parentheses after hazard ratios (HRs) are the 95% confidence intervals.
+Changing the cutpoints to at least one tumour cell, or >= 20% or >= 30% invasive tumour staining did not improve the predictive value of positive CA IX staining (data not presented).

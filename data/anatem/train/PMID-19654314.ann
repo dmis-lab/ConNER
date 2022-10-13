@@ -1,0 +1,20 @@
+T1	Cell 0 16	Endothelial cell
+T3	Tissue 103 116	breast tissue
+T4	Organism_substance 144 149	blood
+T5	Cancer 184 189	tumor
+T6	Organism_subdivision 235 241	breast
+T7	Cell 298 321	breast epithelial cells
+T8	Cell 429 454	nonmalignant counterparts
+T11	Cell 520 535	malignant cells
+T12	Cell 560 577	endothelial cells
+T13	Cell 579 581	EC
+T14	Cell 649 664	malignant cells
+T18	Cell 843 845	EC
+T19	Cell 938 956	nonmalignant cells
+T21	Cell 992 994	EC
+T22	Cell 1073 1078	cells
+T23	Cellular_component 1116 1129	cytostructure
+T24	Cancer 1244 1262	malignant clusters
+T26	Cell 1291 1293	EC
+T27	Tissue 1334 1357	nonmalignant epithelium
+T28	Tissue 1396 1402	tissue

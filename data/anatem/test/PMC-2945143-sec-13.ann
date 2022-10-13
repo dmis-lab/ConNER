@@ -1,0 +1,32 @@
+T1	Organism_substance 203 208	blood
+T2	Organism_substance 417 422	blood
+T3	Organism_substance 461 467	sputum
+T4	Organism_substance 469 474	urine
+T5	Organism_substance 476 479	pus
+T6	Organism_substance 493 498	fluid
+T7	Organism_substance 725 730	blood
+T8	Organism_substance 919 924	blood
+T10	Cancer 1887 1905	malignant lymphoma
+T11	Cancer 1907 1909	ML
+T12	Organism_substance 2037 2042	blood
+T13	Organism_substance 2114 2125	whole blood
+T14	Organism_substance 2230 2235	blood
+T15	Organism_substance 2791 2796	blood
+T16	Organism_substance 3028 3033	blood
+T17	Organism_substance 3127 3132	blood
+T18	Organism_substance 3379 3385	sample
+T9	Cancer 1856 1879	acute lymphoma leukemia
+T20	Cancer 1881 1884	ALL
+T21	Cancer 1915 1941	acute myelogenous leukemia
+T22	Cancer 1943 1946	AML
+T19	Organism_substance 324 331	samples
+T24	Organism_substance 1013 1020	samples
+T23	Cell 1235 1241	strain
+T25	Cell 1392 1398	strain
+T26	Cell 1470 1476	strain
+T27	Cell 1509 1515	strain
+T28	Cell 2179 2185	strain
+T29	Cell 2889 2896	strains
+T30	Organism_substance 1271 1277	sample
+T31	Organism_substance 2315 2322	Samples
+T32	Organism_substance 3320 3326	sample

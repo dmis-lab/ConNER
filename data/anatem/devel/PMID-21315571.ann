@@ -1,0 +1,14 @@
+T4	Cancer 41 52	colon tumor
+T6	Cell 62 73	CT-26 cells
+T9	Cell 164 181	colon cancer HT29
+T10	Cell 186 205	colo 205 cell lines
+T12	Cell 303 320	CT26 cancer cells
+T15	Cell 475 485	CT26 cells
+T16	Cell 504 521	CT26 cancer cells
+T20	Organism_subdivision 625 629	body
+T22	Immaterial_anatomical_entity 677 694	intraperitoneally
+T23	Cell 744 749	cells
+T25	Cancer 845 850	tumor
+T26	Cancer 870 875	Tumor
+T31	Cancer 1052 1057	tumor
+T33	Cancer 1122 1134	colon cancer

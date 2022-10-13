@@ -1,0 +1,19 @@
+T5	Multi-tissue_structure 198 211	blood vessels
+T6	Multi-tissue_structure 214 222	vascular
+T7	Organ 258 263	brain
+T9	Tissue 307 327	vascular endothelium
+T10	Cell 329 336	neurons
+T11	Cell 342 346	glia
+T13	Organ 396 401	brain
+T14	Organ 426 434	cerebral
+T15	Pathological_formation 461 466	edema
+T16	Multi-tissue_structure 499 518	blood-brain barrier
+T18	Organ 695 703	cerebral
+T19	Multi-tissue_structure 730 749	blood-brain barrier
+T20	Organ 797 802	brain
+T22	Cell 998 1005	neurons
+T23	Cell 1010 1014	glia
+T25	Organ 1067 1072	brain
+T27	Multi-tissue_structure 1116 1135	blood-brain barrier
+T29	Cell 1330 1335	cells
+T45	Multi-tissue_structure 124 132	vascular

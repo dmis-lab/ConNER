@@ -1,0 +1,17 @@
+T1	Cancer 0 5	Tumor
+T7	Cancer 160 192	Gastrointestinal Adenocarcinomas
+T8	Cancer 196 201	Tumor
+T12	Cancer 314 320	tumors
+T17	Cancer 387 392	tumor
+T25	Cancer 657 662	tumor
+T32	Cancer 864 872	pancreas
+T33	Cancer 877 897	colorectal carcinoma
+T37	Cancer 1000 1010	colorectal
+T38	Cancer 1015 1040	pancreatic adenocarcinoma
+T40	Cancer 1110 1120	colorectal
+T41	Cancer 1125 1150	pancreatic adenocarcinoma
+T48	Cancer 1340 1348	pancreas
+T49	Cancer 1353 1365	colon cancer
+T50	Organism_substance 1401 1406	serum
+T51	Pathological_formation 1451 1471	premalignant lesions
+T54	Tissue 910 924	tissue samples

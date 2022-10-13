@@ -1,0 +1,23 @@
+T2	Cancer 30 35	tumor
+T3	Organ 40 55	skeletal muscle
+T6	Cancer 92 100	lymphoma
+T8	Cancer 218 224	cancer
+T9	Cancer 239 244	tumor
+T13	Cancer 383 388	tumor
+T14	Organ 393 408	skeletal muscle
+T18	Cancer 536 544	lymphoma
+T22	Multi-tissue_structure 731 745	diseased nodes
+T24	Organ 750 775	upper arm skeletal muscle
+T26	Organ 825 831	muscle
+T27	Organism_subdivision 846 850	body
+T29	Tissue 1013 1032	lymphomatous tissue
+T32	Organ 1219 1234	skeletal muscle
+T35	Multi-tissue_structure 1446 1465	skeletal arm muscle
+T38	Organism_subdivision 1543 1547	body
+T43	Cancer 1720 1726	cancer
+T46	Tissue 1814 1833	lymphomatous tissue
+T48	Organ 1867 1882	skeletal muscle
+T50	Cancer 1917 1925	lymphoma
+T53	Cancer 2001 2006	tumor
+T54	Organ 2011 2017	muscle
+T55	Cancer 2107 2113	cancer

@@ -1,0 +1,10 @@
+T2	Cancer 31 37	Cancer
+T5	Cell 189 200	tumor cells
+T7	Cell 347 358	immune cell
+T9	Cancer 470 475	tumor
+T11	Organ 666 671	bowel
+T21	Organ 1012 1017	bowel
+T23	Organism_subdivision 1261 1267	fruits
+T24	Organism_subdivision 1269 1278	vegetable
+T43	Anatomical_system 250 263	immune system
+T44	Organism_subdivision 1138 1144	orally

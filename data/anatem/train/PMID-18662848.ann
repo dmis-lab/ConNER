@@ -1,0 +1,21 @@
+T1	Cell 39 65	ovarian cancer A2780 cells
+T5	Cancer 195 200	tumor
+T7	Cellular_component 237 253	chromosome 10q23
+T9	Cell 315 319	cell
+T10	Cell 366 378	cancer cells
+T13	Cell 496 516	ovarian cancer cells
+T15	Cancer 604 619	ovarian cancers
+T17	Cell 708 745	ovarian epithelial cancer A2780 cells
+T18	Cell 768 772	cell
+T19	Cell 784 788	cell
+T20	Cell 804 808	cell
+T21	Cell 823 827	cell
+T22	Pathological_formation 903 908	wound
+T28	Cell 1140 1144	cell
+T29	Cell 1186 1206	ovarian cancer cells
+T31	Cell 1293 1297	cell
+T32	Cell 1313 1317	cell
+T34	Cell 1477 1497	ovarian cancer cells
+T35	Cell 1518 1538	ovarian cancer cells
+T37	Cancer 1628 1642	ovarian cancer
+T72	Cellular_component 677 685	plasmids

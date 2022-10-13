@@ -1,0 +1,15 @@
+T13	Cell 79 93	melanoma cells
+T14	Cancer 287 295	melanoma
+T15	Cancer 303 321	primary skin tumor
+T16	Cell 356 375	melanoma cell lines
+T17	Cell 515 539	metastatic IV Cl 1 cells
+T18	Cell 621 649	non-metastatic IV Cl 3 cells
+T19	Cancer 710 716	tumors
+T20	Cell 736 746	cell lines
+T9	Cell 824 834	cell lines
+T10	Cell 978 1002	metastatic IV Cl 1 cells
+T11	Cancer 1066 1079	neuroblastoma
+T12	Cancer 1160 1165	tumor
+T8	Cell 377 384	IV Cl 1
+T26	Cell 389 396	IV Cl 3
+T40	Organism_subdivision 470 479	subdermal

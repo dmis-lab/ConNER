@@ -1,0 +1,3 @@
+3.2.
+Cell line and culture
+DU145 (prostate cancer) cell line was used in this assay. DU145 was grown in DMEM/F-12 medium (Gibco BRL Life Technologies, San Diego, CA., USA) supplemented with 10% fetal calf serum and kept in a humidified 37 degreesC, 5% CO2 incubator.

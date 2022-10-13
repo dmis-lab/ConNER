@@ -1,0 +1,55 @@
+T1	Cell 9 13	cell
+T2	Cancer 36 41	tumor
+T3	Cell 87 93	cancer
+T4	Cell 98 115	endothelial cells
+T6	Cell 139 143	cell
+T7	Cell 192 198	cancer
+T8	Cell 203 220	endothelial cells
+T9	Cancer 224 229	tumor
+T11	Cell 329 350	endothelial cell line
+T12	Cell 352 355	F-2
+T14	Cell 376 399	epidermoid cancer cells
+T15	Cell 401 405	A431
+T16	Cell 412 422	A431 cells
+T17	Cell 450 454	cell
+T18	Cell 471 492	endothelial F-2 cells
+T22	Cell 628 640	cancer cells
+T24	Cell 685 694	F-2 cells
+T25	Cell 741 753	cancer cells
+T26	Cell 763 772	monolayer
+T27	Cell 780 789	F-2 cells
+T29	Cell 846 855	F-2 cells
+T30	Tissue 892 896	tube
+T31	Cell 925 934	F-2 cells
+T32	Cell 940 950	A431 cells
+T33	Cell 975 984	A431 cell
+T34	Tissue 1016 1034	tube-like networks
+T35	Cell 1049 1058	F-2 cells
+T39	Cell 1212 1234	cancer cell aggregates
+T40	Cell 1266 1274	F-2 cell
+T41	Cancer 1362 1368	tumors
+T42	Cell 1408 1412	A431
+T43	Cell 1417 1426	F-2 cells
+T44	Organism_subdivision 1482 1486	back
+T46	Cancer 1505 1511	tumors
+T47	Cell 1515 1519	A431
+T48	Cell 1538 1547	F-2 cells
+T49	Tissue 1595 1613	tubular structures
+T50	Cell 1624 1633	F-2 cells
+T51	Immaterial_anatomical_entity 1639 1644	lumen
+T53	Cell 1677 1688	blood cells
+T54	Cancer 1694 1704	tumor mass
+T55	Cancer 1761 1772	A431 tumors
+T56	Cell 1797 1806	F-2 cells
+T60	Cancer 1924 1935	A431 tumors
+T61	Cell 2018 2027	F-2 cells
+T62	Cancer 2047 2058	A431 tumors
+T63	Cancer 2110 2121	A431 tumors
+T64	Cell 2137 2146	F-2 cells
+T65	Cell 2195 2206	tumor cells
+T66	Cell 2211 2228	endothelial cells
+T67	Cancer 2240 2245	tumor
+T68	Cell 2302 2306	cell
+T69	Cell 2352 2364	cancer cells
+T70	Cell 2368 2385	endothelial cells
+T71	Cancer 2426 2431	tumor

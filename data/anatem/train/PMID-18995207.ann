@@ -1,0 +1,9 @@
+T1	Multi-tissue_structure 32 38	larynx
+T2	Multi-tissue_structure 519 530	vocal cords
+T3	Multi-tissue_structure 532 542	Vocal cord
+T4	Multi-tissue_structure 613 629	laryngeal mucosa
+T5	Pathological_formation 651 692	subepithelial non-necrotizing granulomata
+T6	Pathological_formation 730 737	sarcoid
+T7	Pathological_formation 739 758	Klebsiella scleroma
+T8	Organism_substance 877 883	sputum
+T9	Multi-tissue_structure 107 118	Vocal cords

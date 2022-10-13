@@ -1,0 +1,10 @@
+T1	Multi-tissue_structure 28 39	ventricular
+T2	Multi-tissue_structure 146 157	ventricular
+T3	Multi-tissue_structure 314 324	myocardial
+T4	Organ 736 743	cardiac
+T5	Organ 832 839	cardiac
+T6	Multi-tissue_structure 1107 1123	left ventricular
+T7	Organ 1196 1201	heart
+T8	Multi-tissue_structure 1364 1375	Ventricular
+T9	Multi-tissue_structure 485 493	coronary
+T11	Immaterial_anatomical_entity 472 484	percutaneous

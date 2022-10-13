@@ -1,0 +1,26 @@
+T4	Cancer 82 95	breast cancer
+T5	Cancer 100 125	ovarian cancer xenografts
+T11	Cell 208 213	HUVEC
+T12	Cell 260 284	MX-1 breast cancer cells
+T14	Cell 307 337	SKOV-3 ovarian carcinoma cells
+T19	Cell 436 446	MX-1 cells
+T20	Cell 551 563	SKOV-3 cells
+T28	Cancer 831 855	subcutaneous MX-1 tumors
+T29	Cancer 859 872	SKOV-3 tumors
+T33	Multi-tissue_structure 907 927	intratumoral vessels
+T36	Cancer 1002 1013	MX-1 tumors
+T37	Cancer 1033 1046	SKOV-3 tumors
+T39	Cancer 1118 1132	MX-1 xenograft
+T40	Cancer 1151 1156	tumor
+T42	Cancer 1213 1218	tumor
+T45	Cancer 1320 1325	tumor
+T46	Cancer 1389 1399	MX-1 tumor
+T48	Cancer 1478 1511	intraperitoneal SKOV-3 xenografts
+T51	Cancer 1650 1656	SKOV-3
+T54	Cancer 1752 1764	SKOV-3 tumor
+T77	Cell 130 142	cell culture
+T82	Cancer 23 28	tumor
+T84	Cancer 1094 1099	tumor
+T2	Cell 628 632	cell
+T8	Cell 470 474	cell
+T1	Organism_subdivision 791 797	orally

@@ -1,0 +1,19 @@
+T1	Multi-tissue_structure 7 11	hair
+T2	Organ 85 89	skin
+T3	Tissue 141 152	capillaries
+T4	Multi-tissue_structure 171 184	blood vessels
+T5	Organ 210 214	skin
+T6	Multi-tissue_structure 287 300	hair follicle
+T7	Organ 349 353	skin
+T8	Tissue 374 395	epithelial hair bulbs
+T9	Multi-tissue_structure 399 415	anagen follicles
+T10	Tissue 460 485	follicular dermal papilla
+T11	Multi-tissue_structure 712 726	hair follicles
+T12	Cell 916 933	endothelial cells
+T13	Multi-tissue_structure 961 974	hair follicle
+T15	Immaterial_anatomical_entity 1103 1118	intraperitoneal
+T17	Multi-tissue_structure 1189 1195	anagen
+T20	Organ 1292 1296	skin
+T21	Multi-tissue_structure 1328 1341	hair follicle
+T22	Organism_subdivision 1503 1512	cutaneous
+T52	Multi-tissue_structure 1381 1387	anagen

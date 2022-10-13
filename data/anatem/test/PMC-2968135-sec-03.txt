@@ -1,0 +1,14 @@
+Crystal data
+C16H20N4
+M r = 268.36
+Monoclinic, 
+a = 12.819 (4) A
+b = 8.441 (3) A
+c = 13.310 (4) A
+beta = 95.462 (5)degrees
+V = 1433.7 (8) A3
+Z = 4
+Mo Kalpha radiation
+mu = 0.08 mm-1
+T = 298 (2) K
+0.33 x 0.28 x 0.21 mm

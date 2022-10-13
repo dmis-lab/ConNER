@@ -1,0 +1,18 @@
+T2	Cell 0 22	Tumor endothelial cell
+T10	Cancer 103 108	tumor
+T12	Tissue 138 155	tumor endothelium
+T24	Cancer 327 332	tumor
+T31	Cell 420 436	endothelial cell
+T36	Tissue 476 480	tube
+T40	Cancer 647 652	tumor
+T42	Tissue 664 675	microvessel
+T43	Cancer 689 725	squamous cell carcinoma (SCC7) tumor
+T54	Cell 798 815	endothelial cells
+T57	Cell 858 875	endothelial cells
+T71	Multi-tissue_structure 1124 1136	blood vessel
+T78	Cancer 1341 1351	SCC7 tumor
+T83	Cancer 1477 1488	solid tumor
+T85	Cancer 1542 1549	cancers
+T56	Tissue 836 854	tubular structures
+T82	Cancer 588 593	tumor
+T19	Cancer 1316 1323	tumoral

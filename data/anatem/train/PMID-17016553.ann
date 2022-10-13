@@ -1,0 +1,7 @@
+T1	Cancer 8 13	tumor
+T4	Organism_substance 215 220	blood
+T6	Multi-tissue_structure 330 347	tumor vasculature
+T9	Multi-tissue_structure 474 491	tumor vasculature
+T5	Cancer 157 163	cancer
+T8	Cell 655 663	cellular
+T15	Multi-tissue_structure 51 59	vascular

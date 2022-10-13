@@ -1,0 +1,11 @@
+T1	Organism_substance 49 54	serum
+T2	Organism_substance 94 100	plasma
+T3	Organism_substance 269 275	plasma
+T4	Tissue 277 281	bone
+T5	Tissue 328 332	bone
+T6	Tissue 337 349	soft tissues
+T7	Organism_substance 440 446	plasma
+T8	Organism_substance 579 587	bone ash
+T9	Multi-tissue_structure 898 908	intestinal
+T10	Tissue 953 957	bone
+T11	Tissue 317 324	surface

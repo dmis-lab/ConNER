@@ -1,0 +1,16 @@
+T1	Multi-tissue_structure 18 50	tortuous internal carotid artery
+T2	Multi-tissue_structure 56 88	tortuous internal carotid artery
+T3	Multi-tissue_structure 105 122	cerebral vascular
+T4	Pathological_formation 172 179	lesions
+T5	Multi-tissue_structure 240 256	tortuous vessels
+T6	Multi-tissue_structure 410 425	cerebrovascular
+T7	Multi-tissue_structure 462 494	tortuous internal carotid artery
+T8	Multi-tissue_structure 524 531	carotid
+T9	Multi-tissue_structure 724 731	carotid
+T10	Multi-tissue_structure 773 788	tortuous vessel
+T11	Pathological_formation 759 765	plaque
+T12	Pathological_formation 842 848	plaque
+T13	Multi-tissue_structure 1019 1042	internal carotid artery
+T14	Multi-tissue_structure 1050 1071	common carotid artery
+T15	Multi-tissue_structure 289 296	carotid
+T16	Anatomical_system 205 215	neurologic

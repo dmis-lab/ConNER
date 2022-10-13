@@ -1,0 +1,17 @@
+T1	Multi-tissue_structure 29 50	juxtafoveal choroidal
+T3	Multi-tissue_structure 186 207	juxtafoveal choroidal
+T5	Organ 336 340	eyes
+T8	Immaterial_anatomical_entity 517 528	juxtafoveal
+T10	Pathological_formation 597 603	lesion
+T11	Tissue 666 687	foveal avascular zone
+T12	Tissue 689 692	FAZ
+T14	Organ 757 760	eye
+T16	Pathological_formation 931 937	lesion
+T17	Tissue 1017 1020	FAZ
+T18	Organ 1042 1046	eyes
+T19	Immaterial_anatomical_entity 1051 1062	juxtafoveal
+T20	Pathological_formation 1252 1259	lesions
+T21	Organ 1326 1330	eyes
+T22	Pathological_formation 1348 1355	lesions
+T23	Pathological_formation 1572 1591	juxtafoveal lesions
+T24	Tissue 1612 1625	foveal center

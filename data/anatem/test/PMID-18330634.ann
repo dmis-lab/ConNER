@@ -1,0 +1,10 @@
+T1	Organism_substance 235 240	fecal
+T2	Immaterial_anatomical_entity 398 413	intramuscularly
+T3	Organism_substance 737 750	fecal samples
+T4	Organism_subdivision 958 980	gastrointestinal tract
+T5	Organism_substance 1371 1376	fecal
+T6	Organism_subdivision 607 611	oral
+T7	Organism_substance 941 948	samples
+T8	Organism_substance 1184 1191	samples
+T9	Organism_subdivision 437 443	orally
+T10	Cell 517 524	strains

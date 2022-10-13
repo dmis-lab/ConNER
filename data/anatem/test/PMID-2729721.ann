@@ -1,0 +1,20 @@
+T1	Organ 55 63	cerebral
+T2	Organism_substance 64 69	blood
+T3	Organ 186 194	cerebral
+T4	Organism_substance 195 200	blood
+T5	Organ 262 270	cerebral
+T6	Organ 311 319	cerebral
+T7	Organ 354 362	cerebral
+T8	Organism_substance 684 689	blood
+T9	Organ 702 707	brain
+T10	Multi-tissue_structure 763 771	cerebrum
+T11	Multi-tissue_structure 999 1009	brain stem
+T12	Multi-tissue_structure 1011 1021	cerebellum
+T13	Multi-tissue_structure 1041 1059	sympathetic nerves
+T14	Organism_substance 1108 1113	blood
+T15	Multi-tissue_structure 1126 1134	cerebrum
+T16	Organ 1188 1193	brain
+T17	Multi-tissue_structure 129 147	sympathetic nerves
+T18	Organism_substance 951 956	blood
+T19	Multi-tissue_structure 463 471	arterial
+T20	Multi-tissue_structure 983 997	caudate region

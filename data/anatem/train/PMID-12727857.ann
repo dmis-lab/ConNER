@@ -1,0 +1,47 @@
+T1	Cancer 0 5	Tumor
+T2	Cell 29 38	leukocyte
+T3	Multi-tissue_structure 39 50	vessel wall
+T6	Cell 197 206	leukocyte
+T7	Multi-tissue_structure 207 218	vessel wall
+T8	Cancer 249 261	malignancies
+T9	Cell 327 336	leukocyte
+T10	Multi-tissue_structure 337 348	vessel wall
+T11	Cancer 383 388	tumor
+T13	Cell 464 473	leukocyte
+T14	Multi-tissue_structure 474 485	vessel wall
+T15	Tissue 515 536	ear skin microvessels
+T18	Cancer 570 593	LS174T colon carcinomas
+T21	Cancer 629 645	B16F10 melanomas
+T22	Cell 647 656	Leukocyte
+T23	Multi-tissue_structure 657 668	vessel wall
+T24	Cancer 725 731	tumors
+T25	Organ 747 750	ear
+T26	Tissue 759 775	ear microvessels
+T28	Cancer 797 802	tumor
+T29	Organism_subdivision 820 825	flank
+T30	Cancer 827 832	Tumor
+T32	Organ 915 918	ear
+T33	Organ 944 947	ear
+T34	Cell 949 958	leukocyte
+T35	Multi-tissue_structure 1012 1019	vessels
+T36	Cancer 1031 1040	ear tumor
+T38	Cancer 1124 1129	tumor
+T39	Cell 1158 1167	leukocyte
+T40	Multi-tissue_structure 1180 1191	ear venules
+T42	Cancer 1213 1224	flank tumor
+T43	Cell 1257 1266	Leukocyte
+T44	Cancer 1351 1356	tumor
+T48	Cancer 1462 1471	ear tumor
+T50	Cell 1570 1579	leukocyte
+T51	Multi-tissue_structure 1580 1591	vessel wall
+T52	Multi-tissue_structure 1616 1629	tumor vessels
+T53	Cell 1689 1693	cell
+T54	Cell 1731 1740	tumor ECs
+T56	Cell 1818 1821	ECs
+T58	Tissue 1840 1847	tissues
+T59	Cell 1861 1873	b.END5 cells
+T63	Cell 2018 2021	ECs
+T66	Cell 2239 2260	immune effector cells
+T67	Tissue 2286 2298	tumor tissue
+T4	Cell 144 160	endothelial cell
+T5	Cell 162 164	EC

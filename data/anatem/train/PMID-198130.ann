@@ -1,0 +1,14 @@
+T2	Cell 109 120	tumor cells
+T7	Cell 322 341	ascites tumor cells
+T8	Cell 358 385	Ehrlich ascites tumor cells
+T9	Cell 387 405	Krebs II carcinoma
+T10	Cell 407 423	AS-30D carcinoma
+T11	Cell 429 440	L1210 cells
+T15	Cell 651 656	cells
+T18	Cell 869 879	cell lines
+T23	Cancer 1027 1033	tumors
+T25	Cellular_component 1088 1101	mitochondrial
+T28	Cancer 1244 1250	tumors
+T32	Organism_substance 1462 1471	cytosolic
+T53	Organism_substance 1052 1061	cytosolic
+T1	Cell 347 354	strains

@@ -1,0 +1,17 @@
+T1	Immaterial_anatomical_entity 87 106	preperitoneal space
+T3	Tissue 785 788	fat
+T4	Tissue 804 821	connective tissue
+T7	Tissue 1048 1055	fibrous
+T9	Tissue 1136 1153	connective tissue
+T11	Tissue 1244 1247	fat
+T12	Tissue 1440 1457	connective tissue
+T14	Tissue 1478 1485	fibrous
+T15	Immaterial_anatomical_entity 620 639	preperitoneal space
+T16	Tissue 773 780	fibrous
+T30	Organism_substance 892 899	exudate
+T33	Organism_substance 1288 1295	exudate
+T35	Tissue 14 20	tissue
+T37	Tissue 304 310	tissue
+T38	Tissue 1366 1372	tissue
+T36	Tissue 108 114	Tissue
+T39	Pathological_formation 197 212	inguinal hernia

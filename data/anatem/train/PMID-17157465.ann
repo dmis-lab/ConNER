@@ -1,0 +1,22 @@
+T3	Cancer 97 103	cancer
+T10	Developing_anatomical_structure 679 683	seed
+T11	Organism_substance 689 694	juice
+T12	Tissue 700 704	peel
+T13	Organ 710 714	leaf
+T14	Organism_subdivision 720 726	flower
+T15	Tissue 732 736	bark
+T16	Organ 746 751	roots
+T17	Organism_substance 807 812	Juice
+T18	Tissue 817 822	peels
+T19	Organism_substance 882 887	juice
+T20	Tissue 889 893	peel
+T21	Organism_substance 898 901	oil
+T22	Organism_substance 1025 1030	juice
+T23	Tissue 1032 1036	peel
+T24	Organism_substance 1041 1044	oil
+T25	Cancer 1081 1087	cancer
+T26	Cell 1128 1138	tumor cell
+T27	Cell 1154 1158	cell
+T29	Cancer 1424 1430	cancer
+T1	Organism_subdivision 616 621	fruit
+T2	Organism_subdivision 661 673	compartments

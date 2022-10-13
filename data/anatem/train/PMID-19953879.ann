@@ -1,0 +1,30 @@
+T1	Multi-tissue_structure 19 33	hepatic artery
+T2	Organ 65 70	liver
+T3	Multi-tissue_structure 144 158	hepatic artery
+T4	Organ 207 212	liver
+T5	Multi-tissue_structure 243 266	right lobe liver grafts
+T6	Multi-tissue_structure 346 363	right lobe grafts
+T7	Multi-tissue_structure 365 381	Hepatic arteries
+T8	Multi-tissue_structure 521 535	hepatic artery
+T9	Multi-tissue_structure 544 567	right lobe liver grafts
+T10	Multi-tissue_structure 630 650	right hepatic artery
+T11	Multi-tissue_structure 699 719	right hepatic artery
+T12	Multi-tissue_structure 734 740	grafts
+T13	Multi-tissue_structure 745 764	left hepatic artery
+T14	Multi-tissue_structure 820 834	saphenous vein
+T15	Multi-tissue_structure 853 865	iliac artery
+T16	Multi-tissue_structure 874 894	right hepatic artery
+T17	Multi-tissue_structure 909 923	hepatic artery
+T18	Multi-tissue_structure 932 946	hepatic artery
+T19	Multi-tissue_structure 951 966	abdominal aorta
+T20	Multi-tissue_structure 1231 1245	saphenous vein
+T21	Multi-tissue_structure 1254 1274	right hepatic artery
+T22	Multi-tissue_structure 1288 1303	abdominal aorta
+T23	Multi-tissue_structure 1457 1471	hepatic artery
+T24	Multi-tissue_structure 1510 1524	hepatic artery
+T25	Multi-tissue_structure 1711 1725	hepatic artery
+T26	Multi-tissue_structure 1795 1803	arterial
+T27	Multi-tissue_structure 1846 1860	hepatic artery
+T28	Organ 1877 1882	liver
+T29	Multi-tissue_structure 1915 1938	right lobe liver grafts
+T30	Pathological_formation 1538 1546	aneurysm

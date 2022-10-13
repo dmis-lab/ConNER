@@ -1,0 +1,21 @@
+T5	Cancer 90 104	prostate tumor
+T6	Cancer 156 161	tumor
+T12	Cellular_component 264 272	membrane
+T17	Cancer 485 490	tumor
+T22	Cell 620 660	RM-9 murine prostate carcinoma cell line
+T23	Cell 670 680	RM-9 cells
+T24	Cell 685 695	RM-9 cells
+T26	Cell 732 741	RM-9-IL12
+T28	Immaterial_anatomical_entity 759 773	subcutaneously
+T30	Cancer 814 819	Tumor
+T33	Cell 1012 1017	cells
+T35	Cell 1045 1074	RM-9 prostate carcinoma cells
+T37	Cell 1137 1147	RM-9 cells
+T38	Cell 1167 1181	RM-9-Luc cells
+T41	Cell 1317 1327	RM-9 cells
+T42	Cell 1356 1361	cells
+T43	Cancer 1384 1400	RM-9-IL12 tumors
+T46	Cancer 1507 1523	RM-9-IL12 tumors
+T47	Cancer 1542 1561	RM-9 control tumors
+T51	Cancer 1738 1756	prostate carcinoma
+T1	Cell 1216 1225	RM-9-IL12

@@ -1,0 +1,15 @@
+T5	Cell 328 345	endothelial cells
+T7	Tissue 381 390	capillary
+T8	Tissue 419 423	tube
+T13	Cell 578 595	Endothelial cells
+T18	Cell 715 719	cell
+T19	Cell 760 777	endothelial cells
+T20	Cell 797 813	endothelial cell
+T21	Pathological_formation 814 819	wound
+T23	Developing_anatomical_structure 914 921	embryos
+T27	Multi-tissue_structure 1157 1170	axial vessels
+T31	Multi-tissue_structure 1322 1330	vascular
+T33	Multi-tissue_structure 1465 1472	vessels
+T1	Cellular_component 735 747	cytoskeletal
+T2	Cellular_component 347 356	fibrillar
+T3	Cellular_component 633 640	fibrils

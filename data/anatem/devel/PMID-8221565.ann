@@ -1,0 +1,33 @@
+T4	Cancer 54 67	breast cancer
+T5	Cancer 111 125	Breast cancers
+T8	Cancer 216 222	tumors
+T11	Cell 322 333	erythrocyte
+T13	Organ 349 354	liver
+T15	Organ 370 375	brain
+T17	Organ 391 397	muscle
+T18	Tissue 398 401	fat
+T20	Organ 421 436	small intestine
+T22	Cancer 483 500	paraffin sections
+T24	Cancer 509 537	primary human breast cancers
+T25	Cancer 544 565	lymph node metastases
+T28	Tissue 587 594	tissues
+T30	Cancer 679 701	primary breast cancers
+T31	Cancer 710 731	lymph node metastases
+T33	Cellular_component 796 809	cell membrane
+T34	Organism_substance 821 830	cytoplasm
+T35	Cell 838 849	tumor cells
+T36	Cancer 872 884	intratumoral
+T37	Cancer 889 901	intertumoral
+T38	Cell 945 950	cells
+T39	Tissue 1005 1023	mammary epithelium
+T40	Cell 1069 1080	tumor cells
+T43	Cancer 1139 1145	tumors
+T44	Tissue 1225 1239	healthy breast
+T46	Cell 1294 1299	cells
+T47	Cancer 1314 1320	tumors
+T48	Cancer 1334 1340	tumors
+T49	Tissue 1348 1362	healthy breast
+T50	Tissue 1370 1377	tissues
+T55	Cell 1482 1501	breast cancer cells
+T56	Tissue 1520 1541	healthy breast tissue
+T60	Cancer 1692 1698	tumors

@@ -1,0 +1,12 @@
+T1	Organism_substance 127 132	blood
+T2	Developing_anatomical_structure 142 147	fetus
+T4	Organ 354 363	placentas
+T5	Developing_anatomical_structure 368 375	fetuses
+T3	Immaterial_anatomical_entity 225 238	intravenously
+T6	Organ 432 440	placenta
+T7	Developing_anatomical_structure 465 470	fetus
+T8	Organ 500 508	placenta
+T9	Developing_anatomical_structure 628 635	fetuses
+T10	Tissue 676 682	tissue
+T11	Tissue 807 823	placental tissue
+T12	Developing_anatomical_structure 789 794	fetus

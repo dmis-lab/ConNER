@@ -1,0 +1,19 @@
+T38	Cancer 111 137	epithelial ovarian tumours
+T39	Tissue 355 362	tissues
+T40	Organ 469 476	ovarian
+T41	Cancer 511 526	ovarian tumours
+T42	Cell 625 648	ovarian carcinoma cells
+T43	Cancer 745 774	epithelial ovarian carcinomas
+T44	Cancer 779 797	borderline tumours
+T45	Pathological_formation 805 819	benign tumours
+T46	Pathological_formation 913 927	benign tumours
+T47	Cancer 935 953	borderline tumours
+T48	Cancer 961 971	carcinomas
+T49	Pathological_formation 1065 1072	lesions
+T50	Cancer 1087 1096	carcinoma
+T51	Cancer 1160 1178	borderline tumours
+T52	Cancer 1281 1291	carcinomas
+T53	Cancer 1419 1429	carcinomas
+T54	Cell 1576 1599	ovarian carcinoma cells
+T55	Cell 2077 2100	ovarian carcinoma cells
+T56	Cancer 2222 2237	ovarian tumours

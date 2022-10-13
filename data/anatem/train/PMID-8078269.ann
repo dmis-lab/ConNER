@@ -1,0 +1,15 @@
+T1	Cancer 46 60	retinoblastoma
+T2	Cancer 233 247	Retinoblastoma
+T3	Cancer 331 345	retinoblastoma
+T4	Cancer 721 735	retinoblastoma
+T5	Organ 738 741	eye
+T6	Organ 749 753	eyes
+T7	Organ 784 788	eyes
+T8	Organ 896 901	brain
+T9	Cancer 933 947	retinoblastoma
+T10	Organ 645 649	eyes
+T11	Organ 686 690	eyes
+T12	Organ 416 420	eyes
+T13	Cancer 433 440	tumours
+T14	Cancer 808 815	lesions
+T15	Cancer 878 888	metastases

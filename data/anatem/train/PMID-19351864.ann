@@ -1,0 +1,18 @@
+T2	Multi-tissue_structure 29 39	lymph node
+T4	Cancer 60 94	esophageal squamous cell carcinoma
+T8	Cancer 198 204	tumors
+T12	Tissue 320 383	primary esophageal squamous cell carcinoma (ESCC) tumor tissues
+T14	Multi-tissue_structure 446 456	lymph node
+T16	Cell 528 542	ESCC cell line
+T17	Cell 544 550	EC9706
+T18	Cell 571 575	cell
+T19	Multi-tissue_structure 620 630	lymph node
+T21	Cell 690 694	cell
+T22	Cell 712 726	PTTG-HA/EC9706
+T24	Cell 731 744	KYSE150 cells
+T28	Tissue 872 878	tissue
+T34	Cell 1121 1140	PTTG-HA/EC9706 cell
+T38	Cell 1237 1249	EC9706 cells
+T40	Cellular_component 1323 1332	Chromatin
+T48	Cancer 1655 1660	tumor
+T50	Cell 1778 1782	cell

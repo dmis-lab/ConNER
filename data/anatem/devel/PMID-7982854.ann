@@ -1,0 +1,9 @@
+T1	Tissue 93 117	Hodgkin's disease tissue
+T2	Multi-tissue_structure 201 212	lymph nodes
+T3	Cell 396 400	cell
+T4	Cellular_component 513 520	nuclear
+T5	Cellular_component 644 650	nuclei
+T6	Cell 703 714	lymphocytes
+T7	Multi-tissue_structure 723 734	lymph nodes
+T8	Cell 1269 1274	cells
+T9	Cell 1311 1321	lymphocyte

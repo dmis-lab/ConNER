@@ -1,0 +1,15 @@
+T1	Organ 4 13	right eye
+T2	Multi-tissue_structure 112 126	serous retinal
+T3	Multi-tissue_structure 229 236	retinal
+T4	Multi-tissue_structure 289 301	inner retina
+T5	Tissue 503 510	macular
+T6	Multi-tissue_structure 583 597	serous retinal
+T7	Pathological_formation 612 625	cystoid edema
+T8	Tissue 678 684	macula
+T9	Tissue 760 774	retinal artery
+T10	Tissue 262 267	fovea
+T11	Multi-tissue_structure 663 670	choroid
+T12	Pathological_formation 272 278	cystic
+T13	Pathological_formation 511 517	cystic
+T14	Tissue 573 577	area
+T15	Tissue 720 723	RPE

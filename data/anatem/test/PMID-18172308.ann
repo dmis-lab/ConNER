@@ -1,0 +1,26 @@
+T23	Organ 649 664	adenohypophysis
+T24	Immaterial_anatomical_entity 36 47	oral cavity
+T25	Cell 184 194	basal cell
+T26	Tissue 215 224	epithelia
+T27	Developing_anatomical_structure 287 294	embryos
+T28	Tissue 352 359	tissues
+T29	Organ 399 404	organ
+T30	Anatomical_system 456 466	oropharynx
+T31	Tissue 484 490	tissue
+T32	Developing_anatomical_structure 542 565	embryonic oral ectoderm
+T34	Cell 611 616	cells
+T35	Cell 734 754	pituitary stem cells
+T36	Cell 797 807	stem cells
+T37	Cell 815 849	transit-amplifying (TA)-like cells
+T38	Cell 882 887	cells
+T39	Cell 913 918	cells
+T40	Cancer 974 994	pituitary carcinomas
+T41	Tissue 1160 1185	primitive oral epithelium
+T42	Cell 1262 1304	transgene-positive TA-like pituitary cells
+T43	Cell 1346 1369	TA-like pituitary cells
+T44	Cancer 1414 1439	pituitary adenocarcinomas
+T45	Cell 1503 1508	cells
+T46	Cancer 1558 1563	tumor
+T51	Organ 69 78	pituitary
+T52	Organ 377 392	adenohypophysis
+T60	Multi-tissue_structure 626 641	pars intermedia

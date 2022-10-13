@@ -1,0 +1,2 @@
+Statistical Analysis
+Mitochondrial DNA haplogroup frequencies were calculated by counting from the observed genotypes. The Pearson chi-square test and the chi-square test for linear-by-linear association were used to analyze the significances between the prevalence of haplogroups and different age groups. SPSS software (version 10.0) was used.

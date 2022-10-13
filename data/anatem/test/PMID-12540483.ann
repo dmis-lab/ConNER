@@ -1,0 +1,18 @@
+T6	Organ 84 88	lung
+T7	Anatomical_system 151 167	pulmonary system
+T10	Organ 227 241	embryonic lung
+T15	Cell 373 401	fetal lung endothelial cells
+T17	Organ 440 444	lung
+T24	Tissue 545 554	embryonic
+T25	Tissue 559 577	fetal lung tissues
+T29	Organ 730 745	embryonic lungs
+T31	Organ 842 861	fetal lung explants
+T36	Cell 964 981	endothelial cells
+T37	Organ 1018 1028	fetal lung
+T38	Organ 1133 1138	lungs
+T39	Organ 1194 1208	embryonic lung
+T46	Multi-tissue_structure 1287 1300	lung vascular
+T50	Organ 1393 1397	lung
+T54	Organ 1549 1553	lung
+T8	Cell 1171 1188	mesenchymal cells
+T45	Multi-tissue_structure 431 439	vascular

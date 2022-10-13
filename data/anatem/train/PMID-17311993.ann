@@ -1,0 +1,21 @@
+T2	Multi-tissue_structure 72 79	vessels
+T3	Tissue 100 106	tissue
+T4	Multi-tissue_structure 118 126	Vascular
+T5	Multi-tissue_structure 223 231	arterial
+T6	Multi-tissue_structure 235 241	venous
+T7	Tissue 285 291	stroma
+T8	Tissue 296 303	tissues
+T9	Tissue 305 323	hierarchic network
+T10	Cell 354 363	pericytes
+T17	Multi-tissue_structure 523 531	arterial
+T19	Immaterial_anatomical_entity 695 708	extracellular
+T21	Multi-tissue_structure 779 787	vascular
+T22	Multi-tissue_structure 842 849	vessels
+T23	Immaterial_anatomical_entity 860 867	caliber
+T24	Immaterial_anatomical_entity 888 900	vessel lumen
+T25	Cell 919 927	pericyte
+T26	Multi-tissue_structure 955 963	vascular
+T28	Multi-tissue_structure 1009 1017	vascular
+T29	Cancer 1030 1035	tumor
+T30	Cancer 1064 1069	tumor
+T33	Cancer 1150 1156	tumors

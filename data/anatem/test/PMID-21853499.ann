@@ -1,0 +1,18 @@
+T16	Multi-tissue_structure 15 31	lymphatic vessel
+T17	Multi-tissue_structure 84 89	nodal
+T18	Cancer 104 136	papillary thyroid microcarcinoma
+T19	Cancer 205 217	intratumoral
+T5	Multi-tissue_structure 222 250	peritumoral lymphatic vessel
+T7	Cancer 414 446	papillary thyroid microcarcinoma
+T8	Organism_subdivision 580 584	neck
+T9	Multi-tissue_structure 614 631	lymphatic vessels
+T11	Cancer 828 843	neck metastases
+T12	Organism_subdivision 995 999	neck
+T13	Organ 1066 1075	lymphatic
+T14	Organism_subdivision 1087 1091	neck
+T15	Organism_subdivision 1170 1174	neck
+T22	Cancer 448 452	PTMC
+T23	Cancer 530 534	PTMC
+T6	Cancer 388 410	lymph nodal metastases
+T25	Cancer 1189 1193	PTMC
+T10	Cancer 685 700	neck metastases

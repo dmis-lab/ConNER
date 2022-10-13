@@ -1,0 +1,10 @@
+T1	Multi-tissue_structure 592 605	brain regions
+T2	Cell 923 935	HEK293 cells
+T3	Cell 1069 1074	Cells
+T4	Cellular_component 1104 1112	membrane
+T5	Cell 1143 1147	cell
+T7	Cell 1279 1289	Be2C cells
+T8	Cell 1398 1403	Cells
+T10	Cell 1614 1624	Be2C cells
+T6	Immaterial_anatomical_entity 1193 1206	intracellular
+T9	Immaterial_anatomical_entity 1434 1447	intracellular

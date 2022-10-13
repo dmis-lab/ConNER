@@ -1,0 +1,17 @@
+T1	Tissue 30 54	hippocampal mossy fibers
+T2	Organism_substance 158 162	sera
+T3	Tissue 248 272	hippocampal mossy fibers
+T4	Cell 280 301	dentate granule cells
+T5	Immaterial_anatomical_entity 736 752	Intrahippocampal
+T6	Multi-tissue_structure 897 908	hippocampus
+T7	Immaterial_anatomical_entity 910 928	Intraventricularly
+T8	Cell 982 1003	CA3-4 pyramidal cells
+T9	Multi-tissue_structure 1146 1157	hippocampus
+T10	Cell 1163 1182	enkephalin-ir cells
+T11	Tissue 1187 1193	fibers
+T12	Multi-tissue_structure 1197 1207	entorhinal
+T13	Multi-tissue_structure 1208 1225	perirhinal cortex
+T14	Multi-tissue_structure 1247 1258	hippocampus
+T15	Multi-tissue_structure 1263 1276	dentate gyrus
+T16	Tissue 1060 1072	mossy fibers
+T17	Cell 802 823	dentate granule cells

@@ -1,0 +1,36 @@
+T3	Pathological_formation 50 67	precursor lesions
+T4	Cancer 71 92	gallbladder carcinoma
+T8	Cancer 206 224	gallbladder cancer
+T9	Cancer 230 260	metaplasia-dysplasia-carcinoma
+T10	Cancer 269 286	adenoma-carcinoma
+T11	Multi-tissue_structure 373 381	sections
+T12	Tissue 403 409	tissue
+T13	Cancer 455 469	biopsy samples
+T16	Cancer 585 594	specimens
+T17	Cell 664 668	Cell
+T19	Cancer 797 805	adenomas
+T20	Tissue 820 842	gallbladder epithelium
+T22	Cellular_component 904 924	basolateral membrane
+T23	Cell 928 944	epithelial cells
+T24	Pathological_formation 948 969	intestinal metaplasia
+T26	Pathological_formation 1024 1031	lesions
+T28	Tissue 1126 1136	epithelium
+T29	Pathological_formation 1142 1152	metaplasia
+T30	Cancer 1156 1173	carcinoma in situ
+T32	Cancer 1255 1274	invasive carcinomas
+T36	Cancer 1387 1395	adenomas
+T38	Organism_substance 1426 1437	cytoplasmic
+T39	Cellular_component 1462 1482	apical cell membrane
+T40	Cell 1490 1495	cells
+T41	Tissue 1510 1519	epithelia
+T42	Pathological_formation 1525 1546	intestinal metaplasia
+T43	Cancer 989 1006	carcinoma in situ
+T44	Cell 1608 1624	epithelial cells
+T45	Cancer 1628 1636	adenomas
+T48	Cancer 1723 1754	invasive gallbladder carcinomas
+T51	Pathological_formation 1807 1824	precursor lesions
+T52	Cancer 1828 1849	gallbladder carcinoma
+T53	Cell 1945 1949	cell
+T54	Organ 1967 1978	gallbladder
+T71	Cancer 1565 1582	carcinoma in situ
+T1	Cancer 691 697	sample

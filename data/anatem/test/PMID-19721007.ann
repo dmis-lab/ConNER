@@ -1,0 +1,16 @@
+T16	Organ 39 44	bowel
+T17	Cancer 70 87	colorectal cancer
+T18	Cancer 127 133	cancer
+T19	Organ 204 209	bowel
+T20	Pathological_formation 234 244	ulcerative
+T21	Cancer 312 329	colorectal cancer
+T22	Cancer 477 494	colorectal cancer
+T23	Cancer 622 627	tumor
+T24	Cell 690 706	epithelial cells
+T10	Cancer 895 913	colorectal cancers
+T11	Organ 932 937	bowel
+T12	Cancer 1089 1106	colorectal cancer
+T13	Pathological_formation 1185 1195	ulcerative
+T14	Cancer 1215 1232	colorectal cancer
+T15	Cancer 1284 1301	colorectal cancer
+T9	Organ 836 850	colonic crypts

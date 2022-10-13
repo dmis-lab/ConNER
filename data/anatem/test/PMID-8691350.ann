@@ -1,0 +1,23 @@
+T2	Cancer 45 71	non-small cell lung cancer
+T3	Cancer 73 79	Tumour
+T7	Cancer 120 126	tumour
+T8	Tissue 192 203	microvessel
+T9	Cancer 214 240	non-small cell lung cancer
+T10	Cancer 457 487	non-small cell lung carcinomas
+T12	Organ 586 589	eye
+T13	Organ 717 720	eye
+T19	Cancer 884 891	Tumours
+T21	Multi-tissue_structure 1056 1066	lymph node
+T23	Cancer 1737 1763	non-small cell lung cancer
+T25	Cell 1870 1881	cancer cell
+T26	Multi-tissue_structure 1895 1906	lymph nodes
+T28	Multi-tissue_structure 401 409	vascular
+T29	Multi-tissue_structure 539 547	vascular
+T30	Multi-tissue_structure 777 785	Vascular
+T31	Multi-tissue_structure 976 984	vascular
+T32	Multi-tissue_structure 1148 1156	vascular
+T33	Multi-tissue_structure 1293 1301	vascular
+T34	Multi-tissue_structure 1428 1436	vascular
+T35	Multi-tissue_structure 1602 1610	vascular
+T36	Multi-tissue_structure 1672 1680	vascular
+T37	Multi-tissue_structure 1927 1935	vascular

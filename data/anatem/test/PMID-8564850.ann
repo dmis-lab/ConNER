@@ -1,0 +1,30 @@
+T3	Multi-tissue_structure 46 57	bone marrow
+T5	Organism_substance 133 138	blood
+T8	Cell 352 369	endothelial cells
+T11	Tissue 436 445	capillary
+T13	Cell 508 525	bone marrow cells
+T16	Cell 585 596	blood cells
+T20	Tissue 629 638	capillary
+T22	Cell 672 684	marrow cells
+T24	Cell 874 886	Marrow cells
+T29	Multi-tissue_structure 1157 1168	bone marrow
+T31	Cell 1349 1365	endothelial cell
+T32	Multi-tissue_structure 1480 1491	Bone marrow
+T14	Multi-tissue_structure 823 839	abdominal aortic
+T4	Pathological_formation 1464 1478	thrombus layer
+T36	Multi-tissue_structure 21 29	vascular
+T38	Multi-tissue_structure 263 271	vascular
+T40	Multi-tissue_structure 85 93	vascular
+T42	Multi-tissue_structure 773 788	vascular grafts
+T43	Multi-tissue_structure 170 186	luminal surfaces
+T44	Multi-tissue_structure 332 347	luminal surface
+T45	Multi-tissue_structure 794 800	grafts
+T46	Multi-tissue_structure 1043 1049	grafts
+T47	Multi-tissue_structure 1142 1148	grafts
+T49	Multi-tissue_structure 1325 1331	grafts
+T50	Multi-tissue_structure 1432 1438	grafts
+T51	Multi-tissue_structure 196 201	graft
+T1	Tissue 1231 1248	anastomotic sites
+T2	Pathological_formation 1290 1297	thrombi
+T6	Multi-tissue_structure 462 467	graft
+T7	Multi-tissue_structure 1566 1571	graft

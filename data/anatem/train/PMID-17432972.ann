@@ -1,0 +1,24 @@
+T1	Organ 25 30	brain
+T2	Multi-tissue_structure 189 205	cortical regions
+T3	Multi-tissue_structure 303 317	cortical areas
+T4	Organism_subdivision 495 499	hand
+T5	Organ 667 672	brain
+T6	Organism_subdivision 720 724	hand
+T7	Organ 1165 1170	brain
+T8	Multi-tissue_structure 1444 1478	contralateral primary motor cortex
+T9	Multi-tissue_structure 1509 1531	ipsilateral cerebellum
+T10	Anatomical_system 1571 1591	corticospinal system
+T11	Multi-tissue_structure 1649 1692	contralesional dorsolateral premotor cortex
+T12	Multi-tissue_structure 1694 1735	bilateral ventrolateral premotor cortices
+T13	Multi-tissue_structure 1740 1765	contralesional cerebellum
+T14	Multi-tissue_structure 1775 1808	ipsilesional primary motor cortex
+T15	Multi-tissue_structure 1842 1859	premotor cortices
+T16	Anatomical_system 1969 1989	corticospinal system
+T17	Anatomical_system 76 96	corticospinal system
+T18	Anatomical_system 357 377	corticospinal system
+T19	Anatomical_system 537 557	corticospinal system
+T20	Anatomical_system 1052 1072	corticospinal system
+T21	Anatomical_system 1350 1370	corticospinal system
+T22	Multi-tissue_structure 113 124	subcortical
+T23	Multi-tissue_structure 579 590	subcortical
+T24	Multi-tissue_structure 1480 1504	supplementary motor area

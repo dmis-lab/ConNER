@@ -1,0 +1,11 @@
+T5	Cell 48 55	myeloid
+T8	Cell 124 131	myeloid
+T9	Cell 169 188	myeloid progenitors
+T10	Cancer 192 200	leukemia
+T11	Cancer 310 324	overt leukemia
+T19	Cell 535 552	bone marrow cells
+T20	Cancer 563 585	acute myeloid leukemia
+T21	Cancer 587 590	AML
+T33	Cancer 898 901	AML
+T37	Cell 1001 1008	myeloid
+T39	Cell 1168 1175	myeloid

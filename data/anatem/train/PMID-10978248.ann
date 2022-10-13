@@ -1,0 +1,22 @@
+T2	Cellular_component 53 65	stress-fiber
+T3	Cellular_component 70 85	membrane ruffle
+T4	Cell 99 116	endothelial cells
+T7	Cell 186 212	vascular endothelial cells
+T8	Cell 246 254	cellular
+T9	Cell 305 316	endothelial
+T10	Multi-tissue_structure 343 349	vessel
+T11	Cell 377 385	cellular
+T14	Cell 490 507	endothelial cells
+T15	Cellular_component 540 552	cytoskeletal
+T17	Cellular_component 633 641	membrane
+T18	Cellular_component 678 691	stress fibers
+T20	Cell 702 726	aortic endothelial cells
+T23	Cellular_component 843 855	stress fiber
+T30	Cellular_component 1359 1385	endothelial cell-substrate
+T31	Cellular_component 1390 1408	cell-cell contacts
+T33	Cell 1468 1479	endothelial
+T34	Tissue 1514 1523	capillary
+T35	Multi-tissue_structure 1547 1555	vascular
+T36	Cell 1584 1600	endothelial cell
+T68	Cellular_component 1319 1334	actin filaments
+T1	Cellular_component 970 976	bundle

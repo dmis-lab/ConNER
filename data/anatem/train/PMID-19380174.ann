@@ -1,0 +1,20 @@
+T2	Cell 57 65	cellular
+T4	Organ 84 88	lung
+T7	Cell 262 267	cells
+T8	Cancer 321 332	lung cancer
+T10	Cell 413 421	cellular
+T11	Cancer 457 462	tumor
+T12	Cancer 487 502	sporadic cancer
+T14	Cancer 608 627	lung adenocarcinoma
+T15	Cancer 629 632	LAC
+T17	Cancer 680 683	LAC
+T19	Cell 832 840	cellular
+T22	Organ 897 901	lung
+T24	Cancer 944 947	LAC
+T27	Cell 1004 1013	LAC cells
+T30	Cell 1109 1117	cellular
+T32	Cell 1362 1366	cell
+T33	Cell 1426 1430	cell
+T34	Cell 1437 1441	cell
+T36	Cell 1600 1605	cells
+T38	Cancer 1685 1688	LAC

@@ -1,0 +1,21 @@
+T4	Cancer 170 200	p63-positive breast carcinomas
+T8	Cell 229 247	myoepithelial cell
+T9	Organ 269 282	mammary gland
+T10	Cell 287 316	p63-positive neoplastic cells
+T12	Cancer 346 372	invasive breast carcinomas
+T14	Cancer 485 490	tumor
+T15	Cancer 527 543	breast pathology
+T16	Cell 576 580	cell
+T18	Cancer 781 807	invasive ductal carcinomas
+T19	Cell 809 827	p63-positive cells
+T21	Cancer 849 859	carcinomas
+T22	Cancer 861 884	p63-positive carcinomas
+T24	Cancer 939 948	neoplasms
+T26	Cancer 1035 1040	tumor
+T35	Cancer 1309 1332	p63-positive carcinomas
+T38	Cancer 1368 1384	nodal metastases
+T39	Cell 1389 1397	cellular
+T41	Cancer 1494 1499	tumor
+T44	Cancer 1592 1622	p63-positive breast carcinomas
+T46	Cancer 1690 1699	neoplasms
+T66	Cancer 770 777	samples

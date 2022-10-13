@@ -1,0 +1,13 @@
+T1	Cancer 26 37	CT26 tumour
+T2	Cell 43 57	dendritic cell
+T4	Cancer 181 192	CT26 tumour
+T5	Cell 203 217	dendritic cell
+T6	Cell 354 375	cytotoxic lymphocytes
+T7	Cell 377 380	CTL
+T8	Cancer 403 409	tumour
+T9	Cell 446 456	CT26 cells
+T10	Cell 568 579	tumour cell
+T11	Cell 701 712	tumour cell
+T12	Cancer 787 794	tumours
+T13	Cancer 920 927	tumours
+T14	Cellular_component 255 263	envelope

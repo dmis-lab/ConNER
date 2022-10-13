@@ -1,0 +1,24 @@
+T1	Pathological_formation 117 137	pathological lesions
+T2	Cellular_component 772 778	fibril
+T3	Organ 962 967	brain
+T4	Cellular_component 1108 1123	amyloid fibrils
+T5	Cellular_component 1163 1178	amyloid fibrils
+T6	Cellular_component 1363 1372	fibrillar
+T7	Cell 1407 1417	microglial
+T8	Cell 1448 1464	microglial cells
+T9	Organ 2060 2065	brain
+T10	Multi-tissue_structure 2084 2095	hippocampus
+T11	Cellular_component 2222 2231	Fibrillar
+T12	Organ 2497 2502	brain
+T14	Organism_substance 2593 2599	plasma
+T15	Organism_substance 2612 2618	Plasma
+T16	Cellular_component 2782 2789	fibrils
+T18	Organ 2906 2911	brain
+T17	Cellular_component 3127 3136	membranes
+T19	Organism_substance 3327 3338	lipid rafts
+T20	Organ 3532 3540	AD brain
+T13	Cell 2575 2585	cellularly
+T21	Organism_substance 3255 3266	lipid rafts
+T22	Organ 614 620	brains
+T23	Pathological_formation 595 601	plaque
+T24	Cellular_component 793 799	fibril

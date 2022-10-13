@@ -1,0 +1,2 @@
+Refinement
+The H-atoms were positioned geometrically (O-H = 0.82, C-H = 0.93 A) and were included in the refinement in the riding model approximation, with Uiso(H) = xUeq(C, O), where x = 1.2 for all H-atoms.

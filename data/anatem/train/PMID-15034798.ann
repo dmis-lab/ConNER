@@ -1,0 +1,10 @@
+T2	Cancer 37 42	tumor
+T3	Cancer 201 207	cancer
+T5	Cancer 245 250	tumor
+T7	Cancer 367 372	tumor
+T9	Cell 450 458	cellular
+T12	Cell 575 592	endothelial cells
+T13	Cellular_component 606 623	basement membrane
+T17	Cell 720 736	endothelial cell
+T30	Cell 1220 1246	prostate cancer PC-3 cells
+T31	Cancer 1295 1300	tumor

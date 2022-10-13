@@ -1,0 +1,13 @@
+T1	Cancer 98 104	cancer
+T2	Cancer 172 178	cancer
+T3	Cancer 444 450	cancer
+T4	Cancer 533 539	cancer
+T5	Organism_substance 902 907	serum
+T6	Organism_substance 947 952	serum
+T7	Organism_substance 1510 1515	serum
+T8	Organism_substance 1349 1361	blood sample
+T9	Multi-tissue_structure 857 867	glomerular
+T10	Organism_substance 354 359	serum
+T11	Cancer 232 238	cancer
+T12	Organism_subdivision 514 518	oral
+T13	Organism_subdivision 601 605	body

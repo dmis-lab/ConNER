@@ -1,0 +1,22 @@
+T3	Cancer 150 189	metastatic oral squamous cell carcinoma
+T6	Cancer 324 331	cancers
+T7	Cancer 343 347	OSCC
+T9	Cancer 450 454	OSCC
+T10	Cell 467 480	OSCC sublines
+T12	Cell 520 538	parental cell line
+T13	Cell 540 544	GSAS
+T14	Cell 561 568	GSAS/N3
+T15	Cell 573 575	N5
+T16	Multi-tissue_structure 622 641	cervical lymph node
+T17	Cell 754 759	cells
+T20	Cancer 932 937	tumor
+T24	Cell 1082 1089	GSAS/N5
+T26	Cancer 1134 1147	tongue tumors
+T27	Cell 1192 1210	metastatic GSAS/N3
+T28	Cell 1215 1223	N5 cells
+T30	Cell 1361 1366	cells
+T39	Cell 1560 1576	metastatic cells
+T41	Cancer 1620 1632	tongue tumor
+T42	Cell 1643 1650	GSAS/N5
+T45	Cancer 1779 1792	tongue tumors
+T48	Cancer 1945 1960	metastatic OSCC

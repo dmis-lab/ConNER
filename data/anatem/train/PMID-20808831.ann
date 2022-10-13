@@ -1,0 +1,27 @@
+T1	Cellular_component 15 22	nuclear
+T4	Cancer 102 115	breast cancer
+T10	Cancer 426 446	breast cancer tissue
+T11	Cellular_component 466 473	nuclear
+T13	Multi-tissue_structure 501 511	lymph node
+T15	Cancer 588 613	invasive ductal carcinoma
+T18	Cell 672 696	breast cancer cell lines
+T21	Cellular_component 783 790	nuclear
+T23	Cellular_component 858 865	nuclear
+T27	Cellular_component 995 1002	nuclear
+T28	Cell 1027 1046	breast cancer cells
+T31	Cell 1102 1113	MCF-7 cells
+T33	Cell 1171 1175	cell
+T37	Cell 1278 1294	MDA-MB-231 cells
+T45	Cell 1505 1509	cell
+T47	Cell 1622 1641	breast cancer cells
+T51	Multi-tissue_structure 1814 1824	lymph node
+T52	Cancer 1857 1889	invasive ductal breast carcinoma
+T55	Cancer 1961 1975	breast cancers
+T58	Organism_substance 2040 2049	cytoplasm
+T59	Cellular_component 2055 2062	nuclear
+T61	Cell 2095 2099	cell
+T62	Cell 2109 2113	cell
+T63	Cellular_component 2147 2154	nuclear
+T65	Cancer 2176 2189	breast cancer
+T66	Cancer 2207 2213	cancer
+T67	Cell 2334 2352	breast cancer cell

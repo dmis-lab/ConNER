@@ -1,0 +1,2 @@
+Mapping of the L-methylmalonyl-CoA mutase gene to mouse chromosome 17.
+In humans, methylmalonyl acidemia is caused by a deficiency of L-methylmalonyl-CoA mutase (MUT) controlled by a gene that has been mapped to chromosome 6. The mouse homolog of this gene has now been mapped to mouse chromosome 17. Recombinant inbred and congenic strains place the mouse Mut locus 1.06 cM distal to H-2, between Pgk-2 and Ce-2. The relative order of syntenic probes flanking H-2 on mouse chromosome 17 and HLA on human chromosome 6 is shown to be different.

@@ -1,0 +1,24 @@
+T21	Cancer 47 62	hemangiosarcoma
+T22	Cancer 132 148	hemangiosarcomas
+T23	Cancer 374 390	hemangiosarcomas
+T24	Tissue 473 479	tissue
+T25	Cell 519 535	endothelial cell
+T26	Cancer 561 576	hemangiosarcoma
+T27	Multi-tissue_structure 604 615	bone marrow
+T28	Organ 622 627	liver
+T9	Cancer 752 767	hemangiosarcoma
+T10	Cell 852 862	macrophage
+T11	Organ 898 903	liver
+T12	Tissue 943 949	tissue
+T13	Organ 965 970	liver
+T14	Organ 975 981	spleen
+T15	Organ 1057 1063	spleen
+T16	Cancer 1185 1200	hemangiosarcoma
+T17	Tissue 1284 1290	tissue
+T18	Organ 1318 1324	spleen
+T19	Cancer 1413 1428	hemangiosarcoma
+T20	Cancer 1589 1604	hemangiosarcoma
+T36	Multi-tissue_structure 617 619	BM
+T37	Organ 633 639	spleen
+T38	Multi-tissue_structure 1068 1070	BM
+T39	Multi-tissue_structure 1329 1331	BM

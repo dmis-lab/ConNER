@@ -1,0 +1,20 @@
+T3	Cancer 20 33	breast cancer
+T4	Cancer 87 100	breast cancer
+T13	Cancer 352 365	breast cancer
+T16	Cancer 448 461	breast cancer
+T18	Tissue 557 578	breast cancer tissues
+T19	Tissue 604 611	tissues
+T26	Cancer 720 733	breast cancer
+T27	Tissue 748 762	breast tissues
+T32	Cellular_component 838 852	cell membranes
+T33	Cancer 886 892	cancer
+T34	Tissue 913 920	tissues
+T36	Cellular_component 948 961	cell membrane
+T37	Organism_substance 966 975	cytoplasm
+T38	Tissue 1029 1043	cancer tissues
+T40	Cellular_component 1074 1088	cell membranes
+T41	Tissue 1092 1109	carcinoma tissues
+T42	Tissue 1143 1157	breast tissues
+T44	Cell 1198 1206	cellular
+T45	Multi-tissue_structure 1224 1234	lymph node
+T48	Organism_subdivision 1381 1387	breast

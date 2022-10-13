@@ -1,0 +1,16 @@
+T2	Cancer 30 35	tumor
+T4	Cancer 140 157	gastric carcinoma
+T11	Cancer 408 415	cancers
+T12	Cancer 427 441	gastric cancer
+T15	Cancer 567 584	gastric carcinoma
+T16	Cancer 603 608	tumor
+T17	Cancer 637 642	tumor
+T21	Cancer 796 813	gastric carcinoma
+T22	Cell 814 829	OCUM-2MLN cells
+T25	Cell 887 902	OCUM-2MLN cells
+T27	Cancer 992 1015	subcutaneous xenografts
+T29	Cancer 1073 1079	tumors
+T31	Cancer 1223 1229	tumors
+T33	Cancer 1267 1273	tumors
+T38	Cancer 1391 1397	tumors
+T41	Cancer 1509 1526	gastric carcinoma

@@ -1,0 +1,17 @@
+T13	Cell 173 190	endothelial cells
+T14	Cell 192 194	EC
+T21	Cell 232 234	EC
+T25	Cell 296 316	prostate tumor cells
+T28	Cancer 346 351	tumor
+T38	Cell 579 581	EC
+T51	Cell 831 833	EC
+T55	Cell 901 923	breast carcinoma cells
+T79	Cell 1332 1334	EC
+T81	Cell 1381 1391	tumor cell
+T83	Cell 1401 1403	EC
+T65	Cell 860 865	cells
+T85	Cell 986 991	cells
+T88	Immaterial_anatomical_entity 505 518	intracellular
+T89	Immaterial_anatomical_entity 792 805	intercellular
+T40	Cellular_component 162 169	surface
+T90	Cellular_component 1321 1328	surface

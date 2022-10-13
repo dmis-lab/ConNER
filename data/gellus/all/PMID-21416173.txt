@@ -1,0 +1,9 @@
+Predictive value of serum carbohydrate antigen 19-9 in malignant intraductal papillary mucinous neoplasms.
+BACKGROUND:
+The goal of the present study was to evaluate the predictive value of serum carbohydrate antigen 19-9 (CA 19-9) in the diagnosis of malignant intraductal papillary mucinous neoplasms of pancreas (IPMNs).
+METHODS:
+Eighty-six patients with pathological diagnosis of IPMNs in Zhongshan Hospital between March 1999 and November 2008 were retrospectively reviewed. Data reflecting clinical characteristics, tumor marker level, and prognosis were collected. The potential predictive value of CA 19-9 was analyzed by receiver operating characteristic (ROC) curve.
+RESULTS:
+Eighty-six consecutive patients with IPMNs all underwent surgical intervention. A high level of CA 19-9 or carcinoembryonic antigen (CEA) was associated with more advanced stage of malignant IPMNs. Carbohydrate antigen 19-9 was significant for judging malignant IPMNs in the binary logistic regression model (p=0.047). The hazard ratio was 1.014, whose 95.0% confidence interval was 0.91-1.028. Receiver operating characteristic analysis showed that the serum CA 19-9 level had good predictive value for malignant or invasive IPMNs, postoperative survival, and disease-specific recurrence. The area under the curve (AUC) was 0.856, 0.893, 0.815, and 0.857 (p<0.05), respectively. According to the follow-up, mean survival time for groups with CA 19-9>63.60 U/ml was dramatically shorter than that for groups with CA 19-9<=63.60 U/ml (57.38+/-2.85 versus 29.24+/-5.82 [months]; p<0.01).
+CONCLUSIONS:
+Serum CA 19-9 level has good predictive value for malignant or invasive IPMNs. Patients with CA 19-9 > 63.60 U/ml had poor postoperative prognosis in IPMNs. Preoperative abnormal serum CA 19-9 might be predictive for an aggressive surgical intervention in IPMNs.

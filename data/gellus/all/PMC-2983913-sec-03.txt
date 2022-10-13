@@ -1,0 +1,16 @@
+Crystal data
+C24H21ClN4O2S
+M r = 464.96
+Triclinic, 
+a = 8.6798 (18) A
+b = 11.078 (2) A
+c = 11.372 (2) A
+alpha = 78.984 (7)degrees
+beta = 81.867 (10)degrees
+gamma = 81.718 (11)degrees
+V = 1054.8 (4) A3
+Z = 2
+Cu Kalpha radiation
+mu = 2.78 mm-1
+T = 113 K
+0.28 x 0.24 x 0.20 mm

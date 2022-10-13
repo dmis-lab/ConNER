@@ -1,0 +1,37 @@
+T2	Multi-tissue_structure 88 97	inner ear
+T3	Developing_anatomical_structure 116 136	ectodermal primordia
+T4	Multi-tissue_structure 179 188	hindbrain
+T5	Developing_anatomical_structure 205 215	primordium
+T6	Tissue 250 268	ectodermal surface
+T1	Developing_anatomical_structure 20 32	otic placode
+T7	Immaterial_anatomical_entity 294 302	otic pit
+T8	Tissue 361 379	epithelial surface
+T9	Developing_anatomical_structure 421 435	embryonic axis
+T10	Developing_anatomical_structure 463 478	rhombencephalon
+T11	Developing_anatomical_structure 484 504	somitomeric mesoderm
+T12	Tissue 539 546	cranial
+T13	Tissue 551 563	caudal folds
+T14	Developing_anatomical_structure 585 589	axis
+T15	Immaterial_anatomical_entity 626 629	pit
+T16	Developing_anatomical_structure 683 698	otic primordium
+T17	Multi-tissue_structure 757 768	neural tube
+T18	Immaterial_anatomical_entity 817 825	otic pit
+T19	Cell 860 877	mesenchymal cells
+T20	Organism_subdivision 979 983	otic
+T21	Developing_anatomical_structure 1044 1059	organ primordia
+T22	Tissue 791 795	fold
+T23	Organ 1073 1076	eye
+T24	Organ 1081 1088	thyroid
+T25	Developing_anatomical_structure 1110 1119	primordia
+T26	Cellular_component 1260 1272	cytoskeleton
+T27	Developing_anatomical_structure 1320 1332	otic placode
+T28	Immaterial_anatomical_entity 1433 1441	otic pit
+T29	Developing_anatomical_structure 1499 1508	primordia
+T30	Organism_subdivision 1537 1541	otic
+T31	Tissue 1599 1606	tissues
+T32	Developing_anatomical_structure 1659 1669	primordium
+T33	Tissue 392 396	fold
+T34	Multi-tissue_structure 734 749	lateral surface
+T35	Tissue 348 353	folds
+T36	Tissue 600 605	folds
+T37	Immaterial_anatomical_entity 232 242	depression

@@ -1,0 +1,9 @@
+[Quantitative analysis of regional cerebral blood flow in elderly with white matter lesions].
+OBJECTIVE:
+To observe whether the severity of white matter lesions (WML) is related to ischemia in elderly.
+METHODS:
+WML were divided into 2 categories (centrum semiovale and periventricular regions) and four grades (grade 0, grade 1, grade 2 and grade 3) according to the severity of WML showing on the FLAIR sequence of MRI using modified Fazekas scale. The values of regional cerebral blood flow (rCBF) within WML and other brain regions were measured using Xenon contrast CT.
+RESULTS:
+Mean rCBF (ml x 100 g(-1) x min(-1)) within lesions around periventricular areas, in right and left centrum semiovale were 20.8 +/- 2.8, 22.3 +/- 1.9 and 22.2 +/- 2.1 in grade 0; 20.3 +/- 2.5, 21.3 +/- 1.0 and 21.0 +/- 1.8 in grade1; 16.3 +/- 2.0, 15.6 +/- 1.7 and 15.9 +/- 0.9 in grade 2; 14.1 +/- 2.6, 14.5 +/- 2.2 and 14.2 +/- 1.9 in grade 3 respectively. The severity of WML is associated significantly with reduction of rCBF within lesions both in centrum semiovale and periventricular regions (all P < 0.05). There was no significant difference in rCBF values between grade 0 and 1, but significant differences existed between grade 0 and grades 2 and 3, between grade 1 and grades 2 and 3 (all P < 0.05). Statistical significance also existed between the severity of white matter lesions and rCBF in bilateral temporal lobes and lentiform nucleases (P < 0.05).
+CONCLUSIONS:
+The severity of WML both in centrum semiovale and periventricular regions is associated significantly with reduction of rCBF within lesions.

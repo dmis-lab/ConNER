@@ -1,0 +1,24 @@
+T1	Organism_substance 10 30	platelet-rich plasma
+T5	Organ 75 89	calvarial bone
+T6	Organism_substance 156 176	platelet-rich plasma
+T9	Organism_substance 178 181	PRP
+T10	Organism_substance 315 318	PRP
+T11	Organism_substance 323 343	platelet-poor plasma
+T14	Organism_substance 345 348	PPP
+T15	Organ 378 382	bone
+T16	Organ 431 435	bone
+T17	Organ 464 478	parietal bones
+T19	Organism_substance 557 560	PPP
+T20	Organism_substance 566 569	PRP
+T21	Organ 764 769	bones
+T22	Tissue 842 856	bone trabecula
+T24	Multi-tissue_structure 882 893	bone marrow
+T25	Tissue 898 915	connective tissue
+T26	Organ 1106 1110	bone
+T28	Organ 1173 1177	bone
+T29	Organism_substance 1317 1320	PRP
+T30	Organism_substance 1325 1328	PPP
+T31	Organ 1361 1365	bone
+T32	Organism_substance 1493 1496	PRP
+T35	Cell 1577 1585	platelet
+T36	Organism_substance 1634 1637	PRP

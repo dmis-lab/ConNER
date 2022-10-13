@@ -1,0 +1,15 @@
+T1	Organ 28 33	renal
+T2	Organ 212 218	kidney
+T3	Immaterial_anatomical_entity 673 691	renal interstitial
+T4	Organ 531 536	renal
+T5	Tissue 797 821	renal tubular epithelium
+T6	Multi-tissue_structure 826 837	vasculature
+T7	Organ 910 916	kidney
+T8	Organism_substance 931 938	urinary
+T9	Organism_substance 1009 1014	urine
+T10	Immaterial_anatomical_entity 1114 1132	renal interstitial
+T11	Organism_substance 1199 1206	urinary
+T12	Organism_substance 1276 1281	urine
+T13	Organism_substance 1420 1425	blood
+T14	Organ 1459 1464	renal
+T15	Organ 1738 1743	renal

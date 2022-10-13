@@ -1,0 +1,9 @@
+Antibiotic-induced persistence of cytotoxic Staphylococcus aureus in non-phagocytic cells.
+OBJECTIVES:
+After infection of non-phagocytic cells, some Staphylococcus aureus strains are able to survive and kill their host cells. The purpose of this study was to determine the action of various antibiotics on the survival of host cells and/or intracellular S. aureus.
+METHODS:
+Murine keratinocyte (PAM212) and fibroblast (mKSA) cell lines were infected with cytotoxic S. aureus and cultured in the presence of various antibiotics at graded concentrations. The viability of host cells was measured 24 h after infection. To determine the bacterial viability within host cells, cellular lysates were prepared and colony forming units were quantified using a spiral plater. Host cells infected with fluorescein isothiocyanate (FITC)-labelled S. aureus were analysed by flow cytometry and microscopy to determine the subcellular localization S. aureus.
+RESULTS:
+Oxacillin, vancomycin, gentamicin, ciprofloxacin and trimethoprim/sulfamethoxazole did not rescue host cells from cell death induced by intracellular S. aureus. In contrast, linezolid, rifampicin, azithromycin, clindamycin, erythromycin and quinupristin/dalfopristin suppressed the cytotoxic action of S. aureus. After withdrawal of antibiotics, intracellular S. aureus regained cytotoxic activity and killed their host cells. Only rifampicin was able to eliminate intracellular S. aureus completely within 72 h. In contrast, clindamycin, azithromycin and linezolid induced a state of intracellular persistence of viable S. aureus.
+CONCLUSIONS:
+Antibiotics commonly used for the management of S. aureus infections appear to create a niche for invasive intracellular S. aureus, which may play an important role for persistence and recurrence of infection. Because of its unique ability to eliminate intracellular S. aureus, rifampicin appears to be valuable for the treatment of invasive S. aureus infections.

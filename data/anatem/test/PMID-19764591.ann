@@ -1,0 +1,17 @@
+T7	Multi-tissue_structure 174 185	bone marrow
+T14	Cell 467 484	endothelial cells
+T11	Cell 1252 1255	WBC
+T15	Cell 1260 1268	platelet
+T37	Cell 1070 1075	cells
+T38	Cell 28 36	cellular
+T40	Cancer 107 132	chronic myeloid leukaemia
+T41	Cancer 219 244	chronic myeloid leukaemia
+T42	Cancer 246 249	CML
+T43	Cancer 763 766	CML
+T44	Cancer 810 813	CML
+T45	Cancer 1110 1113	CML
+T46	Cancer 1785 1788	CML
+T47	Cancer 1977 1980	CML
+T48	Cancer 1922 1925	CML
+T50	Cancer 634 659	chronic myeloid leukaemia
+T51	Pathological_formation 1550 1562	splenomegaly

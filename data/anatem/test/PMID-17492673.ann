@@ -1,0 +1,34 @@
+T3	Multi-tissue_structure 461 472	vasculature
+T4	Organ 927 935	placenta
+T6	Cancer 1341 1346	tumor
+T9	Multi-tissue_structure 1439 1447	vascular
+T11	Tissue 1536 1545	capillary
+T15	Multi-tissue_structure 1610 1621	vasculature
+T17	Multi-tissue_structure 1671 1679	vascular
+T13	Multi-tissue_structure 354 370	capillary meshes
+T18	Multi-tissue_structure 585 600	radial arteries
+T19	Tissue 691 700	Capillary
+T20	Organ 1183 1192	placental
+T21	Tissue 655 666	capillaries
+T23	Organism_subdivision 28 37	caruncles
+T25	Organism_subdivision 137 146	caruncles
+T26	Organism_subdivision 306 315	caruncles
+T29	Tissue 1110 1119	sinusoids
+T40	Organ 1207 1216	Placental
+T8	Tissue 104 117	Microvascular
+T10	Cancer 1423 1429	cancer
+T14	Cancer 1736 1742	cancer
+T16	Immaterial_anatomical_entity 976 986	interhemal
+T34	Organ 1010 1027	endotheliochorial
+T41	Organ 1032 1049	hemochorial types
+T42	Multi-tissue_structure 1124 1130	crypts
+T43	Tissue 800 809	sinusoids
+T45	Tissue 824 833	sinusoids
+T46	Developing_anatomical_structure 898 903	fetal
+T47	Tissue 1485 1495	sinusoidal
+T48	Multi-tissue_structure 573 581	branches
+T1	Multi-tissue_structure 409 415	crypts
+T2	Tissue 854 866	surface area
+T5	Multi-tissue_structure 291 298	surface
+T7	Multi-tissue_structure 499 506	surface
+T12	Multi-tissue_structure 682 689	surface

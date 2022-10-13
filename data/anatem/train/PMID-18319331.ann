@@ -1,0 +1,24 @@
+T2	Cancer 89 101	fibrosarcoma
+T5	Cancer 264 284	soft-tissue sarcomas
+T6	Cancer 296 312	malignant tumors
+T7	Tissue 326 345	mesenchymal tissues
+T8	Cell 368 375	HT-1080
+T9	Cell 377 380	NCI
+T10	Cell 386 422	Shac fibrosarcoma-derived cell lines
+T19	Cell 698 702	cell
+T20	Cell 755 759	cell
+T22	Immaterial_anatomical_entity 807 820	extracellular
+T26	Cell 991 1001	cell lines
+T27	Cancer 1015 1046	malignant fibrous histiocytomas
+T28	Cancer 1048 1063	leiomyosarcomas
+T29	Cancer 1069 1081	liposarcomas
+T32	Cancer 1133 1145	fibrosarcoma
+T33	Cell 1198 1206	cellular
+T34	Cancer 1285 1290	tumor
+T35	Multi-tissue_structure 1296 1302	vessel
+T36	Organism_substance 1337 1342	serum
+T38	Cancer 1507 1512	tumor
+T39	Cancer 1622 1627	tumor
+T40	Tissue 1639 1655	nontumor tissues
+T43	Cancer 1833 1846	fibrosarcomas
+T44	Cancer 1865 1886	proliferative lesions

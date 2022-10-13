@@ -1,0 +1,1 @@
+Mean differences of scores with baseline of the 22 patients who competed all QLQ-C30 questionnaires - symptoms scores.

@@ -1,0 +1,26 @@
+T1	Cancer 53 68	prostate cancer
+T2	Cancer 71 86	Prostate cancer
+T4	Cancer 252 257	tumor
+T6	Cancer 460 485	prostate cancer xenograft
+T7	Cell 494 500	LAPC-4
+T8	Cell 502 508	LAPC-9
+T9	Cell 510 513	PC3
+T10	Cell 518 527	CWR22Rv-1
+T11	Cell 547 552	cells
+T13	Cancer 657 662	tumor
+T15	Cancer 765 783	Metastatic lesions
+T16	Cancer 889 895	tumors
+T17	Cell 986 1019	low-metastatic LAPC-9 tumor cells
+T19	Cancer 1082 1092	metastases
+T20	Cell 1125 1134	CWR22Rv-1
+T21	Cell 1139 1159	PC3 tumor cell lines
+T22	Cell 1187 1193	LAPC-4
+T23	Cell 1240 1246	LAPC-9
+T25	Multi-tissue_structure 1396 1412	tumor lymphatics
+T27	Cell 1464 1470	LAPC-9
+T28	Cancer 1480 1485	tumor
+T29	Cancer 1534 1552	metastatic lesions
+T30	Multi-tissue_structure 1702 1718	tumor lymphatics
+T32	Cancer 1754 1769	prostate cancer
+T34	Cancer 1821 1836	prostate cancer
+T3	Cancer 753 763	metastases

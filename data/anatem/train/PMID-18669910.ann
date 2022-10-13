@@ -1,0 +1,39 @@
+T1	Cell 24 69	fetal membrane-derived mesenchymal stem cells
+T3	Organism_subdivision 121 130	hind limb
+T4	Cell 141 183	Bone marrow-derived mesenchymal stem cells
+T5	Cell 185 191	BM-MSC
+T6	Cell 248 252	cell
+T7	Tissue 264 270	tissue
+T8	Cell 369 391	mesenchymal stem cells
+T9	Cell 393 396	MSC
+T10	Multi-tissue_structure 411 426	fetal membranes
+T11	Multi-tissue_structure 428 430	FM
+T12	Cell 523 529	FM-MSC
+T14	Cell 648 654	BM-MSC
+T15	Cell 670 676	BM-MSC
+T16	Cell 678 684	FM-MSC
+T19	Cell 804 810	FM-MSC
+T20	Cell 815 821	BM-MSC
+T21	Cell 944 954	lymphocyte
+T22	Cell 978 996	lymphocyte culture
+T23	Cell 998 1004	FM-MSC
+T24	Cell 1008 1014	BM-MSC
+T27	Organism_subdivision 1113 1122	hind limb
+T28	Organism_substance 1162 1167	blood
+T29	Tissue 1182 1191	capillary
+T30	Cell 1233 1239	FM-MSC
+T31	Cell 1244 1250	BM-MSC
+T33	Cell 1318 1324	FM-MSC
+T34	Cell 1329 1335	BM-MSC
+T35	Tissue 1372 1389	hind limb tissues
+T36	Cell 1402 1408	FM-MSC
+T37	Cell 1413 1419	BM-MSC
+T38	Cell 1483 1495	T lymphocyte
+T39	Cell 1552 1571	splenic lymphocytes
+T40	Cell 1599 1605	FM-MSC
+T41	Cell 1633 1643	lymphocyte
+T43	Organism_subdivision 1722 1731	hind limb
+T44	Cell 1772 1778	BM-MSC
+T45	Cell 1810 1816	FM-MSC
+T46	Multi-tissue_structure 1879 1898	peripheral vascular
+T66	Cellular_component 568 575	surface

@@ -1,0 +1,11 @@
+T1	Cell 12 33	bone marrow stem cell
+T2	Cell 37 81	peripheral blood endothelial progenitor cell
+T4	Organism_subdivision 118 122	limb
+T5	Organism_substance 202 207	blood
+T6	Organism_subdivision 220 224	legs
+T8	Multi-tissue_structure 242 261	peripheral arterial
+T10	Organism_subdivision 295 299	limb
+T11	Cell 456 486	bone marrow-derived stem cells
+T12	Cell 491 519	endothelial progenitor cells
+T13	Multi-tissue_structure 558 571	blood vessels
+T14	Cell 658 680	bone marrow stem cells

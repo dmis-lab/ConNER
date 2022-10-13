@@ -1,0 +1,16 @@
+T2	Multi-tissue_structure 57 71	ovarian luteal
+T3	Multi-tissue_structure 116 129	corpus luteum
+T4	Multi-tissue_structure 131 133	CL
+T9	Multi-tissue_structure 375 377	CL
+T15	Organism_substance 588 593	serum
+T21	Organism_substance 744 749	serum
+T23	Organ 838 859	superovulated ovaries
+T25	Cell 899 920	cultured luteal cells
+T29	Organ 1080 1087	ovaries
+T31	Cell 1165 1170	cells
+T33	Cell 1253 1270	endothelial cells
+T35	Multi-tissue_structure 1366 1377	vasculature
+T36	Organism_substance 1414 1419	serum
+T38	Organ 1462 1469	ovarian
+T40	Multi-tissue_structure 1539 1563	luteal capillary vessels
+T43	Multi-tissue_structure 1718 1720	CL

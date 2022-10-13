@@ -1,0 +1,12 @@
+T15	Cancer 64 79	thyroid tumours
+T16	Pathological_formation 318 324	benign
+T17	Cancer 329 354	malignant thyroid tumours
+T18	Cancer 831 849	thyroid carcinomas
+T19	Cancer 947 954	tumours
+T20	Cancer 1043 1053	carcinomas
+T21	Cancer 1136 1153	thyroid carcinoma
+T22	Pathological_formation 1325 1331	benign
+T23	Cancer 1336 1363	malignant thyroid neoplasia
+T11	Organ 33 40	thyroid
+T13	Cancer 476 497	thyroid toxic adenoma
+T26	Organ 1222 1229	thyroid

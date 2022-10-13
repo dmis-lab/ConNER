@@ -1,0 +1,12 @@
+T4	Cancer 76 85	melanomas
+T5	Cancer 88 106	Malignant melanoma
+T7	Cancer 310 318	melanoma
+T10	Cancer 435 443	melanoma
+T11	Cell 461 471	melanocyte
+T16	Cancer 575 583	melanoma
+T17	Multi-tissue_structure 602 613	lymph nodes
+T18	Organ 618 623	lungs
+T20	Cancer 689 694	tumor
+T25	Cancer 769 786	metastatic tumors
+T28	Cancer 857 866	melanomas
+T30	Cancer 945 953	melanoma

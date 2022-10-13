@@ -1,0 +1,9 @@
+Investigation of the effect of kaolin and tissue-factor-activated citrated whole blood, on clot-forming variables, as evaluated by thromboelastography.
+BACKGROUND:
+The Thrombelastograph (TEG; Haemoscope Corp.) analyzes clot formation in whole blood (WB) and treatment based on this analysis has been shown to reduce transfusion requirements in liver and cardiac surgery when compared to conventional coagulation analysis. Implementing TEG as a routine laboratory-based analysis, however, requires validation of the activators employed and the effect of storage of the WB sample in citrate before analysis.
+STUDY DESIGN AND METHODS:
+The effect of kaolin, tissue factor (TF) 1:17,000, or TF 1:42,500 on TEG clotting time (R), Angle (velocity of clot formation), and maximum clot strength (amplitude [MA]) were evaluated, together with day-to-day variation, the coefficient of variance (CV%), and the effect of citrate storage time.
+RESULTS:
+Clot formation variables were equally affected by TF 1:17,000 and kaolin activation, whereas R was significantly longer when TF 1:42,500 was used. The CV for the different variables varied from 3 to 13 percent with no significant differences between assays. Storage of citrated WB significantly affected the TEG variables in a hypercoagulable direction. Only the R, however, was significantly affected (12%) when samples rested for 0 and 30 minutes were evaluated with kaolin as the activator.
+CONCLUSION:
+The TEG assays evaluated were reproducible and present with an acceptable CV% for routine clinical practice. Kaolin and TF 1:17,000 equally affected the clot formation variables. Storage of WB for up to 30 minutes in citrate did not, except for R, affect clot formation variables when kaolin was used as activator allowing for immediate analysis when the sample arrives in the laboratory.

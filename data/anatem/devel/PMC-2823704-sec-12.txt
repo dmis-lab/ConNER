@@ -1,0 +1,19 @@
+School environment
+At the majority of the schools a soft drink vending machine (91%, n = 446) and/or a vending machine containing sweets and candy bars (81%, n = 413) is present (Table 2). At 78% (n = 393) of the schools there is a supermarket, gas station or a fast food restaurant in the neighbourhood (within 1 km of the school). At 68% (n = 345) of the schools there are facilities at or around the school property where the students can be physically active, for example a soccer field or a basketball field.
+Table 2
+The school environment
+Total School level
+Vocational education schools Mixed schools Higher education schools Vocational education schools versus higher education schools# Mixed schools versus higher education schools#
+n = 515 n = 216 n = 232 n = 67
+% (n) % (n) % (n) % (n) OR (95%CI) OR (95%CI)
+Soft drink vending machine present at school 91.4 (466) 90.2 (194) 91.3 (209) 95.5 (63) 1.0 (0.9;1.1) 1.0 (0.9;1.0)
+Percentage of soft drink vending machines present at school that contain light soft drinks 79.8 (372) 75.4 (147) 82.2 (171) 85.7 (54) 0.9 (0.8;1.0) 1.0 (0.9;1.1)
+Soft drink vending machines contain more unhealthy drinks than healthy drinks 57.9 (268) 61.9 (120) 58.5 (121) 43.6 (27) 1.4 (1.0;1.9) 1.4 (1.0;1.9)*
+Vending machine present at school that contains sweets/candy bars 80.7 (413) 75.6 (161) 84.9 (197) 82.1 (55) 1.1 (0.9;1.2) 1.1 (1.0;1.2)
+Sweets/candy bars vending machines contain more unhealthy than healthy foods 63.7 (260) 70.6 (113) 64.4 (125) 40.7 (22) 1.7 (1.2;2.4)* 1.6 (1.1;2.3)*
+There is a supermarket, gas station, or fast food restaurant in the neighbourhood of the school 78.3 (393) 76.7 (161) 79.7 (181) 78.5 (51) 1.1 (0.9;1.2) 1.1 (0.9;1.2)
+The students are allowed to leave the school property during school hours 57.4 (295) 42.6 (92) 65.8 (152) 76.1 (51) 0.6 (0.5;0.8)* 0.9 (0.8;1.0)
+There are facilities at and around the school property where the students can be physically active 68.1 (345) 63.1 (135) 70.3 (161) 76.6 (49) 0.8 (0.7;1.0) 0.9 (0.8;1.1)
+# Associations are adjusted for school size
+* p < 0.05
+The vocational education schools did not differ from the higher education schools with regard to the presence of vending machines and a canteen, but the vending machines and the canteen contained a less favourable selection of foods and drinks. The vocational education schools indicated more often that the vending machines and the canteen contained more unhealthy foods and drinks than healthy foods and drinks. Vocational education schools had fewer facilities at and around the school property to be physical than the higher education schools. Most associations were attenuated after adjustment for school size. For example, the association between school level and content of the soft drink vending machines was OR = 1.42, 95%CI: 1.05-1.93 in the crude analysis and OR = 1.35, 95%CI: 0.99-1.85 in the adjusted analysis.

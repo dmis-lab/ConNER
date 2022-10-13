@@ -1,0 +1,11 @@
+T2	Cancer 33 38	tumor
+T4	Cancer 116 121	tumor
+T5	Cell 215 220	cells
+T7	Cell 341 345	cell
+T8	Cell 420 425	cells
+T9	Cell 449 453	cell
+T11	Cancer 697 703	cancer
+T14	Cellular_component 891 904	mitochondrial
+T17	Cell 993 998	cells
+T20	Cellular_component 1204 1217	mitochondrial
+T21	Cell 1322 1334	cancer cells

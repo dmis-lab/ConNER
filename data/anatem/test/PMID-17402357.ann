@@ -1,0 +1,10 @@
+T1	Multi-tissue_structure 25 46	right coronary artery
+T2	Immaterial_anatomical_entity 56 66	left sinus
+T3	Multi-tissue_structure 217 238	right coronary artery
+T4	Immaterial_anatomical_entity 268 278	left sinus
+T5	Multi-tissue_structure 373 394	right coronary artery
+T6	Immaterial_anatomical_entity 404 421	left aortic sinus
+T7	Multi-tissue_structure 443 448	aorta
+T8	Multi-tissue_structure 457 472	pulmonary trunk
+T9	Organ 556 563	cardiac
+T10	Multi-tissue_structure 595 603	coronary

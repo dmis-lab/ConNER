@@ -1,0 +1,20 @@
+T2	Organism_substance 28 32	sera
+T4	Cancer 76 81	tumor
+T6	Cancer 95 101	cancer
+T9	Organism_substance 189 193	sera
+T11	Cancer 218 224	tumors
+T13	Cell 244 253	cell line
+T17	Organism_substance 422 427	serum
+T18	Cancer 453 458	tumor
+T21	Cancer 535 542	tumours
+T23	Organism_substance 585 589	sera
+T25	Cancer 612 618	cancer
+T28	Cancer 683 698	adenocarcinomas
+T29	Organ 706 713	stomach
+T32	Cancer 827 833	cancer
+T33	Organism_substance 859 864	serum
+T35	Cancer 897 903	breast
+T36	Cancer 907 912	colon
+T37	Cancer 916 920	lung
+T38	Cancer 924 931	ovarian
+T39	Cancer 938 963	hepatocellular carcinomas

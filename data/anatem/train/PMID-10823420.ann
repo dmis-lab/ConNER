@@ -1,0 +1,17 @@
+T3	Cancer 25 36	lung cancer
+T4	Cancer 117 128	lung cancer
+T6	Cell 410 432	lung cancer cell lines
+T7	Cancer 484 496	lung cancers
+T14	Cancer 696 701	tumor
+T18	Cellular_component 808 815	surface
+T20	Cancer 868 873	tumor
+T21	Cell 899 921	lung cancer cell lines
+T23	Cellular_component 952 959	surface
+T24	Cancer 974 980	tumors
+T26	Cancer 1019 1025	tumors
+T27	Cancer 1093 1099	tumors
+T29	Multi-tissue_structure 1148 1153	nodal
+T31	Cancer 1218 1224	tumors
+T36	Cancer 1442 1447	tumor
+T38	Cancer 1578 1589	lung cancer
+T57	Cellular_component 465 472	surface

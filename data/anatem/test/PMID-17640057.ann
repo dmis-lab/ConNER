@@ -1,0 +1,19 @@
+T29	Cell 73 86	leukemic-cell
+T30	Cancer 170 176	cancer
+T31	Cancer 315 320	tumor
+T32	Cell 423 442	leukemia cell lines
+T35	Cellular_component 540 553	mitochondrial
+T36	Cellular_component 745 758	mitochondrial
+T37	Cell 789 793	cell
+T38	Cellular_component 918 931	mitochondrial
+T39	Cellular_component 1022 1035	mitochondrial
+T40	Immaterial_anatomical_entity 1135 1148	intracellular
+T41	Cell 1492 1511	leukemia cell lines
+T42	Cell 1675 1692	primary AML cells
+T43	Cell 1712 1717	cells
+T44	Cell 1781 1796	malignant cells
+T45	Cancer 1866 1872	cancer
+T46	Cancer 1925 1933	leukemia
+T52	Cellular_component 630 637	nuclear
+T18	Cell 1665 1670	HL-60
+T63	Cell 447 490	primary acute myeloid leukemia (AML) blasts

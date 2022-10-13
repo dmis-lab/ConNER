@@ -1,0 +1,23 @@
+T4	Cancer 38 52	primary tumors
+T5	Cancer 57 78	lymph node metastases
+T6	Cancer 82 110	oral squamous cell carcinoma
+T8	Cancer 232 244	malignancies
+T12	Cancer 450 478	oral squamous cell carcinoma
+T19	Cancer 623 659	primary oral squamous cell carcinoma
+T20	Cancer 699 716	metastatic tumors
+T24	Cancer 804 809	tumor
+T25	Cell 845 856	tumor cells
+T29	Cancer 1104 1118	primary tumors
+T30	Cancer 1153 1174	lymph node metastases
+T33	Cancer 1294 1308	primary tumors
+T36	Cancer 1393 1413	primary oral cancers
+T37	Cancer 1436 1457	lymph node metastases
+T41	Cancer 1557 1571	primary tumors
+T42	Cancer 1625 1636	oral cancer
+T43	Cancer 1756 1772	metastatic tumor
+T44	Cancer 1812 1823	oral cancer
+T64	Cancer 612 619	samples
+T1	Cancer 1668 1678	metastases
+T2	Cancer 1526 1542	metastatic sites
+T3	Cancer 687 694	primary
+T7	Cancer 1744 1751	primary

@@ -1,0 +1,23 @@
+T2	Cancer 38 63	primary colorectal cancer
+T6	Cancer 161 178	malignant disease
+T7	Cancer 191 208	colorectal cancer
+T9	Cancer 277 294	colorectal tumors
+T11	Cancer 364 389	primary colorectal cancer
+T19	Cancer 650 681	primary human colorectal cancer
+T20	Cancer 696 725	lymph node metastasis samples
+T22	Cell 780 785	cells
+T30	Cancer 1208 1215	samples
+T31	Cell 1252 1263	tumor cells
+T32	Cellular_component 1282 1289	nuclear
+T33	Cellular_component 1301 1308	nuclear
+T34	Organism_substance 1313 1324	cytoplasmic
+T35	Cell 1366 1371	cells
+T37	Cancer 1393 1418	primary colorectal cancer
+T39	Cancer 1491 1504	rectal cancer
+T41	Cancer 1551 1563	colon tumors
+T46	Cancer 1777 1784	primary
+T49	Cancer 1937 1942	tumor
+T80	Cancer 394 415	lymph node metastases
+T3	Cancer 68 89	lymph node metastases
+T12	Cancer 1789 1810	lymph node metastases
+T47	Cancer 1096 1125	primary lymph node metastases

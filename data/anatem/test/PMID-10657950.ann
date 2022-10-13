@@ -1,0 +1,25 @@
+T24	Cancer 0 6	Tumour
+T25	Cancer 98 104	breast
+T26	Cancer 109 123	ovarian cancer
+T27	Cancer 156 162	breast
+T28	Cancer 167 182	ovarian cancers
+T29	Cancer 250 256	breast
+T30	Cancer 261 275	ovarian cancer
+T31	Cancer 379 385	breast
+T32	Cancer 390 405	ovarian cancers
+T33	Cancer 498 505	tumours
+T34	Cancer 576 582	breast
+T12	Cancer 587 605	ovarian carcinomas
+T13	Cancer 629 636	tumours
+T14	Cancer 774 780	breast
+T15	Cancer 785 799	ovarian cancer
+T16	Cancer 806 813	tumours
+T17	Cancer 834 846	colon cancer
+T18	Cancer 853 860	tumours
+T19	Cancer 978 984	breast
+T20	Cancer 989 1003	ovarian cancer
+T21	Cancer 1082 1089	tumours
+T22	Cancer 1158 1164	breast
+T23	Cancer 1169 1183	ovarian cancer
+T35	Cancer 879 889	leukaemias
+T66	Cancer 896 903	samples

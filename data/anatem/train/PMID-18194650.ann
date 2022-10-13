@@ -1,0 +1,8 @@
+T3	Tissue 37 48	endothelial
+T11	Multi-tissue_structure 228 236	vascular
+T13	Multi-tissue_structure 267 280	blood vessels
+T15	Organism_substance 317 323	plasma
+T16	Multi-tissue_structure 341 349	vascular
+T21	Tissue 583 602	endothelial barrier
+T34	Immaterial_anatomical_entity 1003 1015	paracellular
+T1	Cellular_component 968 998	endothelial cell-cell contacts

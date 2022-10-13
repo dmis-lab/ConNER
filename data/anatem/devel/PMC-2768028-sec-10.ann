@@ -1,0 +1,9 @@
+T1	Organ 159 166	hepatic
+T2	Cancer 569 581	liver tumors
+T3	Cellular_component 668 678	peroxisome
+T4	Cellular_component 1039 1049	peroxisome
+T5	Cellular_component 1534 1544	peroxisome
+T6	Cellular_component 2022 2032	peroxisome
+T7	Cell 858 871	h-hepatocytes
+T8	Cell 893 898	cells
+T9	Organism_substance 1763 1768	serum

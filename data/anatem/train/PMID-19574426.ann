@@ -1,0 +1,23 @@
+T4	Cell 161 177	endothelial cell
+T9	Multi-tissue_structure 380 392	blood vessel
+T10	Cancer 465 470	tumor
+T13	Multi-tissue_structure 537 548	bone marrow
+T16	Cell 688 699	endothelial
+T17	Cell 709 718	leukocyte
+T19	Pathological_formation 738 743	wound
+T20	Cell 765 769	cell
+T21	Cell 782 812	PECAM-1-null endothelial cells
+T23	Cellular_component 849 858	filopodia
+T24	Cell 890 895	cells
+T25	Cell 914 944	PECAM-1-null endothelial cells
+T28	Cell 965 982	endothelial cells
+T32	Cellular_component 1091 1100	filopodia
+T35	Cellular_component 1220 1229	filopodia
+T36	Multi-tissue_structure 1249 1268	retinal vasculature
+T37	Cellular_component 1280 1306	long filamentous filopodia
+T38	Cell 1323 1340	endothelial cells
+T39	Tissue 1367 1374	sprouts
+T42	Cell 1519 1530	endothelial
+T45	Cell 1604 1620	endothelial cell
+T46	Cellular_component 1660 1669	filopodia
+T1	Immaterial_anatomical_entity 423 435	subcutaneous

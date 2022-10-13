@@ -1,0 +1,17 @@
+T2	Cell 36 47	cancer cell
+T5	Cell 150 158	cellular
+T7	Cell 292 300	cellular
+T8	Cancer 321 327	cancer
+T10	Cell 384 395	cancer cell
+T14	Cell 441 459	colon cancer cells
+T15	Cell 461 465	LoVo
+T18	Cell 564 575	LoVo-mycANS
+T21	Cell 660 677	LoVo-mycANS cells
+T22	Cell 698 703	cells
+T23	Cell 759 764	cells
+T25	Cell 842 853	LoVo-mycANS
+T26	Cellular_component 879 901	mitochondrial membrane
+T28	Cellular_component 990 1002	mitochondria
+T34	Cancer 1345 1351	tumors
+T1	Cellular_component 498 505	plasmid
+T3	Cancer 1586 1596	neoplastic

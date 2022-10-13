@@ -1,0 +1,18 @@
+T17	Cancer 81 93	colon cancer
+T18	Cancer 227 242	malignant tumor
+T19	Tissue 282 310	colon adenocarcinoma tissues
+T20	Cancer 339 351	colon cancer
+T22	Tissue 819 830	microvessel
+T23	Cell 890 903	stromal cells
+T24	Cancer 920 932	colon cancer
+T25	Tissue 974 981	tissues
+T26	Multi-tissue_structure 991 1001	lymph node
+T27	Cancer 1043 1048	tumor
+T28	Tissue 1138 1158	colon cancer tissues
+T29	Cancer 1424 1436	colon cancer
+T30	Cancer 1556 1568	colon cancer
+T31	Cancer 1674 1686	colon cancer
+T36	Tissue 377 395	non-diseased colon
+T37	Tissue 415 423	biopsies
+T21	Tissue 705 712	tissues
+T61	Cell 1483 1490	stromal

@@ -1,0 +1,14 @@
+T1	Multi-tissue_structure 0 8	Vascular
+T4	Multi-tissue_structure 93 103	peritoneum
+T5	Multi-tissue_structure 125 135	peritoneal
+T6	Multi-tissue_structure 156 166	peritoneal
+T7	Multi-tissue_structure 215 225	peritoneal
+T8	Tissue 307 330	peritoneal surface area
+T13	Multi-tissue_structure 679 698	peritoneal biopsies
+T16	Multi-tissue_structure 894 904	Peritoneal
+T26	Multi-tissue_structure 1361 1369	vascular
+T27	Tissue 1382 1398	endothelial area
+T28	Multi-tissue_structure 1406 1416	peritoneum
+T31	Tissue 1551 1562	endothelium
+T32	Multi-tissue_structure 1570 1594	peritoneal blood vessels
+T36	Tissue 1776 1792	endothelial area

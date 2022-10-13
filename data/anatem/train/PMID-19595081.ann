@@ -1,0 +1,27 @@
+T1	Organism_substance 44 49	blood
+T2	Pathological_formation 140 160	white matter lesions
+T3	Pathological_formation 162 165	WML
+T4	Pathological_formation 211 214	WML
+T5	Multi-tissue_structure 247 264	centrum semiovale
+T6	Multi-tissue_structure 269 292	periventricular regions
+T7	Pathological_formation 379 382	WML
+T8	Organism_substance 482 487	blood
+T9	Pathological_formation 507 510	WML
+T10	Organ 521 526	brain
+T11	Pathological_formation 627 634	lesions
+T12	Multi-tissue_structure 642 663	periventricular areas
+T13	Multi-tissue_structure 678 700	left centrum semiovale
+T14	Pathological_formation 958 961	WML
+T15	Pathological_formation 1020 1027	lesions
+T16	Multi-tissue_structure 1036 1053	centrum semiovale
+T17	Multi-tissue_structure 1058 1081	periventricular regions
+T18	Pathological_formation 1357 1377	white matter lesions
+T19	Pathological_formation 1480 1483	WML
+T20	Multi-tissue_structure 1492 1509	centrum semiovale
+T21	Multi-tissue_structure 1514 1537	periventricular regions
+T22	Pathological_formation 1596 1603	lesions
+T23	Pathological_formation 71 91	white matter lesions
+T24	Organ 35 43	cerebral
+T25	Organ 473 481	cerebral
+T26	Multi-tissue_structure 1400 1414	temporal lobes
+T27	Multi-tissue_structure 668 673	right

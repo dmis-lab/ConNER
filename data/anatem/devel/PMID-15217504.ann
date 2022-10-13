@@ -1,0 +1,14 @@
+T1	Cancer 78 91	breast cancer
+T4	Cancer 252 273	primary breast cancer
+T7	Cancer 506 537	distant dormant micrometastases
+T10	Cancer 900 931	distant dormant micrometastases
+T13	Cancer 1238 1244	cancer
+T15	Cancer 1332 1355	dormant micrometastases
+T16	Cancer 1359 1372	primary tumor
+T17	Cancer 1469 1482	breast cancer
+T20	Multi-tissue_structure 1930 1941	lymph nodes
+T21	Multi-tissue_structure 2036 2046	lymph node
+T2	Multi-tissue_structure 64 68	node
+T3	Multi-tissue_structure 337 341	node
+T5	Multi-tissue_structure 810 814	node
+T6	Multi-tissue_structure 984 988	node

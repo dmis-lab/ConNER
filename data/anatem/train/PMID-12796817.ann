@@ -1,0 +1,10 @@
+T1	Organ 114 118	root
+T2	Organ 227 232	organ
+T3	Tissue 405 417	root tissues
+T4	Organ 486 491	roots
+T5	Tissue 898 910	root tissues
+T6	Organ 1407 1412	roots
+T7	Tissue 1610 1617	tissues
+T8	Tissue 1626 1630	stem
+T9	Tissue 1632 1636	leaf
+T10	Tissue 1641 1645	seed

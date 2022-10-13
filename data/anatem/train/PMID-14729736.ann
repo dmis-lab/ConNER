@@ -1,0 +1,24 @@
+T1	Cell 69 89	non-phagocytic cells
+T2	Cell 122 142	non-phagocytic cells
+T3	Cell 219 224	cells
+T4	Cell 327 332	cells
+T5	Cell 381 393	keratinocyte
+T6	Cell 395 401	PAM212
+T8	Cell 407 435	fibroblast (mKSA) cell lines
+T9	Cell 575 580	cells
+T10	Cell 665 670	cells
+T11	Cell 772 777	cells
+T12	Cell 1057 1062	cells
+T13	Cell 1068 1072	cell
+T14	Cell 1374 1379	cells
+T16	Organism_substance 672 688	cellular lysates
+T17	Cellular_component 909 920	subcellular
+T15	Immaterial_anatomical_entity 340 353	intracellular
+T18	Immaterial_anatomical_entity 1090 1103	intracellular
+T19	Immaterial_anatomical_entity 1300 1313	intracellular
+T20	Immaterial_anatomical_entity 1419 1432	intracellular
+T21	Immaterial_anatomical_entity 1539 1552	intracellular
+T22	Immaterial_anatomical_entity 1706 1719	intracellular
+T23	Immaterial_anatomical_entity 1852 1865	intracellular
+T24	Cell 707 713	colony
+T7	Cell 171 178	strains

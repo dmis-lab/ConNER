@@ -1,0 +1,81 @@
+T1	Cell 50 59	Beta-Cell
+T2	Cell 148 157	beta-cell
+T3	Cell 294 329	embryonic beta-cell progenitor pool
+T4	Cell 365 374	beta-cell
+T5	Cell 475 497	pancreatic progenitors
+T6	Developing_anatomical_structure 509 514	fetal
+T7	Cell 542 551	beta-cell
+T8	Cell 766 787	pancreatic precursors
+T9	Developing_anatomical_structure 795 804	embryonic
+T10	Cell 847 856	beta-cell
+T11	Cell 892 901	beta-cell
+T12	Cell 1247 1256	beta-cell
+T13	Cell 1297 1306	beta-cell
+T14	Cell 1529 1544	beta-cell lines
+T15	Cell 1711 1715	cell
+T16	Cell 1929 1960	microvascular endothelial cells
+T17	Organ 2075 2089	fetal pancreas
+T18	Cell 2156 2165	beta-cell
+T19	Developing_anatomical_structure 2384 2389	fetal
+T23	Developing_anatomical_structure 2582 2587	fetal
+T24	Developing_anatomical_structure 2676 2681	fetal
+T25	Developing_anatomical_structure 2765 2770	fetal
+T26	Cell 2785 2794	beta-cell
+T27	Developing_anatomical_structure 2888 2893	fetal
+T28	Cell 2990 2999	beta-cell
+T29	Organ 3102 3116	fetal pancreas
+T30	Cell 3185 3194	beta-cell
+T31	Organ 3276 3284	pancreas
+T32	Developing_anatomical_structure 3292 3301	embryonic
+T33	Cell 3411 3431	fetal endocrine cell
+T34	Developing_anatomical_structure 3519 3524	fetal
+T35	Organ 3694 3711	exocrine pancreas
+T36	Cell 3939 3948	beta cell
+T37	Cellular_component 3953 3965	mitochondria
+T38	Organ 3980 3985	liver
+T39	Organ 3990 4005	skeletal muscle
+T40	Cell 4811 4815	cell
+T41	Cell 5274 5278	cell
+T42	Multi-tissue_structure 5484 5490	islets
+T43	Multi-tissue_structure 5498 5514	Pancreatic islet
+T44	Tissue 5787 5800	fetal tissues
+T45	Cell 5840 5849	beta-cell
+T46	Cell 5859 5868	beta-cell
+T47	Cell 5906 5915	beta-cell
+T48	Organ 5993 6007	fetal pancreas
+T49	Cell 6132 6141	beta-cell
+T50	Developing_anatomical_structure 6156 6163	fetuses
+T51	Developing_anatomical_structure 6174 6179	fetal
+T52	Multi-tissue_structure 6267 6272	islet
+T53	Developing_anatomical_structure 6309 6314	fetal
+T54	Cell 6429 6438	beta-cell
+T55	Developing_anatomical_structure 6493 6498	fetal
+T56	Cell 6530 6539	beta-cell
+T57	Cell 6571 6580	beta-cell
+T58	Cell 6641 6651	beta cells
+T59	Cell 7003 7012	beta-cell
+T60	Cell 7033 7042	beta-cell
+T61	Organ 7092 7102	pancreatic
+T62	Cell 7124 7133	beta-cell
+T63	Organ 7187 7201	fetal pancreas
+T64	Organ 7313 7323	pancreatic
+T65	Organ 7501 7511	pancreatic
+T66	Developing_anatomical_structure 7860 7867	fetuses
+T67	Organ 8278 8296	endocrine pancreas
+T68	Cell 5137 5145	cellular
+T69	Developing_anatomical_structure 2954 2959	fetal
+T70	Organ 6238 6248	pancreatic
+T71	Organ 6960 6979	pancreatic rudiment
+T72	Cellular_component 3847 3860	mitochondrial
+T73	Cellular_component 3885 3898	mitochondrial
+T74	Cellular_component 4750 4763	mitochondrial
+T75	Cellular_component 5416 5429	mitochondrial
+T76	Multi-tissue_structure 1005 1010	islet
+T77	Anatomical_system 2486 2521	hypothalamic-pituitary-adrenal axis
+T85	Cellular_component 5089 5099	chromosome
+T20	Cell 6662 6672	precursors
+T21	Cell 6597 6607	precursors
+T22	Cellular_component 5009 5018	telomeres
+T78	Cellular_component 5020 5029	Telomeres
+T79	Cellular_component 5465 5473	telomere
+T80	Anatomical_system 3543 3552	endocrine

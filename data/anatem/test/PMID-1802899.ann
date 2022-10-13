@@ -1,0 +1,8 @@
+T1	Cancer 0 8	Melanoma
+T2	Cancer 9 20	skin cancer
+T3	Cancer 111 119	melanoma
+T4	Organ 120 124	skin
+T5	Cancer 330 338	melanoma
+T6	Cancer 342 365	nonmelanoma skin cancer
+T7	Cancer 427 435	melanoma
+T8	Cancer 436 447	skin cancer

@@ -1,0 +1,18 @@
+T2	Cell 25 53	neural stem/progenitor cells
+T4	Cell 217 227	stem cells
+T5	Tissue 241 248	tissues
+T6	Anatomical_system 264 286	central nervous system
+T7	Anatomical_system 288 291	CNS
+T10	Cancer 337 344	gliomas
+T12	Cell 481 506	CNS stem/progenitor cells
+T17	Anatomical_system 625 630	fetal
+T18	Anatomical_system 635 644	adult CNS
+T19	Cell 674 691	neural stem cells
+T20	Cell 755 762	neurons
+T22	Cell 836 849	CNS stem cell
+T23	Immaterial_anatomical_entity 861 880	subventricular zone
+T24	Multi-tissue_structure 896 910	olfactory bulb
+T27	Multi-tissue_structure 1019 1037	lateral ventricles
+T29	Cancer 1149 1159	CNS tumors
+T35	Cell 1379 1407	neural stem/progenitor cells
+T1	Cell 706 714	colonies

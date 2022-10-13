@@ -1,0 +1,33 @@
+T1	Cancer 0 36	Anaplastic and sarcomatoid carcinoma
+T2	Organ 44 59	small intestine
+T3	Cancer 88 98	Carcinomas
+T4	Multi-tissue_structure 113 120	jejunum
+T5	Multi-tissue_structure 125 130	ileum
+T6	Cancer 140 146	tumors
+T7	Cancer 167 193	small intestinal neoplasms
+T8	Cancer 199 217	primary carcinomas
+T9	Multi-tissue_structure 221 228	jejunum
+T10	Multi-tissue_structure 232 237	ileum
+T11	Pathological_formation 261 272	sarcomatoid
+T12	Cancer 428 433	tumor
+T13	Cancer 439 445	tumors
+T14	Cell 536 541	cells
+T15	Organism_substance 547 569	eosinophilic cytoplasm
+T16	Cellular_component 582 588	nuclei
+T17	Cellular_component 604 612	nucleoli
+T18	Cell 633 638	cells
+T19	Tissue 781 791	epithelial
+T20	Cancer 813 819	tumors
+T21	Cancer 906 916	metastases
+T22	Cancer 943 980	anaplastic and sarcomatoid carcinomas
+T23	Cancer 1011 1026	adenocarcinomas
+T24	Multi-tissue_structure 1042 1049	jejunum
+T25	Multi-tissue_structure 1053 1058	ileum
+T26	Cancer 1123 1133	metastases
+T27	Cancer 1157 1163	tumors
+T28	Cancer 1210 1216	tumors
+T29	Cancer 1289 1304	adenocarcinomas
+T30	Cancer 1446 1482	anaplastic and sarcomatoid carcinoma
+T31	Cancer 1504 1530	small intestinal carcinoma
+T33	Cancer 511 517	masses
+T32	Cancer 363 381	metastatic disease

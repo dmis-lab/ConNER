@@ -1,0 +1,17 @@
+T19	Organ 31 38	gastric
+T20	Cancer 202 208	cancer
+T21	Cancer 291 309	gastric carcinomas
+T22	Cancer 311 314	GCs
+T23	Multi-tissue_structure 389 403	gastric mucosa
+T24	Cell 444 449	cells
+T25	Pathological_formation 480 501	intestinal metaplasia
+T26	Multi-tissue_structure 528 538	intestinal
+T27	Cell 681 685	cell
+T28	Cell 819 832	GC cell lines
+T29	Organ 1105 1112	gastric
+T30	Cancer 518 520	GC
+T31	Cancer 727 737	primary GC
+T32	Cancer 809 811	GC
+T33	Cell 471 475	zone
+T34	Pathological_formation 503 512	dysplasia
+T1	Cancer 1047 1057	neoplastic

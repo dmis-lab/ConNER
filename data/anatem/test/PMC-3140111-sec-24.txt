@@ -1,0 +1,4 @@
+Tail flick test
+CSLE did not show any difference compared with control, at all the tested doses [Figure 4]. Morphine showed a significant increase of latency time at 45, 60 and 75 min.
+Figure 4
+Effect of CSLE (100, 200 and 500 mg/kg) and morphine on the latency response of mice in the tail flick test. Values are presented as the mean +/- SEM (n = 5) *P < 0.05, significant increase from control

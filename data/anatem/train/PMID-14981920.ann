@@ -1,0 +1,10 @@
+T1	Cancer 14 19	tumor
+T5	Cell 141 145	cell
+T6	Cell 155 171	tumor cell lines
+T7	Cancer 216 221	tumor
+T10	Cancer 283 306	squamous cell carcinoma
+T11	Cell 308 314	HSC-2)
+T14	Cell 325 366	promyelocytic leukemia (HL-60) cell lines
+T24	Cell 673 684	HL-60 cells
+T30	Cellular_component 950 963	mitochondrial
+T32	Cellular_component 1010 1023	mitochondrial

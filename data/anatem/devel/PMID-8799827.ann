@@ -1,0 +1,22 @@
+T2	Cell 25 55	mammary epithelial tumor cells
+T6	Cell 115 119	cell
+T7	Cell 120 124	cell
+T8	Cell 173 189	epithelial cells
+T10	Cell 293 315	epithelial tumor cells
+T12	Cellular_component 333 345	cell surface
+T13	Cell 399 407	cellular
+T14	Cell 428 432	cell
+T15	Cell 433 437	cell
+T16	Cell 448 452	cell
+T17	Cellular_component 453 459	matrix
+T19	Cell 613 629	epithelial cells
+T20	Cell 691 695	cell
+T21	Cell 696 700	cell
+T22	Cell 705 709	cell
+T23	Cellular_component 710 716	matrix
+T25	Cell 811 840	malignant mammary tumor cells
+T27	Cell 904 923	NM-e-ras-MAC1 cells
+T31	Cell 1094 1111	NM-f-ras-TD cells
+T37	Cell 1456 1460	cell
+T40	Cell 1614 1618	cell
+T43	Cell 1672 1687	epithelial cell

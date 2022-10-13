@@ -1,0 +1,39 @@
+T1	Cell 0 28	Glioma tumor stem-like cells
+T2	Cancer 37 42	tumor
+T5	Cell 144 161	Cancer stem cells
+T6	Cell 163 166	CSC
+T7	Cancer 208 213	tumor
+T8	Cell 343 346	CSC
+T9	Cancer 364 369	tumor
+T10	Cancer 395 400	tumor
+T11	Cell 434 437	CSC
+T12	Multi-tissue_structure 452 466	tumor vascular
+T13	Cancer 510 526	tumor xenografts
+T14	Cell 534 553	C6 glioma cell line
+T15	Cell 600 603	CSC
+T16	Cancer 619 633	CSC-low tumors
+T17	Cancer 635 650	CSC-high tumors
+T18	Tissue 671 682	microvessel
+T19	Organism_substance 695 700	blood
+T20	Cancer 750 755	tumor
+T21	Multi-tissue_structure 771 782	bone marrow
+T22	Cell 791 819	endothelial progenitor cells
+T23	Cell 821 824	EPC
+T24	Cell 827 852	CSC-high C6 cell cultures
+T25	Cell 883 899	endothelial cell
+T26	Multi-tissue_structure 918 924	tubule
+T27	Cell 961 977	CSC-low cultures
+T28	Cell 979 996	CSC-high cultures
+T29	Cancer 1001 1007	tumors
+T32	Cell 1218 1235	CSC-high cultures
+T33	Cancer 1240 1246	tumors
+T34	Tissue 1258 1269	microvessel
+T35	Cell 1290 1293	EPC
+T36	Cell 1339 1355	endothelial cell
+T37	Cell 1423 1439	CSC-low cultures
+T38	Cancer 1440 1446	tumors
+T39	Cell 1475 1478	CSC
+T40	Cancer 1493 1498	tumor
+T41	Cell 1536 1552	endothelial cell
+T42	Multi-tissue_structure 1606 1617	bone marrow
+T43	Cell 1626 1629	EPC

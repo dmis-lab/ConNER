@@ -1,0 +1,28 @@
+T1	Organ 193 199	leaves
+T2	Cancer 478 484	cancer
+T3	Cancer 792 798	cancer
+T4	Organism_substance 540 545	blood
+T5	Cellular_component 1115 1127	cell-surface
+T6	Cellular_component 1277 1289	cell surface
+T7	Cellular_component 1407 1419	cell surface
+T8	Cell 1431 1442	tumor cells
+T9	Cancer 1509 1514	tumor
+T10	Cancer 1628 1634	cancer
+T11	Cell 1706 1717	tumor cells
+T12	Tissue 1852 1862	epithelial
+T13	Tissue 1867 1881	mucosa tissues
+T14	Organ 1909 1913	bone
+T15	Developing_anatomical_structure 1965 1969	eggs
+T16	Organism_subdivision 1971 1975	meat
+T17	Organism_substance 1977 1981	milk
+T18	Organ 1998 2003	liver
+T19	Organ 2005 2011	kidney
+T20	Organism_substance 2034 2037	oil
+T21	Cell 2192 2197	cells
+T22	Cancer 2529 2536	cancers
+T23	Cellular_component 2622 2629	nuclear
+T24	Cell 3363 3385	B16 melanoma cell line
+T25	Cancer 3428 3433	tumor
+T26	Tissue 2443 2450	tissues
+T27	Cell 2455 2460	cells
+T29	Anatomical_system 1822 1835	immune system

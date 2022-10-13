@@ -1,0 +1,17 @@
+T2	Organism_substance 75 86	whole blood
+T3	Organism_substance 91 95	clot
+T4	Organism_substance 219 223	clot
+T5	Organism_substance 237 248	whole blood
+T6	Organism_substance 250 252	WB
+T7	Organ 344 349	liver
+T8	Organ 354 361	cardiac
+T9	Organism_substance 568 577	WB sample
+T10	Organism_substance 743 747	clot
+T11	Organism_substance 772 776	clot
+T12	Organism_substance 939 943	Clot
+T13	Organism_substance 1217 1219	WB
+T14	Organism_substance 1598 1602	clot
+T15	Organism_substance 1635 1637	WB
+T16	Organism_substance 1700 1704	clot
+T18	Organism_substance 1800 1806	sample
+T1	Organism_substance 1352 1359	samples

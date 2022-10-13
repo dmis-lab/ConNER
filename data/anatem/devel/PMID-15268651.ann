@@ -1,0 +1,12 @@
+T2	Multi-tissue_structure 39 80	subfoveal choroidal neovascular membranes
+T3	Tissue 109 116	macular
+T4	Tissue 353 359	tissue
+T5	Multi-tissue_structure 445 486	subfoveal choroidal neovascular membranes
+T6	Tissue 529 536	macular
+T10	Multi-tissue_structure 851 882	choroidal neovascular membranes
+T11	Tissue 965 978	microvascular
+T12	Pathological_formation 990 998	thrombus
+T13	Multi-tissue_structure 1024 1030	vessel
+T15	Pathological_formation 1154 1160	lesion
+T16	Pathological_formation 1226 1233	lesions
+T18	Pathological_formation 1374 1380	Lesion

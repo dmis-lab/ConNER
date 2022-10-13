@@ -1,0 +1,32 @@
+T28	Cancer 79 94	xenograft tumor
+T29	Cancer 129 134	tumor
+T30	Cancer 205 210	tumor
+T31	Cancer 309 314	tumor
+T32	Multi-tissue_structure 338 349	lymph nodes
+T33	Cancer 506 512	itumor
+T34	Cell 535 545	cell lines
+T35	Cancer 550 565	xenograft tumor
+T36	Cancer 595 600	tumor
+T37	Organ 634 643	lymphatic
+T38	Multi-tissue_structure 693 703	lymph node
+T39	Cell 757 783	Lewis lung carcinoma cells
+T40	Cancer 839 844	tumor
+T41	Multi-tissue_structure 886 896	lymph node
+T42	Cancer 1055 1060	tumor
+T43	Cancer 1108 1128	Lewis lung carcinoma
+T44	Cancer 1158 1163	tumor
+T18	Tissue 1296 1301	tube-
+T19	Cell 1319 1357	human umbilical vein endothelial cells
+T20	Cell 1359 1365	HUVECs
+T21	Cell 1371 1407	lymphatic vascular endothelial cells
+T22	Cell 1409 1414	HLECs
+T23	Cell 1518 1535	endothelial cells
+T24	Cell 1587 1613	vascular endothelial cells
+T25	Cell 1629 1656	lymphatic endothelial cells
+T26	Cell 1770 1781	tumor cells
+T27	Cancer 1991 1997	cancer
+T49	Cellular_component 0 9	Liposomal
+T50	Multi-tissue_structure 103 114	Lymph nodes
+T51	Cellular_component 1455 1464	liposomal
+T52	Multi-tissue_structure 2006 2016	lymphatics
+T79	Cellular_component 1008 1017	liposomal

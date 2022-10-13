@@ -1,0 +1,16 @@
+T3	Cancer 26 31	tumor
+T5	Cell 103 108	cells
+T8	Cell 235 245	tumor cell
+T11	Cell 434 444	cell lines
+T13	Cell 475 496	NIH3T3 (clone7) cells
+T15	Cell 538 542	cell
+T18	Cell 601 610	subclones
+T20	Cell 721 733	NIH3T3 cells
+T22	Cell 833 842	subclones
+T26	Cell 1101 1114	transfectants
+T29	Cell 1202 1214	NIH3T3 cells
+T32	Cell 1352 1357	cells
+T34	Cell 1448 1456	controls
+T36	Cell 1487 1495	cellular
+T37	Cancer 1526 1531	tumor
+T1	Cancer 1277 1287	metastases

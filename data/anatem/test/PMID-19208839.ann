@@ -1,0 +1,28 @@
+T4	Cancer 52 57	tumor
+T6	Multi-tissue_structure 74 80	vessel
+T8	Cancer 131 136	tumor
+T12	Multi-tissue_structure 208 216	vascular
+T16	Multi-tissue_structure 270 276	vessel
+T20	Multi-tissue_structure 386 397	vasculature
+T21	Cancer 406 412	tumors
+T24	Cancer 524 529	tumor
+T30	Cancer 784 789	tumor
+T32	Cancer 919 925	tumors
+T34	Cancer 965 986	Lewis lung carcinomas
+T35	Cancer 988 1004	MT-ret melanomas
+T36	Cancer 1010 1026	B16F10 melanomas
+T39	Cancer 1073 1078	tumor
+T42	Cancer 1159 1164	tumor
+T44	Cancer 1186 1191	tumor
+T46	Cancer 1228 1241	primary tumor
+T47	Multi-tissue_structure 1284 1318	intratumoral vascular architecture
+T48	Tissue 1352 1363	microvessel
+T49	Tissue 1425 1450	intratumoral microvessels
+T50	Cancer 1467 1473	tumors
+T52	Multi-tissue_structure 1513 1524	vasculature
+T56	Cell 1551 1559	pericyte
+T58	Tissue 1588 1617	Ang-2-deficient tumor vessels
+T59	Cell 1629 1637	pericyte
+T62	Cell 1666 1675	pericytes
+T66	Cell 1787 1795	pericyte
+T69	Cancer 1869 1874	tumor

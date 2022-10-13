@@ -1,0 +1,12 @@
+T2	Cancer 133 183	Hereditary leiomyomatosis and renal cell carcinoma
+T3	Cancer 185 190	HLRCC
+T9	Cancer 425 430	HLRCC
+T13	Cell 602 640	mouse embryonic fibroblast (MEF) lines
+T17	Cell 686 690	MEFs
+T21	Cell 826 830	MEFs
+T23	Pathological_formation 1028 1067	Fh1-deficient benign murine renal cysts
+T27	Cancer 1090 1124	HLRCC-related renal cell carcinoma
+T33	Tissue 1341 1361	FH-deficient tissues
+T37	Tissue 1397 1424	Fh1-deficient smooth muscle
+T46	Cell 1638 1643	cells
+T49	Cancer 1966 1972	tumors

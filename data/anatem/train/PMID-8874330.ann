@@ -1,0 +1,10 @@
+T3	Cancer 71 96	early-stage breast cancer
+T4	Cancer 105 135	axillary lymph node metastases
+T7	Multi-tissue_structure 247 251	node
+T8	Cancer 261 274	breast cancer
+T13	Cell 563 568	cells
+T14	Cellular_component 585 593	membrane
+T17	Cancer 964 969	tumor
+T23	Cancer 1271 1276	tumor
+T24	Cellular_component 1283 1290	nuclear
+T34	Cancer 1786 1811	early-stage breast cancer

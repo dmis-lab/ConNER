@@ -1,0 +1,28 @@
+T27	Organ 9 18	pulmonary
+T28	Cell 72 83	tumor cells
+T29	Organ 91 95	lung
+T4	Anatomical_system 115 126	respiratory
+T5	Cell 188 214	proinflammatory leukocytes
+T6	Cell 283 287	cell
+T7	Cell 378 390	cancer cells
+T8	Cancer 425 440	secondary tumor
+T9	Organ 528 532	lung
+T10	Organ 559 568	pulmonary
+T11	Cell 627 649	B16-F10 melanoma cells
+T12	Organ 702 711	pulmonary
+T14	Cell 807 820	CD4(+) T-cell
+T15	Organ 1085 1094	pulmonary
+T16	Cell 1110 1122	cancer cells
+T17	Cell 1222 1234	cancer cells
+T18	Tissue 1265 1277	lung tissues
+T19	Tissue 1314 1334	vascular endothelium
+T20	Cancer 1418 1431	breast cancer
+T22	Anatomical_system 1568 1579	respiratory
+T23	Cancer 1644 1659	lung metastases
+T24	Organ 1697 1706	pulmonary
+T25	Cancer 1803 1816	breast cancer
+T26	Organ 1836 1840	lung
+T33	Immaterial_anatomical_entity 609 613	i.v.
+T2	Cancer 1517 1532	lung metastases
+T13	Cancer 759 774	lung metastases
+T1	Multi-tissue_structure 454 466	distal sites

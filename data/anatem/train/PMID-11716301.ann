@@ -1,0 +1,14 @@
+T1	Cellular_component 140 161	endoplasmic reticulum
+T2	Cellular_component 175 189	inner membrane
+T4	Cellular_component 236 244	membrane
+T5	Cellular_component 309 317	membrane
+T6	Cellular_component 434 442	membrane
+T7	Cellular_component 472 490	translocation pore
+T8	Cellular_component 338 356	translocation pore
+T9	Cellular_component 208 220	aqueous pore
+T10	Cellular_component 622 630	membrane
+T3	Organism_substance 388 397	cytosolic
+T11	Cellular_component 529 539	translocon
+T12	Cellular_component 575 585	translocon
+T13	Cellular_component 787 797	translocon
+T14	Cellular_component 81 92	translocons

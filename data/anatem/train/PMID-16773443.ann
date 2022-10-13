@@ -1,0 +1,24 @@
+T1	Multi-tissue_structure 65 89	spinal cord white matter
+T2	Cell 177 184	neurons
+T3	Multi-tissue_structure 240 264	spinal cord white matter
+T4	Multi-tissue_structure 571 591	lateral white matter
+T5	Organ 599 610	spinal cord
+T6	Multi-tissue_structure 670 690	spinal cord sections
+T7	Cell 835 840	cells
+T8	Organ 1007 1018	spinal cord
+T9	Multi-tissue_structure 979 999	lateral white matter
+T10	Cell 1042 1047	cells
+T11	Multi-tissue_structure 1309 1333	spinal cord white matter
+T12	Cell 1365 1385	phagocytic microglia
+T13	Cell 1386 1397	macrophages
+T14	Cell 1430 1448	inflammatory cells
+T15	Cell 1485 1492	neurons
+T16	Cell 1611 1616	cells
+T17	Pathological_formation 954 961	lesions
+T20	Organism_substance 1768 1777	cytoplasm
+T21	Cell 1781 1801	phagocytic microglia
+T22	Cell 1802 1813	macrophages
+T24	Cell 380 403	intraspinal macrophages
+T25	Multi-tissue_structure 547 555	thoracic
+T23	Multi-tissue_structure 1055 1059	area
+T18	Multi-tissue_structure 1624 1628	area

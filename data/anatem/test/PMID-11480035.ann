@@ -1,0 +1,21 @@
+T14	Cancer 55 64	carcinoma
+T15	Multi-tissue_structure 68 81	buccal mucosa
+T16	Tissue 266 281	tissues samples
+T17	Cancer 299 308	carcinoma
+T19	Multi-tissue_structure 481 494	buccal mucosa
+T20	Multi-tissue_structure 518 536	nontumorous mucosa
+T21	Organ 538 557	submandibular gland
+T22	Multi-tissue_structure 567 578	lymph nodes
+T23	Cancer 654 676	lymph nodes metastases
+T12	Multi-tissue_structure 1079 1089	lymph node
+T13	Cancer 1222 1238	buccal carcinoma
+T18	Cancer 327 330	CBM
+T33	Pathological_formation 496 507	leukoplakia
+T34	Cancer 559 562	CBM
+T37	Cancer 645 648	CBM
+T39	Cancer 702 705	CBM
+T41	Cancer 811 814	CBM
+T42	Cancer 824 827	CBM
+T46	Cancer 1104 1107	CBM
+T1	Cancer 714 724	metastases
+T2	Multi-tissue_structure 312 325	buccal mucosa

@@ -1,0 +1,13 @@
+T1	Cancer 33 47	gastric tumors
+T4	Cancer 125 134	carcinoma
+T11	Tissue 382 395	microvascular
+T13	Organism_substance 458 462	bile
+T14	Organ 477 484	stomach
+T15	Pathological_formation 555 579	gastric mucosal erosions
+T16	Cancer 606 627	ulcerating carcinomas
+T17	Tissue 660 673	microvascular
+T19	Cancer 707 721	adenocarcinoma
+T21	Cell 819 823	cell
+T22	Cancer 928 945	gastric carcinoma
+T23	Tissue 951 964	microvascular
+T25	Cancer 1058 1075	gastric carcinoma

@@ -1,0 +1,27 @@
+T2	Cell 23 27	cell
+T3	Cell 54 58	cell
+T5	Cancer 98 125	transitional cell carcinoma
+T6	Cell 133 150	bladder cell line
+T7	Cancer 179 200	urological malignancy
+T9	Cancer 235 249	bladder cancer
+T10	Cancer 279 307	transitional cell carcinomas
+T16	Organism_subdivision 579 592	urinary tract
+T20	Cancer 785 799	bladder cancer
+T21	Cell 867 878	tumor cells
+T22	Cancer 892 919	transitional cell carcinoma
+T23	Organ 927 934	bladder
+T24	Cell 990 994	cell
+T26	Organism_substance 1071 1076	urine
+T29	Cell 1173 1193	bladder cancer cells
+T30	Cell 1286 1290	cell
+T31	Cancer 1316 1343	transitional cell carcinoma
+T32	Cell 1351 1373	bladder cell line HTB9
+T33	Cell 1410 1414	cell
+T38	Cell 1571 1590	bladder tumor cells
+T42	Cellular_component 1696 1709	mitochondrial
+T46	Cell 1935 1945	HTB9 cells
+T52	Cell 2162 2167	cells
+T58	Cell 2487 2497	tumor cell
+T59	Cell 2527 2531	cell
+T61	Cancer 2713 2740	transitional cell carcinoma
+T62	Organ 2748 2755	bladder

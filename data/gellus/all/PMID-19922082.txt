@@ -1,0 +1,9 @@
+Effectiveness of different approaches for establishing cisplatin-induced cochlear lesions in mice.
+CONCLUSIONS:
+Mouse cochleae are highly resistant to systemically administered cisplatin. However, cochlear lesions can be produced effectively in mice when cisplatin is applied locally through the round window niche or tympanum.
+OBJECTIVE:
+To explore the optimal approach for creating cisplatin-induced cochlear lesions in mice.
+MATERIALS AND METHODS:
+Cisplatin was administered to adult C57BL/6J mice via four approaches: (1) transtympanic injection, (2) round window niche injection, (3) intraperitoneal injection (i.p.) at 4 mg/kg/day for 4 consecutive days, and (4) one 15 mg/kg dose i.p. The hearing was monitored using frequency-specific auditory brainstem responses (ABRs) and distortion-product otoacoustic emissions (DPOAEs). Cochlear pathology was observed in cochleograms with Harris' hematoxylin staining.
+RESULTS:
+Cisplatin applied systemically did not cause any significant ABR threshold elevation across the frequencies tested (2-32 kHz), whereas local application of cisplatin through the round window niche or tympanum resulted in significant ABR threshold elevations from high to medium frequencies. The functional changes were consistent with the cochlear pathology across groups.

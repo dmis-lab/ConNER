@@ -1,0 +1,10 @@
+T1	Tissue 113 120	tissues
+T2	Tissue 292 298	tissue
+T3	Tissue 307 316	tree ring
+T4	Organ 367 371	leaf
+T5	Organ 571 575	leaf
+T6	Tissue 612 623	stem tissue
+T7	Organism_subdivision 786 792	crowns
+T8	Tissue 892 904	woody tissue
+T9	Tissue 1283 1292	tree ring
+T10	Multi-tissue_structure 986 997	branch wood

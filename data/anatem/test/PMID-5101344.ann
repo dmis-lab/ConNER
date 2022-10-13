@@ -1,0 +1,7 @@
+T1	Tissue 175 185	sinusoidal
+T2	Organ 203 208	liver
+T3	Organ 636 642	spleen
+T4	Pathological_formation 9 21	splenomegaly
+T5	Pathological_formation 149 161	splenomegaly
+T6	Pathological_formation 283 295	splenomegaly
+T7	Pathological_formation 743 755	splenomegaly

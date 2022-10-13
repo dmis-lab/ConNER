@@ -1,0 +1,11 @@
+Toward a theory regarding the pathogenesis of the systemic inflammatory response syndrome: what we do and do not know about cytokine regulation.
+OBJECTIVES:
+The systemic inflammatory response syndrome (SIRS) is the massive inflammatory reaction resulting from systemic mediator release that may lead to multiple organ dysfunction. The objective of this review article is to analyze the roles of cytokines, cytokine production, and the relationship of cytokine production to the development of SIRS.
+DATA SOURCES:
+Previous research and clinical studies related to cytokines and their relationship to SIRS.
+STUDY SELECTION:
+From the studies reviewed, three critical questions are addressed. First, what is the definition of increased cytokine concentrations? Second, what other systemic illnesses besides sepsis can alter cytokine concentrations? Third, what are the right cytokines to measure?
+DATA SYNTHESIS:
+This article postulates a three-stage development of SIRS, in which stage 1 is a local production of cytokines in response to an injury or infection. Stage 2 is the protective release of a small amount of cytokines into the body's circulation. Stage 3 is the massive systemic reaction where cytokines turn destructive by compromising the integrity of the capillary walls and flooding end organs.
+CONCLUSIONS:
+While cytokines are generally viewed as a destructive development in the patient that generally leads to multiple organ dysfunction, cytokines also protect the body when localized. It will be necessary to study the positive effects of cytokines while also studying their role in causing SIRS. It will also be important to investigate the relationship between cytokines and their blockers in SIRS.

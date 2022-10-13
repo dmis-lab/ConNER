@@ -1,0 +1,17 @@
+T1	Organism_subdivision 101 107	facial
+T2	Organism_subdivision 205 211	facial
+T3	Organism_subdivision 481 487	facial
+T4	Immaterial_anatomical_entity 227 232	sinus
+T5	Immaterial_anatomical_entity 503 508	sinus
+T6	Immaterial_anatomical_entity 1024 1029	sinus
+T7	Immaterial_anatomical_entity 1734 1739	sinus
+T8	Organism_subdivision 1562 1568	Facial
+T9	Organism_subdivision 1712 1718	facial
+T10	Organism_subdivision 76 81	nasal
+T11	Organism_subdivision 275 280	nasal
+T12	Organism_subdivision 529 534	nasal
+T15	Immaterial_anatomical_entity 1234 1246	intracranial
+T16	Immaterial_anatomical_entity 1825 1837	intracranial
+T13	Anatomical_system 0 10	Neurologic
+T14	Anatomical_system 690 700	neurologic
+T17	Anatomical_system 1792 1802	neurologic

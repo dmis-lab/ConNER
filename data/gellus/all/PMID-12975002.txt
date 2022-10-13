@@ -1,0 +1,9 @@
+[Community intervention on hypertension and stroke].
+OBJECTIVE:
+To evaluate the community-based intervention on reduction of hypertension and stroke in different age groups and subtypes hypertension.
+METHODS:
+In 6 cities, 2 geographically separated communities with a registered population about 10 000 of each were selected as either intervention or control communities. A cohort containing 2 700 subjects, 35 years or older, and free of stroke were sampled from each community. The baseline survey was conducted to screen the subjects for intervention. In each city, a program for control of hypertension, heart diseases and diabetes was initiated in the intervention cohort and health education was provided to the whole intervention community. A follow-up survey was conducted 3 years later.
+RESULTS:
+Within 3 years, the prevalence of hypertension increased in both intervention and control cohorts, as well as in the middle and elderly cohorts, especially in the middle aged in control group. Among hypertensives in the intervention cohort, the rates of awareness, treatment and control of hypertension got improved. The incidence of stroke was 29% lower (HR = 0.71, 95% CI: 0.58 - 0.87) and mortality of stroke was 40% lower (HR = 0.60, 95% CI: 0.42 - 0.86) in the intervention cohort than the control cohort. The intervention was most effective in reduction of stroke for those with isolated systolic hypertension and combined systolic and diastolic hypertension (All P < 0.05). Meanwhile, all-cause mortality was 11% lower (HR = 0.89, 95% CI: 0.78 - 0.99) in the intervention cohort than in the control cohort.
+CONCLUSION:
+The community-based intervention was effective in controlling the development of hypertension and stroke, while the elderly people benefit more than the middle aged people from the intervention.

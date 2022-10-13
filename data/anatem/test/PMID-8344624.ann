@@ -1,0 +1,17 @@
+T1	Organism_subdivision 27 31	foot
+T3	Multi-tissue_structure 134 140	vessel
+T8	Organism_subdivision 1074 1078	foot
+T9	Organism_subdivision 1099 1103	foot
+T14	Tissue 486 492	tissue
+T17	Pathological_formation 410 415	edema
+T19	Tissue 685 691	tissue
+T20	Tissue 367 374	tissues
+T22	Pathological_formation 234 239	wound
+T23	Pathological_formation 306 311	wound
+T24	Pathological_formation 907 912	wound
+T25	Pathological_formation 63 74	foot wounds
+T26	Pathological_formation 1032 1057	chronic nonhealing wounds
+T27	Pathological_formation 1265 1271	wounds
+T28	Pathological_formation 519 544	chronic nonhealing wounds
+T29	Cell 182 190	cellular
+T2	Immaterial_anatomical_entity 654 668	Transcutaneous

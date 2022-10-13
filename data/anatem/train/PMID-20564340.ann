@@ -1,0 +1,28 @@
+T2	Cellular_component 16 29	mitochondrial
+T5	Cell 81 93	cancer cells
+T7	Cancer 164 170	cancer
+T9	Cell 190 202	cancer cells
+T11	Cell 260 264	cell
+T12	Cell 278 305	cervix carcinoma HeLa cells
+T13	Cell 307 327	hepatoma HepG2 cells
+T14	Cell 329 359	lung adenocarcinoma A549 cells
+T15	Cell 365 390	breast cancer MCF-7 cells
+T17	Cancer 485 491	cancer
+T19	Cell 516 528	cancer cells
+T20	Cell 537 560	hepatoma SK-HEP-1 cells
+T21	Cell 562 585	prostate carcinoma PC-3
+T22	Cell 591 614	lung carcinoma NCI-H460
+T24	Cell 711 737	erythroleukemia K562 cells
+T25	Cancer 809 815	cancer
+T27	Cell 843 853	HeLa cells
+T29	Cell 921 925	cell
+T30	Cellular_component 987 995	membrane
+T32	Cellular_component 1030 1037	nuclear
+T33	Cellular_component 1070 1084	apoptotic body
+T34	Cellular_component 1150 1172	mitochondrial membrane
+T35	Cellular_component 1202 1215	mitochondrial
+T40	Cellular_component 1368 1381	mitochondrial
+T42	Cellular_component 1415 1427	mitochondria
+T45	Cellular_component 1487 1499	mitochondria
+T52	Cellular_component 1670 1683	mitochondrial
+T60	Cell 1922 1934	cancer cells

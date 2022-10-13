@@ -1,0 +1,18 @@
+T3	Cancer 139 151	solid tumors
+T4	Cancer 178 193	bone metastases
+T6	Anatomical_system 311 319	skeletal
+T7	Cancer 345 360	bone metastases
+T8	Cell 524 540	tumor cell lines
+T13	Cancer 596 601	tumor
+T15	Cancer 791 806	bone metastases
+T16	Cancer 834 846	solid tumors
+T17	Cancer 856 871	bone metastases
+T18	Cancer 980 995	bone metastases
+T20	Cancer 1111 1126	bone metastases
+T21	Cancer 1187 1202	bone metastases
+T24	Cancer 1488 1503	bone metastases
+T26	Cancer 1674 1689	bone metastases
+T2	Cancer 96 111	bone metastases
+T28	Cell 635 650	accessory cells
+T42	Cancer 944 970	metastatic advanced cancer
+T43	Cancer 442 447	tumor

@@ -1,0 +1,21 @@
+T1	Organism_substance 0 5	Serum
+T3	Cancer 77 91	gastric cancer
+T6	Cell 152 168	leukocyte tissue
+T7	Organism_substance 192 197	serum
+T10	Cancer 312 329	colorectal cancer
+T12	Multi-tissue_structure 467 477	lymph node
+T13	Organ 482 487	liver
+T15	Cancer 554 568	gastric cancer
+T16	Organism_substance 630 635	serum
+T18	Cancer 700 714	gastric cancer
+T19	Organism_substance 738 743	serum
+T20	Cancer 767 781	gastric cancer
+T24	Cancer 915 921	cancer
+T27	Cancer 1018 1023	Tumor
+T28	Multi-tissue_structure 1030 1037	serosal
+T29	Multi-tissue_structure 1048 1058	lymph node
+T30	Multi-tissue_structure 1071 1081	peritoneal
+T33	Multi-tissue_structure 1220 1230	lymph node
+T38	Cancer 1379 1393	gastric cancer
+T41	Cancer 1487 1501	gastric cancer
+T43	Multi-tissue_structure 1574 1584	lymph node

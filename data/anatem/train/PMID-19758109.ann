@@ -1,0 +1,14 @@
+T3	Multi-tissue_structure 41 49	vascular
+T4	Cancer 131 136	tumor
+T5	Multi-tissue_structure 191 213	tumor vascular network
+T6	Cell 307 324	endothelial cells
+T7	Cellular_component 329 349	extracellular matrix
+T8	Cancer 420 425	tumor
+T16	Cancer 691 703	tumor masses
+T17	Tissue 715 730	tumor periphery
+T20	Multi-tissue_structure 904 917	tumor vessels
+T21	Cancer 957 963	masses
+T22	Cancer 1021 1043	peripheral tumor layer
+T1	Cellular_component 1252 1263	microtubule
+T2	Multi-tissue_structure 442 450	vascular
+T9	Multi-tissue_structure 538 546	vascular

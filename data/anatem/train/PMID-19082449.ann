@@ -1,0 +1,12 @@
+T3	Cancer 105 122	colorectal cancer
+T8	Cell 341 361	lung carcinoma cells
+T10	Cancer 483 500	colorectal cancer
+T12	Cancer 568 585	colorectal cancer
+T14	Cancer 715 732	colorectal cancer
+T17	Tissue 785 810	colorectal cancer tissues
+T18	Tissue 831 838	tissues
+T19	Cancer 847 872	primary colorectal cancer
+T23	Cancer 1090 1096	tumors
+T26	Multi-tissue_structure 1308 1314	vessel
+T32	Cancer 1623 1640	colorectal cancer
+T49	Multi-tissue_structure 1360 1365	nodal

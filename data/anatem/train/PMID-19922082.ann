@@ -1,0 +1,14 @@
+T1	Pathological_formation 73 89	cochlear lesions
+T2	Multi-tissue_structure 118 126	cochleae
+T3	Pathological_formation 197 213	cochlear lesions
+T4	Immaterial_anatomical_entity 296 314	round window niche
+T5	Multi-tissue_structure 318 326	tympanum
+T6	Pathological_formation 402 418	cochlear lesions
+T7	Immaterial_anatomical_entity 555 573	round window niche
+T8	Multi-tissue_structure 752 761	brainstem
+T9	Multi-tissue_structure 834 842	Cochlear
+T10	Immaterial_anatomical_entity 1104 1122	round window niche
+T11	Multi-tissue_structure 1126 1134	tympanum
+T12	Multi-tissue_structure 1265 1273	cochlear
+T13	Immaterial_anatomical_entity 589 604	intraperitoneal
+T14	Immaterial_anatomical_entity 526 539	transtympanic

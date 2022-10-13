@@ -1,0 +1,2 @@
+Results:
+In the total population (N=95), median OS was significantly longer in patients with baseline CA 19-9 values at or below the median than in those with values above it (12.2 months [95% confidence interval (CI), 8.6-16.6%] vs 5.0 months [95% CI, 3.9-5.7%]; P<0.0001). This also reached significance in the Gem+A arm (median OS, 12.5 months [95% CI, 8.6-16.6%] vs 4.9 months [95% CI, 3.6-5.6%]; P<0.0001). Patients with any dBP>90 mmHg had significantly longer OS than those who did not. However, there was no predictive significance of CA 19-9.

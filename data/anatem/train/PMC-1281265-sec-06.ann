@@ -1,0 +1,10 @@
+T1	Cancer 597 603	cancer
+T2	Organ 837 842	heart
+T3	Cancer 855 872	colorectal cancer
+T4	Organism_subdivision 958 974	gastrointestinal
+T5	Organ 985 993	cerebral
+T6	Tissue 2295 2302	tissues
+T8	Cancer 2494 2509	adenocarcinomas
+T9	Multi-tissue_structure 2517 2523	vagina
+T10	Multi-tissue_structure 2528 2534	cervix
+T11	Cancer 2609 2622	breast cancer

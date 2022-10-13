@@ -1,0 +1,18 @@
+T3	Cell 52 60	cellular
+T5	Organ 95 102	mammary
+T8	Cell 179 187	cellular
+T9	Cancer 224 229	tumor
+T10	Cell 275 283	cellular
+T17	Cell 604 608	cell
+T19	Organ 654 661	mammary
+T24	Cell 1041 1052	SV-52 cells
+T29	Organ 1242 1249	mammary
+T44	Cancer 1532 1545	breast cancer
+T45	Cancer 1556 1561	tumor
+T51	Pathological_formation 1720 1726	lesion
+T53	Cancer 1843 1861	in situ carcinomas
+T54	Cancer 1865 1884	invasive carcinomas
+T60	Cancer 1965 1971	tumors
+T61	Cancer 2072 2077	tumor
+T66	Cell 2229 2237	cellular
+T68	Organ 2272 2279	mammary

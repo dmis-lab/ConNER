@@ -1,0 +1,20 @@
+T1	Organ 0 7	Gastric
+T2	Pathological_formation 57 80	gastric mucosal lesions
+T3	Pathological_formation 82 94	stress ulcer
+T4	Pathological_formation 134 157	gastric mucosal lesions
+T5	Organ 159 166	gastric
+T6	Multi-tissue_structure 257 272	gastric mucosal
+T7	Organism_substance 273 278	blood
+T8	Tissue 288 301	microvascular
+T9	Multi-tissue_structure 552 566	gastric mucosa
+T10	Multi-tissue_structure 568 583	Gastric mucosal
+T11	Organism_substance 584 589	blood
+T12	Multi-tissue_structure 760 767	mucosal
+T13	Organism_substance 768 773	blood
+T14	Organism_substance 793 798	blood
+T15	Multi-tissue_structure 834 848	arteriovenular
+T16	Multi-tissue_structure 901 908	mucosal
+T17	Organism_substance 960 965	blood
+T18	Multi-tissue_structure 1131 1138	mucosal
+T19	Organism_substance 1139 1144	blood
+T20	Pathological_formation 1216 1238	gastric mucosal lesion

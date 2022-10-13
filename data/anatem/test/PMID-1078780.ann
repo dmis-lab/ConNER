@@ -1,0 +1,7 @@
+T1	Organism_subdivision 0 9	Abdominal
+T2	Multi-tissue_structure 48 67	oesophageal varices
+T3	Multi-tissue_structure 117 136	oesophageal varices
+T4	Organism_subdivision 209 222	transthoracic
+T5	Multi-tissue_structure 257 264	varices
+T6	Organism_subdivision 393 407	transabdominal
+T7	Multi-tissue_structure 453 457	site

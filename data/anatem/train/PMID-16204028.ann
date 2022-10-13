@@ -1,0 +1,8 @@
+T3	Multi-tissue_structure 68 78	intestinal
+T9	Multi-tissue_structure 342 352	intestinal
+T14	Pathological_formation 586 603	intestinal polyps
+T15	Cancer 605 610	tumor
+T22	Pathological_formation 795 801	polyps
+T26	Cell 855 875	embryonic stem cells
+T33	Pathological_formation 1140 1156	intestinal polyp
+T37	Pathological_formation 1323 1328	polyp

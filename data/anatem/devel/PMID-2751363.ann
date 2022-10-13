@@ -1,0 +1,17 @@
+T1	Cancer 1 25	Intraepithelial neoplasm
+T2	Multi-tissue_structure 33 47	uterine cervix
+T3	Multi-tissue_structure 92 116	uterine cervix specimens
+T4	Multi-tissue_structure 215 221	vessel
+T7	Tissue 329 339	epithelium
+T8	Cellular_component 344 369	vessel basement membranes
+T9	Cancer 457 482	intraepithelial carcinoma
+T10	Multi-tissue_structure 568 576	vascular
+T11	Pathological_formation 645 663	epithelial lesions
+T12	Multi-tissue_structure 764 780	tortuous vessels
+T13	Cancer 815 825	carcinomas
+T14	Multi-tissue_structure 831 839	vascular
+T15	Pathological_formation 885 903	histologic lesions
+T16	Multi-tissue_structure 943 959	abnormal vessels
+T17	Tissue 1014 1034	cancerized epithelia
+T5	Pathological_formation 424 433	dysplasia
+T6	Pathological_formation 442 451	dysplasia

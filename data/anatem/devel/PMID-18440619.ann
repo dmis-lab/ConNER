@@ -1,0 +1,25 @@
+T2	Multi-tissue_structure 133 149	peripheral nerve
+T1	Multi-tissue_structure 37 42	nerve
+T3	Cell 370 374	cell
+T4	Cell 241 244	NSC
+T5	Cell 385 388	NSC
+T6	Cell 393 411	glial cell line C6
+T7	Cell 450 454	cell
+T8	Cell 545 548	NSC
+T9	Multi-tissue_structure 601 614	sciatic nerve
+T10	Cell 885 888	NSC
+T11	Cell 942 944	C6
+T12	Cell 921 925	cell
+T13	Cell 981 984	NSC
+T14	Cell 1055 1058	NSC
+T15	Multi-tissue_structure 1218 1231	blood vessels
+T16	Cell 1265 1268	NSC
+T17	Cell 1544 1547	NSC
+T18	Cellular_component 1629 1634	axons
+T19	Multi-tissue_structure 1704 1717	sciatic nerve
+T20	Cell 1421 1429	cellular
+T21	Cell 1642 1650	cellular
+T22	Cell 864 868	cell
+T23	Multi-tissue_structure 0 13	Sciatic nerve
+T25	Cellular_component 1171 1176	axons
+T24	Multi-tissue_structure 1194 1198	area

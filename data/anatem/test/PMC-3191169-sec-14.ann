@@ -1,0 +1,63 @@
+T1	Cellular_component 234 241	nuclear
+T2	Cell 597 613	cortical neurons
+T3	Cell 639 646	neurons
+T4	Cell 964 971	neurons
+T5	Cell 1114 1121	Neurons
+T6	Cellular_component 1318 1325	neurite
+T7	Cell 1370 1376	neuron
+T8	Cellular_component 1473 1482	filopodia
+T9	Cellular_component 1574 1585	growth cone
+T10	Cellular_component 406 417	growth cone
+T11	Cellular_component 694 705	growth cone
+T12	Cellular_component 932 943	growth cone
+T13	Cellular_component 1398 1409	growth cone
+T14	Cellular_component 1648 1659	growth cone
+T15	Cellular_component 1723 1734	growth cone
+T16	Cellular_component 1771 1780	filopodia
+T17	Cellular_component 1816 1827	growth cone
+T18	Cellular_component 1870 1879	filopodia
+T19	Cellular_component 2004 2015	growth cone
+T20	Cellular_component 2046 2057	growth cone
+T21	Cellular_component 2029 2038	filopodia
+T22	Cellular_component 2106 2117	growth cone
+T23	Cellular_component 2149 2160	growth cone
+T24	Cellular_component 2170 2179	filopodia
+T25	Cell 2641 2648	neurons
+T26	Cell 2822 2829	neurons
+T27	Cellular_component 3076 3083	neurite
+T28	Cellular_component 3117 3128	growth cone
+T29	Cellular_component 3161 3168	neurite
+T30	Cell 3179 3186	neurons
+T31	Cell 3275 3282	neurons
+T32	Cell 3368 3375	neurons
+T33	Cellular_component 3463 3475	growth cones
+T34	Cellular_component 3601 3612	growth cone
+T35	Cellular_component 3637 3648	growth cone
+T36	Cellular_component 3689 3700	growth cone
+T37	Cellular_component 3710 3719	filopodia
+T38	Cell 3771 3778	neurons
+T39	Cellular_component 3846 3857	growth cone
+T40	Cellular_component 3874 3885	growth cone
+T41	Cellular_component 3895 3904	filopodia
+T42	Cellular_component 4057 4068	growth cone
+T43	Cellular_component 4195 4206	growth cone
+T44	Cell 4585 4592	neurons
+T45	Cell 4790 4797	neurons
+T46	Cell 4826 4833	neurons
+T47	Cellular_component 5025 5037	cytoskeletal
+T48	Cellular_component 5080 5092	cytoskeletal
+T49	Cellular_component 5169 5180	filamentous
+T50	Cellular_component 5375 5387	cytoskeletal
+T51	Cellular_component 5603 5615	cytoskeletal
+T52	Tissue 5484 5497	smooth muscle
+T53	Cellular_component 6006 6018	cytoskeletal
+T54	Cellular_component 6213 6225	cytoskeletal
+T55	Cellular_component 6375 6387	cytoskeletal
+T56	Cell 4424 4431	neurons
+T57	Cell 2405 2421	cortical neurons
+T58	Cell 2221 2228	neurons
+T59	Cellular_component 3408 3417	filopodia
+T60	Cellular_component 180 191	growth cone
+T61	Cellular_component 3321 3333	Growth cones
+T62	Cellular_component 1512 1524	growth cones
+T63	Cellular_component 1963 1970	neurite

@@ -1,0 +1,18 @@
+T4	Cancer 70 93	squamous cell carcinoma
+T5	Organ 101 110	esophagus
+T7	Cancer 143 148	tumor
+T12	Cancer 229 234	tumor
+T22	Cancer 482 516	esophageal squamous cell carcinoma
+T23	Cancer 518 521	SCC
+T24	Cancer 582 596	esophageal SCC
+T29	Cancer 660 663	SCC
+T31	Tissue 700 711	Microvessel
+T32	Tissue 753 765	microvessels
+T33	Cancer 769 783	tumor sections
+T48	Multi-tissue_structure 1302 1308	venous
+T52	Cancer 1498 1501	SCC
+T57	Cancer 1726 1729	SCC
+T60	Cancer 1770 1773	SCC
+T62	Cancer 1848 1851	SCC
+T70	Cancer 2134 2148	esophageal SCC
+T81	Tissue 533 548	Tissues samples

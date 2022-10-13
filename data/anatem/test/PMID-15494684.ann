@@ -1,0 +1,13 @@
+T13	Cell 44 48	cell
+T14	Organ 62 66	bone
+T15	Cell 162 166	cell
+T16	Tissue 201 205	bone
+T5	Organ 207 212	teeth
+T6	Organ 214 220	kidney
+T7	Tissue 225 250	epithelial lining tissues
+T8	Organism_substance 267 273	plasma
+T9	Pathological_formation 404 409	wound
+T10	Cancer 422 427	tumor
+T11	Tissue 479 483	bone
+T12	Cell 524 528	cell
+T4	Organism_substance 278 289	breast milk

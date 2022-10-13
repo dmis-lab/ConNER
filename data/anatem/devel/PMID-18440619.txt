@@ -1,0 +1,9 @@
+Sciatic nerve repair by microgrooved nerve conduits made of chitosan-gold nanocomposites.
+BACKGROUND:
+To better direct the repair of peripheral nerve after injury, an implant consisting of a multicomponent micropatterned conduit seeded with NSC was designed.
+METHODS:
+The mechanical properties of the chi-Au nanocomposites were tested. In vitro, the effect of chi-Au on cell behavior (NSC and glial cell line C6) and the influence of micropattern on cell alignment were evaluated. In vivo, the micropatterned conduits with/without the preseeded NSC were implanted to bridge a 10-mm-long defect of the sciatic nerve in 9 male Sprague-Dawley rats. The repair outcome was investigated 6 weeks after the surgery.
+RESULTS:
+Based on the dynamic modulus, chitosan with 50 ppm or more gold was a stronger material than others. In vitro, gold at 25 or 50 ppm led to better cell performance for NSC; and gold at 50 ppm gave better cell performance for C6. On the microgrooved substrate, the NSC had elongated processes oriented parallel to the grooves, whereas the NSC on the nonpatterned surfaces did not exhibit a particular bias in alignment. In vivo, the number of regenerated axons, the regenerated area, and the number of blood vessels were significantly higher in the NSC-preseeded conduit.
+CONCLUSION:
+Modification of the chitosan matrix by gold nanoparticles not only provides the mechanical strength but also affects the cellular response. The preliminary in vivo data demonstrated that the biodegradable micropatterned conduits preseeded with NSC provided a combination of physical and biological guidance cues for regenerating axons at the cellular level and offered a better alternative for repairing sciatic nerve transactions.

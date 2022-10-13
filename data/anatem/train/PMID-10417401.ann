@@ -1,0 +1,12 @@
+T1	Multi-tissue_structure 20 28	coronary
+T3	Multi-tissue_structure 103 111	coronary
+T6	Cell 245 261	endothelial cell
+T7	Organ 343 348	heart
+T10	Organism_subdivision 486 490	body
+T11	Organ 512 517	Heart
+T12	Multi-tissue_structure 680 688	Arterial
+T13	Organ 702 709	cardiac
+T14	Tissue 733 759	Left ventricular capillary
+T17	Multi-tissue_structure 939 955	Left ventricular
+T18	Organism_subdivision 964 968	body
+T20	Tissue 1097 1106	capillary

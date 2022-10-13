@@ -1,0 +1,16 @@
+T5	Cell 133 148	leukemic blasts
+T6	Cell 177 193	clonogenic cells
+T8	Cancer 213 235	acute myeloid leukemia
+T13	Cell 441 455	leukemic cells
+T14	Immaterial_anatomical_entity 467 480	intracellular
+T17	Cell 647 664	bone marrow cells
+T19	Cancer 687 709	acute myeloid leukemia
+T22	Cell 772 777	cells
+T28	Cell 987 996	specimens
+T31	Immaterial_anatomical_entity 1093 1106	intracellular
+T44	Cell 1444 1459	leukemic blasts
+T46	Cell 1564 1589	clonogenic leukemic cells
+T51	Immaterial_anatomical_entity 1660 1673	intracellular
+T54	Cell 1732 1746	leukemic cells
+T56	Cell 1801 1826	clonogenic leukemic cells
+T57	Cell 1828 1833	CFU-L

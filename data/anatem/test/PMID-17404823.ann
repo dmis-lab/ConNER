@@ -1,0 +1,25 @@
+T1	Cell 4 15	cancer cell
+T2	Cell 141 152	Cancer Cell
+T3	Cancer 259 265	cancer
+T4	Cancer 314 321	cancers
+T6	Cell 419 424	cells
+T10	Cell 616 621	cells
+T11	Cellular_component 632 644	mitochondria
+T15	Cancer 705 712	cancers
+T16	Cancer 805 812	cancers
+T19	Cell 927 931	cell
+T20	Cell 1016 1028	cancer cells
+T22	Cell 1095 1099	cell
+T24	Cell 1124 1129	cells
+T28	Cellular_component 1247 1260	mitochondrial
+T31	Cancer 1295 1302	cancers
+T33	Cell 1362 1367	cells
+T34	Cancer 1398 1405	cancers
+T36	Cell 1536 1548	cancer cells
+T37	Cell 1571 1575	cell
+T39	Cellular_component 1590 1602	mitochondria
+T40	Cell 1611 1615	cell
+T42	Cell 1682 1694	cancer cells
+T50	Cell 1898 1910	cancer cells
+T53	Cell 1953 1964	cancer cell
+T58	Cellular_component 574 586	mitochondria

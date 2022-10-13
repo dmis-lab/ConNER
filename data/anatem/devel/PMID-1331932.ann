@@ -1,0 +1,13 @@
+T4	Cancer 124 148	nasopharyngeal carcinoma
+T7	Cancer 296 320	nasopharyngeal carcinoma
+T8	Cancer 322 325	NPC
+T20	Tissue 1044 1058	biopsy tissues
+T21	Organism_subdivision 1077 1083	throat
+T24	Tissue 1209 1223	biopsy tissues
+T28	Cell 1291 1296	cells
+T29	Cell 1298 1301	C15
+T31	Cell 1375 1384	CAO cells
+T32	Cell 1427 1443	Balb/c 3T3 cells
+T33	Cancer 1458 1461	NPC
+T35	Cell 1492 1496	cell
+T38	Cancer 1596 1599	NPC

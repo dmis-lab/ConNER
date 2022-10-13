@@ -1,0 +1,11 @@
+T4	Multi-tissue_structure 85 98	blood vessels
+T5	Multi-tissue_structure 104 112	vascular
+T10	Anatomical_system 303 314	vasculature
+T14	Cell 599 603	cell
+T15	Cellular_component 607 613	matrix
+T21	Multi-tissue_structure 1078 1086	vascular
+T22	Multi-tissue_structure 1180 1188	vascular
+T26	Anatomical_system 1302 1313	vasculature
+T27	Multi-tissue_structure 1379 1387	vascular
+T44	Anatomical_system 328 337	endocrine
+T45	Anatomical_system 342 361	autocrine/paracrine

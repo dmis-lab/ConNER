@@ -1,0 +1,18 @@
+T1	Organ 29 38	pulmonary
+T2	Cancer 53 65	osteosarcoma
+T4	Cancer 140 146	cancer
+T5	Cancer 170 183	primary tumor
+T6	Cancer 224 237	primary tumor
+T7	Cancer 368 394	primary osteosarcoma tumor
+T8	Organ 419 428	pulmonary
+T9	Cancer 450 462	osteosarcoma
+T10	Cancer 572 585	primary tumor
+T11	Cancer 595 600	tumor
+T12	Cancer 635 640	tumor
+T13	Organism_substance 690 695	serum
+T15	Cancer 783 796	primary tumor
+T17	Organ 896 905	pulmonary
+T18	Cancer 1015 1034	osteosarcoma tumors
+T19	Organ 1059 1068	pulmonary
+T20	Organ 1185 1194	pulmonary
+T21	Cancer 1209 1221	osteosarcoma

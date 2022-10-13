@@ -1,0 +1,18 @@
+T3	Cell 55 60	CC531
+T4	Organ 70 75	liver
+T6	Cancer 229 251	metastatic liver tumor
+T8	Cell 326 358	CC531 colon adenocarcinoma cells
+T9	Tissue 401 413	Liver tissue
+T10	Organ 481 486	liver
+T11	Cancer 537 542	tumor
+T12	Multi-tissue_structure 578 594	sinusoidal blood
+T14	Cancer 629 634	tumor
+T15	Organ 643 649	livers
+T16	Multi-tissue_structure 724 735	canalicular
+T29	Cell 1059 1068	peritumor
+T30	Tissue 1087 1100	liver tissues
+T32	Organ 1200 1205	liver
+T34	Organ 1305 1310	liver
+T35	Multi-tissue_structure 1367 1378	portal vein
+T36	Multi-tissue_structure 1382 1396	hepatic artery
+T37	Organ 1415 1420	liver

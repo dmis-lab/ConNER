@@ -1,0 +1,14 @@
+Ovariectomy
+Based on the uterine weight, we determined seven unsuccessful OVXs. The rats concerned were removed from further analyses, which left nine rats in the control group, five in the OVX group, seven in the OVX and late ZOL group, and eight in the OVX and early ZOL group. For each animal, we determined the percentage change in structural parameters compared to the values at week 0. Figure 1 shows the average percentage change and upper standard deviation for all groups for BV/TV, Conn.D, SMI, Tb.N, Tb.Th, and Tb.Sp. The OVX group without treatment showed large changes in structural parameters, indicating the development of OVX-induced bone loss (Figs. 1 and 2). Paired Student's t-test indicated significant changes within 2 weeks after OVX for all structural parameters. BV/TV, Conn.D, and Tb.N decreased during the experiment and SMI and Tb.Sp increased. Both Tb.Th and Tb.N decreased within 2 weeks, indicating that both thinning and complete resorption of trabeculae started directly after OVX. The initial rapid loss of bone and connectivity was largely accompanied by trabecular thinning, while secondary, slower loss of bone was concomitant with a decrease in Tb.N. While BV/TV, Conn.D, SMI, Tb.N, and Tb.Sp showed continuous changes in the same direction throughout the experiment, Tb.Th initially decreased significantly until 4 weeks after OVX and then increased again until after 16 weeks Tb.Th was significantly higher than in the control group. 
+Fig. 1
+Average percentage change in structural parameters in the metaphyseal proximal tibia and upper standard deviation for all groups at all time points. Brackets indicate P < 0.05 at week 16
+Fig. 2
+Same slice of an unprocessed CT scan of the same rat in the OVX group taken at weeks 0 (a), 2 (b), 4 (c), 8 (d), 12 (e), and 16 (f). Images show typical trabecular bone loss due to OVX in the metaphysis. Green line shows the analyzed metaphyseal bone
+The absolute average values and standard deviations for all structural parameters of all measurements are shown in Table 1. At the starting point, some differences in the values between the groups were present. This was due to the fact that some animals, which mostly had a relatively low BV/TV, were removed from the study because they did not respond to the OVX. However, since we compared the relative changes in each animal, the results were most likely not affected by the difference in absolute values. 
+Table 1
+Mean values and standard deviation of all structural parameters of all groups at the start of the experiment
+Group BV/TV (1) Conn.D (1/mm) SMI (1) Tb.N (1/mm) Tb.Th (mum) Tb.Sp (mum)
+Control 0.17 (0.056) 41 (47) 1.52 (0.53) 1.89 (1.38) 105 (49) 613 (368)
+OVX 0.26 (0.055) 141 (76) 1.22 (0.39) 3.77 (1.66) 84 (10) 335 (174)
+OVX + late ZOL 0.23 (0.062) 86 (66) 1.23 (0.34) 2.77 (1.55) 89 (13) 482 (227)
+OVX + early ZOL 0.17 (0.056) 38 (21) 1.70 (0.39) 1.86 (0.80) 95 (7) 647 (207)

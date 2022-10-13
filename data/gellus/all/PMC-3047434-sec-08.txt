@@ -1,0 +1,7 @@
+DNA isolation
+All solutions used for DNA isolation are purged with nitrogen (immediately prior to use) and supplemented with 50 muM phenyl-tert-butyl nitrone to minimise oxidative damage to DNA[31].
+Qiagen DNAeasy Kit (#69506)
+includes: Proteinase K, AW1, AW2, AE and Spin-columns
+Dithiothreitol (DTT; Sigma)
+Ethanol (Ajax Finechem #214-2.5L)
+Nitrogen (for purging of buffers)

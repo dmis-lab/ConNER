@@ -1,0 +1,35 @@
+T2	Multi-tissue_structure 42 47	veins
+T4	Tissue 66 79	cancer tissue
+T5	Cancer 89 94	tumor
+T7	Multi-tissue_structure 153 170	peritumoral veins
+T9	Tissue 188 211	cancer tissue specimens
+T10	Tissue 213 221	Vascular
+T11	Tissue 226 243	neoplastic tissue
+T12	Cancer 252 275	colonic adenocarcinomas
+T13	Cancer 280 290	carcinoids
+T14	Cancer 294 315	renal-cell carcinomas
+T15	Cancer 322 341	malignant lymphomas
+T17	Cancer 435 462	colonic carcinoma specimens
+T18	Multi-tissue_structure 468 487	peritumoral vessels
+T20	Tissue 552 569	neoplastic tissue
+T22	Multi-tissue_structure 682 701	peritumoral vessels
+T23	Cancer 733 749	gastrointestinal
+T24	Cancer 754 774	bronchial carcinoids
+T25	Tissue 833 855	carcinoid tumor tissue
+T26	Multi-tissue_structure 871 878	vessels
+T27	Cancer 897 903	tumors
+T28	Cancer 912 933	renal-cell carcinomas
+T29	Cancer 937 956	malignant lymphomas
+T32	Multi-tissue_structure 1066 1071	veins
+T33	Tissue 1093 1117	smooth-muscle cell layer
+T38	Multi-tissue_structure 1299 1306	vessels
+T40	Tissue 1317 1345	non-neoplastic human tissues
+T41	Organ 1355 1364	intestine
+T42	Organ 1368 1384	lymphatic organs
+T45	Multi-tissue_structure 1469 1488	peritumoral vessels
+T48	Cancer 1668 1673	tumor
+T49	Tissue 1712 1724	tumor stroma
+T50	Cancer 1737 1742	tumor
+T51	Multi-tissue_structure 1788 1796	vascular
+T52	Cancer 1831 1840	neoplasms
+T1	Cancer 1533 1543	neoplastic

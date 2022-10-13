@@ -1,0 +1,23 @@
+T3	Cancer 92 113	renal cell carcinomas
+T5	Cancer 199 204	tumor
+T18	Cancer 574 590	renal carcinomas
+T19	Cancer 633 646	kidney tumors
+T23	Multi-tissue_structure 801 815	kidney samples
+T24	Cancer 823 841	renal cell cancers
+T27	Organ 933 950	neoplastic kidney
+T28	Tissue 972 979	tissues
+T30	Cancer 1033 1039	tumors
+T31	Organ 1052 1058	kidney
+T45	Cell 1522 1532	clear cell
+T46	Cancer 1547 1580	chromophil (papillary) carcinomas
+T54	Cancer 1706 1711	tumor
+T59	Cell 1836 1867	renal carcinoma cell line 786-0
+T61	Cell 1936 1941	cells
+T62	Cell 1972 1991	wild-type VHL cells
+T67	Cell 2217 2238	mutant VHL cell lines
+T71	Cancer 2404 2425	clear cell carcinomas
+T72	Cancer 2500 2517	clear cell tumors
+T73	Cancer 2599 2609	chromophil
+T74	Cancer 2611 2620	papillary
+T75	Cancer 2628 2645	clear cell tumors
+T79	Cancer 2875 2880	tumor

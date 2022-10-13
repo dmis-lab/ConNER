@@ -1,0 +1,15 @@
+T31	Cancer 0 27	Pancreatic endocrine tumors
+T32	Cancer 162 189	pancreatic endocrine tumors
+T34	Tissue 574 580	tissue
+T35	Cancer 729 743	primary tumors
+T36	Cancer 946 952	tumors
+T37	Organ 1065 1070	liver
+T38	Cell 1281 1285	cell
+T39	Cell 1303 1317	PET cell lines
+T40	Cancer 1483 1504	neuroendocrine tumors
+T43	Cancer 191 195	PETs
+T44	Cancer 359 371	primary PETs
+T33	Multi-tissue_structure 413 431	pancreatic samples
+T24	Cancer 905 916	insulinomas
+T26	Cancer 1396 1399	PET
+T1	Cancer 387 397	metastases

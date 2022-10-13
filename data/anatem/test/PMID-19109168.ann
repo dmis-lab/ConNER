@@ -1,0 +1,27 @@
+T4	Tissue 51 64	breast tissue
+T5	Cancer 69 82	breast cancer
+T9	Cancer 131 136	tumor
+T11	Cancer 185 198	breast cancer
+T13	Organism_subdivision 223 229	breast
+T15	Cancer 249 254	tumor
+T18	Tissue 321 334	breast tissue
+T19	Cancer 338 351	breast cancer
+T23	Tissue 542 555	breast tissue
+T24	Cancer 616 630	breast cancers
+T25	Cancer 661 674	breast cancer
+T28	Tissue 765 778	breast tissue
+T29	Cancer 783 814	hormone-dependent breast cancer
+T34	Tissue 897 910	breast tissue
+T35	Cancer 939 952	breast cancer
+T42	Cancer 1092 1098	tumors
+T47	Cell 1139 1155	endothelial cell
+T48	Cell 1181 1192	cancer cell
+T50	Cancer 1211 1217	tumors
+T57	Tissue 1379 1392	breast tissue
+T58	Cancer 1403 1416	breast cancer
+T61	Organism_subdivision 1482 1488	breast
+T63	Cancer 1508 1513	tumor
+T76	Tissue 390 396	tissue
+T77	Tissue 481 487	tissue
+T78	Cell 374 378	cell
+T1	Immaterial_anatomical_entity 1065 1080	extracellularly

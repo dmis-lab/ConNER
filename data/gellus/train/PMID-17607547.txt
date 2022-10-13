@@ -1,0 +1,9 @@
+Selective activation of mast cells in rheumatoid synovial tissue results in production of TNF-alpha, IL-1beta and IL-1Ra.
+OBJECTIVES AND DESIGN:
+To study the consequences of mast cell activation in human synovial tissue.
+METHODS:
+Synovial tissue was obtained from 18 RA patients and mast cells was selectively activated in synovial tissue explant cultures. Expression of TNF-alpha, IL-1beta and IL-1Ra were determined and tissue distribution of IL-1beta was studied.
+RESULTS:
+Compared to untreated synovia, selective activation of synovial mast cells increased significantly the production of TNF-alpha (0.49 +/- 0.88 vs. 4.56 +/- 3.18 pg/mg wet tissue, p < 0.001) and IL-1beta (0.058 +/- 0.032 vs. 2.55 +/- 1.98 pg/mg wet tissue, p = 0.013). The expression of TNF-alpha and IL-1beta mRNA increased significantly (19-fold (p = 0.009) and 13-fold (p = 0.031), respectively). Mast cell activation induced IL-1beta expression in particular in nearby CD68 positive synovial macrophages. Secretion of IL-1Ra was also increased but to a lesser degree than that of IL-1beta.
+CONCLUSIONS:
+Synovial mast cells produce proinflammmatory cytokines and may thus contribute to the inflammation in RA.

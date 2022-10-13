@@ -1,0 +1,30 @@
+T2	Cell 35 53	smooth muscle cell
+T3	Cell 72 76	cell
+T4	Cell 120 124	cell
+T5	Multi-tissue_structure 149 159	myocardial
+T6	Cell 194 198	cell
+T8	Cell 222 226	cell
+T10	Cell 294 313	smooth muscle cells
+T11	Cell 315 319	SMCs
+T12	Cell 335 339	cell
+T13	Cell 379 383	cell
+T15	Cell 442 446	SMCs
+T16	Cell 465 469	SMCs
+T17	Cell 540 544	SMCs
+T18	Cell 546 550	cell
+T23	Cell 792 797	cells
+T24	Cell 819 823	cell
+T26	Cell 996 1000	cell
+T27	Multi-tissue_structure 1022 1038	left ventricular
+T29	Cell 1122 1127	cells
+T30	Pathological_formation 1170 1174	scar
+T32	Cell 1210 1214	SMCs
+T33	Multi-tissue_structure 1229 1239	myocardial
+T37	Cell 1298 1302	cell
+T38	Multi-tissue_structure 1327 1333	vessel
+T39	Pathological_formation 1351 1366	myocardial scar
+T40	Cell 1458 1462	SMCs
+T42	Cell 1582 1586	cell
+T44	Cell 1634 1644	donor cell
+T45	Cell 1692 1696	cell
+T1	Cellular_component 489 496	plasmid

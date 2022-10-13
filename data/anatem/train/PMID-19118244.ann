@@ -1,0 +1,21 @@
+T2	Pathological_formation 44 76	cerebral cavernous malformations
+T3	Pathological_formation 102 134	Cerebral cavernous malformations
+T4	Pathological_formation 136 140	CCMs
+T5	Pathological_formation 156 181	cerebral vascular lesions
+T8	Cancer 338 343	tumor
+T10	Cancer 560 566	tumors
+T12	Pathological_formation 657 661	CCMs
+T14	Pathological_formation 736 740	CCMs
+T16	Cell 977 988	endothelial
+T21	Pathological_formation 1220 1233	CCM specimens
+T23	Pathological_formation 1335 1339	CCMs
+T24	Pathological_formation 1369 1373	CCMs
+T27	Pathological_formation 1563 1567	CCMs
+T28	Pathological_formation 1632 1636	CCMs
+T31	Pathological_formation 1753 1757	CCMs
+T33	Pathological_formation 1793 1797	CCMs
+T40	Pathological_formation 2050 2054	CCMs
+T41	Pathological_formation 2081 2085	CCMs
+T42	Pathological_formation 2158 2162	CCMs
+T45	Pathological_formation 2223 2230	lesions
+T85	Pathological_formation 714 732	surgical specimens

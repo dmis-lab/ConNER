@@ -1,0 +1,31 @@
+T2	Multi-tissue_structure 4 12	vascular
+T10	Multi-tissue_structure 175 183	vascular
+T13	Cell 271 288	endothelial cells
+T15	Cellular_component 309 320	microtubule
+T16	Cellular_component 337 348	microtubule
+T22	Cell 372 388	endothelial cell
+T24	Tissue 419 423	tube
+T30	Cell 599 615	endothelial cell
+T32	Multi-tissue_structure 660 668	vascular
+T33	Cell 702 719	endothelial cells
+T34	Cellular_component 783 794	microtubule
+T36	Cellular_component 826 837	microtubule
+T38	Cellular_component 850 861	microtubule
+T40	Cellular_component 1028 1039	microtubule
+T41	Cellular_component 1106 1118	microtubules
+T45	Multi-tissue_structure 1567 1584	tumor vasculature
+T4	Cellular_component 1184 1199	focal adhesions
+T7	Cellular_component 1204 1222	adherens junctions
+T27	Cellular_component 1160 1182	subcellular assemblies
+T60	Multi-tissue_structure 217 225	vascular
+T62	Multi-tissue_structure 1420 1428	vascular
+T64	Cell 885 889	cell
+T66	Cell 918 922	cell
+T68	Cell 1065 1069	cell
+T69	Cell 1290 1294	cell
+T72	Cell 1308 1312	cell
+T73	Cell 1313 1317	cell
+T1	Cancer 102 108	cancer
+T3	Cellular_component 24 35	microtubule
+T5	Cellular_component 51 62	Microtubule
+T6	Cellular_component 539 550	microtubule

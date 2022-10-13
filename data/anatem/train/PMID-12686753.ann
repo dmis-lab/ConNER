@@ -1,0 +1,13 @@
+T2	Organism_substance 4 9	venom
+T5	Cell 86 117	lung cancer cell line NCI-H1299
+T7	Organism_substance 147 152	venom
+T8	Organism_substance 154 156	BV
+T14	Cell 438 465	NCI-H1299 lung cancer cells
+T15	Organism_substance 479 481	BV
+T16	Cell 556 571	NCI-H1299 cells
+T17	Organism_substance 585 587	BV
+T20	Organism_substance 765 767	BV
+T26	Organism_substance 930 932	BV
+T27	Organism_substance 977 979	BV
+T28	Cancer 998 1003	tumor
+T30	Cancer 1020 1031	lung cancer

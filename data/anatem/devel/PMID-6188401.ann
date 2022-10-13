@@ -1,0 +1,26 @@
+T2	Multi-tissue_structure 100 106	cornea
+T3	Tissue 154 163	capillary
+T4	Cellular_component 230 247	basement membrane
+T5	Multi-tissue_structure 260 266	venule
+T6	Cell 293 320	capillary endothelial cells
+T7	Immaterial_anatomical_entity 353 358	lumen
+T8	Tissue 385 393	branches
+T9	Tissue 429 433	tube
+T10	Cancer 550 562	solid tumors
+T11	Cell 593 613	non-neoplastic cells
+T12	Cell 639 650	macrophages
+T13	Cell 663 674	lymphocytes
+T14	Cell 680 690	adipocytes
+T15	Tissue 705 712	tissues
+T16	Cell 762 766	cell
+T17	Cell 902 929	capillary endothelial cells
+T18	Tissue 1029 1038	capillary
+T19	Cell 1084 1093	mast cell
+T20	Cell 1115 1126	helper cell
+T21	Cell 1131 1158	capillary endothelial cells
+T23	Cell 1274 1283	mast cell
+T24	Cell 1322 1349	capillary endothelial cells
+T25	Cell 1387 1397	mast cells
+T26	Cellular_component 1414 1420	matrix
+T28	Tissue 1466 1483	capillary sprouts
+T29	Tissue 1767 1776	capillary

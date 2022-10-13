@@ -1,0 +1,9 @@
+T5	Tissue 187 193	macula
+T7	Pathological_formation 265 270	edema
+T8	Tissue 285 294	capillary
+T11	Multi-tissue_structure 665 672	retinal
+T13	Multi-tissue_structure 764 771	retinal
+T14	Pathological_formation 799 804	edema
+T19	Multi-tissue_structure 1301 1309	vascular
+T21	Tissue 1417 1423	tissue
+T29	Organ 1098 1104	ocular

@@ -1,0 +1,21 @@
+T3	Cell 40 58	osteosarcoma cells
+T6	Cell 196 211	cancerous cells
+T7	Organ 246 250	lung
+T8	Organism_subdivision 252 258	breast
+T9	Organ 260 270	pancreatic
+T10	Organ 275 280	colon
+T11	Cancer 321 333	osteosarcoma
+T12	Cancer 337 366	primary malignant bone tumour
+T14	Cell 451 456	MG-63
+T15	Cell 461 497	SaOS-2 human osteosarcoma cell lines
+T17	Cell 623 634	MG-63 cells
+T18	Cell 640 652	SaOS-2 cells
+T20	Cell 729 745	cell populations
+T21	Cellular_component 790 812	mitochondrial membrane
+T22	Cell 831 836	MG-63
+T23	Cell 841 853	SaOS-2 cells
+T24	Cellular_component 872 881	chromatin
+T25	Cellular_component 916 932	apoptotic bodies
+T28	Cell 1026 1031	MG-63
+T29	Cell 1036 1048	SaOS-2 cells
+T31	Cancer 1115 1126	bone cancer

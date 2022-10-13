@@ -1,0 +1,20 @@
+T3	Cell 18 26	platelet
+T5	Cell 31 47	endothelial cell
+T13	Cell 217 225	platelet
+T14	Cell 247 263	endothelial cell
+T17	Cellular_component 329 347	basement membranes
+T22	Cell 619 635	endothelial cell
+T24	Cell 655 663	platelet
+T30	Cell 824 840	endothelial cell
+T35	Cell 997 1013	endothelial cell
+T37	Cell 1108 1117	platelets
+T40	Cell 1180 1188	platelet
+T44	Cell 1337 1353	endothelial cell
+T46	Cell 1385 1393	platelet
+T9	Organism_substance 907 913	plasma
+T6	Multi-tissue_structure 443 458	vascular grafts
+T10	Multi-tissue_structure 60 74	vascular graft
+T18	Multi-tissue_structure 177 192	vascular grafts
+T20	Multi-tissue_structure 710 716	grafts
+T27	Multi-tissue_structure 1298 1303	graft
+T28	Multi-tissue_structure 508 515	carotid

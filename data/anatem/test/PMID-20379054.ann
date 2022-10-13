@@ -1,0 +1,16 @@
+T1	Pathological_formation 648 655	lesions
+T2	Multi-tissue_structure 663 671	thoracic
+T3	Multi-tissue_structure 676 691	abdominal aorta
+T5	Multi-tissue_structure 1123 1128	aorta
+T4	Pathological_formation 942 972	atherosclerotic aortic plaques
+T6	Pathological_formation 1092 1115	atherosclerotic plaques
+T7	Cell 1172 1177	cells
+T8	Cell 1182 1193	macrophages
+T9	Multi-tissue_structure 1213 1227	arterial walls
+T10	Pathological_formation 1271 1294	atherosclerotic plaques
+T11	Pathological_formation 1423 1446	atherosclerotic plaques
+T12	Multi-tissue_structure 1454 1459	aorta
+T13	Pathological_formation 1476 1499	atherosclerotic plaques
+T14	Pathological_formation 236 259	atherosclerotic lesions
+T15	Multi-tissue_structure 194 204	intestinal
+T16	Multi-tissue_structure 824 834	intestinal

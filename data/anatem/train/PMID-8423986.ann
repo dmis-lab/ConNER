@@ -1,0 +1,15 @@
+T2	Cell 69 74	pre-B
+T4	Cell 104 109	cells
+T5	Cell 118 125	T cells
+T6	Cell 142 150	lymphoid
+T10	Cell 248 249	B
+T11	Cell 257 264	T cells
+T12	Cancer 316 324	Lymphoma
+T13	Cell 355 364	T lineage
+T14	Cell 411 420	B lineage
+T15	Cancer 445 451	tumors
+T16	Cancer 457 470	plasmacytomas
+T18	Cancer 506 515	lymphomas
+T25	Cell 627 637	B-lymphoid
+T27	Cancer 701 714	plasmacytomas
+T30	Cancer 809 818	lymphomas

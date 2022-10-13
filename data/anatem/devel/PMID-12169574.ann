@@ -1,0 +1,21 @@
+T2	Immaterial_anatomical_entity 27 45	lung extracellular
+T3	Immaterial_anatomical_entity 92 105	Extracellular
+T4	Immaterial_anatomical_entity 153 166	extracellular
+T5	Organ 222 226	lung
+T6	Immaterial_anatomical_entity 128 130	EC
+T7	Immaterial_anatomical_entity 252 254	EC
+T8	Immaterial_anatomical_entity 276 289	intracellular
+T9	Immaterial_anatomical_entity 328 330	EC
+T10	Immaterial_anatomical_entity 439 441	EC
+T11	Organ 453 457	lung
+T12	Organ 607 612	Lungs
+T13	Immaterial_anatomical_entity 726 728	EC
+T14	Immaterial_anatomical_entity 813 815	EC
+T15	Organ 780 785	lungs
+T1	Immaterial_anatomical_entity 884 886	EC
+T16	Multi-tissue_structure 965 986	pulmonary vasculature
+T17	Multi-tissue_structure 953 960	airways
+T18	Immaterial_anatomical_entity 1001 1013	pulmonary EC
+T19	Immaterial_anatomical_entity 1160 1162	EC
+T20	Immaterial_anatomical_entity 1293 1295	EC
+T21	Developing_anatomical_structure 556 561	fetal

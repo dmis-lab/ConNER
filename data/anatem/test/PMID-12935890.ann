@@ -1,0 +1,12 @@
+T11	Cancer 91 104	breast cancer
+T13	Cancer 276 283	cancers
+T14	Cell 585 604	breast cancer cells
+T15	Cell 606 616	MDA-MB-231
+T16	Cell 625 641	leukemia T cells
+T17	Cell 655 693	human umbilical vein endothelial cells
+T18	Organ 969 978	pulmonary
+T19	Cancer 1162 1168	cancer
+T20	Cancer 1301 1314	breast cancer
+T28	Cell 643 649	Sup-T1
+T41	Cell 993 1003	MDA-MB-231
+T1	Immaterial_anatomical_entity 779 791	subcutaneous

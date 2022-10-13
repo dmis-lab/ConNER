@@ -1,0 +1,35 @@
+T1	Cell 0 9	Pericytes
+T2	Cell 16 26	tumor cell
+T5	Cell 118 134	beta tumor cells
+T6	Organ 171 177	organs
+T7	Multi-tissue_structure 188 199	lymph nodes
+T8	Cancer 220 251	NCAM-deficient beta cell tumors
+T10	Multi-tissue_structure 263 276	blood vessels
+T11	Cell 292 300	pericyte
+T12	Cell 301 312	endothelial
+T13	Cell 313 317	cell
+T14	Cell 318 322	cell
+T15	Immaterial_anatomical_entity 350 362	perivascular
+T16	Cellular_component 377 391	ECM components
+T17	Cell 405 415	tumor cell
+T19	Cancer 440 452	fibrosarcoma
+T20	Cancer 460 464	T241
+T21	Cell 475 483	pericyte
+T22	Immaterial_anatomical_entity 510 522	perivascular
+T23	Cellular_component 537 550	ECM molecules
+T25	Cell 605 615	tumor cell
+T26	Tissue 646 662	microvessel wall
+T27	Cell 692 700	pericyte
+T28	Cancer 751 763	solid tumors
+T29	Cell 776 785	beta cell
+T30	Cell 811 819	pericyte
+T33	Cancer 868 894	beta tumor cell metastases
+T34	Organ 906 912	organs
+T35	Multi-tissue_structure 923 934	lymph nodes
+T36	Cell 961 970	pericytes
+T37	Cell 983 993	tumor cell
+T38	Cell 1045 1056	tumor cells
+T39	Cell 1090 1098	pericyte
+T40	Cell 1099 1110	endothelial
+T41	Cell 1111 1115	cell
+T42	Cell 1116 1120	cell

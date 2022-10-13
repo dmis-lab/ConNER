@@ -1,0 +1,15 @@
+T2	Organism_substance 84 111	malignant pleural effusions
+T4	Organism_substance 246 264	malignant effusion
+T5	Organism_substance 392 409	pleural effusions
+T6	Organism_substance 508 532	benign pleural effusions
+T7	Organism_substance 545 564	malignant effusions
+T8	Cell 606 611	cells
+T9	Organism_substance 743 752	specimens
+T10	Organism_substance 1000 1023	benign pleural effusion
+T11	Organism_substance 1108 1122	malignant ones
+T12	Organism_substance 1458 1485	malignant pleural effusions
+T13	Organism_substance 1640 1667	malignant pleural effusions
+T14	Tissue 1681 1687	tissue
+T15	Organism_substance 2352 2376	benign pleural effusions
+T16	Organism_substance 2477 2501	benign pleural effusions
+T17	Organism_substance 2598 2616	malignant effusion

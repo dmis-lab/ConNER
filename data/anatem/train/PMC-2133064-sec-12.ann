@@ -1,0 +1,11 @@
+T1	Organism_substance 51 60	cytosolic
+T2	Organism_substance 65 95	membrane subcellular fractions
+T3	Cellular_component 106 114	membrane
+T4	Cellular_component 222 230	membrane
+T5	Organism_substance 265 279	cytosolic pool
+T6	Organism_substance 384 391	cytosol
+T7	Organism_substance 538 545	cytosol
+T8	Cellular_component 550 559	membranes
+T9	Cell 595 600	cells
+T10	Cellular_component 619 627	membrane
+T11	Cellular_component 754 762	membrane

@@ -1,0 +1,12 @@
+T28	Cell 75 89	leukemic cells
+T29	Cell 226 250	hematopoietic stem cells
+T30	Cell 252 256	HSCs
+T31	Cell 447 451	HSCs
+T32	Cell 456 470	leukemic cells
+T33	Cell 674 709	hematopoietic stem/progenitor cells
+T34	Multi-tissue_structure 973 984	bone marrow
+T35	Multi-tissue_structure 1093 1104	bone marrow
+T37	Cell 40 70	hematopoietic stem/progenitors
+T38	Cellular_component 140 147	nuclear
+T39	Cancer 317 333	myeloid leukemia
+T46	Pathological_formation 568 592	hematopoietic malignancy

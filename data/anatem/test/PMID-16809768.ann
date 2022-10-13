@@ -1,0 +1,14 @@
+T11	Multi-tissue_structure 206 217	vasculature
+T12	Cancer 221 233	solid tumors
+T13	Cancer 262 267	tumor
+T21	Cell 436 452	endothelial cell
+T22	Cellular_component 474 502	extracellular matrix barrier
+T23	Cellular_component 543 563	extracellular matrix
+T26	Cell 591 602	endothelial
+T29	Cellular_component 679 685	matrix
+T46	Cell 1025 1041	endothelial cell
+T24	Immaterial_anatomical_entity 1943 1956	extracellular
+T44	Immaterial_anatomical_entity 1961 1974	intracellular
+T98	Cellular_component 1300 1312	cytoskeleton
+T99	Organism_substance 1364 1375	cytoplasmic
+T100	Cellular_component 106 119	transmembrane

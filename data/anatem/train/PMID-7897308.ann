@@ -1,0 +1,16 @@
+T2	Cell 81 103	breast carcinoma cells
+T3	Cancer 165 171	cancer
+T8	Cancer 453 460	cancers
+T9	Cancer 472 485	breast cancer
+T11	Cancer 511 516	tumor
+T14	Tissue 616 623	tissues
+T15	Multi-tissue_structure 635 642	gingiva
+T16	Tissue 644 648	bone
+T17	Tissue 654 663	cartilage
+T19	Cancer 728 733	tumor
+T24	Cell 814 852	MDA-MB-435 breast adenocarcinoma cells
+T25	Cellular_component 877 894	basement membrane
+T26	Cancer 973 978	tumor
+T27	Cellular_component 996 1014	basement membranes
+T29	Cell 1079 1102	breast cancer cell line
+T1	Cancer 352 362	neoplastic

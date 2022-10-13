@@ -1,0 +1,11 @@
+T1	Multi-tissue_structure 406 414	vascular
+T2	Organism_substance 478 483	blood
+T3	Multi-tissue_structure 525 533	vascular
+T4	Organism_substance 597 602	blood
+T5	Multi-tissue_structure 629 637	coronary
+T6	Organ 638 643	heart
+T8	Organism_substance 1314 1325	proteinuria
+T7	Organism_subdivision 1045 1049	oral
+T9	Organism_subdivision 1188 1192	oral
+T10	Organism_subdivision 1517 1521	oral
+T11	Organism_subdivision 1803 1807	oral

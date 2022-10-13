@@ -1,0 +1,7 @@
+Quantitative reverse transcription PCR
+Reverse transcription was performed using 0.2 mug of total RNA from muscle of 10 week-old and 19 month-old C57Bl6 mice (five animals per group), a Core kit (RT-RTCK-03, Eurogentec) according to manufacturer's instruction and a mix of random primers (9 mers) and oligodT. qPCR was performed on SDS7900HT (Applied Biosystem) using Mesagreen qPCR kit for SYBR (Eurogentec) and the following primers: 
+PPARbeta: 5'-AGATGGTGGCAGAGCTATGACC-3'; 5'-TCCTCCTGTGGCTGTTCC-3'.
+Catalase: 5'-GGATCCTGACATGGTCTGGG-3'; 5'-TGGAGAGACTCGGGACGAAG-3'.
+PDK4: 5'-GCATTTCTACTCGGATGCTCAATG-3'; 5'-CCAATGTGGCTTGGGTTTCC-3'.
+36B4: 5'-TCCAGGCTTTGGGCATCA-3'; 5'-CTTTATCAGCTGCACATCACTCAGA-3'.
+Data were all normalised using 36B4 as housekeeping gene.

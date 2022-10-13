@@ -1,0 +1,22 @@
+T2	Cell 75 103	tumor-associated macrophages
+T3	Organ 108 117	lymphatic
+T4	Cancer 132 143	oral cancer
+T7	Cell 249 277	tumor-associated macrophages
+T8	Cell 279 283	TAMs
+T9	Organ 300 309	lymphatic
+T11	Cell 402 406	TAMs
+T12	Organ 411 420	lymphatic
+T14	Cancer 441 469	oral squamous-cell carcinoma
+T15	Cancer 471 475	OSCC
+T16	Cell 562 573	macrophages
+T19	Cell 782 786	TAMs
+T21	Organ 829 838	lymphatic
+T22	Cell 933 937	TAMs
+T24	Cancer 981 985	OSCC
+T25	Cell 1051 1061	macrophage
+T27	Cell 1155 1166	tumor cells
+T28	Cell 1176 1180	TAMs
+T30	Cancer 1203 1207	OSCC
+T31	Cell 1213 1217	TAMs
+T32	Multi-tissue_structure 1243 1264	peritumoral lymphatic
+T33	Organ 1285 1294	lymphatic

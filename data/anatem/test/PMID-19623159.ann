@@ -1,0 +1,23 @@
+T2	Organ 55 60	heart
+T5	Multi-tissue_structure 122 135	blood vessels
+T8	Multi-tissue_structure 150 163	blood vessels
+T13	Multi-tissue_structure 470 483	blood vessels
+T15	Multi-tissue_structure 580 595	coronary artery
+T20	Multi-tissue_structure 856 869	blood vessels
+T24	Organism_substance 991 996	blood
+T25	Multi-tissue_structure 1026 1042	coronary vessels
+T26	Multi-tissue_structure 1198 1204	vessel
+T30	Multi-tissue_structure 1281 1300	coronary collateral
+T32	Multi-tissue_structure 1541 1554	blood vessels
+T37	Cell 1656 1678	bone marrow stem cells
+T41	Multi-tissue_structure 1743 1758	coronary artery
+T43	Organ 1981 1986	heart
+T10	Cell 1508 1524	progenitor cells
+T4	Pathological_formation 624 630	wounds
+T7	Multi-tissue_structure 883 891	coronary
+T19	Multi-tissue_structure 928 936	coronary
+T51	Multi-tissue_structure 632 642	Myocardial
+T52	Multi-tissue_structure 1121 1131	myocardial
+T53	Multi-tissue_structure 1383 1393	myocardial
+T54	Multi-tissue_structure 952 964	bypass graft
+T55	Organism_subdivision 384 388	body

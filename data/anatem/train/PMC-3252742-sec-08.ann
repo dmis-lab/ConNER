@@ -1,0 +1,30 @@
+T1	Cellular_component 0 12	Mitochondria
+T2	Cell 16 31	Cardiac Myocyte
+T3	Cellular_component 87 100	mitochondrial
+T4	Organ 173 178	heart
+T5	Cell 238 259	adult cardiac myocyte
+T6	Cell 384 397	cardiomyocyte
+T7	Cell 462 481	adult cardiac cells
+T8	Organ 552 557	heart
+T9	Cellular_component 1030 1042	mitochondria
+T10	Cellular_component 1101 1129	mitochondrial inner membrane
+T11	Immaterial_anatomical_entity 1171 1190	intermembrane space
+T12	Organism_substance 1374 1381	cytosol
+T13	Cellular_component 1412 1419	nucleus
+T14	Cellular_component 1433 1442	chromatin
+T15	Organ 1634 1639	heart
+T16	Cell 1704 1720	cardiac myocytes
+T17	Cell 1803 1807	cell
+T18	Organ 1851 1857	hearts
+T19	Cellular_component 1985 2013	cardiac myocyte mitochondria
+T20	Cell 2122 2137	cardiac myocyte
+T21	Cellular_component 2211 2218	nuclear
+T22	Immaterial_anatomical_entity 2257 2276	intermembrane space
+T23	Cellular_component 2280 2292	mitochondria
+T24	Cell 2297 2312	cardiac myocyte
+T25	Cellular_component 2351 2358	nucleus
+T26	Organ 2385 2390	heart
+T27	Cell 2404 2420	cardiac myocytes
+T28	Cell 2456 2460	cell
+T29	Cellular_component 2716 2744	mitochondrial outer membrane
+T30	Organ 2832 2837	heart

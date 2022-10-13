@@ -1,0 +1,20 @@
+T1	Organism_subdivision 22 38	gastrointestinal
+T2	Cancer 49 68	duodenal metastases
+T3	Cancer 74 94	renal cell carcinoma
+T4	Cancer 136 156	renal cell carcinoma
+T5	Cancer 190 199	neoplasms
+T7	Cancer 243 253	metastases
+T8	Cancer 329 337	neoplasm
+T9	Cancer 440 450	metastases
+T10	Organ 479 485	organs
+T11	Cancer 514 524	metastases
+T12	Organ 533 537	lung
+T13	Multi-tissue_structure 542 553	lymph nodes
+T14	Organ 571 576	bones
+T15	Organ 581 586	liver
+T16	Organ 594 602	duodenal
+T17	Cancer 632 653	intestinal metastases
+T18	Cancer 702 733	renal cell carcinoma metastases
+T19	Organism_subdivision 820 836	gastrointestinal
+T20	Cancer 877 903	clear cell renal carcinoma
+T6	Multi-tissue_structure 505 510	sites

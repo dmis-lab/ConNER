@@ -1,0 +1,10 @@
+Refinement
+R[F 2 > 2sigma(F 2)] = 0.052
+wR(F 2) = 0.132
+S = 1.02
+3804 reflections
+229 parameters
+67 restraints
+H-atom parameters constrained
+Deltarhomax = 0.56 e A-3
+Deltarhomin = -0.38 e A-3

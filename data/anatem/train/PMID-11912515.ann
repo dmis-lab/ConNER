@@ -1,0 +1,17 @@
+T2	Cancer 89 102	neuroblastoma
+T3	Cancer 146 151	tumor
+T9	Cancer 417 430	neuroblastoma
+T10	Cancer 464 486	Tumor biopsy specimens
+T11	Organism_substance 491 496	serum
+T12	Cancer 519 532	neuroblastoma
+T14	Multi-tissue_structure 543 566	adrenal biopsy sections
+T15	Organism_substance 571 575	sera
+T17	Cancer 617 633	Biopsy specimens
+T18	Organism_substance 740 745	serum
+T25	Cancer 919 932	neuroblastoma
+T26	Tissue 945 952	tissues
+T31	Organism_substance 1131 1145	tissue lysates
+T33	Organism_substance 1198 1203	Serum
+T39	Cancer 1519 1542	stage III neuroblastoma
+T41	Organism_substance 1588 1593	serum
+T43	Cancer 1659 1672	neuroblastoma

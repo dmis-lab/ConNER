@@ -1,0 +1,19 @@
+T1	Multi-tissue_structure 63 75	brain slices
+T2	Multi-tissue_structure 223 236	visual cortex
+T3	Multi-tissue_structure 286 299	barrel cortex
+T4	Cell 334 341	neurons
+T5	Multi-tissue_structure 363 378	cortical slices
+T6	Cell 485 492	neurons
+T7	Multi-tissue_structure 502 515	visual cortex
+T8	Cell 595 602	neurons
+T9	Multi-tissue_structure 612 625	barrel cortex
+T10	Cellular_component 655 663	Synaptic
+T11	Cellular_component 834 842	Synaptic
+T12	Cellular_component 895 903	synaptic
+T13	Multi-tissue_structure 942 959	cortical networks
+T14	Cellular_component 967 975	Synaptic
+T15	Multi-tissue_structure 1034 1040	cortex
+T16	Multi-tissue_structure 110 118	cortical
+T17	Immaterial_anatomical_entity 707 720	intracortical
+T18	Cellular_component 724 739	thalamocortical
+T19	Organism_subdivision 787 794	whisker

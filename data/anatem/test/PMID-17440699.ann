@@ -1,0 +1,17 @@
+T1	Tissue 61 84	tumour microvasculature
+T2	Tissue 304 327	tumour microvasculature
+T3	Cancer 347 353	tumour
+T6	Cancer 518 525	tumours
+T7	Cell 568 589	colon carcinoma cells
+T9	Cell 604 632	mammary adenocarcinoma cells
+T11	Cancer 700 707	tumours
+T18	Tissue 976 999	tumour microvasculature
+T19	Cancer 1137 1154	mammary carcinoma
+T23	Cancer 1591 1606	colon carcinoma
+T25	Cancer 1910 1916	tumour
+T8	Multi-tissue_structure 1167 1175	vascular
+T30	Tissue 1773 1779	tissue
+T31	Immaterial_anatomical_entity 477 490	intravascular
+T34	Organism_subdivision 1054 1069	peripheral area
+T35	Organism_subdivision 1082 1094	central area
+T4	Immaterial_anatomical_entity 542 554	subcutaneous

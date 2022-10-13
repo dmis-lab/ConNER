@@ -1,0 +1,16 @@
+T5	Cancer 82 87	tumor
+T11	Cancer 234 239	tumor
+T25	Cell 705 721	endothelial cell
+T28	Cancer 903 921	prostate carcinoma
+T29	Cancer 944 964	renal cell carcinoma
+T37	Multi-tissue_structure 1161 1172	vasculature
+T42	Cell 1203 1219	endothelial cell
+T60	Cell 1496 1513	endothelial cells
+T61	Cancer 1526 1531	tumor
+T67	Cancer 1611 1626	prostate cancer
+T69	Cancer 1656 1676	renal cell carcinoma
+T75	Cancer 1756 1762	tumors
+T80	Cancer 1895 1903	prostate
+T81	Cancer 1908 1920	renal cancer
+T84	Cancer 448 453	tumor
+T85	Cancer 850 855	tumor

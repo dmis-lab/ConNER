@@ -1,0 +1,2 @@
+Statistics
+The survival of mice was analyzed using Kaplan-Meier survival analysis. All other data were analyzed by one-way ANOVA, followed by the Student-Newman-Keuls test for all pairwise comparisons. Prior to ANOVA, Levene's Test for Equality of Variances was performed. All statistical analyses were performed using MedCalc software, version 11.2.1.0.

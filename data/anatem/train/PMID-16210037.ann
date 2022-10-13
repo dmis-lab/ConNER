@@ -1,0 +1,16 @@
+T1	Cell 91 102	neutrophils
+T2	Cell 246 261	red blood cells
+T3	Cell 266 275	platelets
+T4	Cell 317 336	hematopoietic cells
+T5	Cell 502 513	neutrophils
+T6	Cell 518 529	macrophages
+T7	Cell 663 674	neutrophils
+T8	Organism_substance 756 762	plasma
+T9	Tissue 781 792	endothelial
+T10	Cell 906 917	neutrophils
+T11	Cell 929 939	neutrophil
+T12	Cell 940 948	platelet
+T13	Cell 1005 1015	neutrophil
+T14	Cell 1016 1024	platelet
+T15	Cell 1181 1192	neutrophils
+T16	Multi-tissue_structure 1463 1471	vascular

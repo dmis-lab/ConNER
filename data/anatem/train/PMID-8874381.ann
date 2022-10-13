@@ -1,0 +1,17 @@
+T3	Multi-tissue_structure 104 114	collateral
+T6	Cell 202 218	endothelial cell
+T9	Multi-tissue_structure 332 340	arterial
+T10	Multi-tissue_structure 367 384	collateral artery
+T11	Cellular_component 398 405	Plasmid
+T17	Multi-tissue_structure 610 622	iliac artery
+T19	Organism_subdivision 659 667	hindlimb
+T22	Multi-tissue_structure 790 807	collateral vessel
+T24	Organism_substance 873 883	calf blood
+T26	Organism_subdivision 919 923	limb
+T27	Organism_substance 946 951	blood
+T28	Tissue 962 971	capillary
+T29	Cell 975 982	myocyte
+T33	Cell 1362 1367	cells
+T34	Multi-tissue_structure 1381 1389	Arterial
+T36	Multi-tissue_structure 1557 1574	collateral vessel
+T1	Immaterial_anatomical_entity 588 602	percutaneously

@@ -1,0 +1,18 @@
+T4	Cancer 158 180	non-Hodgkin's lymphoma
+T5	Cancer 241 263	non-Hodgkin's lymphoma
+T10	Cancer 589 611	non-Hodgkin's lymphoma
+T13	Cancer 789 804	B-cell lymphoma
+T14	Cell 972 981	stem cell
+T15	Organ 1359 1363	skin
+T16	Organism_subdivision 1397 1413	gastrointestinal
+T18	Pathological_formation 1467 1487	deep vein thromboses
+T20	Cancer 1552 1578	acute myelogenous leukemia
+T21	Pathological_formation 1582 1596	myelodysplasia
+T22	Cell 1645 1662	endothelial cells
+T23	Organism_substance 1733 1739	plasma
+T29	Cancer 2032 2054	non-Hodgkin's lymphoma
+T30	Multi-tissue_structure 2079 2087	arterial
+T31	Multi-tissue_structure 2092 2098	venous
+T32	Cell 2148 2177	circulating endothelial cells
+T53	Cell 1673 1683	precursors
+T54	Cell 2188 2198	precursors

@@ -1,0 +1,12 @@
+T1	Cancer 67 73	cancer
+T2	Cell 208 220	cancer cells
+T3	Cell 224 241	endothelial cells
+T5	Cell 311 328	endothelial cells
+T7	Cell 383 395	cancer cells
+T8	Cell 433 445	cancer cells
+T9	Cell 449 466	endothelial cells
+T10	Immaterial_anatomical_entity 529 542	trans-splenic
+T11	Organ 543 550	hepatic
+T13	Cancer 605 611	cancer
+T14	Cell 772 784	cancer cells
+T16	Cancer 802 808	cancer

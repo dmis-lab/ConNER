@@ -1,0 +1,1 @@
+Power (Y-axis) as a function of main effects (x-axis). For a pure main-effects model (x-axis = a1 > 0; interaction effects a2 = a3 = 0 are all zero), Figure 1 shows that pattern (solid red line) and single-locus (broken blue line) approaches have virtually the same power.

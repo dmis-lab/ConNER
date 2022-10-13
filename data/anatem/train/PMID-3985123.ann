@@ -1,0 +1,20 @@
+T1	Cell 0 10	Mast cells
+T2	Cancer 15 21	tumors
+T3	Cancer 51 56	tumor
+T4	Cell 81 91	Mast cells
+T5	Cell 126 147	peritoneal leukocytes
+T6	Cancer 232 238	tumors
+T7	Cell 275 284	mast cell
+T8	Cancer 285 290	tumor
+T9	Cell 338 342	cell
+T10	Cancer 343 348	tumor
+T11	Cell 413 422	mast cell
+T12	Organism_substance 423 431	granules
+T14	Cell 521 529	cellular
+T15	Cancer 546 551	tumor
+T16	Organism_substance 580 588	granules
+T17	Cell 603 613	fibroblast
+T18	Cell 721 730	mast-cell
+T19	Cancer 740 745	tumor
+T20	Cell 776 786	mast cells
+T21	Tissue 807 824	connective tissue

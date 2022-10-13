@@ -1,0 +1,81 @@
+T1	Multi-tissue_structure 1654 1664	oculomotor
+T2	Organ 2004 2007	eye
+T3	Organ 2029 2032	eye
+T4	Organ 2256 2259	eye
+T7	Multi-tissue_structure 4110 4116	neural
+T8	Anatomical_system 4163 4177	neural systems
+T9	Multi-tissue_structure 4216 4226	oculomotor
+T10	Multi-tissue_structure 4302 4308	neural
+T11	Organ 4381 4386	brain
+T12	Multi-tissue_structure 4425 4436	subcortical
+T13	Multi-tissue_structure 4535 4541	neural
+T14	Multi-tissue_structure 4633 4653	orbitofrontal cortex
+T15	Multi-tissue_structure 4664 4671	ventral
+T16	Multi-tissue_structure 4676 4691	dorsal striatum
+T17	Multi-tissue_structure 4693 4710	nucleus accumbens
+T18	Multi-tissue_structure 4712 4719	putamen
+T19	Multi-tissue_structure 4725 4732	caudate
+T20	Multi-tissue_structure 4800 4840	oculomotor structure superior colliculus
+T21	Multi-tissue_structure 4889 4908	superior colliculus
+T22	Multi-tissue_structure 4935 4945	oculomotor
+T23	Multi-tissue_structure 5281 5306	oculomotor control system
+T24	Multi-tissue_structure 5333 5346	basal ganglia
+T25	Multi-tissue_structure 5359 5377	oculomotor network
+T26	Multi-tissue_structure 5424 5442	cortical eyefields
+T27	Multi-tissue_structure 5444 5451	frontal
+T28	Multi-tissue_structure 5453 5466	supplementary
+T29	Multi-tissue_structure 5472 5490	parietal eyefields
+T30	Multi-tissue_structure 5512 5525	visual cortex
+T31	Multi-tissue_structure 5588 5605	frontal eyefields
+T32	Multi-tissue_structure 5834 5851	frontal eyefields
+T33	Multi-tissue_structure 5895 5903	striatum
+T34	Multi-tissue_structure 5946 5961	cerebral cortex
+T35	Multi-tissue_structure 5978 6008	reentrant corticobasal ganglia
+T36	Multi-tissue_structure 6096 6114	cortical eyefields
+T37	Multi-tissue_structure 6167 6178	subcortical
+T38	Multi-tissue_structure 6197 6215	oculomotor network
+T39	Multi-tissue_structure 6294 6301	caudate
+T40	Multi-tissue_structure 6336 6347	subcortical
+T41	Multi-tissue_structure 6362 6376	cortical nodes
+T42	Multi-tissue_structure 6384 6402	oculomotor network
+T43	Cell 6594 6618	spiny projection neurons
+T44	Multi-tissue_structure 6626 6634	striatum
+T45	Multi-tissue_structure 6909 6919	oculomotor
+T46	Multi-tissue_structure 7067 7073	cortex
+T47	Multi-tissue_structure 7194 7207	basal ganglia
+T48	Multi-tissue_structure 7225 7236	speed motor
+T49	Cell 7396 7422	caudate projection neurons
+T50	Cell 7933 7940	neurons
+T51	Multi-tissue_structure 9014 9020	neural
+T52	Multi-tissue_structure 9067 9075	striatum
+T53	Multi-tissue_structure 9185 9191	neural
+T54	Multi-tissue_structure 9508 9514	neural
+T55	Multi-tissue_structure 9941 9947	neural
+T56	Multi-tissue_structure 9996 10002	neural
+T57	Multi-tissue_structure 10732 10738	neural
+T58	Multi-tissue_structure 11436 11446	oculomotor
+T59	Multi-tissue_structure 11688 11694	neural
+T60	Multi-tissue_structure 11791 11797	neural
+T61	Anatomical_system 11868 11882	neural systems
+T62	Anatomical_system 11896 11917	action control system
+T63	Organ 12040 12045	brain
+T64	Multi-tissue_structure 12148 12162	neural network
+T65	Organ 12205 12210	brain
+T66	Organ 12334 12339	brain
+T67	Multi-tissue_structure 12386 12407	frontostriatal reward
+T68	Multi-tissue_structure 12717 12723	neural
+T69	Multi-tissue_structure 13520 13526	neural
+T70	Multi-tissue_structure 14584 14611	oculomotor-control networks
+T71	Organ 14619 14624	brain
+T72	Multi-tissue_structure 14674 14689	dorsal striatum
+T73	Multi-tissue_structure 14749 14759	oculomotor
+T74	Multi-tissue_structure 15110 15117	caudate
+T75	Multi-tissue_structure 15296 15302	neural
+T76	Multi-tissue_structure 5819 5826	caudate
+T77	Multi-tissue_structure 7903 7910	caudate
+T78	Multi-tissue_structure 14482 14492	oculomotor
+T79	Multi-tissue_structure 6718 6726	striatal
+T80	Multi-tissue_structure 7543 7551	striatal
+T81	Multi-tissue_structure 14254 14262	striatal
+T5	Multi-tissue_structure 4623 4631	amygdala
+T6	Multi-tissue_structure 12412 12441	action preparation structures

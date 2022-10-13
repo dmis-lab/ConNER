@@ -1,0 +1,30 @@
+T1	Organ 36 41	heart
+T2	Organ 43 50	cardiac
+T3	Anatomical_system 249 263	cardiovascular
+T4	Organ 276 283	cardiac
+T5	Organ 331 338	cardiac
+T6	Multi-tissue_structure 349 357	valvular
+T7	Multi-tissue_structure 362 372	myocardial
+T8	Multi-tissue_structure 388 398	myocardial
+T9	Anatomical_system 515 523	skeletal
+T10	Organism_substance 585 590	serum
+T11	Organism_substance 600 605	serum
+T12	Organism_substance 617 622	serum
+T13	Organism_substance 635 640	serum
+T14	Organism_substance 805 810	Blood
+T15	Organ 1058 1065	cardiac
+T16	Anatomical_system 1096 1104	skeletal
+T17	Multi-tissue_structure 1161 1169	valvular
+T18	Multi-tissue_structure 1218 1234	left ventricular
+T19	Organ 1260 1267	Cardiac
+T20	Multi-tissue_structure 1299 1309	myocardial
+T21	Multi-tissue_structure 1322 1328	mitral
+T22	Multi-tissue_structure 1333 1348	aortic valvular
+T23	Multi-tissue_structure 1552 1560	valvular
+T24	Multi-tissue_structure 1599 1609	myocardium
+T25	Anatomical_system 1632 1640	skeletal
+T26	Multi-tissue_structure 1659 1667	valvular
+T27	Multi-tissue_structure 1710 1726	left ventricular
+T28	Organ 1753 1760	cardiac
+T29	Multi-tissue_structure 1783 1793	Myocardial
+T30	Organ 1860 1867	osseous

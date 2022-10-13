@@ -1,0 +1,19 @@
+T2	Cellular_component 44 51	nuclear
+T4	Cellular_component 86 101	plasma membrane
+T5	Cell 144 148	cell
+T8	Cell 404 409	cells
+T10	Cell 501 505	cell
+T12	Immaterial_anatomical_entity 595 608	intracellular
+T15	Cellular_component 654 661	nucleus
+T16	Cell 768 772	cell
+T20	Cell 916 931	mammalian cells
+T23	Cancer 1035 1052	mammalian cancers
+T26	Cellular_component 1188 1203	plasma membrane
+T33	Cell 1430 1442	kidney cells
+T34	Cell 1444 1447	RKE
+T36	Cellular_component 1524 1531	nucleus
+T37	Cell 1560 1569	RKE cells
+T39	Cell 1701 1710	RKE cells
+T1	Cancer 0 10	Neoplastic
+T3	Cancer 1298 1308	neoplastic
+T6	Immaterial_anatomical_entity 362 375	intercellular

@@ -1,0 +1,15 @@
+T3	Pathological_formation 121 137	thrombotic plugs
+T4	Multi-tissue_structure 150 158	vascular
+T6	Tissue 349 356	intimal
+T7	Pathological_formation 423 440	lipid-rich plaque
+T8	Pathological_formation 458 465	lesions
+T9	Tissue 510 517	intimal
+T10	Cell 530 539	Platelets
+T11	Pathological_formation 644 652	thrombus
+T12	Tissue 665 672	intimal
+T13	Cell 775 783	platelet
+T14	Pathological_formation 812 820	thrombus
+T17	Organism_substance 880 885	blood
+T18	Pathological_formation 937 960	atherosclerotic lesions
+T24	Cell 1148 1152	cell
+T1	Multi-tissue_structure 141 146	sites

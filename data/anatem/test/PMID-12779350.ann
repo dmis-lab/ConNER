@@ -1,0 +1,16 @@
+T1	Cancer 0 11	Solid tumor
+T2	Multi-tissue_structure 41 52	vasculature
+T4	Cancer 80 92	solid tumors
+T5	Cancer 391 403	solid tumors
+T6	Cancer 430 435	tumor
+T7	Multi-tissue_structure 447 458	vasculature
+T10	Multi-tissue_structure 509 523	tumor vascular
+T14	Cancer 593 598	tumor
+T17	Multi-tissue_structure 627 638	vasculature
+T18	Cell 684 694	tumor cell
+T22	Multi-tissue_structure 710 728	tumor vascular bed
+T23	Cancer 792 797	tumor
+T30	Multi-tissue_structure 1043 1061	tumor vascular bed
+T35	Cancer 1087 1092	tumor
+T37	Cell 343 347	cell
+T21	Cancer 135 141	cancer

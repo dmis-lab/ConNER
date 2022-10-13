@@ -1,0 +1,10 @@
+T2	Cancer 143 149	cancer
+T3	Anatomical_system 228 239	vasculature
+T4	Cell 279 296	endothelial cells
+T5	Cancer 363 369	tumors
+T6	Multi-tissue_structure 388 396	vascular
+T7	Cancer 432 444	solid tumors
+T11	Cancer 740 746	cancer
+T12	Cancer 858 864	breast
+T13	Cancer 866 870	lung
+T14	Cancer 876 894	colorectal cancers

@@ -1,0 +1,26 @@
+T4	Cancer 85 107	remnant stomach cancer
+T5	Organ 114 121	gastric
+T6	Cancer 134 156	primary gastric cancer
+T7	Cancer 228 242	gastric cancer
+T8	Organ 250 265	remnant stomach
+T9	Cancer 267 270	RSC
+T11	Organ 320 335	remnant stomach
+T12	Cancer 340 343	RSC
+T13	Cancer 382 386	RSCB
+T15	Cancer 478 482	RSCM
+T17	Cancer 544 566	primary gastric cancer
+T18	Cancer 627 641	gastric cancer
+T19	Organ 649 664	remnant stomach
+T20	Cancer 698 702	RSCM
+T21	Cancer 721 725	RSCB
+T22	Organ 754 760	organs
+T23	Cancer 786 790	RSCM
+T24	Cancer 809 813	RSCB
+T26	Cancer 856 862	tumors
+T28	Cancer 944 950	tumors
+T29	Cancer 985 989	RSCM
+T30	Cancer 1006 1010	RSCB
+T33	Cancer 1267 1273	tumors
+T34	Cancer 1281 1285	RSCM
+T37	Cancer 1374 1377	RSC
+T1	Pathological_formation 455 469	benign disease

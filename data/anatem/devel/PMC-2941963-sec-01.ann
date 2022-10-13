@@ -1,0 +1,10 @@
+T1	Organism_subdivision 1301 1317	gastrointestinal
+T2	Organism_subdivision 1319 1321	GI
+T3	Organ 1327 1332	liver
+T4	Organ 1618 1623	liver
+T5	Organism_subdivision 1628 1630	GI
+T7	Organism_subdivision 1949 1951	GI
+T8	Organ 1956 1961	liver
+T6	Pathological_formation 1697 1707	ulcerative
+T9	Pathological_formation 1670 1679	dysplasia
+T10	Multi-tissue_structure 1729 1737	biopsies

@@ -1,0 +1,9 @@
+T1	Cancer 45 79	hormone-refractory prostate cancer
+T3	Cancer 81 85	HRPC
+T4	Cancer 88 122	Hormone-refractory prostate cancer
+T6	Cancer 124 128	HRPC
+T7	Organ 160 168	prostate
+T8	Cancer 492 496	HRPC
+T11	Cancer 1160 1164	HRPC
+T12	Cancer 1263 1267	HRPC
+T13	Cell 878 882	cell

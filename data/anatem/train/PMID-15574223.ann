@@ -1,0 +1,23 @@
+T2	Cell 113 117	cell
+T3	Cancer 127 143	malignant glioma
+T4	Cancer 218 234	malignant tumors
+T5	Cancer 260 266	tumors
+T7	Cell 313 318	cells
+T11	Cancer 401 417	malignant tumors
+T12	Tissue 441 447	tissue
+T14	Immaterial_anatomical_entity 524 537	intracellular
+T15	Cell 607 611	cell
+T18	Cell 678 701	glioblastoma multiforme
+T19	Cell 706 732	glioma-derived cells lines
+T21	Cancer 798 804	glioma
+T22	Cell 837 861	U-87 MG glioma cell line
+T24	Immaterial_anatomical_entity 970 983	intracellular
+T25	Cell 1039 1043	cell
+T29	Cell 1117 1140	glioblastoma multiforme
+T30	Cell 1145 1170	glioma-derived cell lines
+T32	Organ 1241 1246	brain
+T35	Cell 1348 1361	U-87 MG cells
+T37	Immaterial_anatomical_entity 1492 1505	intracellular
+T38	Immaterial_anatomical_entity 1546 1559	intracellular
+T41	Cell 1788 1801	U-87 MG cells
+T43	Cancer 1942 1958	malignant glioma

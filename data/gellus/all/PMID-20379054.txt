@@ -1,0 +1,9 @@
+Absence of microbiota (germ-free conditions) accelerates the atherosclerosis in ApoE-deficient mice fed standard low cholesterol diet.
+AIM:
+The aim of our work was to determine the influence of intestinal bacteria on the development of atherosclerotic lesions using apolipoprotein E (ApoE)-deficient knockout mice.
+METHODS:
+The experiments were performed on ApoE-/--deficient mouse strain C57BL/6, bred under germ-free (GF) conditions for two generations or under conventional conditions with defined microflora (CV). The mice were fed a standard low cholesterol diet or cholesterol-rich diet for 3-4 months. We studied the development of advanced lesions in the thoracic and abdominal aorta by histological, morphometric and immunohistological methods.
+RESULTS:
+Conventionally reared ApoE-/- mice (containing no pathogenic intestinal microbiota) and fed a standard low cholesterol diet in contrast to a high cholesterol diet did not develop atherosclerotic aortic plaques. In contrast, ApoE-/- mice reared under germfree conditions for 2 generations and fed a low cholesterol diet exhibited atherosclerotic plaques in the aorta. Characteristic lipid deposition with foam cells and macrophages was found in their arterial walls.
+CONCLUSION:
+In contrast to the absence of atherosclerotic plaques in conventionally reared ApoE-deficient mice, germ-free ApoE-/- mice consuming the same low cholesterol standard diet developed atherosclerotic plaques in the aorta. Differences in atherosclerotic plaques between GF and CV ApoE-/- mice are not so apparent when mice are fed a high cholesterol diet. Our findings thus document the protective effect of microbiota (commensal bacteria) on atherosclerosis development.

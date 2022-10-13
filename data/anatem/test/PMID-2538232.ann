@@ -1,0 +1,28 @@
+T27	Cellular_component 89 106	basement membrane
+T28	Cell 125 153	mammary adenocarcinoma cells
+T29	Cell 207 218	tumor cells
+T30	Cellular_component 260 292	subendothelial basement membrane
+T31	Cancer 355 360	tumor
+T32	Cell 386 426	13762NF mammary adenocarcinoma cell line
+T33	Cancer 556 561	tumor
+T34	Cell 646 682	13762NF mammary adenocarcinoma cells
+T35	Cell 684 689	Cells
+T36	Organ 715 719	lung
+T37	Cell 766 783	13762NF cell line
+T38	Cellular_component 894 914	extracellular matrix
+T39	Cell 941 963	lung endothelial cells
+T40	Cellular_component 1197 1217	extracellular matrix
+T41	Cell 1290 1295	cells
+T42	Organism_substance 1334 1339	serum
+T43	Organism_substance 1416 1434	fetal bovine serum
+T44	Cell 1454 1459	cells
+T45	Organism_substance 1556 1561	serum
+T46	Cell 1639 1644	cells
+T21	Cell 1698 1703	cells
+T23	Cell 2476 2481	cells
+T24	Cellular_component 2503 2516	cell membrane
+T25	Cell 2607 2615	cellular
+T26	Cellular_component 2617 2630	cell membrane
+T53	Cell 435 441	clones
+T54	Cell 731 747	clone MTF7.T35.3
+T22	Organism_substance 2039 2052	cell extracts

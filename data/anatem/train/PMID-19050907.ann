@@ -1,0 +1,16 @@
+T1	Pathological_formation 50 55	wound
+T3	Pathological_formation 102 107	wound
+T4	Pathological_formation 123 129	wounds
+T6	Pathological_formation 406 411	wound
+T8	Pathological_formation 540 545	wound
+T9	Pathological_formation 634 639	wound
+T10	Pathological_formation 827 833	wounds
+T12	Organism_substance 1098 1103	blood
+T21	Pathological_formation 1364 1370	wounds
+T22	Pathological_formation 1432 1438	wounds
+T25	Pathological_formation 1812 1818	wounds
+T28	Cellular_component 2051 2057	matrix
+T29	Pathological_formation 2095 2101	wounds
+T31	Organ 2126 2129	ear
+T32	Pathological_formation 2165 2170	wound
+T2	Immaterial_anatomical_entity 1083 1097	transcutaneous

@@ -1,0 +1,9 @@
+Maternal antenatal anxiety and behavioural/emotional problems in children: a test of a programming hypothesis.
+BACKGROUND:
+Previous animal investigations link antenatal stress with a range of persistent behavioural abnormalities in the offspring. The current study examined if the effect was also found in humans through middle childhood.
+METHODS:
+The current study is based on the Avon Longitudinal Study of Parents and Children (ALSPAC), a prospective, community-based study that has followed a cohort of women from pregnancy. Self-report measures of maternal anxiety and depression were assessed at repeated intervals in pregnancy and the postnatal period. Children's behavioural/emotional problems were assessed by parent report at age 47 and 81 months. Information on obstetric and psychosocial factors was obtained at several points in pregnancy and the postnatal period.
+RESULTS:
+Children whose mothers experienced high levels of anxiety in late pregnancy exhibited higher rates of behavioural/emotional problems at 81 months of age after controlling for obstetric risks, psychosocial disadvantage, and postnatal anxiety and depression (for girls, OR = 1.91, 95%CI = 1.26-2.89; for boys, OR = 2.16, 95%CI = 1.41-3.30). Furthermore, the effect at 81 months was comparable to what was previously obtained at 47 months, suggesting the kind of persistent effect proposed in the animal literature.
+CONCLUSIONS:
+There is evidence that antenatal stress/anxiety has a programming effect on the fetus which lasts at least until middle childhood.

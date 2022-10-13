@@ -1,0 +1,35 @@
+T1	Multi-tissue_structure 0 15	Basilar papilla
+T2	Multi-tissue_structure 20 35	basilar papilla
+T3	Immaterial_anatomical_entity 77 91	saccular space
+T4	Multi-tissue_structure 129 145	contact membrane
+T5	Multi-tissue_structure 164 180	contact membrane
+T6	Organism_substance 195 214	endolymphatic fluid
+T7	Immaterial_anatomical_entity 222 237	papillar recess
+T8	Organism_substance 247 266	perilymphatic fluid
+T9	Immaterial_anatomical_entity 652 657	lumen
+T10	Tissue 673 686	limbic tissue
+T11	Multi-tissue_structure 714 723	inner ear
+T12	Tissue 740 749	cartilage
+T13	Tissue 768 786	sensory epithelium
+T14	Immaterial_anatomical_entity 889 905	elliptical lumen
+T15	Cell 936 946	hair cells
+T16	Immaterial_anatomical_entity 1024 1029	lumen
+T17	Cellular_component 994 1005	stereovilli
+T18	Multi-tissue_structure 1049 1067	tectorial membrane
+T19	Cell 1129 1139	hair cells
+T20	Cellular_component 1197 1208	stereovilli
+T21	Multi-tissue_structure 1261 1269	sacculus
+T22	Multi-tissue_structure 1286 1304	tectorial membrane
+T23	Immaterial_anatomical_entity 1315 1320	lumen
+T24	Immaterial_anatomical_entity 1328 1343	papillar recess
+T25	Immaterial_anatomical_entity 1372 1377	lumen
+T26	Multi-tissue_structure 1460 1468	saccular
+T27	Multi-tissue_structure 1518 1526	membrane
+T28	Tissue 1567 1577	epithelium
+T29	Multi-tissue_structure 1606 1618	hair bundles
+T30	Tissue 839 843	area
+T31	Tissue 1594 1598	tips
+T32	Immaterial_anatomical_entity 1531 1536	pores
+T33	Tissue 1544 1551	surface
+T34	Immaterial_anatomical_entity 50 56	recess
+T35	Immaterial_anatomical_entity 328 334	recess

@@ -1,0 +1,26 @@
+T1	Cell 102 110	platelet
+T2	Cell 290 298	platelet
+T3	Pathological_formation 364 372	atheroma
+T4	Cell 382 390	platelet
+T5	Tissue 425 437	micro-vessel
+T6	Pathological_formation 454 462	thrombus
+T7	Cell 581 589	platelet
+T8	Cell 612 621	platelets
+T9	Cellular_component 634 646	cell surface
+T11	Cell 850 859	platelets
+T12	Cell 864 883	smooth muscle cells
+T13	Cell 900 908	platelet
+T14	Cell 1142 1151	platelets
+T15	Cellular_component 1216 1232	platelet surface
+T16	Cell 1309 1317	platelet
+T17	Cell 1421 1429	platelet
+T18	Cell 1687 1695	platelet
+T19	Cell 1795 1803	platelet
+T20	Cell 1855 1863	platelet
+T21	Cellular_component 2005 2021	platelet surface
+T22	Immaterial_anatomical_entity 2023 2036	Intraplatelet
+T23	Cell 2081 2089	platelet
+T24	Pathological_formation 2106 2114	thrombus
+T10	Immaterial_anatomical_entity 760 773	extracellular
+T25	Multi-tissue_structure 352 356	site
+T26	Cellular_component 1131 1138	surface

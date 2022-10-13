@@ -1,0 +1,24 @@
+T1	Organism_substance 647 661	vegetable oils
+T2	Organism_substance 716 725	olive oil
+T3	Organism_subdivision 876 882	fruits
+T4	Organism_subdivision 1387 1393	fruits
+T5	Organism_subdivision 3892 3898	fruits
+T6	Organism_subdivision 1398 1408	vegetables
+T7	Organism_subdivision 1593 1602	vegetable
+T8	Organism_subdivision 1624 1628	meat
+T9	Organism_subdivision 2745 2755	vegetables
+T10	Organism_subdivision 2757 2762	meats
+T11	Organism_substance 2826 2840	vegetable oils
+T12	Organism_substance 2846 2850	milk
+T13	Organism_subdivision 3843 3851	red meat
+T14	Organism_subdivision 3880 3890	vegetables
+T15	Organism_subdivision 3909 3913	nuts
+T16	Organism_substance 3956 3968	dietary fats
+T17	Organism_substance 4035 4044	olive oil
+T18	Cancer 4305 4311	cancer
+T19	Organism_substance 4490 4499	olive oil
+T20	Organism_substance 4783 4792	olive oil
+T21	Organism_substance 5563 5572	olive oil
+T22	Organism_substance 3720 3729	olive oil
+T23	Organism_subdivision 3900 3907	legumes
+T24	Organism_substance 3760 3763	fat

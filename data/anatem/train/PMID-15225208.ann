@@ -1,0 +1,13 @@
+T6	Pathological_formation 160 172	dermal wound
+T7	Cellular_component 239 259	extracellular matrix
+T8	Pathological_formation 267 272	wound
+T10	Cellular_component 354 374	extracellular matrix
+T12	Tissue 463 476	Breast tissue
+T17	Pathological_formation 711 716	wound
+T20	Cell 1121 1143	scar endothelial cells
+T21	Cell 1148 1159	fibroblasts
+T23	Cell 1268 1279	fibroblasts
+T26	Pathological_formation 1620 1625	wound
+T30	Cell 1795 1806	fibroblasts
+T31	Cellular_component 1826 1846	extracellular matrix
+T50	Cell 1109 1117	controls

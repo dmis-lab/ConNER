@@ -1,0 +1,22 @@
+T1	Organism_subdivision 39 45	breast
+T2	Cancer 134 158	malignant breast lesions
+T3	Cancer 281 291	carcinomas
+T5	Cancer 467 486	Invasive carcinomas
+T6	Cancer 540 546	tumors
+T7	Cancer 820 840	medullary carcinomas
+T8	Organism_subdivision 966 972	breast
+T9	Pathological_formation 1033 1047	breast lesions
+T14	Pathological_formation 779 786	lesions
+T15	Pathological_formation 842 853	radial scar
+T10	Pathological_formation 123 129	benign
+T16	Pathological_formation 160 166	masses
+T17	Pathological_formation 168 187	microcalcifications
+T18	Cancer 806 814	mucinous
+T19	Cancer 788 804	invasive lobular
+T20	Multi-tissue_structure 747 754	lobular
+T21	Tissue 229 244	stromal fibrous
+T22	Multi-tissue_structure 495 513	spiculated margins
+T24	Multi-tissue_structure 756 762	ductal
+T25	Pathological_formation 676 684	clusters
+T26	Pathological_formation 573 592	microcalcifications
+T4	Multi-tissue_structure 720 735	anatomical site

@@ -1,0 +1,46 @@
+T1	Multi-tissue_structure 14 26	Ciliary Body
+T2	Multi-tissue_structure 5 9	Iris
+T3	Multi-tissue_structure 61 86	iris-ciliary body complex
+T5	Multi-tissue_structure 209 215	nerves
+T4	Multi-tissue_structure 88 91	ICB
+T6	Multi-tissue_structure 266 269	ICB
+T7	Multi-tissue_structure 699 711	ciliary body
+T8	Immaterial_anatomical_entity 728 739	intraocular
+T9	Multi-tissue_structure 1072 1088	anterior chamber
+T10	Organ 1719 1722	eye
+T11	Multi-tissue_structure 1727 1739	ciliary body
+T12	Cell 1894 1909	epithelial cell
+T13	Multi-tissue_structure 1924 1936	pars plicata
+T14	Multi-tissue_structure 1951 1958	ciliary
+T15	Multi-tissue_structure 1985 1995	pars plana
+T16	Multi-tissue_structure 2006 2025	ciliary musculature
+T17	Multi-tissue_structure 2108 2112	iris
+T18	Multi-tissue_structure 2162 2174	ciliary body
+T19	Tissue 2296 2302	tissue
+T20	Tissue 2377 2395	ciliary epithelium
+T21	Multi-tissue_structure 2403 2415	pars plicata
+T22	Multi-tissue_structure 3450 3453	ICB
+T23	Multi-tissue_structure 3539 3542	ICB
+T24	Multi-tissue_structure 4239 4244	pupil
+T25	Organ 4637 4640	eye
+T26	Multi-tissue_structure 4863 4867	iris
+T27	Tissue 4962 4971	sphincter
+T28	Multi-tissue_structure 4979 4984	pupil
+T29	Tissue 5063 5076	smooth muscle
+T30	Tissue 5122 5128	tissue
+T31	Multi-tissue_structure 5404 5417	blood vessels
+T32	Multi-tissue_structure 5567 5571	iris
+T33	Tissue 5596 5612	sphincter muscle
+T34	Cell 2755 2771	epithelial cells
+T35	Organ 1026 1029	eye
+T37	Organism_substance 3156 3169	aqueous humor
+T38	Organism_substance 3340 3353	aqueous humor
+T39	Organism_substance 4602 4615	aqueous humor
+T40	Cell 2855 2859	cell
+T41	Organism_substance 3032 3045	aqueous humor
+T42	Organism_substance 2452 2465	aqueous humor
+T43	Organism_subdivision 1001 1007	orally
+T44	Organism_subdivision 3708 3714	orally
+T36	Pathological_formation 3789 3801	glaucomatous
+T45	Multi-tissue_structure 1687 1694	section
+T46	Organism_subdivision 4118 4122	oral

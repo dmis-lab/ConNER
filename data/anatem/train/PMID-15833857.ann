@@ -1,0 +1,15 @@
+T4	Cell 61 65	cell
+T6	Cell 164 168	cell
+T8	Cell 265 269	cell
+T13	Cancer 320 325	tumor
+T15	Cancer 377 383	cancer
+T22	Organ 568 576	pancreas
+T24	Cancer 652 657	tumor
+T30	Cancer 750 755	tumor
+T33	Cellular_component 910 918	intron 1
+T36	Tissue 986 993	tissues
+T42	Cell 1138 1142	cell
+T45	Cell 1214 1218	cell
+T49	Cell 1306 1310	foci
+T51	Cell 1373 1394	embryonic fibroblasts
+T59	Cancer 1705 1710	tumor

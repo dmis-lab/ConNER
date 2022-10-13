@@ -1,0 +1,19 @@
+T2	Cancer 55 81	non-small cell lung cancer
+T5	Cancer 168 180	malignancies
+T8	Cancer 370 396	Non-Small Cell Lung Cancer
+T9	Cancer 398 403	NSCLC
+T15	Cancer 551 568	paraffin sections
+T16	Cancer 572 579	tumours
+T18	Cancer 603 608	NSCLC
+T19	Cancer 640 648	sections
+T20	Cancer 652 658	tumour
+T21	Cancer 739 745	tumour
+T22	Multi-tissue_structure 756 761	nodal
+T24	Cancer 896 919	squamous cell carcinoma
+T25	Cancer 921 924	SCC
+T27	Cancer 1062 1078	nodal metastases
+T28	Cancer 1183 1186	SCC
+T29	Cancer 1205 1219	adenocarcinoma
+T31	Cancer 1373 1376	SCC
+T34	Cancer 1452 1458	tumour
+T37	Cancer 1589 1592	SCC

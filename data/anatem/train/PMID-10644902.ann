@@ -1,0 +1,18 @@
+T1	Organ 45 51	kidney
+T2	Organ 180 186	kidney
+T3	Multi-tissue_structure 444 457	renal tubular
+T4	Cell 623 635	tubular cell
+T5	Cell 680 696	epithelial cells
+T6	Multi-tissue_structure 708 715	tubules
+T7	Multi-tissue_structure 1003 1009	tubule
+T8	Multi-tissue_structure 1053 1060	tubular
+T9	Organ 1094 1100	kidney
+T10	Cell 1190 1220	renal tubular epithelial cells
+T11	Organ 124 129	renal
+T12	Organ 221 226	renal
+T13	Multi-tissue_structure 874 881	tubular
+T14	Immaterial_anatomical_entity 894 906	interstitial
+T15	Pathological_formation 38 44	cystic
+T16	Pathological_formation 173 179	cystic
+T17	Pathological_formation 978 984	cystic
+T18	Pathological_formation 1087 1093	cystic

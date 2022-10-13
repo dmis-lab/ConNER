@@ -1,0 +1,20 @@
+T20	Cancer 27 41	gastric cancer
+T21	Organism_subdivision 70 74	oral
+T22	Organism_subdivision 117 121	oral
+T23	Cancer 126 132	cancer
+T24	Cancer 290 304	gastric cancer
+T25	Cancer 310 314	lung
+T26	Cancer 319 340	lymph node metastases
+T27	Cancer 476 490	gastric cancer
+T9	Cancer 506 527	lymph node metastases
+T10	Cancer 541 561	pulmonary metastases
+T11	Cancer 730 750	pulmonary metastases
+T12	Cancer 876 889	primary tumor
+T13	Pathological_formation 908 918	ulcer scar
+T14	Tissue 985 998	cancer tissue
+T15	Cancer 1081 1091	lymph node
+T16	Cancer 1104 1119	lung metastases
+T17	Organism_substance 1155 1160	serum
+T18	Organ 1286 1290	skin
+T19	Pathological_formation 1303 1313	oral aphta
+T1	Organism_subdivision 608 614	orally

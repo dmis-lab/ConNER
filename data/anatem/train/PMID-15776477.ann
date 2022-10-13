@@ -1,0 +1,19 @@
+T2	Cellular_component 34 41	nucleus
+T3	Organism_substance 46 55	cytoplasm
+T5	Cancer 65 89	primary breast carcinoma
+T7	Cancer 368 381	breast cancer
+T10	Tissue 529 542	breast tissue
+T11	Cancer 546 570	ductal carcinoma in situ
+T12	Cancer 575 593	invasive carcinoma
+T14	Cancer 674 693	invasive carcinomas
+T19	Cellular_component 884 895	cytoplasmic
+T20	Cellular_component 900 920	nuclear compartments
+T21	Cancer 924 941	in situ carcinoma
+T22	Cancer 946 964	invasive carcinoma
+T23	Tissue 986 999	breast tissue
+T25	Cancer 1034 1053	invasive carcinomas
+T26	Cancer 1103 1109	tumour
+T32	Cancer 1263 1269	tumour
+T33	Multi-tissue_structure 1287 1297	lymph node
+T35	Tissue 1364 1375	microvessel
+T39	Cancer 1586 1599	breast cancer

@@ -1,0 +1,17 @@
+T2	Cancer 77 94	gastric carcinoma
+T4	Cancer 216 233	gastric carcinoma
+T5	Cancer 276 293	gastric carcinoma
+T7	Cancer 390 404	gastric cancer
+T9	Multi-tissue_structure 477 491	gastric mucosa
+T10	Cancer 496 510	gastric cancer
+T12	Multi-tissue_structure 645 655	lymph node
+T13	Cancer 793 808	gastric cancers
+T15	Multi-tissue_structure 914 920	mucosa
+T16	Cancer 941 959	gastric carcinomas
+T18	Cancer 1124 1142	gastric carcinomas
+T19	Multi-tissue_structure 1163 1177	gastric mucosa
+T21	Cancer 1289 1307	gastric carcinomas
+T24	Multi-tissue_structure 1452 1462	lymph node
+T25	Cancer 1486 1504	gastric carcinomas
+T27	Cancer 1600 1617	gastric carcinoma
+T29	Cancer 1827 1845	gastric carcinomas

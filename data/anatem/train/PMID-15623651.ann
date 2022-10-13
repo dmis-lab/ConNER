@@ -1,0 +1,15 @@
+T3	Cancer 61 66	tumor
+T5	Cancer 128 165	head and neck squamous cell carcinoma
+T6	Cancer 176 214	Head and neck squamous cell carcinomas
+T8	Cell 409 413	cell
+T12	Cancer 585 597	solid tumors
+T13	Cancer 611 618	myeloma
+T15	Cancer 697 734	head and neck squamous cell carcinoma
+T18	Cancer 898 935	head and neck squamous cell carcinoma
+T20	Cell 1020 1068	head and neck squamous cell carcinoma cell lines
+T32	Cancer 1787 1796	xenograft
+T33	Cancer 1806 1843	head and neck squamous cell carcinoma
+T34	Cell 1850 1866	UM-SCC-11A cells
+T36	Cancer 1887 1892	tumor
+T40	Cancer 2095 2132	head and neck squamous cell carcinoma
+T71	Cellular_component 1220 1227	nuclear

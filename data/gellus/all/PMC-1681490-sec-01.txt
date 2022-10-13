@@ -1,0 +1,3 @@
+Figures and Tables
+Figure 1
+Modular crosstalking in synthetic gene networks. A promoter with binding sites for lambda cI dimers (OR1 and OR2) and for the lac repressor (Olac) controls the production of the lac repressor (encoded by lacI) in module 1 and lambda cI (encoded by cI) in module 2. The lac repressor and lambda cI dimers are represented by blue ellipsoids and red circles, respectively. When the two modules are put together, two pairs of lambda cI dimers bound at different operators can loop DNA and octamerize, forming a tetramer of dimers.

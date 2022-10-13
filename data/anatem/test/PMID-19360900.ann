@@ -1,0 +1,19 @@
+T7	Cell 115 138	brain endothelial cells
+T8	Multi-tissue_structure 280 288	neuronal
+T9	Multi-tissue_structure 293 317	endothelial compartments
+T10	Organ 321 326	brain
+T16	Cell 413 426	neuronal cell
+T20	Cell 486 512	cerebral endothelial cells
+T23	Cell 550 576	cerebral endothelial cells
+T28	Cell 717 743	cerebral endothelial cells
+T36	Cell 859 896	brain microvascular endothelial cells
+T53	Cell 1169 1185	endothelial cell
+T55	Tissue 1200 1204	tube
+T59	Cell 1309 1335	cerebral endothelial cells
+T63	Organ 1432 1437	brain
+T48	Cell 54 58	cell
+T50	Cell 653 657	cell
+T35	Multi-tissue_structure 0 13	Neurovascular
+T51	Multi-tissue_structure 168 181	neurovascular
+T54	Multi-tissue_structure 1396 1409	neurovascular
+T60	Cell 839 843	cell

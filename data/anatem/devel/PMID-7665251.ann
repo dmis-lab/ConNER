@@ -1,0 +1,21 @@
+T2	Cancer 32 49	colorectal cancer
+T6	Cell 148 164	neoplastic cells
+T7	Cellular_component 174 194	extracellular matrix
+T8	Cancer 237 243	cancer
+T13	Cellular_component 486 506	extracellular matrix
+T15	Cancer 540 558	colorectal cancers
+T19	Multi-tissue_structure 707 713	mucosa
+T20	Pathological_formation 715 730	benign adenomas
+T21	Cancer 736 770	primary colorectal adenocarcinomas
+T22	Cancer 781 797	liver metastases
+T26	Cancer 857 883	primary colorectal cancers
+T27	Cancer 894 910	liver metastases
+T28	Multi-tissue_structure 923 944	non-neoplastic mucosa
+T29	Cell 982 1001	stromal fibroblasts
+T32	Cancer 1098 1115	colorectal tumors
+T33	Organ 1142 1147	liver
+T34	Cancer 1231 1240	neoplasms
+T35	Cancer 1249 1256	gastric
+T36	Cancer 1261 1282	esophageal carcinomas
+T1	Cancer 0 10	Neoplastic
+T3	Cancer 1018 1033	neoplastic foci

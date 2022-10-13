@@ -1,0 +1,50 @@
+T44	Cancer 109 114	tumor
+T45	Cancer 139 155	brain metastases
+T46	Cancer 158 178	Metastatic carcinoma
+T47	Cancer 280 292	solid tumors
+T49	Cancer 357 380	primary lung carcinomas
+T50	Cancer 446 457	lung cancer
+T51	Cancer 574 594	lung adenocarcinomas
+T52	Cancer 599 617	thyroid carcinomas
+T53	Cancer 629 644	adenocarcinomas
+T54	Cancer 689 704	adenocarcinomas
+T12	Organ 712 716	lung
+T13	Cancer 772 791	primary lung cancer
+T14	Organ 799 803	lung
+T15	Cancer 892 897	tumor
+T16	Cancer 908 923	adenocarcinomas
+T17	Organ 951 955	lung
+T18	Cancer 1052 1068	brain metastases
+T19	Tissue 1101 1114	Tissue blocks
+T20	Cancer 1290 1295	tumor
+T21	Cancer 1348 1358	carcinomas
+T22	Organ 1377 1382	brain
+T23	Organ 1399 1404	brain
+T24	Cancer 1433 1438	tumor
+T26	Cancer 1636 1658	primary lung carcinoma
+T28	Cancer 1693 1715	nonpulmonary carcinoma
+T29	Cancer 1766 1792	metastatic lung carcinomas
+T30	Cancer 1823 1857	metastatic nonpulmonary carcinomas
+T31	Cancer 1861 1881	small-cell carcinoma
+T32	Organism_subdivision 1889 1904	sinonasal tract
+T33	Cancer 1916 1942	metastatic lung carcinomas
+T34	Cancer 2002 2017	adenocarcinomas
+T35	Cancer 2035 2056	small-cell carcinomas
+T36	Cancer 2076 2097	large-cell carcinomas
+T37	Cancer 2121 2145	squamous cell carcinomas
+T38	Organ 2203 2208	brain
+T39	Multi-tissue_structure 2238 2247	pulmonary
+T40	Cancer 2301 2316	adenocarcinomas
+T41	Cancer 2321 2342	large-cell carcinomas
+T42	Cancer 2402 2415	primary tumor
+T43	Organ 2445 2450	brain
+T59	Multi-tissue_structure 664 669	sites
+T5	Multi-tissue_structure 1425 1429	site
+T61	Multi-tissue_structure 1517 1521	site
+T62	Multi-tissue_structure 2251 2268	nonpulmonary site
+T1	Cancer 324 334	metastases
+T2	Cancer 1618 1628	metastases
+T3	Cancer 1672 1682	metastases
+T4	Multi-tissue_structure 101 105	site
+T6	Multi-tissue_structure 1282 1286	site
+T7	Multi-tissue_structure 198 204	origin

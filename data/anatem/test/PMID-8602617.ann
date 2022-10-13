@@ -1,0 +1,22 @@
+T20	Cancer 71 86	primary ovarian
+T21	Cancer 91 110	endometrial cancers
+T3	Cancer 115 132	metastatic cancer
+T4	Multi-tissue_structure 167 178	endometrium
+T5	Organ 187 192	ovary
+T6	Cancer 196 205	carcinoma
+T7	Cancer 332 349	primary carcinoma
+T8	Cancer 372 401	synchronous primary neoplasms
+T9	Cancer 659 674	adenocarcinomas
+T10	Multi-tissue_structure 682 693	endometrium
+T11	Organ 698 703	ovary
+T12	Cancer 749 775	synchronous primary tumors
+T13	Pathological_formation 945 956	endometrial
+T14	Pathological_formation 961 976	ovarian lesions
+T15	Cancer 1052 1066	primary tumors
+T16	Cellular_component 1132 1144	X-chromosome
+T17	Cancer 1207 1221	primary tumors
+T18	Cancer 1329 1359	synchronous primary carcinomas
+T19	Cancer 1373 1382	carcinoma
+T26	Cellular_component 789 801	X-chromosome
+T1	Cancer 1072 1082	metastases
+T2	Cancer 1388 1398	metastasis

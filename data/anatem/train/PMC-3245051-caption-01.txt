@@ -1,0 +1,1 @@
+The growth in the number of database publications per year. Each bar shows the number of research articles with the keyword 'database' appearing in the article title in the given year. The count only covers articles indexed in PubMed. The increase shows an exponential trend that will produce nearly 2000 database publications per year by 2015.

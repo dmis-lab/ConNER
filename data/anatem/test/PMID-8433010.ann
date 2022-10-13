@@ -1,0 +1,27 @@
+T16	Cancer 14 22	tumorous
+T17	Organ 215 219	skin
+T18	Tissue 223 229	tissue
+T19	Cell 311 328	monolayer-culture
+T20	Cell 519 532	chromatoblast
+T21	Cancer 550 558	tumorous
+T22	Cell 637 654	monolayer-culture
+T23	Cell 1115 1127	neural crest
+T24	Cell 1160 1180	erythrophoroma cells
+T25	Cell 1361 1366	cells
+T26	Cell 1557 1566	cell line
+T27	Cell 1762 1771	cell line
+T28	Cell 1808 1828	erythrophoroma cells
+T32	Cell 46 59	erythrophores
+T34	Cell 183 196	erythrophores
+T36	Cell 491 504	transformants
+T37	Cell 796 809	erythrophores
+T38	Cell 879 892	erythrophores
+T39	Cell 1592 1605	erythrophores
+T40	Cell 1568 1573	ESM-1
+T41	Cell 837 850	transformants
+T42	Cell 1044 1057	transformants
+T43	Cell 1078 1090	melanophores
+T44	Cell 1094 1105	iridophores
+T46	Cell 144 157	transformants
+T52	Cell 658 664	colony
+T58	Cell 1255 1268	transformants

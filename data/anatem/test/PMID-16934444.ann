@@ -1,0 +1,16 @@
+T6	Cancer 318 325	cancers
+T8	Cancer 397 404	cancers
+T12	Cell 453 463	tumor cell
+T15	Cancer 555 560	tumor
+T20	Cell 1044 1054	fibroblast
+T23	Cell 1059 1070	endothelial
+T26	Cellular_component 1119 1139	extracellular matrix
+T33	Tissue 935 941	tissue
+T35	Tissue 1222 1228	tissue
+T37	Tissue 147 157	developing
+T38	Tissue 162 175	adult tissues
+T39	Cell 1086 1090	cell
+T41	Pathological_formation 357 362	wound
+T21	Pathological_formation 37 42	wound
+T42	Pathological_formation 1019 1024	wound
+T47	Cellular_component 78 91	transmembrane

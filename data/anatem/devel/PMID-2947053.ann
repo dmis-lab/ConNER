@@ -1,0 +1,15 @@
+T1	Cancer 37 56	prostatic carcinoma
+T2	Cancer 141 159	prostate carcinoma
+T3	Cancer 200 219	prostatic carcinoma
+T4	Cancer 568 587	prostatic carcinoma
+T5	Organism_substance 747 752	serum
+T6	Organism_substance 796 801	serum
+T7	Organ 955 959	bone
+T8	Organ 1102 1106	bone
+T9	Organ 1154 1163	Prostatic
+T10	Organ 1432 1441	prostatic
+T11	Cancer 1501 1513	bone lesions
+T12	Organ 1603 1612	Prostatic
+T13	Cancer 1919 1928	neoplasms
+T14	Organism_subdivision 1206 1220	transabdominal
+T15	Immaterial_anatomical_entity 302 316	subcutaneously

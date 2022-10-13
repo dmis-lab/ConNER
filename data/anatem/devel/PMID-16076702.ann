@@ -1,0 +1,17 @@
+T4	Cancer 114 129	tumour sublines
+T5	Cancer 137 160	Dunning prostate cancer
+T7	Cancer 269 275	tumour
+T10	Pathological_formation 453 481	benign prostatic hyperplasia
+T11	Pathological_formation 483 486	BPH
+T12	Pathological_formation 492 538	high-grade prostatic intraepithelial neoplasia
+T13	Pathological_formation 540 543	PIN
+T14	Cancer 562 577	prostate cancer
+T27	Cancer 777 792	prostate cancer
+T35	Tissue 965 980	prostate tissue
+T36	Tissue 990 1023	malignant Dunning sublines tissue
+T38	Cancer 1065 1072	tumours
+T39	Organ 1094 1102	prostate
+T45	Cancer 1333 1338	H3327
+T47	Organ 1402 1410	prostate
+T48	Cancer 1422 1438	prostate tumours
+T1	Tissue 1183 1190	samples

@@ -1,0 +1,23 @@
+T2	Tissue 89 98	capillary
+T3	Cancer 126 131	tumor
+T5	Cancer 151 156	tumor
+T6	Cellular_component 183 203	extracellular matrix
+T12	Cellular_component 496 513	basement membrane
+T13	Cellular_component 518 538	extracellular matrix
+T14	Cancer 559 564	tumor
+T15	Cancer 599 604	tumor
+T19	Cell 810 823	neuroblastoma
+T20	Cell 828 848	melanoma tumor cells
+T22	Cell 980 991	tumor cells
+T24	Cancer 1113 1119	tumors
+T25	Multi-tissue_structure 1143 1158	feeding vessels
+T26	Cancer 1205 1211	tumors
+T28	Cell 1261 1286	CD31(+) endothelial cells
+T30	Cell 1294 1311	endothelial cells
+T31	Multi-tissue_structure 1338 1345	tubules
+T32	Multi-tissue_structure 1373 1379	vessel
+T33	Cell 1403 1411	pericyte
+T35	Cell 1535 1552	endothelial cells
+T38	Cancer 1642 1648	tumors
+T40	Cancer 1762 1767	tumor
+T42	Tissue 1881 1890	capillary

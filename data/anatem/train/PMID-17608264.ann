@@ -1,0 +1,23 @@
+T2	Tissue 42 52	fat tissue
+T4	Tissue 145 155	fat tissue
+T7	Tissue 233 253	fat tissue fragments
+T10	Organism_substance 326 330	clot
+T11	Cell 349 353	cell
+T13	Organism_substance 383 401	fetal bovine serum
+T14	Organism_substance 422 427	clots
+T18	Tissue 569 579	fat tissue
+T20	Multi-tissue_structure 622 636	placental vein
+T21	Multi-tissue_structure 674 687	Blood vessels
+T22	Tissue 728 748	fat tissue fragments
+T23	Multi-tissue_structure 775 788	blood vessels
+T32	Tissue 1230 1240	fat tissue
+T33	Multi-tissue_structure 1273 1285	blood vessel
+T34	Tissue 1320 1323	fat
+T36	Tissue 1382 1392	fat tissue
+T38	Tissue 1431 1437	tissue
+T39	Multi-tissue_structure 1443 1450	vessels
+T40	Multi-tissue_structure 1468 1486	quiescient vessels
+T41	Tissue 1498 1501	fat
+T42	Tissue 1615 1625	fat tissue
+T43	Tissue 1646 1662	placental tissue
+T44	Tissue 1713 1723	fat tissue

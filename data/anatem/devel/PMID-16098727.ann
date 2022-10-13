@@ -1,0 +1,12 @@
+T1	Cell 27 37	epithelial
+T2	Cell 38 49	mesenchymal
+T3	Cancer 68 73	tumor
+T4	Cell 88 98	Epithelial
+T5	Cell 99 110	mesenchymal
+T6	Developing_anatomical_structure 156 165	embryonic
+T7	Cancer 226 240	primary tumors
+T8	Cancer 375 380	tumor
+T20	Cell 828 833	cells
+T21	Cancer 841 854	primary tumor
+T22	Cancer 934 940	cancer
+T9	Cancer 249 259	metastases

@@ -1,0 +1,9 @@
+Flow dynamics of the internal thoracic and radial artery T-graft.
+BACKGROUND:
+Complex use of arterial conduits has resurrected concerns about the adequacy of conduit flow. The T-graft is the extreme example of this trend. Our purpose was to identify the limitation of single source inflow and to compare flow capacity with completion coronary flow.
+METHODS:
+Between February 1999 and November 2001, 372 patients underwent total arterial revascularization with the T-graft alone. Intraoperative flows were recorded for each limb of the T-graft before and after distal anastomoses in 204 patients. Independent predictors of T-graft flow were identified by multivariate analysis.
+RESULTS:
+Free flow for the radial arterial (RA) limb was 161 +/- 81 mL/min, the internal thoracic artery (ITA) limb 137 +/- 57 mL/min (combined 298 +/- 101 mL/min) versus simultaneous limb flow of 226 +/- 84 mL/min giving a flow restriction of 24% +/- 14%. Completion coronary flow was 88 +/- 49 mL/min for the RA, 60 +/- 45 mL/min for the ITA, and 140 +/- 70 mL/min for both limbs simultaneously to give a flow reserve (vs simultaneous free flow) of 160% or 1.6. Independent predictors of completion RA limb flow are RA proximal diameter (p = 0.005), number of anastomoses (p = 0.018), and target stenosis (p = 0.005).
+CONCLUSIONS:
+A flow reserve of 1.6 compares favorably with an ITA flow reserve of 1.8 at 1-month postoperatively and 1.8 for both the ITA T-graft and the ITA/RA T-graft at 1-week postoperatively as reported by others. Proximal RA diameter and competitive coronary flow influence completion T-graft flow. These data quantitate the limitation of single source inflow of the T-graft configuration and support its continued use.

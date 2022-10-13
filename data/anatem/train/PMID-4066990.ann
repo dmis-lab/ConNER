@@ -1,0 +1,8 @@
+T1	Organism_substance 25 39	amniotic fluid
+T2	Organism_substance 274 288	amniotic fluid
+T3	Organ 293 303	fetal lung
+T4	Organ 154 164	fetal lung
+T5	Organism_substance 492 506	amniotic fluid
+T6	Organism_substance 1037 1045	specimen
+T7	Anatomical_system 858 869	respiratory
+T8	Organism_substance 598 605	samples

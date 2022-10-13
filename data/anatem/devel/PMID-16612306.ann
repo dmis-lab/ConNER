@@ -1,0 +1,11 @@
+T1	Organism_subdivision 38 48	phalangeal
+T2	Organism_subdivision 121 131	phalangeal
+T3	Organism_subdivision 311 321	phalangeal
+T4	Multi-tissue_structure 694 708	metaphalangeal
+T5	Multi-tissue_structure 710 734	proximal interphalangeal
+T6	Multi-tissue_structure 740 769	distal interphalangeal joints
+T7	Organism_subdivision 988 1002	middle phalanx
+T8	Pathological_formation 1045 1063	soft tissue lesion
+T9	Organism_subdivision 1227 1237	phalangeal
+T10	Anatomical_system 1448 1456	skeletal
+T11	Organism_subdivision 1518 1528	phalangeal

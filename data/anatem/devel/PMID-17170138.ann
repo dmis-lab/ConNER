@@ -1,0 +1,18 @@
+T2	Cancer 11 16	tumor
+T3	Cellular_component 42 53	chromosomal
+T5	Cell 121 129	cellular
+T6	Cell 148 152	cell
+T10	Cell 286 290	cell
+T11	Cancer 321 326	tumor
+T13	Cancer 354 363	lymphomas
+T19	Cell 478 482	cell
+T25	Cellular_component 612 623	chromosomal
+T26	Cancer 647 652	tumor
+T28	Cell 697 701	cell
+T30	Cancer 752 757	tumor
+T35	Cancer 843 851	sarcomas
+T36	Cancer 856 865	lymphomas
+T38	Pathological_formation 890 913	chromosomal aberrations
+T40	Cancer 951 963	malignancies
+T43	Cellular_component 1036 1047	chromosomal
+T44	Cancer 1104 1109	tumor

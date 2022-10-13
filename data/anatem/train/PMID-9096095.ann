@@ -1,0 +1,14 @@
+T1	Cancer 24 45	primary brain tumours
+T7	Cancer 262 269	gliomas
+T10	Cancer 434 447	brain tumours
+T12	Cancer 524 545	primary brain tumours
+T13	Cancer 554 572	high-grade gliomas
+T14	Cancer 583 608	low-grade brain neoplasms
+T21	Cancer 946 952	tumour
+T24	Cancer 1041 1054	brain tumours
+T25	Cancer 1143 1153	high-grade
+T26	Cancer 1158 1175	low-grade tumours
+T31	Cancer 1312 1322	high-grade
+T32	Cancer 1327 1344	low-grade tumours
+T35	Cancer 1738 1759	primary brain tumours
+T38	Cancer 1908 1921	brain tumours

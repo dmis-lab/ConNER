@@ -1,0 +1,18 @@
+T7	Cancer 325 330	tumor
+T10	Cell 367 379	cancer cells
+T15	Cancer 611 640	non-small cell lung carcinoma
+T16	Cancer 661 681	renal cell carcinoma
+T17	Cancer 683 689	breast
+T19	Cancer 743 748	tumor
+T21	Cancer 906 919	breast cancer
+T11	Cancer 591 609	endometrial cancer
+T22	Cancer 642 659	colorectal cancer
+T23	Cancer 694 708	ovarian cancer
+T24	Cancer 887 904	colorectal cancer
+T25	Cancer 921 935	gastric cancer
+T26	Cancer 940 957	pancreatic cancer
+T27	Organism_substance 548 553	serum
+T28	Cancer 73 79	cancer
+T32	Cancer 503 509	cancer
+T34	Organism_substance 710 715	Serum
+T37	Cancer 866 878	malignancies

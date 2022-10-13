@@ -1,0 +1,22 @@
+T17	Cell 38 53	epithelial cell
+T18	Cell 175 194	NIH 3T3 fibroblasts
+T19	Cell 206 211	cells
+T20	Cancer 262 268	tumors
+T21	Immaterial_anatomical_entity 277 282	lumen
+T22	Cancer 308 334	carcinoma-like focal areas
+T23	Cellular_component 340 363	intercellular junctions
+T24	Cellular_component 453 465	cytoskeletal
+T9	Cell 479 490	tumor cells
+T10	Cell 595 605	epithelial
+T11	Cell 624 635	tumor cells
+T13	Organ 677 693	embryonic kidney
+T14	Cancer 787 793	tumors
+T15	Cell 812 822	epithelial
+T16	Cell 827 838	mesenchymal
+T27	Cell 23 34	mesenchymal
+T29	Cell 401 411	epithelial
+T30	Cell 430 441	mesenchymal
+T33	Cell 580 591	mesenchymal
+T12	Cellular_component 375 385	desmosomes
+T34	Cellular_component 527 537	desmosomal
+T35	Cellular_component 542 556	tight-junction

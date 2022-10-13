@@ -1,0 +1,12 @@
+T19	Pathological_formation 138 157	pleomorphic adenoma
+T20	Cell 230 238	cellular
+T21	Pathological_formation 515 534	pleomorphic adenoma
+T22	Cancer 648 680	carcinoma ex-pleomorphic adenoma
+T24	Tissue 815 822	tissues
+T25	Cancer 1487 1501	adenocarcinoma
+T17	Pathological_formation 536 538	PA
+T23	Cancer 682 690	Ca ex-PA
+T31	Pathological_formation 696 698	PA
+T33	Cancer 1092 1115	carcinomatous component
+T18	Cancer 1461 1469	Ca ex-PA
+T36	Pathological_formation 1517 1519	PA

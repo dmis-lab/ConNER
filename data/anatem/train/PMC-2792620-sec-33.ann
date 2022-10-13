@@ -1,0 +1,12 @@
+T1	Organism_substance 287 300	aqueous humor
+T2	Multi-tissue_structure 320 326	sclera
+T3	Organ 579 582	eye
+T4	Multi-tissue_structure 596 602	cornea
+T5	Multi-tissue_structure 607 611	iris
+T6	Multi-tissue_structure 648 654	cornea
+T7	Multi-tissue_structure 659 665	sclera
+T8	Multi-tissue_structure 730 742	ciliary body
+T9	Organ 771 775	eyes
+T10	Organ 258 268	trabecular
+T11	Pathological_formation 104 112	glaucoma
+T12	Pathological_formation 358 366	glaucoma

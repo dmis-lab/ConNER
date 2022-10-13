@@ -1,0 +1,1 @@
+Data collection: CrystalClear (Rigaku/MSC, 2005 >); cell refinement: CrystalClear; data reduction: CrystalClear; program(s) used to solve structure: SHELXS97 (Sheldrick, 2008 >); program(s) used to refine structure: SHELXL97 (Sheldrick, 2008 >); molecular graphics: ORTEPII (Johnson, 1976 >); software used to prepare material for publication: SHELXL97.

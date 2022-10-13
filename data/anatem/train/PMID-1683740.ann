@@ -1,0 +1,28 @@
+T1	Cell 11 21	lymphocyte
+T2	Multi-tissue_structure 74 85	bone marrow
+T3	Cell 127 137	lymphocyte
+T4	Organism_substance 153 169	peripheral blood
+T5	Multi-tissue_structure 267 278	bone marrow
+T6	Cell 302 312	Lymphocyte
+T7	Cell 340 341	T
+T8	Cell 346 353	B-cells
+T9	Cell 433 440	T-cells
+T10	Cell 529 539	lymphocyte
+T11	Cell 568 579	CD 4+ cells
+T12	Cell 613 624	CD 8+ cells
+T13	Cell 687 698	CD 4+ cells
+T14	Cell 730 756	suppressor-inducer T-cells
+T15	Cell 792 803	CD 8+ cells
+T16	Cell 841 859	suppressor T-cells
+T17	Cell 882 907	natural killer (NK) cells
+T18	Cell 923 931	NK cells
+T19	Cell 1020 1042	CD 16 -CD 57+ NK cells
+T20	Cell 1216 1226	lymphocyte
+T21	Cell 1295 1302	T-cells
+T22	Cell 1330 1340	lymphocyte
+T23	Cell 1485 1496	CD 4+ cells
+T24	Cell 1510 1528	suppressor T-cells
+T25	Cell 1580 1588	NK cells
+T26	Multi-tissue_structure 1140 1145	graft
+T31	Cancer 33 41	leukemia
+T32	Cancer 222 230	leukemia

@@ -1,0 +1,22 @@
+T2	Cancer 30 35	tumor
+T5	Cancer 98 111	breast cancer
+T6	Cancer 199 212	breast cancer
+T8	Cancer 294 307	breast cancer
+T11	Cancer 443 448	tumor
+T17	Organ 672 677	organ
+T20	Cancer 796 802	tumors
+T21	Cell 816 850	breast cancer cell line MDA-MB-435
+T25	Organism_substance 1137 1142	serum
+T26	Cell 1160 1168	cellular
+T27	Organism_substance 1185 1190	blood
+T29	Organ 1265 1270	liver
+T30	Organ 1272 1279	kidneys
+T31	Organ 1285 1291	spleen
+T32	Organ 1307 1312	heart
+T33	Organ 1316 1321	lungs
+T34	Cancer 1346 1351	tumor
+T39	Cancer 1512 1533	lymph node metastases
+T41	Cancer 1681 1686	tumor
+T42	Cancer 1710 1724	primary tumors
+T45	Cancer 1768 1781	breast cancer
+T1	Cancer 1666 1676	metastases

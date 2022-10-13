@@ -1,0 +1,10 @@
+T3	Multi-tissue_structure 57 69	colon mucosa
+T11	Cancer 234 246	colon tumors
+T15	Multi-tissue_structure 448 460	colon mucosa
+T19	Cancer 587 592	tumor
+T27	Multi-tissue_structure 814 826	colon mucosa
+T34	Cell 1043 1061	Fas-positive cells
+T35	Cell 1076 1081	cells
+T36	Organ 1117 1122	colon
+T39	Cancer 1182 1187	tumor
+T42	Organ 1323 1328	colon

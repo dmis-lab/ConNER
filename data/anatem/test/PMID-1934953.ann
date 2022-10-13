@@ -1,0 +1,19 @@
+T1	Multi-tissue_structure 14 22	tracheal
+T2	Multi-tissue_structure 954 960	airway
+T3	Multi-tissue_structure 1018 1025	mucosal
+T4	Tissue 1044 1055	mucociliary
+T5	Multi-tissue_structure 1078 1084	airway
+T6	Cell 1211 1233	tracheobronchial cells
+T7	Multi-tissue_structure 1288 1294	airway
+T8	Multi-tissue_structure 1341 1347	airway
+T9	Multi-tissue_structure 1418 1432	bronchial tree
+T10	Organism_substance 1473 1478	mucus
+T11	Multi-tissue_structure 1561 1578	endotracheal tube
+T12	Organ 1616 1620	lung
+T13	Multi-tissue_structure 2030 2036	airway
+T14	Organism_subdivision 2126 2143	respiratory tract
+T16	Multi-tissue_structure 905 922	endotracheal tube
+T17	Cellular_component 1393 1410	basement membrane
+T18	Immaterial_anatomical_entity 163 175	endotracheal
+T19	Immaterial_anatomical_entity 787 799	Endotracheal
+T15	Anatomical_system 1708 1719	Respiratory

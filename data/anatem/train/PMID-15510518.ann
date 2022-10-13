@@ -1,0 +1,25 @@
+T2	Organ 357 366	right eye
+T3	Multi-tissue_structure 505 509	iris
+T5	Organ 578 582	eyes
+T6	Multi-tissue_structure 593 603	arterioles
+T7	Organ 607 616	right eye
+T8	Multi-tissue_structure 684 700	carotid arteries
+T9	Multi-tissue_structure 743 758	carotid vessels
+T10	Multi-tissue_structure 836 863	right common carotid artery
+T11	Multi-tissue_structure 893 919	left common carotid artery
+T12	Multi-tissue_structure 934 949	abdominal aorta
+T13	Organ 1061 1070	right eye
+T14	Multi-tissue_structure 1094 1122	left external carotid artery
+T16	Multi-tissue_structure 1154 1158	iris
+T17	Organ 1177 1181	eyes
+T18	Multi-tissue_structure 1206 1210	iris
+T20	Multi-tissue_structure 1286 1302	carotid arteries
+T22	Organ 62 68	Ocular
+T24	Multi-tissue_structure 998 1014	intraocular lens
+T1	Multi-tissue_structure 1383 1391	vascular
+T29	Pathological_formation 178 198	neovascular glaucoma
+T30	Pathological_formation 134 161	primary open angle glaucoma
+T31	Pathological_formation 1 9	Glaucoma
+T32	Pathological_formation 266 274	glaucoma
+T4	Organ 14 20	ocular
+T15	Organ 1462 1468	ocular

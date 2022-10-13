@@ -1,0 +1,29 @@
+T3	Cancer 74 110	primary oral squamous cell carcinoma
+T4	Multi-tissue_structure 143 163	cervical lymph nodes
+T12	Cancer 369 378	carcinoma
+T16	Cancer 446 460	oral carcinoma
+T17	Multi-tissue_structure 539 561	metastatic lymph nodes
+T19	Cancer 621 649	lymph node-metastatic cancer
+T20	Cancer 651 679	Oral squamous cell carcinoma
+T21	Cancer 681 685	OSCC
+T22	Multi-tissue_structure 713 724	lymph nodes
+T27	Cancer 923 935	primary OSCC
+T32	Cancer 1088 1092	OSCC
+T33	Multi-tissue_structure 1098 1108	lymph node
+T34	Cancer 1133 1137	OSCC
+T35	Multi-tissue_structure 1146 1156	lymph node
+T36	Multi-tissue_structure 1192 1198	mucosa
+T41	Cancer 1370 1382	primary OSCC
+T42	Multi-tissue_structure 1410 1416	mucosa
+T44	Cell 1439 1464	primary oral cancer cells
+T45	Multi-tissue_structure 1483 1493	lymph node
+T47	Multi-tissue_structure 1614 1624	lymph node
+T48	Cell 1666 1691	primary oral cancer cells
+T49	Cancer 1696 1715	cervical metastases
+T51	Cancer 1762 1783	lymph node metastases
+T54	Multi-tissue_structure 1861 1871	lymph node
+T55	Cancer 1886 1890	OSCC
+T56	Cancer 1941 1956	metastatic OSCC
+T1	Cancer 866 896	cervical lymph node metastases
+T2	Cancer 129 139	metastases
+T5	Cancer 1052 1070	Surgical specimens

@@ -1,0 +1,22 @@
+T8	Cell 815 819	Huh7
+T31	Cancer 44 49	tumor
+T32	Cancer 99 123	hepatocellular carcinoma
+T33	Cancer 201 207	tumors
+T34	Cancer 360 384	hepatocellular carcinoma
+T35	Cancer 386 389	HCC
+T36	Cancer 465 470	tumor
+T37	Cancer 547 550	HCC
+T38	Cell 646 660	hepatoma cells
+T39	Cell 829 844	PLC/PRF/5 cells
+T40	Cell 1103 1117	hepatoma cells
+T41	Cell 1328 1332	cell
+T42	Cell 1346 1360	hepatoma cells
+T43	Cell 1420 1434	hepatoma cells
+T44	Cancer 1489 1510	Huh7 xenograft tumors
+T45	Cancer 1587 1592	tumor
+T46	Cell 1777 1791	hepatoma cells
+T47	Cancer 1881 1886	tumor
+T48	Cancer 1913 1916	HCC
+T1	Cellular_component 726 740	autophagosomes
+T9	Cell 821 824	HLF
+T23	Cellular_component 1679 1692	autophagosome

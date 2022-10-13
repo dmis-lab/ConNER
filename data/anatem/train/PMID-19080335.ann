@@ -1,0 +1,37 @@
+T1	Cell 23 45	mesenchymal stem cells
+T3	Organ 96 101	heart
+T4	Multi-tissue_structure 123 133	myocardial
+T5	Cell 158 180	Mesenchymal stem cells
+T6	Cell 182 186	MSCs
+T8	Multi-tissue_structure 355 365	myocardial
+T9	Cell 453 457	MSCs
+T11	Cell 570 574	MSCs
+T13	Organ 625 630	heart
+T14	Cell 660 664	MSCs
+T16	Cell 765 769	MSCs
+T18	Immaterial_anatomical_entity 855 870	intramyocardial
+T19	Cell 884 888	MSCs
+T22	Cell 1094 1099	cells
+T23	Cell 1105 1119	cardiomyocytes
+T24	Cell 1138 1142	cell
+T28	Multi-tissue_structure 1326 1332	vessel
+T30	Cell 1363 1376	cardiomyocyte
+T31	Organ 1435 1440	heart
+T32	Cell 1519 1523	MSCs
+T33	Cell 1592 1596	MSCs
+T34	Cell 1675 1679	MSCs
+T35	Cell 1727 1748	myocardium-like cells
+T37	Tissue 1775 1784	capillary
+T38	Cell 1985 1989	MSCs
+T39	Cell 2014 2028	cardiomyocytes
+T40	Cell 2139 2143	MSCs
+T41	Organ 2170 2175	heart
+T42	Multi-tissue_structure 2187 2201	left ventricle
+T43	Multi-tissue_structure 2228 2242	left ventricle
+T44	Cell 2331 2335	MSCs
+T45	Organ 2376 2381	heart
+T46	Cell 2418 2422	MSCs
+T47	Cell 2501 2505	MSCs
+T48	Organ 2518 2523	heart
+T49	Cell 2583 2596	cardiomyocyte
+T2	Multi-tissue_structure 2642 2646	area

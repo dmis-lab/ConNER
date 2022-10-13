@@ -1,0 +1,10 @@
+T3	Organ 70 75	heart
+T9	Anatomical_system 383 397	cardiovascular
+T10	Multi-tissue_structure 421 436	coronary artery
+T11	Organ 460 465	heart
+T14	Organ 687 692	heart
+T15	Multi-tissue_structure 758 764	vessel
+T16	Cancer 794 800	cancer
+T18	Multi-tissue_structure 966 972	vessel
+T19	Organ 997 1002	heart
+T20	Tissue 1055 1066	endothelial

@@ -1,0 +1,12 @@
+T2	Cancer 88 93	tumor
+T7	Organ 450 454	skin
+T9	Tissue 542 560	mesenchymal stroma
+T12	Cell 728 739	tumor cells
+T14	Organ 798 802	skin
+T15	Cancer 860 865	tumor
+T16	Pathological_formation 927 946	pre-malignant tumor
+T17	Cancer 962 967	tumor
+T21	Cancer 1071 1076	tumor
+T22	Cell 1111 1121	tumor cell
+T24	Cancer 1333 1338	tumor
+T67	Cell 1287 1294	stromal

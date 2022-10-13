@@ -1,0 +1,12 @@
+T7	Cancer 271 283	solid tumors
+T23	Cancer 1645 1650	tumor
+T8	Cancer 305 329	hematologic malignancies
+T26	Organism_substance 373 379	plasma
+T27	Organism_substance 25 31	plasma
+T28	Cancer 46 68	acute myeloid leukemia
+T29	Cancer 458 480	acute myeloid leukemia
+T30	Cancer 482 485	AML
+T31	Cancer 668 671	AML
+T33	Cancer 1168 1171	AML
+T34	Cancer 1472 1475	AML
+T1	Organism_substance 1043 1054	hematologic

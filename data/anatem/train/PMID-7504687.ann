@@ -1,0 +1,28 @@
+T2	Cell 62 80	breast cancer cell
+T4	Cell 115 141	spleen natural killer cell
+T5	Cell 188 198	tumor cell
+T9	Cancer 235 248	breast cancer
+T11	Tissue 297 303	stroma
+T12	Cancer 371 376	tumor
+T17	Cell 498 505	MDA-231
+T19	Cell 512 535	breast cancer cell line
+T20	Cell 558 563	cells
+T23	Cell 596 627	spleen natural killer (NK) cell
+T24	Immaterial_anatomical_entity 638 653	Intraperitoneal
+T25	Immaterial_anatomical_entity 691 706	intraperitoneal
+T26	Cell 722 733	tumor cells
+T27	Cancer 745 765	intraabdominal tumor
+T28	Cancer 770 785	lung metastases
+T30	Cancer 903 930	MDA-231 subcutaneous tumors
+T31	Cancer 977 983	tumors
+T32	Immaterial_anatomical_entity 1000 1015	Intraperitoneal
+T34	Cell 1077 1091	spleen NK cell
+T35	Cancer 1122 1143	MDA-231 primary tumor
+T36	Cancer 1147 1157	metastases
+T37	Cell 1190 1197	NK cell
+T39	Organism_substance 1262 1267	serum
+T40	Cell 1297 1310	MDA-231 cells
+T41	Cell 1325 1332	NK cell
+T43	Cell 1351 1368	blood lymphocytes
+T46	Cell 1515 1525	tumor cell
+T48	Cancer 1557 1575	mammary carcinomas

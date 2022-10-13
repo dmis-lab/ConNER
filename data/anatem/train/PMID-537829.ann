@@ -1,0 +1,17 @@
+T1	Multi-tissue_structure 24 32	arterial
+T2	Multi-tissue_structure 41 47	venous
+T3	Pathological_formation 100 107	lesions
+T4	Multi-tissue_structure 138 146	arteries
+T5	Multi-tissue_structure 154 159	veins
+T6	Pathological_formation 198 214	arterial lesions
+T7	Multi-tissue_structure 417 422	veins
+T8	Pathological_formation 430 444	microabscesses
+T9	Pathological_formation 449 470	giant cell granulomas
+T10	Multi-tissue_structure 544 550	venous
+T11	Pathological_formation 582 589	lesions
+T12	Multi-tissue_structure 659 667	arteries
+T13	Multi-tissue_structure 672 677	veins
+T14	Multi-tissue_structure 734 742	vascular
+T15	Multi-tissue_structure 761 769	arteries
+T16	Multi-tissue_structure 774 779	veins
+T17	Multi-tissue_structure 379 383	wall

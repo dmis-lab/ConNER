@@ -1,0 +1,27 @@
+T2	Multi-tissue_structure 33 43	lymph node
+T3	Cancer 60 78	endometrial cancer
+T4	Multi-tissue_structure 93 103	lymph node
+T5	Cancer 143 149	cancer
+T6	Multi-tissue_structure 159 169	Lymph node
+T7	Cancer 249 256	cancers
+T8	Cancer 268 286	endometrial cancer
+T11	Multi-tissue_structure 424 434	lymph node
+T13	Multi-tissue_structure 481 491	lymph node
+T14	Cell 545 573	endometrial cancer cell line
+T15	Cell 575 580	HEC1A
+T16	Cell 587 596	cell line
+T18	Immaterial_anatomical_entity 664 676	intrauterine
+T19	Cell 690 701	HEC1A cells
+T21	Cancer 736 750	uterine cancer
+T22	Multi-tissue_structure 756 766	lymph node
+T24	Multi-tissue_structure 834 844	lymph node
+T25	Cell 907 918	HEC1A cells
+T26	Cell 920 925	HEC1A
+T29	Cancer 1010 1031	lymph node metastases
+T30	Cell 1060 1078	HEC1A/VEGF-C cells
+T32	Cell 1087 1098	HEC1A cells
+T33	Cancer 1188 1194	tumors
+T34	Cell 1200 1218	HEC1A/VEGF-C cells
+T37	Multi-tissue_structure 1296 1306	lymph node
+T38	Multi-tissue_structure 1419 1429	lymph node
+T1	Multi-tissue_structure 1111 1116	nodes

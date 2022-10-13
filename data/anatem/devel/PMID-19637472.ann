@@ -1,0 +1,19 @@
+T1	Multi-tissue_structure 59 80	autogenous bone graft
+T2	Multi-tissue_structure 86 101	vascular bundle
+T3	Multi-tissue_structure 156 171	vascular bundle
+T4	Multi-tissue_structure 188 209	autogenous bone graft
+T6	Organ 316 338	bilateral radial bones
+T8	Multi-tissue_structure 372 383	bone grafts
+T9	Tissue 391 400	periostea
+T10	Multi-tissue_structure 437 469	external maxillary artery bundle
+T11	Immaterial_anatomical_entity 493 506	marrow cavity
+T12	Organ 514 518	bone
+T13	Multi-tissue_structure 551 566	vascular bundle
+T14	Organ 586 590	bone
+T15	Organ 605 620	masseter muscle
+T17	Multi-tissue_structure 669 678	specimens
+T19	Tissue 824 835	Microvessel
+T20	Multi-tissue_structure 900 922	autogenous bone grafts
+T21	Multi-tissue_structure 937 948	bone grafts
+T22	Multi-tissue_structure 1282 1297	Vascular bundle
+T23	Multi-tissue_structure 1353 1374	autogenous bone graft

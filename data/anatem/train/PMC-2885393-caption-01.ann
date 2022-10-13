@@ -1,0 +1,9 @@
+T1	Organ 444 451	ovaries
+T2	Developing_anatomical_structure 457 464	embryos
+T3	Cell 508 512	soma
+T4	Cell 547 551	soma
+T5	Organism_subdivision 514 518	head
+T6	Organism_subdivision 524 530	thorax
+T7	Organism_subdivision 553 557	head
+T8	Organism_subdivision 563 569	thorax
+T9	Organ 665 671	testis

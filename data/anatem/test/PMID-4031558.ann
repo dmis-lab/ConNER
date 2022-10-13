@@ -1,0 +1,10 @@
+T1	Organism_subdivision 701 705	limb
+T2	Cell 801 834	peripheral blood mononuclear cell
+T3	Cell 836 839	MNC
+T4	Cell 957 973	breast milk MNCs
+T5	Cell 1032 1053	peripheral blood MNCs
+T6	Organism_subdivision 1069 1075	breast
+T8	Anatomical_system 86 98	neurological
+T9	Anatomical_system 455 467	neurological
+T10	Anatomical_system 1253 1265	neurological
+T7	Multi-tissue_structure 740 745	joint

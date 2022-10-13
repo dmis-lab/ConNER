@@ -1,0 +1,15 @@
+T2	Cancer 16 21	tumor
+T3	Cell 44 48	cell
+T4	Cell 60 64	cell
+T6	Cell 95 100	cells
+T13	Cancer 327 341	acute leukemia
+T15	Cancer 416 423	cancers
+T18	Cell 480 493	NIH 3T3 cells
+T19	Cell 503 507	cell
+T20	Cell 566 571	cells
+T25	Cell 682 687	cells
+T37	Cell 1193 1198	cells
+T38	Cell 1212 1216	cell
+T42	Cell 1344 1349	cells
+T44	Cancer 1411 1416	tumor
+T1	Cell 542 550	cultures

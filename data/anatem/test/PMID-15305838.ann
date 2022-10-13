@@ -1,0 +1,12 @@
+T1	Immaterial_anatomical_entity 27 39	intracranial
+T2	Organism_subdivision 73 77	head
+T3	Organ 88 96	cerebral
+T4	Organ 203 211	cerebral
+T5	Organ 258 263	brain
+T6	Organism_subdivision 291 295	head
+T7	Organism_subdivision 396 400	head
+T8	Organism_subdivision 564 568	head
+T10	Organism_substance 856 875	cerebrospinal fluid
+T11	Organism_substance 1445 1450	fluid
+T12	Anatomical_system 2123 2135	neurological
+T13	Immaterial_anatomical_entity 428 440	intracranial

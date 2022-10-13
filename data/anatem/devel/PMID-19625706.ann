@@ -1,0 +1,8 @@
+T5	Cancer 190 195	tumor
+T10	Organism_substance 411 417	plasma
+T22	Cell 905 913	arterial
+T23	Cell 914 938	venous endothelial cells
+T24	Cellular_component 947 967	extracellular matrix
+T25	Tissue 985 989	tube
+T26	Cell 1003 1027	venous endothelial cells
+T36	Pathological_formation 1531 1539	thrombus

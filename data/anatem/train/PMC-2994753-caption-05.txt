@@ -1,0 +1,1 @@
+Sensitivity of intervention cost-effectiveness to rates of decay in intervention effectiveness between 0% (life-long health benefits from one-off intervention) and 100% (no health benefits beyond the end of intervention).

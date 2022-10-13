@@ -1,0 +1,22 @@
+T3	Cancer 83 99	colon carcinomas
+T6	Cell 210 238	malignant rodent tumor lines
+T10	Cancer 339 353	breast cancers
+T16	Cancer 523 539	colon carcinomas
+T18	Cancer 635 650	colon carcinoma
+T20	Cancer 786 798	colon tumors
+T23	Cancer 970 983	colon cancers
+T25	Cancer 1049 1062	colon cancers
+T30	Cancer 1265 1277	colon tumors
+T32	Cancer 1307 1314	samples
+T34	Cancer 1332 1339	samples
+T38	Cancer 1564 1576	colon tumors
+T40	Cancer 1634 1646	colon tumors
+T41	Multi-tissue_structure 1682 1688	mucosa
+T42	Cancer 1737 1743	tumors
+T44	Cancer 1882 1895	colon cancers
+T47	Cancer 2006 2021	colon carcinoma
+T49	Cancer 2139 2155	colon carcinomas
+T52	Cancer 2272 2280	melanoma
+T54	Cancer 2336 2349	breast cancer
+T56	Tissue 2431 2437	tissue
+T1	Cancer 308 329	lymph node metastases

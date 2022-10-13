@@ -1,0 +1,9 @@
+T1	Cancer 107 125	colorectal cancers
+T2	Cancer 222 227	tumor
+T3	Cancer 298 303	tumor
+T4	Cancer 520 525	tumor
+T16	Cancer 892 931	stage III (Dukes' C) colorectal cancers
+T17	Cell 1038 1043	cells
+T18	Cancer 1218 1236	colorectal cancers
+T20	Cancer 1673 1690	colorectal cancer
+T30	Tissue 367 373	tissue

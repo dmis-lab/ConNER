@@ -1,0 +1,33 @@
+T4	Cell 28 36	pericyte
+T5	Developing_anatomical_structure 47 56	embryonic
+T6	Cancer 61 66	tumor
+T7	Multi-tissue_structure 123 136	blood vessels
+T8	Cell 172 189	endothelial cells
+T9	Cell 194 203	pericytes
+T10	Multi-tissue_structure 253 264	vasculature
+T11	Tissue 285 292	tissues
+T14	Cellular_component 344 357	cell membrane
+T15	Multi-tissue_structure 387 400	blood vessels
+T16	Multi-tissue_structure 458 472	mature vessels
+T21	Cell 584 608	prenatal brain pericytes
+T22	Cell 613 622	pericytes
+T23	Cancer 635 641	tumors
+T26	Tissue 685 698	pericyte tube
+T28	Cell 745 760	Brain pericytes
+T38	Organism_substance 911 927	cytoplasmic body
+T39	Cell 973 981	pericyte
+T44	Cancer 1115 1131	tumor xenografts
+T46	Cancer 1142 1165	colon carcinoma Colo205
+T47	Cancer 1170 1185	HT29 xenografts
+T53	Cell 1290 1308	perivascular cells
+T55	Cell 1317 1348	CD31-positive endothelial cells
+T57	Cancer 1383 1390	ovarian
+T58	Cancer 1395 1407	colon tumors
+T60	Cell 1443 1452	pericytes
+T62	Cell 1513 1522	pericytes
+T63	Developing_anatomical_structure 1568 1577	embryonic
+T64	Cancer 1582 1587	tumor
+T66	Multi-tissue_structure 1658 1669	vasculature
+T67	Tissue 1673 1690	malignant tissues
+T69	Multi-tissue_structure 1760 1772	blood vessel
+T70	Cancer 1787 1792	tumor

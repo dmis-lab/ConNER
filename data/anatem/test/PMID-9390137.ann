@@ -1,0 +1,21 @@
+T17	Cell 45 73	neoplastic mesothelial cells
+T18	Organism_substance 77 93	serous effusions
+T19	Cell 229 252	tumor mesothelial cells
+T20	Cell 316 335	cytologic specimens
+T21	Cancer 386 408	malignant mesothelioma
+T22	Organism_substance 435 462	metastatic serous effusions
+T23	Cell 553 569	cell suspensions
+T8	Organism_substance 576 590	pleural fluids
+T9	Cell 666 675	specimens
+T10	Cell 816 832	cell suspensions
+T11	Cancer 995 1018	malignant mesotheliomas
+T12	Cancer 1050 1065	adenocarcinomas
+T13	Tissue 1084 1100	serous membranes
+T14	Cell 1224 1241	mesothelial cells
+T15	Cell 1391 1414	tumor mesothelial cells
+T16	Organism_substance 1418 1434	serous effusions
+T26	Cell 256 278	cytologic preparations
+T4	Organism_substance 137 146	antiserum
+T30	Organism_substance 521 530	antiserum
+T32	Organism_substance 626 635	antiserum
+T34	Organism_substance 1204 1213	antiserum

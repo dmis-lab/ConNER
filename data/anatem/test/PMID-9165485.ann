@@ -1,0 +1,13 @@
+T1	Organ 43 48	brain
+T2	Organ 209 214	brain
+T3	Organ 261 266	Brain
+T4	Multi-tissue_structure 317 323	cortex
+T5	Multi-tissue_structure 325 333	striatum
+T6	Multi-tissue_structure 335 343	thalamus
+T7	Multi-tissue_structure 345 356	hippocampus
+T8	Multi-tissue_structure 358 366	midbrain
+T9	Multi-tissue_structure 372 382	cerebellum
+T10	Organ 466 471	brain
+T11	Organ 1065 1070	brain
+T12	Cell 1116 1124	cellular
+T13	Organ 1283 1288	brain

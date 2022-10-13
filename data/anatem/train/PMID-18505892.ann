@@ -1,0 +1,24 @@
+T1	Cancer 0 18	Adenomatoid tumour
+T2	Organ 26 31	liver
+T3	Cancer 44 70	primary adenomatoid tumour
+T4	Organ 93 98	liver
+T6	Cancer 218 224	tumour
+T7	Pathological_formation 273 295	microcystic structures
+T8	Cell 423 440	epithelioid cells
+T9	Organism_substance 446 466	vacuolated cytoplasm
+T10	Cellular_component 485 491	nuclei
+T11	Cell 497 514	epithelioid cells
+T12	Tissue 555 566	capillaries
+T13	Multi-tissue_structure 571 579	arteries
+T14	Tissue 594 612	collagenous stroma
+T15	Cell 658 675	epithelioid cells
+T22	Tissue 805 816	mesothelial
+T26	Cell 872 877	cells
+T33	Tissue 1007 1018	capillaries
+T34	Pathological_formation 1047 1053	cystic
+T35	Cell 1071 1088	epithelioid cells
+T36	Cellular_component 1094 1102	vacuoles
+T37	Tissue 1142 1161	epithelioid element
+T38	Cancer 1183 1209	hepatic adenomatoid tumour
+T43	Pathological_formation 331 337	cystic
+T5	Cancer 251 258	surface

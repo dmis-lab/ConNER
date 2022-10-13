@@ -1,0 +1,9 @@
+T2	Multi-tissue_structure 64 77	blood vessels
+T3	Multi-tissue_structure 129 137	vascular
+T4	Cancer 242 248	cancer
+T5	Cell 320 336	endothelial cell
+T6	Cell 338 340	EC
+T8	Cell 387 389	EC
+T12	Cell 597 599	EC
+T13	Multi-tissue_structure 628 636	vascular
+T18	Cancer 737 742	tumor

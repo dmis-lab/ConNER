@@ -1,0 +1,29 @@
+T4	Organism_subdivision 61 72	periodontal
+T5	Cell 86 106	gingival fibroblasts
+T16	Cell 427 447	gingival fibroblasts
+T17	Cell 449 452	HGF
+T19	Cell 463 466	HGF
+T26	Cell 632 635	HGF
+T39	Cell 984 987	HGF
+T41	Multi-tissue_structure 991 999	vascular
+T46	Cell 1142 1145	HGF
+T48	Multi-tissue_structure 1154 1162	vascular
+T54	Cell 1237 1240	HGF
+T63	Organism_subdivision 1586 1597	periodontal
+T10	Organism_subdivision 1777 1788	periodontal
+T6	Multi-tissue_structure 206 214	vascular
+T75	Pathological_formation 1820 1825	edema
+T76	Pathological_formation 293 299	lesion
+T40	Organism_substance 1090 1101	supernatant
+T1	Cellular_component 514 521	vesicle
+T2	Cellular_component 523 525	Ve
+T3	Cellular_component 745 747	Ve
+T7	Cellular_component 961 963	Ve
+T8	Cellular_component 1119 1121	Ve
+T9	Cellular_component 1214 1216	Ve
+T11	Cellular_component 1463 1465	Ve
+T12	Cellular_component 1511 1513	Ve
+T13	Cell 1107 1115	cultures
+T14	Cell 1202 1210	cultures
+T15	Organism_substance 1185 1196	Supernatant
+T18	Organism_substance 1364 1375	supernatant

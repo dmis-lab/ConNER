@@ -1,0 +1,26 @@
+T1	Tissue 24 41	Placental tissues
+T2	Tissue 261 278	placental tissues
+T3	Developing_anatomical_structure 427 432	Fetal
+T4	Cell 479 499	amniotic fluid cells
+T5	Organ 560 569	placentas
+T6	Organ 796 804	placenta
+T7	Multi-tissue_structure 780 788	fragment
+T8	Organism_substance 806 832	umbilical cord fetal blood
+T9	Organism_substance 846 851	blood
+T10	Multi-tissue_structure 857 879	placenta biopsy sample
+T11	Organ 960 968	placenta
+T12	Cell 1085 1116	Villous cytotrophoblastic cells
+T13	Organ 1236 1244	placenta
+T14	Cell 1331 1336	cells
+T16	Cell 1434 1439	cells
+T15	Cell 1441 1462	Placental fibroblasts
+T17	Multi-tissue_structure 1531 1546	chorionic villi
+T18	Cell 1572 1590	Fibroblastic cells
+T19	Cell 1748 1759	fibroblasts
+T20	Cell 1835 1840	cells
+T21	Cell 1925 1935	fibroblast
+T22	Cell 2016 2021	cells
+T23	Multi-tissue_structure 1168 1183	chorionic villi
+T24	Multi-tissue_structure 746 753	samples
+T25	Multi-tissue_structure 1036 1043	samples
+T26	Multi-tissue_structure 16 23	samples

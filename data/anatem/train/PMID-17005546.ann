@@ -1,0 +1,26 @@
+T1	Tissue 29 52	ciliary body epithelium
+T4	Organism_substance 188 203	vitreous humour
+T5	Tissue 243 266	ciliary body epithelium
+T6	Tissue 268 271	CBE
+T7	Tissue 296 299	CBE
+T8	Developing_anatomical_structure 319 325	embryo
+T9	Cancer 408 428	ciliary body tumours
+T11	Multi-tissue_structure 484 496	ciliary body
+T14	Tissue 613 616	CBE
+T15	Cancer 625 637	hyperplastic
+T16	Cancer 642 664	neoplastic CBE lesions
+T18	Cellular_component 710 728	basal cell surface
+T19	Cellular_component 733 759	basement membrane material
+T20	Tissue 767 784	non-pigmented CBE
+T21	Organ 799 803	eyes
+T22	Cancer 820 840	hyperplastic lesions
+T23	Tissue 848 851	CBE
+T24	Cancer 853 868	Fuchs's adenoma
+T25	Cancer 898 916	neoplastic lesions
+T26	Pathological_formation 922 929	adenoma
+T27	Cancer 938 952	adenocarcinoma
+T28	Tissue 957 960	CBE
+T31	Tissue 1065 1082	non-pigmented CBE
+T33	Tissue 1141 1147	tissue
+T2	Cancer 0 10	Neoplastic
+T3	Cancer 1196 1206	neoplastic

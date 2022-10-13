@@ -1,0 +1,9 @@
+T1	Cancer 152 182	muscle-invasive bladder cancer
+T2	Cancer 406 411	tumor
+T3	Organ 604 611	bladder
+T4	Cancer 636 651	invasive tumors
+T5	Cancer 801 815	invasive tumor
+T6	Cancer 967 982	invasive cancer
+T7	Organ 990 997	bladder
+T8	Cancer 1068 1083	invasive tumors
+T9	Organ 1145 1152	bladder

@@ -1,0 +1,28 @@
+T14	Cell 453 469	endothelial cell
+T15	Cell 522 560	Human umbilical vein endothelial cells
+T16	Cell 562 568	HUVECs
+T17	Cell 574 603	rat aorta smooth muscle cells
+T18	Cell 605 611	RASMCs
+T21	Cell 682 686	cell
+T23	Cell 813 818	cells
+T24	Multi-tissue_structure 828 836	vascular
+T26	Cell 935 941	HUVECs
+T27	Cell 945 951	RASMCs
+T28	Cell 958 963	cells
+T33	Cell 1074 1080	HUVECs
+T34	Cell 1118 1123	cells
+T37	Cell 1151 1157	HUVECs
+T38	Cell 1170 1174	cell
+T39	Cell 1223 1228	cells
+T40	Cell 1230 1235	RASMC
+T43	Organism_substance 1316 1321	serum
+T44	Cellular_component 1361 1378	basement membrane
+T45	Cell 1391 1397	HUVECs
+T48	Cell 1438 1442	cell
+T49	Tissue 1464 1489	capillary-like structures
+T50	Cell 1533 1539	HUVECs
+T51	Cell 1544 1550	HUVECs
+T62	Tissue 1850 1857	tissues
+T68	Tissue 2101 2108	tissues
+T113	Immaterial_anatomical_entity 1770 1784	subcutaneously
+T1	Organism_substance 753 764	supernatant

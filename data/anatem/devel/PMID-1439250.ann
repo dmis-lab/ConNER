@@ -1,0 +1,16 @@
+T1	Tissue 220 234	macular center
+T3	Organ 364 368	eyes
+T5	Tissue 448 455	macular
+T6	Tissue 485 491	foveal
+T7	Tissue 507 512	fovea
+T8	Organ 575 579	eyes
+T10	Organism_substance 692 698	serous
+T13	Organism_substance 1016 1022	serous
+T16	Tissue 1251 1258	macular
+T18	Tissue 1289 1295	foveal
+T9	Pathological_formation 293 312	juxtafoveal scotoma
+T12	Organism_substance 46 52	serous
+T17	Organism_substance 141 147	serous
+T20	Multi-tissue_structure 329 338	choroidal
+T21	Immaterial_anatomical_entity 111 122	juxtafoveal
+T2	Organism_substance 1121 1126	fluid

@@ -1,0 +1,1 @@
+Model of how estrogen induces DNA damage. Estrogen enters the cell and is bound by the ER. The dimeric ER-estrogen complex enters the nucleus and induces AID expression. This leads to an increase in mutations and translocations, and potentially cancer

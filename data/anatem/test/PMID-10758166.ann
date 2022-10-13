@@ -1,0 +1,11 @@
+T4	Cancer 120 125	tumor
+T15	Cell 612 628	endothelial cell
+T23	Cancer 974 993	JC breast carcinoma
+T24	Cancer 998 1018	Lewis lung carcinoma
+T27	Cancer 1162 1187	pulmonary micrometastases
+T28	Cancer 1191 1211	Lewis lung carcinoma
+T29	Cancer 1262 1268	tumors
+T30	Multi-tissue_structure 1304 1317	blood vessels
+T6	Cancer 222 228	cancer
+T8	Cancer 1495 1501	cancer
+T16	Organism_substance 762 767	serum

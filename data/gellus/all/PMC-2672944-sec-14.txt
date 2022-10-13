@@ -1,0 +1,12 @@
+Disk preparation phase
+o Adoption of a two-stage sampling scheme.
+o Careful planning and choice of representative sampling groups and sites according to the adopted network sampling technique, and determining certain criteria such as control sites where major sampling groups exist (i.e. surface water points, valleys, and wells), impact sites where contamination is expected, such as polygons, and outlets (e.g. treated water discharges site) to maximise understanding the quality of urban water sources, and with the least risk of missing the correct representative sampling groups and sites.
+o Attention paid to ensure inclusion in the sampling frame of all groups and locations (sites, roads, venues, and so on) via screening, browsing, and delineation from a satellite digital map of the Khamis Mushait Governorate zone, because local pre-knowledge was preferred with regard to accessibility, safety, and permission.
+o Approximation of the number of the target study population in each group and sampling location.
+o Determination of the proportional allocation of samples between different groups and locations.
+o Training of interviewers\sample collectors to follow and to use the sampling strategy and procedures.
+o Implementation of ways to boost participation rates in the screening and core interviews and sample collection.
+o Planning of logistic needs of timing, gathering, handling samples, and laboratory.
+o Producing sampling cards to be completed to record observations at scene (sample ID and data/information: date, time, temperature, group, locality, problems in the area, sketch map).
+o Selection of an appropriate major sampling method [52] (i.e. simple random sample; network sampling).
+o Planning of pilot visits to samples of each group in the field to review strategy.

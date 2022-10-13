@@ -1,0 +1,21 @@
+T1	Multi-tissue_structure 48 60	pineal gland
+T2	Multi-tissue_structure 103 121	sympathetic nerves
+T3	Multi-tissue_structure 203 215	pineal gland
+T4	Multi-tissue_structure 250 256	pineal
+T5	Multi-tissue_structure 500 506	pineal
+T6	Multi-tissue_structure 586 592	pineal
+T7	Multi-tissue_structure 627 641	salivary gland
+T9	Multi-tissue_structure 713 726	pineal nerves
+T10	Multi-tissue_structure 728 734	Pineal
+T12	Cell 801 818	parenchymal cells
+T13	Multi-tissue_structure 827 844	adrenergic nerves
+T14	Cellular_component 944 965	pineal nerve vesicles
+T15	Immaterial_anatomical_entity 1009 1023	intravesicular
+T16	Multi-tissue_structure 1121 1127	pineal
+T17	Immaterial_anatomical_entity 1182 1196	intravesicular
+T18	Multi-tissue_structure 1252 1258	pineal
+T19	Multi-tissue_structure 1379 1385	pineal
+T20	Cell 656 688	postganglionic adrenergic fibers
+T8	Multi-tissue_structure 777 789	compartments
+T11	Multi-tissue_structure 887 892	sites
+T21	Multi-tissue_structure 1058 1063	sites

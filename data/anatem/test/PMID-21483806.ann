@@ -1,0 +1,30 @@
+T26	Cancer 71 83	gonad tumors
+T27	Cancer 233 240	cancers
+T28	Cancer 251 257	breast
+T29	Cancer 259 266	ovarian
+T30	Cancer 272 288	prostate cancers
+T31	Developing_anatomical_structure 479 493	mutant embryos
+T32	Cell 498 510	mutant cells
+T33	Cell 560 565	cells
+T34	Cell 614 619	cells
+T35	Cell 671 678	oocytes
+T36	Cell 751 758	oocytes
+T37	Cell 899 912	spermatocytes
+T38	Cancer 956 966	neoplastic
+T39	Cell 984 1003	gonad somatic cells
+T40	Cell 1096 1106	germ cells
+T41	Cell 1257 1264	oocytes
+T42	Developing_anatomical_structure 1320 1327	embryos
+T43	Cancer 1357 1380	invasive ovarian tumors
+T20	Cell 1382 1389	Oocytes
+T21	Cellular_component 1521 1533	vegetal pole
+T22	Cellular_component 1612 1620	nucleoli
+T23	Cellular_component 1625 1636	chromosomes
+T25	Cellular_component 27 41	oocyte nuclear
+T55	Cellular_component 711 722	animal pole
+T58	Cellular_component 1481 1492	animal pole
+T59	Cellular_component 1579 1586	nucleus
+T60	Cellular_component 1649 1662	nuclear poles
+T24	Cellular_component 1739 1753	oocyte nuclear
+T61	Cellular_component 2064 2078	oocyte nuclear
+T70	Cancer 1024 1033	neoplasia

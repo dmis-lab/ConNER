@@ -1,0 +1,15 @@
+T6	Organ 328 333	brain
+T8	Cancer 18 25	gliomas
+T9	Organ 665 670	brain
+T23	Cell 1380 1403	PTEN mutant tumor cells
+T29	Cancer 384 391	gliomas
+T30	Cancer 128 133	tumor
+T31	Cancer 723 728	tumor
+T32	Cancer 551 568	malignant gliomas
+T33	Cancer 1543 1560	malignant gliomas
+T43	Cancer 1058 1064	glioma
+T46	Cell 586 590	cell
+T47	Cell 622 626	cell
+T56	Cancer 1266 1289	anaplastic astrocytomas
+T57	Cancer 1294 1323	anaplastic oligodendrogliomas
+T59	Cellular_component 169 182	chromosome 10

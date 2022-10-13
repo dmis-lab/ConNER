@@ -1,0 +1,28 @@
+T3	Cancer 52 60	melanoma
+T4	Cell 102 113	melanocytes
+T5	Cell 118 139	melanocyte stem cells
+T6	Cancer 144 152	melanoma
+T7	Cancer 214 219	tumor
+T8	Cell 269 273	cell
+T9	Cell 296 300	cell
+T10	Cancer 395 403	melanoma
+T14	Cell 487 495	neuronal
+T15	Cancer 530 535	tumor
+T16	Multi-tissue_structure 567 579	blood vessel
+T17	Cell 591 595	cell
+T20	Cellular_component 635 643	membrane
+T23	Cell 689 702	keratinocytes
+T26	Cell 749 760	melanocytes
+T30	Cellular_component 862 874	cytoskeletal
+T32	Cell 899 910	melanocytes
+T33	Cellular_component 938 946	dendrite
+T36	Cell 1009 1020	melanocytes
+T39	Cell 1096 1100	cell
+T41	Cancer 1243 1261	metastatic lesions
+T42	Cancer 1294 1308	melanoma tumor
+T44	Cancer 1370 1389	metastatic melanoma
+T45	Cancer 1404 1420	primary melanoma
+T47	Cancer 1482 1487	tumor
+T48	Cancer 1511 1519	melanoma
+T77	Cancer 1211 1219	sections
+T1	Cancer 1223 1230	primary

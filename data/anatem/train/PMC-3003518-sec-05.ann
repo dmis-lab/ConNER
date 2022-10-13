@@ -1,0 +1,8 @@
+T1	Tissue 13 27	Adipose tissue
+T2	Tissue 112 128	endocrine tissue
+T4	Organism_substance 736 750	synovial fluid
+T5	Organism_substance 755 759	sera
+T6	Cell 928 948	synovial fibroblasts
+T7	Cell 1346 1359	synovial cell
+T8	Anatomical_system 1651 1665	cardiovascular
+T10	Organism_substance 2430 2441	joint fluid

@@ -1,0 +1,17 @@
+T7	Multi-tissue_structure 250 263	blood vessels
+T17	Cell 593 610	endothelial cells
+T18	Cell 661 687	vascular endothelial cells
+T22	Cell 1080 1117	pulmonary capillary endothelial cells
+T27	Cell 1377 1403	Lewis lung carcinoma cells
+T38	Cancer 1744 1765	Lewis lung carcinomas
+T42	Cell 1956 1973	endothelial cells
+T46	Cell 2241 2278	pulmonary capillary endothelial cells
+T66	Cancer 151 157	cancer
+T68	Cancer 2418 2424	cancer
+T70	Cancer 65 70	tumor
+T3	Pathological_formation 1248 1261	wounded areas
+T15	Cell 1275 1285	monolayers
+T32	Cellular_component 797 823	intracellular compartments
+T72	Cellular_component 770 779	lysosomes
+T87	Immaterial_anatomical_entity 1640 1644	i.v.
+T1	Cellular_component 650 657	surface

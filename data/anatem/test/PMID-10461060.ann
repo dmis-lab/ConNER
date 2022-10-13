@@ -1,0 +1,12 @@
+T27	Multi-tissue_structure 96 106	lymph node
+T28	Cancer 127 141	gastric cancer
+T29	Multi-tissue_structure 226 236	lymph node
+T30	Cancer 283 289	tumors
+T31	Cancer 414 428	gastric cancer
+T32	Multi-tissue_structure 453 463	lymph node
+T33	Cancer 501 522	lymph node metastases
+T34	Cancer 1148 1169	lymph node metastases
+T35	Cancer 1334 1355	lymph node metastases
+T36	Cancer 1444 1465	lymph node metastases
+T37	Cancer 1475 1489	gastric cancer
+T60	Cancer 602 611	specimens

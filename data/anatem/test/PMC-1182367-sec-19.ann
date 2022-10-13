@@ -1,0 +1,13 @@
+T1	Organism_substance 110 115	serum
+T2	Organism_subdivision 205 217	hind footpad
+T3	Organism_subdivision 450 457	footpad
+T4	Organism_substance 944 949	serum
+T5	Organism_subdivision 1020 1032	hind footpad
+T6	Organism_subdivision 1217 1224	footpad
+T7	Cell 1659 1667	cellular
+T8	Multi-tissue_structure 1693 1703	lymph node
+T9	Cell 1716 1724	cellular
+T10	Multi-tissue_structure 1750 1753	PLN
+T11	Cell 1971 1986	lymph node cell
+T12	Cell 2059 2068	PLN cells
+T13	Cell 2145 2152	samples

@@ -1,0 +1,18 @@
+T4	Cell 44 60	endothelial cell
+T8	Organ 172 184	limb muscles
+T9	Cell 203 214	endothelial
+T13	Cell 342 359	endothelial cells
+T14	Cell 361 364	ECs
+T15	Cell 397 410	capillary ECs
+T20	Cell 620 623	ECs
+T21	Cell 628 656	endothelial progenitor cells
+T22	Cell 658 662	EPCs
+T29	Organism_substance 778 783	blood
+T31	Organism_subdivision 818 822	limb
+T33	Cell 929 931	EC
+T57	Organism_substance 1224 1229	blood
+T63	Tissue 1532 1545	microvascular
+T45	Tissue 430 440	peripheral
+T47	Immaterial_anatomical_entity 710 723	intramuscular
+T70	Immaterial_anatomical_entity 1282 1295	intramuscular
+T73	Organ 1192 1200	muscular

@@ -1,0 +1,12 @@
+T2	Multi-tissue_structure 72 84	vascular bed
+T12	Cell 349 366	endothelial cells
+T13	Cell 417 433	endothelial cell
+T24	Tissue 881 892	endothelium
+T25	Developing_anatomical_structure 907 914	embryos
+T31	Organ 1131 1137	organs
+T32	Organ 1153 1158	heart
+T33	Organ 1163 1168	brain
+T35	Tissue 1219 1230	endothelium
+T36	Cancer 1234 1250	tumor xenografts
+T44	Multi-tissue_structure 1507 1519	vascular bed
+T45	Tissue 1553 1564	endothelium

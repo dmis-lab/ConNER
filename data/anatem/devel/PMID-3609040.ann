@@ -1,0 +1,20 @@
+T1	Multi-tissue_structure 28 37	tricuspid
+T2	Multi-tissue_structure 9 15	aortic
+T3	Multi-tissue_structure 17 23	mitral
+T4	Multi-tissue_structure 161 167	aortic
+T5	Multi-tissue_structure 169 175	mitral
+T6	Multi-tissue_structure 180 189	tricuspid
+T7	Multi-tissue_structure 202 214	triple valve
+T8	Multi-tissue_structure 232 244	aortic valve
+T9	Multi-tissue_structure 263 272	tricuspid
+T10	Multi-tissue_structure 298 310	mitral valve
+T11	Multi-tissue_structure 392 400	valvular
+T12	Multi-tissue_structure 423 428	valve
+T13	Multi-tissue_structure 558 576	pulmonary arterial
+T14	Organ 652 659	cardiac
+T15	Multi-tissue_structure 708 710	LV
+T16	Multi-tissue_structure 693 695	LV
+T17	Multi-tissue_structure 770 772	LV
+T18	Multi-tissue_structure 792 794	LV
+T19	Multi-tissue_structure 1255 1260	valve
+T20	Multi-tissue_structure 1105 1110	valve

@@ -1,0 +1,15 @@
+T2	Cell 36 40	cell
+T3	Cell 50 82	CGTH W-2 thyroid carcinoma cells
+T5	Tissue 125 129	bark
+T7	Cell 163 167	cell
+T8	Cell 220 232	cancer cells
+T10	Cell 296 328	CGTH W-2 thyroid carcinoma cells
+T12	Organism_substance 378 383	serum
+T13	Cell 420 425	cells
+T15	Organism_substance 524 533	cytoplasm
+T16	Cell 551 556	cells
+T17	Cellular_component 580 592	mitochondria
+T18	Cell 604 609	cells
+T27	Cellular_component 880 892	mitochondria
+T28	Cellular_component 900 907	nucleus
+T46	Immaterial_anatomical_entity 1527 1540	intracellular

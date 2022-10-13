@@ -1,0 +1,23 @@
+T1	Cancer 30 37	MEN IIA
+T3	Cancer 80 85	tumor
+T5	Cancer 133 174	multiple endocrine neoplasia of type II A
+T6	Cancer 176 184	MEN II A
+T7	Cancer 203 230	medullary thyroid carcinoma
+T8	Organ 386 393	thyroid
+T9	Cancer 422 431	carcinoma
+T10	Cancer 485 493	MEN II A
+T11	Cancer 560 565	tumor
+T13	Cancer 600 605	tumor
+T15	Cancer 658 666	MEN II A
+T23	Cell 1197 1203	C-cell
+T25	Cancer 1263 1287	medullary microcarcinoma
+T26	Cancer 1329 1353	medullary microcarcinoma
+T28	Cancer 1423 1437	microcarcinoma
+T29	Multi-tissue_structure 1452 1462	lymph node
+T33	Cancer 1694 1702	MEN II A
+T36	Cancer 1835 1840	tumor
+T37	Cell 1881 1887	C-cell
+T38	Cancer 1903 1927	medullary microcarcinoma
+T39	Cell 2009 2015	C-cell
+T40	Cancer 2031 2054	invasive microcarcinoma
+T41	Cancer 2073 2080	MEN IIA

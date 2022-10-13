@@ -1,0 +1,9 @@
+Specific subgroup B adenovirus diagnosis by PCR of the fibre gene.
+OBJECTIVE:
+A highly sensitive and specific PCR assay targeting regions of the fibre gene was developed for the identification of subgroup B adenovirus strains. This is critical, since these adenovirus strains are frequently associated with severe respiratory infections in infants and new-borns.
+METHODS:
+Clinical samples from nasopharyngeal aspirates were analysed by PCR using several sets of primers corresponding to sequences of the gene coding for the fibre protein.
+RESULTS:
+The assay allowed the detection and identification of all the genotypes of adenovirus subgroup B, based on the size of the amplified product when analysed on polyacrilamide gel electrophoresis. Specifically, one set of primers was able to amplify DNA of subgroup B but not subgroup C and E viruses.
+CONCLUSION:
+The detection of adenovirus and the genotyping can be done on a routine basis by a PCR assay using the fibre gene as a target. The assay allows the identification of ADV subgroup B, including genotype 7h, which is the single most important viral pathogen associated with respiratory diseases in infants and young children in the southern part of South America.

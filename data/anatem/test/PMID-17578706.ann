@@ -1,0 +1,25 @@
+T1	Cancer 53 58	tumor
+T3	Cell 176 187	tumor cells
+T9	Cell 439 455	tumor cell lines
+T14	Multi-tissue_structure 519 530	vasculature
+T15	Cancer 545 551	tumors
+T20	Cell 642 658	endothelial cell
+T26	Cancer 938 944	tumors
+T28	Cancer 1034 1040	tumors
+T30	Multi-tissue_structure 1063 1076	blood vessels
+T35	Multi-tissue_structure 1121 1133	blood vessel
+T38	Cancer 1257 1263	tumors
+T45	Multi-tissue_structure 1405 1418	blood vessels
+T46	Cancer 1452 1458	tumors
+T47	Cancer 1665 1670	tumor
+T48	Organism_substance 1683 1688	blood
+T4	Tissue 76 82	stroma
+T10	Organism_substance 1085 1091	plasma
+T12	Cancer 347 354	cancers
+T17	Cell 1363 1378	malignant cells
+T49	Pathological_formation 286 291	edema
+T18	Pathological_formation 983 988	wound
+T34	Pathological_formation 1471 1477	wounds
+T44	Pathological_formation 1196 1202	wounds
+T64	Pathological_formation 1021 1027	wounds
+T7	Organism_substance 296 301	fluid

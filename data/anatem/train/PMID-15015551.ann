@@ -1,0 +1,14 @@
+T1	Multi-tissue_structure 17 38	embryonic CNS vessels
+T2	Multi-tissue_structure 82 94	blood vessel
+T3	Anatomical_system 129 151	central nervous system
+T4	Anatomical_system 153 156	CNS
+T5	Organ 164 169	brain
+T6	Organ 174 185	spinal cord
+T8	Developing_anatomical_structure 196 203	embryos
+T9	Cell 216 220	cell
+T10	Cell 265 282	endothelial cells
+T11	Cell 284 293	pericytes
+T12	Cell 298 317	smooth muscle cells
+T13	Cell 323 334	macrophages
+T14	Anatomical_system 405 408	CNS
+T15	Multi-tissue_structure 525 536	vasculature

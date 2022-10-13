@@ -1,0 +1,2 @@
+Acknowledgements
+We thank Dr. Neva Meyer for confocal imaging and generation of Z-stack projection, and the following members of the Seaver lab for their continued support of this project: Dr. Neva Meyer, Dr. Aldine Amiel, and Tyler Smith. This work was supported by the National Science Foundation (REU Supplement of 10B05-44869 to E.C.S.).

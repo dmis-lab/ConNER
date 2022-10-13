@@ -1,0 +1,8 @@
+T1	Cancer 83 95	colon cancer
+T2	Cancer 143 159	colon carcinomas
+T3	Cell 337 348	tumor cells
+T4	Cancer 380 385	tumor
+T5	Cancer 553 574	bcl-2-positive tumors
+T6	Cancer 635 656	bcl-2-negative tumors
+T7	Organ 1098 1103	colon
+T8	Cancer 1195 1207	colon cancer

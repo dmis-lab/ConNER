@@ -1,0 +1,16 @@
+T16	Cancer 30 73	primary human squamous cell lung carcinomas
+T18	Cancer 231 268	primary squamous cell lung carcinomas
+T19	Multi-tissue_structure 298 308	lymph node
+T20	Cancer 378 385	tumours
+T21	Multi-tissue_structure 400 411	lymph nodes
+T22	Cancer 497 526	squamous cell lung carcinomas
+T23	Multi-tissue_structure 637 647	lymph node
+T24	Multi-tissue_structure 777 787	lymph node
+T25	Multi-tissue_structure 888 898	lymph node
+T26	Multi-tissue_structure 1070 1080	lymph node
+T27	Cancer 1165 1202	primary squamous cell lung carcinomas
+T13	Multi-tissue_structure 1220 1230	lymph node
+T14	Cancer 1254 1264	carcinomas
+T15	Multi-tissue_structure 1270 1280	lymph node
+T36	Tissue 464 473	specimens
+T1	Cancer 105 115	metastases

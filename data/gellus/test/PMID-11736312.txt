@@ -1,0 +1,2 @@
+Renormalization group analysis of autoregressive processes and fractional noise.
+A renormalization group analysis is applied to autoregressive processes with an infinite series of coefficients. A simple fixed point is given by a random walk, and a second class is found that is proportional to the high order coefficients of fractional autoregressive integrated moving average (ARIMA) processes. The approach might be useful to detect nonstationarity in autoregressive processes.

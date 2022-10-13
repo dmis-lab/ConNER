@@ -1,0 +1,21 @@
+T3	Cell 48 52	cell
+T4	Tissue 77 91	capillary tube
+T6	Cell 111 138	endothelial EA.hy 926 cells
+T7	Multi-tissue_structure 158 170	blood vessel
+T8	Cell 271 288	endothelial cells
+T9	Tissue 343 365	capillary microvessels
+T10	Multi-tissue_structure 377 385	vascular
+T11	Multi-tissue_structure 402 414	blood vessel
+T12	Cancer 495 507	solid tumors
+T18	Cell 881 885	cell
+T19	Tissue 920 929	capillary
+T21	Cell 949 980	endothelial cell line EA.hy 926
+T24	Tissue 1120 1135	capillary tubes
+T25	Cell 1150 1154	cell
+T28	Cell 1253 1257	cell
+T29	Cell 1302 1306	cell
+T31	Cell 1392 1396	cell
+T32	Cell 1419 1432	cell cultures
+T35	Tissue 1546 1567	capillary microvessel
+T36	Cell 1619 1634	EA.hy 926 cells
+T1	Organism_substance 1075 1087	supernatants

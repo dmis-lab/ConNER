@@ -1,0 +1,9 @@
+T1	Multi-tissue_structure 45 57	distal colon
+T2	Multi-tissue_structure 250 259	fragments
+T3	Tissue 518 532	lamina propria
+T5	Cell 550 558	cellular
+T6	Multi-tissue_structure 575 582	mucosal
+T7	Immaterial_anatomical_entity 534 539	crypt
+T9	Multi-tissue_structure 289 297	sections
+T10	Multi-tissue_structure 24 37	cross-section
+T11	Multi-tissue_structure 143 152	fragments

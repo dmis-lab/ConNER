@@ -1,0 +1,9 @@
+T1	Tissue 61 67	tissue
+T2	Cell 151 155	cell
+T3	Organism_substance 186 191	blood
+T4	Multi-tissue_structure 258 280	middle cerebral artery
+T5	Pathological_formation 303 311	aneurysm
+T6	Organism_substance 371 389	subarachnoid blood
+T7	Organ 431 436	brain
+T8	Organ 581 586	brain
+T9	Organ 795 800	brain

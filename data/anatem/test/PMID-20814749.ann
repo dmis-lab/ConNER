@@ -1,0 +1,26 @@
+T26	Cell 4 20	neural stem cell
+T27	Cell 80 85	cells
+T28	Cell 97 114	glioma stem cells
+T29	Organism_subdivision 127 131	body
+T30	Cell 175 184	stem cell
+T31	Cancer 234 246	malignancies
+T32	Cell 252 268	neural stem cell
+T33	Organ 340 345	brain
+T34	Cell 361 378	neural stem cells
+T35	Cancer 425 436	brain tumor
+T36	Cell 518 530	glioma cells
+T12	Cell 535 552	glioma stem cells
+T13	Cancer 605 612	gliomas
+T14	Cell 647 669	U87MG glioma cell line
+T15	Cell 674 710	Ink4a/Arf-deficient mouse astrocytes
+T16	Cell 712 737	Ink4a/Arf(-/-) astrocytes
+T17	Cell 747 751	cell
+T19	Cancer 866 871	tumor
+T20	Cell 955 980	Ink4a/Arf(-/-) astrocytes
+T21	Cell 991 995	cell
+T22	Cell 1115 1132	glioma stem cells
+T23	Cell 1140 1149	stem cell
+T24	Cell 1215 1231	glioma stem cell
+T25	Cancer 1303 1313	malignancy
+T18	Cell 1032 1043	neurosphere
+T59	Cell 834 838	foci

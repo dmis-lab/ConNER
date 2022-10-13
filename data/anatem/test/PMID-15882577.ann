@@ -1,0 +1,26 @@
+T1	Multi-tissue_structure 74 106	posterior frontal cranial suture
+T2	Multi-tissue_structure 108 122	Cranial suture
+T3	Cell 200 218	neural crest cells
+T4	Cell 220 223	NCC
+T5	Multi-tissue_structure 229 246	paraxial mesoderm
+T6	Tissue 179 186	tissues
+T7	Multi-tissue_structure 261 290	posterior frontal (PF) suture
+T8	Multi-tissue_structure 341 348	sutures
+T9	Cell 415 418	NCC
+T10	Multi-tissue_structure 429 438	PF suture
+T11	Multi-tissue_structure 461 475	metopic suture
+T12	Cell 592 595	NCC
+T13	Cellular_component 640 660	extracellular matrix
+T14	Multi-tissue_structure 778 787	PF suture
+T15	Tissue 835 844	cartilage
+T16	Tissue 904 920	cartilage tissue
+T17	Multi-tissue_structure 938 947	PF suture
+T18	Cell 1139 1142	NCC
+T19	Cell 1172 1175	NCC
+T20	Multi-tissue_structure 1184 1193	PF suture
+T22	Tissue 1257 1276	NCC-derived tissues
+T23	Multi-tissue_structure 1297 1306	PF suture
+T24	Multi-tissue_structure 1370 1379	PF suture
+T25	Multi-tissue_structure 1473 1482	PF suture
+T21	Tissue 992 996	bone
+T26	Cell 5 17	neural crest

@@ -1,0 +1,9 @@
+T1	Multi-tissue_structure 21 33	inner retina
+T2	Tissue 74 99	retinal nerve fiber layer
+T3	Tissue 104 123	inner nuclear layer
+T4	Organ 229 233	eyes
+T5	Multi-tissue_structure 304 317	inner retinal
+T6	Organ 335 344	right eye
+T7	Organ 390 394	eyes
+T8	Organism_subdivision 285 290	nasal
+T9	Organ 366 370	left

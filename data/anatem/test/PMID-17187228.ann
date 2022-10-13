@@ -1,0 +1,19 @@
+T3	Cancer 49 64	B16F10 melanoma
+T5	Cell 221 237	endothelial cell
+T6	Cellular_component 278 295	basement membrane
+T7	Cellular_component 297 299	BM
+T8	Cancer 331 336	tumor
+T13	Cell 431 457	capillary endothelial cell
+T14	Cellular_component 562 582	extracellular matrix
+T15	Cellular_component 584 587	ECM
+T16	Cancer 607 612	tumor
+T18	Cell 721 742	B16F10 melanoma cells
+T20	Cancer 784 801	metastatic tumors
+T22	Organ 811 815	lung
+T23	Organ 877 881	lung
+T24	Cancer 900 915	B16F10 melanoma
+T29	Organ 1141 1145	lung
+T34	Organ 1234 1238	lung
+T35	Cancer 1253 1258	tumor
+T36	Cancer 1326 1341	B16F10 melanoma
+T1	Cancer 686 696	metastases

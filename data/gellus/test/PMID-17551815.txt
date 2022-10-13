@@ -1,0 +1,2 @@
+A pivotal role for p53: balancing aerobic respiration and glycolysis. 
+The genetic basis of increased glycolytic activity observed in cancer cells is likely to be the result of complex interactions of multiple regulatory pathways. Here we review the recent evidence of a simple genetic mechanism by which tumor suppressor p53 regulates mitochondrial respiration with secondary changes in glycolysis that are reminiscent of the Warburg effect. The biological significance of this regulation of the two major pathways of energy generation by p53 remains to be seen.

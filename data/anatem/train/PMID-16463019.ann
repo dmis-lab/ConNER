@@ -1,0 +1,23 @@
+T3	Organ 55 60	organ
+T4	Cell 81 90	leukocyte
+T8	Cancer 189 195	tumors
+T9	Tissue 238 245	tissues
+T10	Cell 300 319	hematopoietic cells
+T11	Multi-tissue_structure 327 338	bone marrow
+T12	Cell 347 377	gastrointestinal mucosal cells
+T13	Cell 422 432	leukocytes
+T15	Organ 458 463	organ
+T23	Organism_substance 690 701	trunk blood
+T24	Multi-tissue_structure 724 729	ileum
+T25	Organ 731 736	liver
+T26	Organ 742 748	kidney
+T39	Tissue 1057 1064	tissues
+T41	Organism_substance 1141 1146	serum
+T45	Cell 1245 1256	neutrophils
+T50	Cell 1419 1428	leukocyte
+T53	Multi-tissue_structure 1540 1557	intestinal mucosa
+T54	Multi-tissue_structure 1559 1575	liver parenchyma
+T55	Tissue 1581 1591	glomerular
+T56	Tissue 1596 1614	tubular epithelium
+T62	Organ 1826 1831	organ
+T63	Cell 1852 1861	leukocyte

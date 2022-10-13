@@ -1,0 +1,9 @@
+Range of motion limitation after rotator cuff repair.
+HYPOTHESIS:
+This study was conducted to identify preoperative factors correlating with limited motion after rotator cuff repair (RCR) and to evaluate the affect of loss of motion on outcome. We hypothesized that patients with preoperative ROM loss, diabetes, and workman's compensation claims would exhibit postoperative ROM loss at 3 months.
+MATERIAL AND METHODS:
+Preoperative and postoperative evaluations, including outcomes assessment and physical examination parameters, were reviewed for 345 patients who underwent RCR. Correlations between demographic, physical examination, and surgical variables and postoperative limitation of motion and need for capsular release were determined.
+RESULTS:
+At 3-month follow-up, mean active forward elevation (AFE), active external rotation (AER), and passive internal rotation (PIR) were 90%, 78%, and 80% of the contralateral side. Limitation of preoperative motion correlated with limitation of postoperative AFE, AER, and PIR (P < .001). Forty-seven patients considered clinically stiff were followed at 1 year postoperatively. Three patients required arthroscopic capsular release for persistent range of motion loss.
+CONCLUSION:
+Early postoperative limitation of motion after RCR is associated with restricted preoperative motion. Other factors, including diabetes mellitus and worker's compensation claim, are also associated with range of motion loss. Most shoulders with early motion loss recover motion and rarely require capsular release.

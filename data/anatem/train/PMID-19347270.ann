@@ -1,0 +1,11 @@
+T2	Cancer 118 125	cancers
+T3	Cancer 155 160	tumor
+T4	Cell 244 248	cell
+T6	Cancer 386 391	tumor
+T8	Cancer 447 454	cancers
+T10	Cancer 564 571	cancers
+T16	Cell 693 698	cells
+T17	Cellular_component 757 768	micronuclei
+T18	Cellular_component 783 794	chromosomal
+T22	Cell 965 983	embryo fibroblasts
+T23	Cancer 1120 1127	cancers

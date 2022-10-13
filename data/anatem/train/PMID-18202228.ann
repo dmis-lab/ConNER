@@ -1,0 +1,23 @@
+T5	Cancer 64 82	BCR-ABL+ leukemias
+T8	Cellular_component 132 134	21
+T9	Cell 157 163	clonal
+T11	Cellular_component 247 258	chromosomal
+T13	Cancer 330 358	acute myeloblastic leukemias
+T14	Cancer 360 364	AMLs
+T15	Cancer 430 459	acute lymphoblastic leukemias
+T16	Cancer 461 465	ALLs
+T17	Cancer 471 500	chronic myelogenous leukemias
+T18	Cancer 502 506	CMLs
+T19	Cancer 518 536	BCR-ABL+ leukemias
+T22	Cellular_component 568 581	chromosome 21
+T23	Cancer 651 680	myeloid blast crisis [BC] CML
+T24	Cancer 692 709	chronic phase CML
+T27	Cancer 792 805	BCR-ABL+ ALLs
+T30	Cancer 809 824	lymphoid BC CML
+T32	Cellular_component 922 924	21
+T33	Cellular_component 1009 1020	chromosomal
+T36	Cellular_component 1095 1110	chromosome 1p36
+T38	Cancer 1157 1172	myeloid BC CMLs
+T39	Cancer 1216 1228	BCR-ABL+ ALL
+T49	Cancer 1514 1517	CML
+T50	Cancer 1525 1537	BCR-ABL+ ALL

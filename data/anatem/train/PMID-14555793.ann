@@ -1,0 +1,20 @@
+T1	Organism_substance 80 85	Blood
+T2	Multi-tissue_structure 90 98	vascular
+T4	Organism_substance 242 247	blood
+T5	Tissue 256 263	tissues
+T6	Multi-tissue_structure 298 304	vessel
+T8	Cell 420 425	Cells
+T9	Cell 657 662	cells
+T10	Tissue 807 814	tissues
+T11	Tissue 863 871	skeletal
+T12	Tissue 876 890	cardiac muscle
+T13	Cell 1001 1008	myocyte
+T14	Organ 1023 1028	organ
+T15	Tissue 1048 1062	cardiac muscle
+T16	Multi-tissue_structure 1402 1410	vascular
+T19	Cell 1480 1488	platelet
+T21	Multi-tissue_structure 1550 1556	vessel
+T22	Tissue 1855 1861	tissue
+T23	Organ 2131 2137	muscle
+T24	Tissue 2316 2326	peripheral
+T25	Multi-tissue_structure 2331 2346	coronary artery

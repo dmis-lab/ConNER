@@ -1,0 +1,29 @@
+T1	Cancer 0 13	Neuroblastoma
+T2	Cell 18 28	hepatocyte
+T3	Cancer 87 100	Neuroblastoma
+T4	Cancer 116 121	tumor
+T5	Cancer 175 180	tumor
+T6	Cancer 311 324	primary tumor
+T7	Cell 395 399	cell
+T8	Cancer 464 477	neuroblastoma
+T9	Cell 499 518	neuroblastoma cells
+T10	Tissue 543 550	tissues
+T12	Cell 624 643	neuroblastoma cells
+T14	Cell 654 671	Chang hepatocytes
+T15	Cell 797 816	Neuroblastoma cells
+T16	Cell 821 838	Chang hepatocytes
+T17	Cell 964 969	cells
+T22	Cell 1314 1319	cells
+T23	Cell 1441 1458	Chang hepatocytes
+T26	Cell 1550 1569	neuroblastoma cells
+T28	Cell 1672 1683	hepatocytes
+T29	Cell 1750 1769	neuroblastoma cells
+T31	Cell 1891 1910	neuroblastoma cells
+T32	Cell 1959 1978	Neuroblastoma cells
+T35	Cell 2140 2151	tumor cells
+T36	Cell 2244 2261	Chang hepatocytes
+T37	Cancer 2265 2270	tumor
+T38	Cancer 2356 2361	tumor
+T39	Cancer 2437 2442	tumor
+T11	Cancer 209 219	metastases
+T13	Cancer 292 302	metastases

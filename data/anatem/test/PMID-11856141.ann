@@ -1,0 +1,19 @@
+T18	Multi-tissue_structure 80 90	submucosal
+T19	Multi-tissue_structure 104 114	lymph node
+T20	Cancer 135 149	gastric cancer
+T21	Cancer 266 273	cancers
+T22	Cancer 390 408	gastric carcinomas
+T23	Cancer 485 499	gastric cancer
+T24	Cancer 677 691	gastric cancer
+T25	Cancer 773 779	tumour
+T26	Cancer 812 819	tumours
+T27	Cancer 881 903	intramucosal carcinoma
+T28	Cancer 929 936	tumours
+T29	Cancer 1043 1049	cancer
+T30	Multi-tissue_structure 1109 1119	lymph node
+T31	Cancer 1269 1283	gastric cancer
+T15	Multi-tissue_structure 1352 1362	submucosal
+T16	Cancer 1401 1415	gastric cancer
+T17	Multi-tissue_structure 1481 1491	lymph node
+T46	Multi-tissue_structure 1240 1250	submucosal
+T53	Multi-tissue_structure 638 647	specimens

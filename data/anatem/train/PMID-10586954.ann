@@ -1,0 +1,16 @@
+T3	Multi-tissue_structure 65 71	retina
+T6	Multi-tissue_structure 264 271	retinal
+T11	Multi-tissue_structure 506 513	retinal
+T16	Multi-tissue_structure 668 675	retinal
+T21	Cell 770 808	retinal pigment epithelial (RPE) cells
+T26	Cell 947 956	RPE cells
+T28	Cell 991 1017	capillary endothelial cell
+T34	Tissue 1228 1236	ganglion
+T35	Tissue 1238 1251	inner nuclear
+T36	Tissue 1257 1272	RPE cell layers
+T40	Cell 1328 1337	RPE cells
+T44	Cell 1482 1490	RPE cell
+T46	Cell 1595 1603	RPE cell
+T47	Cell 1621 1647	capillary endothelial cell
+T51	Cell 1809 1818	RPE cells
+T55	Multi-tissue_structure 1985 1992	retinal

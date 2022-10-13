@@ -1,0 +1,27 @@
+T20	Cell 59 83	mammary epithelial cells
+T21	Organ 114 127	mammary gland
+T22	Cell 148 172	mammary epithelial cells
+T23	Cell 174 178	MECs
+T24	Cancer 250 255	tumor
+T25	Cancer 305 310	tumor
+T26	Cell 383 387	MECs
+T27	Cell 405 408	MEC
+T28	Organ 520 534	mammary glands
+T29	Cell 593 618	Tip30(-/-) mammary glands
+T30	Tissue 647 663	mammary fat pads
+T31	Cell 787 791	MECs
+T32	Cell 832 836	MECs
+T33	Cell 858 873	wild-type cells
+T34	Cell 1002 1018	Tip30(-/-) cells
+T35	Cell 1123 1139	Tip30(-/-) cells
+T36	Cell 1226 1229	MEC
+T37	Organ 1328 1341	mammary gland
+T38	Cell 1357 1361	MECs
+T41	Pathological_formation 88 106	ductal hyperplasia
+T4	Pathological_formation 492 510	ductal hyperplasia
+T5	Pathological_formation 563 582	mammary hyperplasia
+T19	Multi-tissue_structure 677 690	mammary trees
+T42	Tissue 949 967	mammary epithelial
+T49	Pathological_formation 706 724	ductal hyperplasia
+T1	Cancer 203 213	neoplastic
+T2	Cancer 1365 1375	neoplastic

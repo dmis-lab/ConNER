@@ -1,0 +1,21 @@
+T2	Cell 20 36	endothelial cell
+T3	Cell 75 85	lymphocyte
+T4	Cell 86 102	endothelial cell
+T6	Cancer 139 144	tumor
+T9	Multi-tissue_structure 259 267	vascular
+T10	Cell 368 380	immune cells
+T15	Cell 594 606	spleen cells
+T16	Cell 618 621	spc
+T18	Cell 632 636	PBMC
+T19	Cell 648 652	PBMC
+T20	Cell 724 741	endothelial cells
+T21	Cell 743 745	EC
+T23	Cell 864 866	EC
+T29	Cell 1050 1064	lymphoid cells
+T30	Cell 1069 1071	EC
+T34	Cell 1295 1298	spc
+T35	Cell 1320 1324	cell
+T37	Cell 1358 1364	CD4(+)
+T39	Cell 1366 1372	CD8(+)
+T40	Cell 1378 1386	NK cells
+T1	Cellular_component 974 991	cell-cell contact

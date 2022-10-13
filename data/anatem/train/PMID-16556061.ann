@@ -1,0 +1,29 @@
+T1	Cell 12 29	endothelial cells
+T2	Cancer 33 50	malignant disease
+T3	Cancer 52 58	Cancer
+T4	Cancer 110 116	Cancer
+T5	Tissue 195 215	vascular endothelial
+T6	Tissue 257 277	vascular endothelial
+T7	Cancer 290 296	cancer
+T8	Cell 326 355	circulating endothelial cells
+T9	Cell 357 360	CEC
+T10	Tissue 458 478	vascular endothelial
+T11	Cell 513 517	cell
+T12	Cell 530 557	endothelial progenitor cell
+T13	Cell 559 562	EPC
+T14	Multi-tissue_structure 607 615	vascular
+T15	Cell 654 658	EPCs
+T16	Cancer 685 690	tumor
+T17	Multi-tissue_structure 759 767	vascular
+T18	Cellular_component 804 829	endothelial microparticle
+T19	Cellular_component 831 834	EMP
+T20	Cell 843 847	CECs
+T21	Cell 849 853	EPCs
+T22	Cellular_component 858 862	EMPs
+T23	Multi-tissue_structure 922 930	vascular
+T24	Cancer 941 947	cancer
+T26	Cell 1009 1013	CECs
+T27	Cell 1015 1019	EPCs
+T28	Cellular_component 1024 1028	EMPs
+T29	Cell 1032 1036	cell
+T30	Cancer 1102 1119	malignant disease

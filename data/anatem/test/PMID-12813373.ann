@@ -1,0 +1,42 @@
+T1	Organ 47 52	organ
+T2	Multi-tissue_structure 69 82	portal venous
+T3	Organ 96 103	hepatic
+T4	Tissue 122 132	sinusoidal
+T5	Cell 145 162	inflammatory cell
+T6	Cell 178 192	hepatocellular
+T7	Cell 221 225	cell
+T8	Pathological_formation 345 368	intra-abdominal abscess
+T9	Pathological_formation 549 572	intra-abdominal abscess
+T10	Organism_substance 656 675	Portal venous blood
+T11	Organ 694 699	liver
+T12	Pathological_formation 709 732	intra-abdominal abscess
+T13	Organism_substance 921 959	suprahepatic inferior vena caval blood
+T14	Multi-tissue_structure 997 1008	portal vein
+T15	Multi-tissue_structure 1060 1071	portal vein
+T16	Organ 1110 1115	liver
+T17	Organ 1117 1122	Liver
+T18	Tissue 1146 1156	sinusoidal
+T19	Multi-tissue_structure 1185 1197	central vein
+T20	Cell 1340 1357	inflammatory cell
+T21	Cell 1375 1389	hepatocellular
+T22	Cell 1582 1587	cells
+T23	Multi-tissue_structure 1604 1616	central vein
+T24	Multi-tissue_structure 1746 1763	central vein area
+T25	Organ 1787 1799	septic liver
+T26	Cell 1805 1827	pericentral vein cells
+T27	Cell 1896 1901	cells
+T28	Multi-tissue_structure 1946 1959	abscess walls
+T29	Multi-tissue_structure 4 23	septic abscess wall
+T30	Multi-tissue_structure 1044 1056	abscess wall
+T31	Pathological_formation 2030 2053	intra-abdominal abscess
+T32	Multi-tissue_structure 2162 2174	abscess wall
+T33	Multi-tissue_structure 2205 2218	portal venous
+T34	Organ 2300 2305	liver
+T35	Cell 2383 2388	cells
+T36	Multi-tissue_structure 2396 2413	central vein area
+T37	Cell 2460 2477	inflammatory cell
+T38	Multi-tissue_structure 2739 2751	abscess wall
+T39	Multi-tissue_structure 2503 2524	liver lobular sinuses
+T40	Organ 2797 2811	septic hepatic
+T41	Cell 2655 2669	hepatocellular
+T42	Multi-tissue_structure 588 592	wall

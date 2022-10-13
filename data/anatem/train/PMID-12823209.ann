@@ -1,0 +1,17 @@
+T3	Cancer 105 128	squamous cell carcinoma
+T4	Organ 136 145	esophagus
+T5	Cancer 210 217	cancers
+T7	Cancer 226 231	tumor
+T9	Cell 344 348	cell
+T10	Cancer 455 466	solid tumor
+T13	Cancer 624 629	tumor
+T16	Cancer 750 770	esophageal carcinoma
+T18	Cancer 839 862	squamous cell carcinoma
+T19	Cancer 864 867	SCC
+T20	Organ 876 885	esophagus
+T23	Cancer 996 1002	tumors
+T26	Cancer 1088 1094	tumors
+T36	Cancer 1443 1446	SCC
+T37	Organ 1454 1463	esophagus
+T57	Cellular_component 279 286	nuclear
+T58	Multi-tissue_structure 784 793	specimens

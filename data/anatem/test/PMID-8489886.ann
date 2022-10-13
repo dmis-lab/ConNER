@@ -1,0 +1,14 @@
+T1	Organism_substance 637 642	serum
+T4	Pathological_formation 698 703	edema
+T6	Cell 537 541	cell
+T7	Cell 83 88	cells
+T8	Pathological_formation 462 472	burn wound
+T9	Pathological_formation 795 800	wound
+T10	Multi-tissue_structure 939 947	vascular
+T11	Organ 476 485	pulmonary
+T12	Organism_subdivision 126 130	body
+T13	Anatomical_system 171 193	immune defense systems
+T14	Anatomical_system 551 564	immune system
+T15	Organism_subdivision 1013 1017	body
+T19	Organism_substance 979 984	fluid
+T20	Anatomical_system 55 68	immune system

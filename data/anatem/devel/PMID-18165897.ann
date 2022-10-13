@@ -1,0 +1,23 @@
+T1	Multi-tissue_structure 13 27	lymphovascular
+T2	Cancer 46 59	breast cancer
+T7	Multi-tissue_structure 238 252	lymphovascular
+T8	Cancer 304 317	breast cancer
+T10	Cancer 487 500	breast cancer
+T14	Tissue 620 635	tissue sections
+T15	Cancer 643 665	invasive breast tumors
+T17	Cancer 725 738	breast cancer
+T21	Tissue 912 920	sections
+T24	Cancer 1158 1171	breast cancer
+T27	Cancer 1237 1243	tumors
+T28	Cancer 1268 1274	tumors
+T35	Cancer 1627 1633	tumors
+T41	Multi-tissue_structure 1997 2006	lymphatic
+T43	Cancer 2064 2077	breast cancer
+T45	Cancer 2241 2254	breast tumors
+T62	Multi-tissue_structure 1385 1390	nodal
+T3	Cancer 117 147	axillary lymph node metastases
+T4	Cancer 342 372	axillary lymph node metastases
+T5	Cancer 374 378	ALNM
+T6	Multi-tissue_structure 271 275	node
+T9	Multi-tissue_structure 687 691	node
+T11	Multi-tissue_structure 705 709	node

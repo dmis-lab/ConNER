@@ -1,0 +1,24 @@
+T24	Cancer 23 39	breast carcinoma
+T25	Tissue 160 167	tissues
+T26	Developing_anatomical_structure 175 180	fetal
+T27	Cancer 200 206	cancer
+T28	Tissue 234 241	tissues
+T29	Cancer 338 345	gastric
+T30	Cancer 347 357	colorectal
+T31	Cancer 363 381	bladder carcinomas
+T32	Cancer 418 435	breast carcinomas
+T33	Cancer 616 624	sections
+T34	Cancer 631 648	breast carcinomas
+T35	Tissue 740 753	breast tissue
+T36	Cancer 758 767	carcinoma
+T37	Cellular_component 769 775	nuclei
+T38	Organism_substance 780 789	cytoplasm
+T16	Cell 842 847	cells
+T17	Cancer 903 920	breast carcinomas
+T18	Tissue 936 949	breast tissue
+T19	Cellular_component 954 960	nuclei
+T20	Organism_substance 966 975	cytoplasm
+T21	Cancer 1335 1340	tumor
+T22	Cancer 1400 1405	tumor
+T23	Cancer 1457 1474	breast carcinomas
+T62	Multi-tissue_structure 1382 1387	nodal

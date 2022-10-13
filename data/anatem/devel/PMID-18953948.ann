@@ -1,0 +1,17 @@
+T2	Cell 681 684	WBC
+T3	Cell 738 750	promyelocyte
+T4	Organism_substance 754 759	blood
+T5	Cellular_component 1057 1067	chromosome
+T6	Cellular_component 1263 1273	chromosome
+T7	Cell 1716 1719	WBC
+T8	Cell 2095 2098	WBC
+T9	Cancer 41 69	acute promyelocytic leukemia
+T10	Cancer 164 192	acute promyelocytic leukemia
+T11	Cancer 194 197	APL
+T12	Cancer 990 1015	acute myelocytic leukemia
+T13	Cancer 1017 1020	AML
+T14	Cancer 2041 2044	APL
+T15	Cancer 1606 1609	APL
+T16	Cancer 877 880	APL
+T17	Cancer 568 571	APL
+T18	Cancer 213 216	APL

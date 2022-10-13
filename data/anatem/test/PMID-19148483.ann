@@ -1,0 +1,22 @@
+T26	Cancer 76 90	gastric cancer
+T27	Cancer 168 174	cancer
+T28	Cancer 253 267	gastric cancer
+T29	Cell 420 445	gastric cancer cell lines
+T30	Cell 464 468	cell
+T32	Tissue 733 762	gastric cancer tissue samples
+T33	Cell 823 848	gastric cancer cell lines
+T34	Cell 887 898	SNU16 cells
+T35	Cellular_component 915 923	membrane
+T36	Cell 944 958	KATO III cells
+T37	Cellular_component 969 977	membrane
+T38	Cell 994 999	cells
+T39	Tissue 1211 1240	Gastric cancer tissue samples
+T40	Cancer 1342 1363	lymph node metastases
+T41	Cell 1559 1578	gastric cancer cell
+T42	Cell 1633 1653	gastric cancer cells
+T43	Organ 1687 1696	lymphatic
+T44	Cancer 1725 1739	gastric cancer
+T45	Cancer 1794 1808	gastric cancer
+T59	Cell 859 865	MKN-28
+T60	Cell 867 873	MKN-45
+T61	Cell 875 881	MKN-74

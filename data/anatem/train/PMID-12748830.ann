@@ -1,0 +1,13 @@
+T1	Cancer 75 83	lymphoma
+T2	Cancer 211 217	cancer
+T3	Cancer 262 284	non-Hodgkin's lymphoma
+T4	Cancer 619 627	lymphoma
+T5	Cell 869 880	tumour cell
+T6	Cancer 899 905	tumour
+T7	Cancer 920 926	tumour
+T8	Cancer 1919 1927	lymphoma
+T9	Cancer 1938 1945	cancers
+T10	Cancer 2020 2027	lesions
+T12	Organ 2552 2557	organ
+T13	Organism_subdivision 3226 3230	body
+T14	Anatomical_system 2576 2587	respiratory

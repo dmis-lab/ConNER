@@ -1,0 +1,12 @@
+T1	Cell 66 75	CHO cells
+T2	Cell 150 162	CHO-k1 cells
+T3	Cell 277 282	cells
+T4	Cell 451 456	cells
+T7	Cellular_component 947 968	endoplasmic reticulum
+T8	Cellular_component 970 972	ER
+T9	Immaterial_anatomical_entity 1039 1052	extracellular
+T10	Cellular_component 2442 2457	plasma membrane
+T5	Immaterial_anatomical_entity 508 521	intracellular
+T6	Immaterial_anatomical_entity 919 932	intracellular
+T11	Immaterial_anatomical_entity 1640 1653	intracellular
+T12	Cellular_component 2532 2534	ER

@@ -1,0 +1,33 @@
+T3	Cancer 33 41	melanoma
+T9	Multi-tissue_structure 240 262	embryonic blood vessel
+T12	Cancer 320 325	tumor
+T15	Cell 386 424	human umbilical vein endothelial cells
+T17	Cell 429 434	B16F0
+T18	Cancer 453 459	tumors
+T24	Cell 560 577	endothelial cells
+T32	Cancer 774 789	hind limb tumor
+T33	Cell 805 820	B16F0 cell line
+T38	Cell 914 925	tumor cells
+T40	Cancer 962 967	tumor
+T41	Cell 976 993	endothelial cells
+T44	Cancer 1029 1034	tumor
+T48	Tissue 1139 1151	tumor stroma
+T50	Cell 1161 1172	B16F0 cells
+T53	Cell 1215 1236	embryonic fibroblasts
+T54	Cell 1262 1273	B16F0 cells
+T60	Cell 1375 1389	melanoma cells
+T63	Cell 1420 1431	fibroblasts
+T64	Cancer 1442 1447	tumor
+T66	Cancer 1513 1518	tumor
+T70	Multi-tissue_structure 1584 1592	vascular
+T72	Multi-tissue_structure 1656 1664	vascular
+T78	Multi-tissue_structure 1710 1728	tumor blood vessel
+T82	Multi-tissue_structure 1799 1812	blood vessels
+T87	Multi-tissue_structure 1887 1895	vascular
+T13	Multi-tissue_structure 334 345	vasculature
+T14	Cancer 443 451	melanoma
+T88	Cancer 1870 1878	melanoma
+T91	Cell 115 119	cell
+T69	Multi-tissue_structure 1471 1479	vascular
+T73	Cancer 226 232	cancer
+T1	Immaterial_anatomical_entity 73 86	intercellular

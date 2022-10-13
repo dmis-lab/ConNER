@@ -1,0 +1,13 @@
+T17	Multi-tissue_structure 25 35	intestinal
+T18	Cancer 65 70	tumor
+T19	Multi-tissue_structure 109 119	intestinal
+T20	Cell 337 341	cell
+T21	Cell 367 381	secretory cell
+T22	Tissue 404 425	intestinal structures
+T23	Cancer 474 491	intestinal tumors
+T24	Cell 548 558	tumor cell
+T25	Cell 605 616	tumor cells
+T26	Cell 635 662	intestinal epithelial cells
+T27	Multi-tissue_structure 810 820	intestinal
+T28	Cell 941 952	tumor cells
+T12	Multi-tissue_structure 712 718	crypts

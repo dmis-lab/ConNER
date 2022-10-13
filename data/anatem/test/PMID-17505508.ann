@@ -1,0 +1,27 @@
+T1	Cancer 11 42	clear cell renal cell carcinoma
+T3	Cancer 91 111	renal cell carcinoma
+T4	Cancer 192 223	Clear cell renal cell carcinoma
+T5	Cancer 225 231	CC-RCC
+T6	Cancer 258 264	tumour
+T11	Cell 399 415	Endothelial cell
+T14	Cancer 594 600	CC-RCC
+T22	Multi-tissue_structure 793 799	Vessel
+T23	Tissue 815 826	microvessel
+T26	Cell 837 853	endothelial cell
+T29	Cell 888 899	tumour cell
+T32	Cancer 1062 1068	CC-RCC
+T41	Cancer 1280 1286	CC-RCC
+T44	Cancer 1387 1393	CC-RCC
+T46	Tissue 1395 1406	Microvessel
+T51	Cancer 1543 1549	CC-RCC
+T58	Multi-tissue_structure 1645 1651	vessel
+T62	Cancer 1742 1748	CC-RCC
+T63	Cancer 1775 1781	CC-RCC
+T64	Cancer 1819 1825	CC-RCC
+T68	Multi-tissue_structure 1903 1909	vessel
+T69	Cancer 1924 1930	CC-RCC
+T24	Cellular_component 551 558	nuclear
+T27	Cellular_component 580 587	nuclear
+T35	Cellular_component 1512 1519	nuclear
+T36	Cellular_component 1805 1812	nuclear
+T45	Cellular_component 1960 1967	nuclear

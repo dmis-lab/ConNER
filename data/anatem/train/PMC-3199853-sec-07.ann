@@ -1,0 +1,9 @@
+T1	Multi-tissue_structure 548 566	epicardial vessels
+T2	Multi-tissue_structure 850 858	coronary
+T3	Multi-tissue_structure 1121 1131	myocardial
+T4	Pathological_formation 1052 1055	LGE
+T5	Pathological_formation 1697 1700	LGE
+T6	Multi-tissue_structure 671 675	wall
+T7	Multi-tissue_structure 98 100	LV
+T8	Multi-tissue_structure 277 279	LV
+T9	Immaterial_anatomical_entity 361 373	percutaneous

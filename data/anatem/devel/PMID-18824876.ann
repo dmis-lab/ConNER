@@ -1,0 +1,21 @@
+T1	Cancer 24 38	ovarian cancer
+T4	Cell 201 221	ovarian cancer cells
+T7	Cancer 297 311	ovarian cancer
+T9	Cancer 362 376	ovarian cancer
+T10	Cell 408 434	Ovarian cancer SKOV3 cells
+T12	Cell 478 482	cell
+T15	Cancer 631 646	ovarian cancers
+T18	Cancer 685 690	Tumor
+T19	Tissue 756 767	microvessel
+T20	Cell 937 948	SKOV3 cells
+T23	Cell 1007 1018	tumor cells
+T24	Cancer 1028 1033	tumor
+T25	Cancer 1093 1098	tumor
+T27	Cell 1190 1201	tumor cells
+T28	Tissue 1232 1244	tumor tissue
+T29	Cancer 1321 1326	tumor
+T31	Cancer 1349 1363	ovarian cancer
+T34	Cancer 1542 1556	ovarian cancer
+T2	Cellular_component 251 258	plasmid
+T3	Cellular_component 465 472	plasmid
+T5	Cellular_component 675 683	liposome

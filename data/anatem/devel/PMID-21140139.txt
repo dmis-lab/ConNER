@@ -1,0 +1,9 @@
+Influences on the pharmacokinetics of oxycodone: a multicentre cross-sectional study in 439 adult cancer patients.
+OBJECTIVE:
+Oxycodone is widely used for the treatment of cancer pain, but little is known of its pharmacokinetics in cancer pain patients. The aim of this study was to explore the relationships between ordinary patient characteristics and serum concentrations of oxycodone and the ratios noroxycodone or oxymorphone/oxycodone in cancer patients.
+METHODS:
+Four hundred and thirty-nine patients using oral oxycodone for cancer pain were included. The patients' characteristics (sex, age, body mass index [BMI], Karnofsky performance status, "time since starting opioids", "oxycodone total daily dose", "time from last oxycodone dose", use of CYP3A4 inducer/inhibitor, "use of systemic steroids", "number of medications taken in the last 24 h", glomerular filtration rate (GFR) and albumin serum concentrations) influence on oxycodone serum concentrations or metabolite/oxycodone ratios were explored by multiple regression analyses.
+RESULTS:
+Sex, CYP3A4 inducers/inhibitors, total daily dose, and "time from last oxycodone dose" predicted oxycodone concentrations. CYP3A4 inducers, total daily dose, and "number of medications taken in the last 24 h" predicted the oxymorphone/oxycodone ratio. Total daily dose, "time from last dose to blood sample", albumin, sex, CYP3A4 inducers/inhibitors, steroids, BMI and GFR predicted the noroxycodone/oxycodone ratio.
+CONCLUSION:
+Women had lower oxycodone serum concentrations than men. CYP3A4 inducers/inhibitors should be used with caution as these are predicted to have a significant impact on oxycodone pharmacokinetics. Other characteristics explained only minor parts of the variability of the outcomes.

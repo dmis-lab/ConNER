@@ -1,0 +1,17 @@
+T3	Cancer 90 123	laryngeal squamous cell carcinoma
+T6	Cancer 248 281	laryngeal squamous cell carcinoma
+T7	Cancer 283 287	LSCC
+T11	Cancer 559 563	LSCC
+T15	Cancer 804 831	lymphatic metastasis tumors
+T18	Cancer 894 930	cervical lymphatic metastasis tumors
+T22	Cancer 1431 1436	tumor
+T23	Cancer 1448 1452	LSCC
+T26	Cancer 1545 1549	LSCC
+T30	Cancer 1615 1620	tumor
+T32	Cancer 1637 1641	LSCC
+T33	Cancer 1643 1648	Tumor
+T35	Cancer 1682 1687	tumor
+T36	Cancer 1749 1753	LSCC
+T2	Tissue 302 324	intratumor microvessel
+T19	Multi-tissue_structure 1512 1530	cervical lymphatic
+T25	Multi-tissue_structure 691 709	cervical lymphatic

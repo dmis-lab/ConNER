@@ -1,0 +1,19 @@
+T1	Organism_substance 13 18	serum
+T4	Cancer 49 55	tumour
+T5	Cancer 76 84	melanoma
+T6	Organism_substance 96 101	serum
+T8	Cancer 135 141	tumour
+T9	Cancer 152 160	melanoma
+T12	Cancer 307 313	cancer
+T13	Organism_substance 438 443	serum
+T19	Cancer 549 557	melanoma
+T21	Cancer 612 617	liver
+T22	Cancer 625 640	bone metastases
+T26	Organ 738 742	skin
+T27	Multi-tissue_structure 744 749	nodal
+T28	Organ 757 761	lung
+T33	Organism_substance 1186 1191	serum
+T37	Cancer 1247 1252	liver
+T38	Cancer 1256 1271	bone metastases
+T39	Cancer 1275 1283	melanoma
+T2	Cancer 491 506	metastatic site

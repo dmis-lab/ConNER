@@ -1,0 +1,21 @@
+T2	Cancer 13 25	breast tumor
+T6	Tissue 206 211	fetal
+T7	Tissue 216 229	adult tissues
+T8	Organism_substance 318 323	serum
+T11	Cancer 393 412	skeletal metastases
+T12	Cancer 458 465	cancers
+T14	Cancer 552 565	breast tumors
+T15	Cancer 576 589	solid cancers
+T16	Cancer 606 611	tumor
+T19	Cancer 715 728	breast cancer
+T20	Cancer 779 793	primary tumors
+T22	Tissue 832 850	mammary epithelium
+T25	Cancer 868 881	breast cancer
+T27	Cancer 912 925	primary tumor
+T28	Cancer 948 953	tumor
+T29	Cell 1070 1074	cell
+T33	Cell 1156 1160	cell
+T42	Cancer 1459 1483	breast cancer xenografts
+T44	Cancer 1573 1586	breast cancer
+T1	Cancer 798 808	metastases
+T3	Multi-tissue_structure 993 1005	distal sites

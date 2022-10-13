@@ -1,0 +1,11 @@
+T3	Cancer 140 152	Solid tumors
+T8	Cancer 497 502	tumor
+T14	Cancer 743 756	primary tumor
+T17	Cell 830 846	endothelial cell
+T24	Cell 1104 1121	endothelial cells
+T33	Cell 1449 1458	lymphatic
+T34	Cell 1463 1495	blood vascular endothelial cells
+T43	Organism_substance 1800 1805	blood
+T44	Multi-tissue_structure 1810 1832	lymphatic vasculatures
+T46	Cancer 1854 1860	tumors
+T48	Cancer 1924 1929	tumor

@@ -1,0 +1,17 @@
+T3	Cell 46 50	cell
+T4	Cell 64 81	endothelial cells
+T7	Organism_substance 300 305	blood
+T10	Pathological_formation 387 393	wounds
+T13	Cell 468 484	endothelial cell
+T15	Pathological_formation 570 576	wounds
+T18	Multi-tissue_structure 737 754	capillary network
+T21	Tissue 816 820	cord
+T23	Multi-tissue_structure 855 872	capillary network
+T25	Cell 959 970	endothelial
+T31	Tissue 1139 1160	endothelial cell cord
+T36	Pathological_formation 1286 1291	wound
+T39	Cell 1434 1450	endothelial cell
+T42	Pathological_formation 1561 1567	wounds
+T44	Cell 1670 1687	endothelial cells
+T48	Cell 1914 1930	endothelial cell
+T99	Cellular_component 1711 1718	nuclear

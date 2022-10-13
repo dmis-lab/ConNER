@@ -1,0 +1,21 @@
+T20	Cancer 50 69	lung adenocarcinoma
+T21	Cancer 99 118	lung adenocarcinoma
+T22	Organ 149 155	organs
+T23	Cancer 245 256	lung tumors
+T24	Organ 367 372	brain
+T25	Tissue 377 381	bone
+T26	Cancer 389 408	lung adenocarcinoma
+T27	Organ 517 523	organs
+T28	Cancer 527 554	primary lung adenocarcinoma
+T29	Cell 627 657	lung adenocarcinoma cell lines
+T30	Cell 731 736	cells
+T31	Cancer 770 775	brain
+T32	Cancer 780 795	bone metastases
+T33	Cancer 833 838	tumor
+T34	Organ 853 858	lungs
+T35	Cell 1067 1092	lung adenocarcinoma cells
+T36	Organ 1109 1114	bones
+T37	Organ 1123 1128	brain
+T51	Multi-tissue_structure 608 618	lymph node
+T64	Cell 956 962	colony
+T1	Cell 556 581	Metastatic subpopulations

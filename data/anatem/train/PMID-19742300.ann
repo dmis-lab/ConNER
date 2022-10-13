@@ -1,0 +1,28 @@
+T1	Cell 0 17	Islet endothelial
+T4	Multi-tissue_structure 192 197	islet
+T6	Multi-tissue_structure 260 265	islet
+T7	Cell 298 315	endothelial cells
+T8	Cell 374 390	endothelial cell
+T9	Multi-tissue_structure 405 411	islets
+T11	Tissue 502 520	islet endotheliuml
+T12	Multi-tissue_structure 581 586	islet
+T15	Multi-tissue_structure 779 785	islets
+T22	Multi-tissue_structure 1021 1026	islet
+T23	Organ 1045 1053	pancreas
+T24	Cell 1148 1164	endothelial cell
+T25	Multi-tissue_structure 1204 1212	vascular
+T31	Multi-tissue_structure 1474 1480	islets
+T34	Tissue 1556 1567	endothelium
+T35	Cell 1571 1583	immune cells
+T37	Multi-tissue_structure 1649 1654	islet
+T39	Multi-tissue_structure 1748 1754	islets
+T40	Cell 1806 1828	islet endothelial cell
+T42	Cell 1964 1981	islet endothelial
+T43	Cell 1985 1997	immune cells
+T44	Cell 2046 2057	endothelial
+T47	Multi-tissue_structure 2086 2091	islet
+T48	Tissue 2133 2150	islet endothelium
+T49	Cell 2168 2177	beta-cell
+T50	Cell 2241 2250	beta-cell
+T52	Cell 2289 2311	islet endothelial cell
+T53	Cell 2364 2373	beta-cell

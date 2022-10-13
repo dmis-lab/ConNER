@@ -1,0 +1,19 @@
+T4	Cancer 62 89	neuroendocrine organ tumors
+T12	Cancer 193 198	tumor
+T14	Cancer 229 257	multiple endocrine neoplasia
+T15	Cancer 259 262	MEN
+T19	Cancer 340 345	tumor
+T20	Cancer 382 386	MEN1
+T30	Cancer 545 551	tumors
+T31	Organ 614 623	pituitary
+T32	Organ 625 632	thyroid
+T33	Organ 634 645	parathyroid
+T34	Organ 651 659	pancreas
+T35	Organ 668 677	pituitary
+T36	Multi-tissue_structure 682 699	pancreatic islets
+T42	Cell 799 827	p18(-/-) and Men1(+/-) cells
+T45	Cell 857 882	p18(-/-); Men1(+/-) cells
+T48	Cancer 937 943	tumors
+T51	Cancer 989 995	tumors
+T58	Cell 1160 1164	cell
+T59	Cancer 1184 1189	tumor

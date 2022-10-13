@@ -1,0 +1,34 @@
+T2	Cancer 15 44	natural killer cell lymphomas
+T3	Cell 111 121	tumor cell
+T4	Cell 167 171	cell
+T5	Cell 203 217	natural killer
+T6	Cell 219 221	NK
+T7	Cell 226 243	cytotoxic T cells
+T8	Cell 265 269	cell
+T9	Immaterial_anatomical_entity 335 348	intracellular
+T10	Cancer 475 492	NK-cell lymphomas
+T11	Cell 537 547	tumor cell
+T12	Cancer 563 569	tumors
+T15	Cellular_component 640 656	granule membrane
+T17	Cancer 699 716	NK-cell lymphomas
+T18	Cancer 721 748	postthymic T-cell lymphomas
+T20	Cancer 759 769	CD8+ CD56+
+T22	Cancer 780 811	anaplastic large cell lymphomas
+T23	Cancer 813 817	ALCL
+T24	Cancer 826 851	T-lymphoblastic lymphomas
+T25	Cancer 860 876	B-cell lymphomas
+T26	Cancer 902 919	NK-cell lymphomas
+T31	Cancer 998 1035	CD8+ CD56+ postthymic T-cell lymphoma
+T34	Cancer 1084 1093	CD8- ALCL
+T36	Cancer 1116 1133	postthymic T-cell
+T37	Cancer 1135 1150	T-lymphoblastic
+T38	Cancer 1156 1172	B-cell lymphomas
+T40	Cell 1267 1272	cells
+T41	Cell 1283 1293	tumor cell
+T42	Cancer 1377 1386	lymphomas
+T43	Cell 1426 1436	tumor cell
+T44	Cell 1527 1529	NK
+T46	Cancer 1539 1577	CD8+ CD56+ postthymic T-cell lymphomas
+T48	Cell 1645 1655	tumor cell
+T50	Cancer 1728 1778	CD2+ surface CD3- CD56+ putative NK-cell lymphomas
+T53	Cell 1819 1826	NK cell

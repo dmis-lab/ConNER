@@ -1,0 +1,30 @@
+T1	Cancer 27 41	gastric cancer
+T2	Cell 51 71	isolated tumor cells
+T4	Cancer 165 171	cancer
+T5	Cell 257 268	tumor cells
+T6	Cancer 306 320	gastric cancer
+T7	Cell 351 371	isolated tumor cells
+T8	Cell 373 376	ITC
+T11	Multi-tissue_structure 490 501	bone marrow
+T12	Cancer 505 510	tumor
+T13	Multi-tissue_structure 521 540	premetastatic sites
+T14	Multi-tissue_structure 568 579	bone marrow
+T15	Organism_substance 584 608	peripheral blood samples
+T16	Cancer 618 632	gastric cancer
+T18	Cell 882 897	epithelial cell
+T23	Cell 997 1001	ITCs
+T24	Organism_substance 1019 1035	peripheral blood
+T25	Multi-tissue_structure 1040 1051	bone marrow
+T26	Cancer 1076 1090	gastric cancer
+T27	Cell 1109 1112	ITC
+T28	Multi-tissue_structure 1116 1127	bone marrow
+T29	Cancer 1204 1218	Gastric cancer
+T30	Cell 1237 1241	ITCs
+T33	Cell 1313 1316	ITC
+T35	Cell 1472 1476	ITCs
+T37	Cancer 1624 1638	gastric cancer
+T38	Cell 1695 1698	ITC
+T40	Multi-tissue_structure 1725 1744	premetastatic sites
+T60	Organism_substance 725 732	samples
+T3	Cancer 1429 1439	metastases
+T9	Cancer 1597 1620	hematogenous metastases

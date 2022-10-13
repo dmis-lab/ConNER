@@ -1,0 +1,22 @@
+T29	Cancer 38 55	colorectal cancer
+T30	Cancer 74 80	cancer
+T31	Cancer 215 222	cancers
+T32	Cell 296 312	epithelial cells
+T33	Cancer 407 414	cancers
+T34	Cell 419 435	epithelial cells
+T37	Cancer 789 806	colorectal cancer
+T38	Cancer 942 957	primary lesions
+T39	Cancer 961 978	colorectal cancer
+T40	Organ 1060 1065	liver
+T41	Multi-tissue_structure 1078 1094	lymphatic vessel
+T42	Cancer 1238 1253	primary lesions
+T43	Multi-tissue_structure 1259 1269	lymph node
+T44	Cancer 1437 1442	tumor
+T45	Multi-tissue_structure 1447 1463	lymphatic vessel
+T46	Tissue 1689 1716	colorectal carcinoma tissue
+T47	Cancer 1741 1747	cancer
+T48	Cancer 1878 1883	tumor
+T49	Cancer 1898 1915	colorectal cancer
+T55	Immaterial_anatomical_entity 261 274	intercellular
+T76	Cellular_component 482 499	cell-cell contact
+T1	Cancer 925 932	samples

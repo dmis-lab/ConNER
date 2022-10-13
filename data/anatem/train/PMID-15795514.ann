@@ -1,0 +1,15 @@
+T1	Cancer 11 24	paraganglioma
+T2	Cancer 25 41	pheochromocytoma
+T4	Cellular_component 93 106	Mitochondrial
+T9	Cellular_component 271 284	mitochondrial
+T13	Cellular_component 418 431	mitochondrial
+T19	Cancer 641 654	paraganglioma
+T20	Cancer 662 678	pheochromocytoma
+T21	Cancer 703 709	cancer
+T23	Cancer 844 858	paragangliomas
+T24	Cancer 866 883	pheochromocytomas
+T27	Cancer 1040 1045	renal
+T28	Cancer 1047 1054	uterine
+T29	Cancer 1059 1075	cutaneous tumors
+T31	Cellular_component 1156 1168	mitochondria
+T32	Cancer 1172 1178	cancer

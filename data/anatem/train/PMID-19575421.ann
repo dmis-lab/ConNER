@@ -1,0 +1,17 @@
+T3	Cell 43 81	skin squamous cell carcinoma cell line
+T9	Organism_substance 329 338	cytoplasm
+T10	Cellular_component 346 353	nucleus
+T11	Cell 357 366	cancerous
+T12	Cell 371 394	noncancerous cell lines
+T15	Cell 476 499	keratinocytes cell line
+T16	Cell 501 504	3PC
+T17	Cell 507 516	papilloma
+T18	Cell 518 523	MT1/2
+T21	Cell 530 572	squamous cell carcinoma (Ca3/7) cell lines
+T22	Cell 606 610	cell
+T24	Cell 671 681	cell lines
+T26	Cell 730 741	Ca3/7 cells
+T28	Cell 792 803	Ca3/7 cells
+T32	Cell 911 915	cell
+T38	Cell 1090 1101	Ca3/7 cells
+T58	Cell 1730 1741	Ca3/7 cells

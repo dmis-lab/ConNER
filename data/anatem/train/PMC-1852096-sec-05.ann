@@ -1,0 +1,32 @@
+T1	Organ 161 167	kidney
+T2	Pathological_formation 496 529	cutaneous purple elevated lesions
+T3	Organism_subdivision 537 548	lower limbs
+T4	Organ 578 582	skin
+T5	Pathological_formation 719 726	lesions
+T6	Pathological_formation 802 807	edema
+T7	Organism_subdivision 816 820	legs
+T8	Organ 875 891	lower limbs skin
+T9	Cancer 775 777	KS
+T10	Cancer 897 899	KS
+T13	Cancer 1710 1726	Kaposi's sarcoma
+T14	Organism_subdivision 1776 1787	lower limbs
+T15	Cancer 1817 1833	Kaposi's Sarcoma
+T16	Pathological_formation 2049 2057	anasarca
+T17	Organism_substance 2080 2085	serum
+T11	Cell 2309 2312	WBC
+T12	Organ 2528 2532	skin
+T18	Cancer 2631 2647	Kaposi's Sarcoma
+T19	Cancer 2896 2898	KS
+T20	Cancer 2957 2977	basal cell carcinoma
+T21	Cancer 3167 3177	KS lesions
+T22	Organism_substance 3194 3199	serum
+T23	Cancer 3323 3337	Kaposi Sarcoma
+T24	Organism_subdivision 3444 3448	knee
+T25	Organ 3457 3461	skin
+T26	Organism_substance 1568 1573	serum
+T27	Pathological_formation 2596 2604	anasarca
+T28	Organism_subdivision 1427 1431	oral
+T29	Cancer 572 574	KS
+T30	Cancer 1321 1323	KS
+T31	Cancer 2072 2074	KS
+T32	Organ 907 915	visceral

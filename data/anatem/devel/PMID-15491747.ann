@@ -1,0 +1,15 @@
+T4	Multi-tissue_structure 47 58	endometrium
+T5	Multi-tissue_structure 82 93	endometrial
+T7	Cancer 170 175	tumor
+T8	Multi-tissue_structure 214 233	uterine endometrium
+T11	Multi-tissue_structure 393 404	endometrium
+T12	Cancer 412 430	endometrial cancer
+T15	Multi-tissue_structure 486 504	endometrial glands
+T16	Cell 512 529	cancer cell lines
+T19	Multi-tissue_structure 716 734	Endometrial glands
+T22	Multi-tissue_structure 819 825	glands
+T24	Cell 912 941	endometrial cancer cell lines
+T27	Cell 1001 1018	cancer cell lines
+T32	Cell 1204 1209	cells
+T33	Multi-tissue_structure 1231 1248	endometrial gland
+T35	Cell 1394 1418	endometrial cancer cells

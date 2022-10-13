@@ -1,0 +1,36 @@
+T1	Cell 17 46	pectoral muscle motor neurons
+T2	Organism_subdivision 152 160	forelimb
+T3	Organ 205 221	pectoral muscles
+T4	Organ 355 371	pectoral muscles
+T5	Organ 384 409	musculus pectoralis major
+T6	Organ 411 436	musculus pectoralis minor
+T7	Organ 441 469	musculus panniculus carnosus
+T8	Multi-tissue_structure 553 570	peripheral nerves
+T9	Organ 593 600	muscles
+T10	Multi-tissue_structure 659 671	ventral horn
+T11	Cell 679 692	motor neurons
+T12	Organ 702 718	pectoral muscles
+T13	Multi-tissue_structure 766 777	gray matter
+T14	Organ 868 874	muscle
+T15	Cell 880 893	motor neurons
+T17	Multi-tissue_structure 1045 1057	ventral edge
+T18	Multi-tissue_structure 1065 1077	ventral horn
+T19	Cell 1124 1128	cell
+T20	Organ 1171 1178	muscles
+T21	Organ 1240 1246	muscle
+T22	Organism_subdivision 1264 1272	forelimb
+T23	Organism_subdivision 1286 1291	trunk
+T24	Organ 1471 1478	muscles
+T25	Cell 1519 1534	muscular fibers
+T26	Organ 1346 1371	musculus latissimus dorsi
+T27	Multi-tissue_structure 1377 1390	axillary arch
+T28	Multi-tissue_structure 1544 1557	axillary arch
+T29	Organ 1632 1638	muscle
+T30	Multi-tissue_structure 746 758	ventral part
+T32	Organism_subdivision 1600 1611	spinal area
+T16	Multi-tissue_structure 92 105	axillary arch
+T33	Organ 1000 1019	m. pectoralis major
+T34	Organ 1305 1327	m. panniculus carnosus
+T35	Organ 897 919	m. panniculus carnosus
+T31	Multi-tissue_structure 1107 1118	lateral tip
+T36	Multi-tissue_structure 1088 1099	medial part

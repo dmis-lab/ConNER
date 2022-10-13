@@ -1,0 +1,19 @@
+T2	Cancer 61 67	tumour
+T5	Organism_subdivision 140 144	limb
+T8	Cancer 214 220	tumour
+T9	Organism_substance 221 226	blood
+T10	Cancer 248 254	tumour
+T13	Cancer 326 332	tumour
+T15	Tissue 382 395	tumour tissue
+T16	Multi-tissue_structure 409 417	vascular
+T17	Cancer 435 441	tumour
+T19	Cancer 506 544	renal subcapsular CC531 adenocarcinoma
+T24	Organism_subdivision 671 675	limb
+T25	Cancer 704 730	BN175 soft-tissue sarcomas
+T27	Cancer 783 797	adenocarcinoma
+T28	Organ 844 849	renal
+T29	Cancer 876 882	tumour
+T35	Cancer 1104 1110	tumour
+T40	Cancer 1282 1288	tumour
+T41	Cancer 1365 1371	tumour
+T46	Cancer 1529 1536	tumours

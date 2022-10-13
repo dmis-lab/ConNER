@@ -1,0 +1,20 @@
+T1	Organism_substance 20 25	serum
+T2	Cancer 55 105	malignant intraductal papillary mucinous neoplasms
+T3	Organism_substance 189 194	serum
+T4	Cancer 251 301	malignant intraductal papillary mucinous neoplasms
+T5	Organ 305 313	pancreas
+T6	Cancer 315 320	IPMNs
+T7	Cancer 383 388	IPMNs
+T8	Cancer 521 526	tumor
+T9	Cancer 866 881	malignant IPMNs
+T10	Cancer 937 952	malignant IPMNs
+T11	Organism_substance 1139 1144	serum
+T12	Cancer 1202 1216	invasive IPMNs
+T18	Cancer 722 727	IPMNs
+T13	Organism_substance 1584 1589	Serum
+T14	Cancer 1647 1661	invasive IPMNs
+T15	Cancer 1734 1739	IPMNs
+T16	Organism_substance 1763 1768	serum
+T17	Cancer 1840 1845	IPMNs
+T20	Cancer 1189 1198	malignant
+T21	Cancer 1634 1643	malignant

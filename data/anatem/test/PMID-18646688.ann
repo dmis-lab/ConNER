@@ -1,0 +1,20 @@
+T4	Cancer 83 97	lung carcinoma
+T8	Cancer 208 219	lung cancer
+T9	Cancer 266 282	Transplant tumor
+T10	Cell 342 371	Lewis lung cancer (LLC) cells
+T19	Cancer 690 695	tumor
+T20	Tissue 749 760	microvessel
+T24	Cancer 851 856	tumor
+T30	Cancer 1011 1016	tumor
+T33	Tissue 1160 1172	tumor tissue
+T42	Tissue 1499 1510	microvessel
+T45	Cell 1735 1746	tumor cells
+T52	Cancer 1963 1968	tumor
+T54	Multi-tissue_structure 2017 2037	tumor neovasculature
+T55	Cancer 2073 2078	tumor
+T5	Organism_substance 640 645	serum
+T62	Organism_substance 1348 1353	Serum
+T77	Cancer 428 440	intratumoral
+T78	Cancer 942 954	intratumoral
+T22	Organism_subdivision 381 385	back
+T1	Immaterial_anatomical_entity 304 316	subcutaneous

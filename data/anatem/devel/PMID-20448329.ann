@@ -1,0 +1,22 @@
+T3	Cancer 22 39	gastric carcinoma
+T7	Cancer 137 142	tumor
+T8	Cancer 190 195	tumor
+T9	Cancer 216 232	colonic adenomas
+T10	Cellular_component 261 263	4q
+T11	Cancer 277 291	gastric cancer
+T14	Organ 343 350	gastric
+T17	Cancer 414 428	gastric cancer
+T18	Cancer 545 563	gastric carcinomas
+T19	Cancer 574 601	early-onset gastric cancers
+T20	Cancer 603 607	EOGC
+T21	Cancer 638 656	gastric carcinomas
+T22	Cancer 696 701	EOGCs
+T29	Cancer 814 832	gastric carcinomas
+T30	Tissue 839 845	tissue
+T33	Cell 917 945	gastric carcinoma cell lines
+T34	Cancer 950 960	xenografts
+T37	Cancer 1027 1032	EOGCs
+T38	Cancer 1121 1125	EOGC
+T39	Cancer 1143 1158	gastric cancers
+T49	Cancer 1419 1423	EOGC
+T50	Organ 1441 1448	gastric

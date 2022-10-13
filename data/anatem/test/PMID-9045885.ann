@@ -1,0 +1,29 @@
+T16	Cell 1576 1578	KC
+T27	Cancer 14 27	hepatic tumor
+T28	Cancer 145 169	metastatic hepatic tumor
+T29	Cell 192 205	Kupffer cells
+T30	Cell 207 209	KC
+T31	Cell 248 258	lymphocyte
+T32	Cell 275 280	cells
+T33	Cancer 328 341	hepatic tumor
+T34	Cell 382 393	macrophages
+T35	Cell 398 409	lymphocytes
+T36	Cell 490 504	hepatoma cells
+T37	Cell 741 755	hepatoma cells
+T38	Cancer 806 819	tumor nodules
+T39	Cell 858 868	splenocyte
+T40	Cell 902 912	lymphocyte
+T41	Cell 918 928	macrophage
+T42	Cell 938 948	tumor cell
+T43	Cancer 1010 1023	tumor nodules
+T44	Cancer 1165 1170	tumor
+T45	Cancer 1335 1348	hepatic tumor
+T20	Cancer 1360 1365	tumor
+T21	Cell 1488 1498	splenocyte
+T23	Cancer 1686 1699	hepatic tumor
+T24	Cell 1734 1745	lymphocytes
+T25	Cell 1750 1761	macrophages
+T26	Cancer 1797 1802	tumor
+T53	Immaterial_anatomical_entity 675 692	intraperitoneally
+T54	Immaterial_anatomical_entity 756 772	intrasplenically
+T55	Cell 873 875	KC

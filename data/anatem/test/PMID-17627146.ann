@@ -1,0 +1,20 @@
+T1	Cancer 0 40	Neurohypophyseal granulomatous germinoma
+T2	Immaterial_anatomical_entity 54 75	right cavernous sinus
+T3	Cancer 149 175	neurohypophyseal germinoma
+T4	Immaterial_anatomical_entity 235 256	right cavernous sinus
+T5	Pathological_formation 367 386	suprasellar lesions
+T6	Cancer 712 717	Tumor
+T8	Organ 805 814	placental
+T9	Organ 851 856	Brain
+T10	Cancer 871 888	suprasellar tumor
+T11	Cancer 962 967	tumor
+T12	Multi-tissue_structure 995 1011	brain parenchyma
+T13	Cancer 1044 1049	tumor
+T14	Immaterial_anatomical_entity 1068 1089	right cavernous sinus
+T15	Multi-tissue_structure 1129 1144	transsphenoidal
+T16	Cell 1212 1223	tumor cells
+T17	Cell 1229 1245	lymphocytic cell
+T18	Cancer 1311 1351	Neurohypophyseal granulomatous germinoma
+T19	Cancer 1429 1434	tumor
+T7	Cancer 1188 1196	specimen
+T20	Anatomical_system 586 598	neurological

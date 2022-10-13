@@ -1,0 +1,13 @@
+T1	Cell 8 19	tumor cells
+T4	Cancer 188 195	cancers
+T5	Cell 235 246	tumor cells
+T12	Cell 482 492	tumor cell
+T14	Organism_substance 545 556	lipid rafts
+T20	Organism_substance 773 784	lipid rafts
+T24	Cellular_component 955 968	mitochondrial
+T26	Cell 1055 1066	tumor cells
+T29	Cell 1135 1154	hematopoietic cells
+T30	Cell 1237 1248	tumor cells
+T31	Cell 1275 1280	cells
+T36	Cancer 1495 1507	malignancies
+T64	Cellular_component 34 41	surface

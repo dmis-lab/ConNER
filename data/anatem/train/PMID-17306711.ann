@@ -1,0 +1,24 @@
+T1	Cell 22 49	pulmonary endothelial cells
+T2	Tissue 69 76	intimal
+T3	Organ 114 123	pulmonary
+T4	Organ 151 156	heart
+T5	Cell 210 218	cellular
+T6	Organ 256 265	pulmonary
+T7	Organ 323 328	heart
+T9	Multi-tissue_structure 396 414	pulmonary vascular
+T10	Cell 557 573	endothelial cell
+T11	Tissue 598 605	intimal
+T12	Cell 823 831	vascular
+T13	Cell 836 854	perivascular cells
+T14	Multi-tissue_structure 858 877	lung biopsy samples
+T21	Cell 1207 1234	pulmonary endothelial cells
+T23	Tissue 1350 1357	Intimal
+T24	Cell 1491 1524	perivascular inflammatory T-cells
+T26	Multi-tissue_structure 1736 1742	vessel
+T27	Multi-tissue_structure 1776 1782	vessel
+T28	Cell 1895 1911	endothelial cell
+T29	Cell 1955 1986	perivascular inflammatory cells
+T30	Tissue 2022 2029	intimal
+T31	Multi-tissue_structure 2048 2054	vessel
+T32	Organ 2130 2139	pulmonary
+T8	Multi-tissue_structure 1760 1765	sites

@@ -1,0 +1,14 @@
+T15	Cancer 123 157	stage I non-small cell lung cancer
+T16	Cell 228 236	cellular
+T17	Cancer 262 267	tumor
+T18	Tissue 387 400	tumor tissues
+T19	Cancer 532 558	non-small-cell lung cancer
+T20	Cancer 560 565	NSCLC
+T21	Cancer 581 586	NSCLC
+T22	Tissue 607 619	lung tissues
+T23	Multi-tissue_structure 975 985	lymph node
+T24	Multi-tissue_structure 1119 1129	lymph node
+T25	Cancer 1367 1372	NSCLC
+T26	Cancer 1428 1433	NSCLC
+T28	Cancer 881 894	stage I NSCLC
+T1	Cancer 568 577	Specimens

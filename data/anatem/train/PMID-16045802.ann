@@ -1,0 +1,24 @@
+T2	Cancer 72 95	breast cancer xenograft
+T5	Cancer 355 388	MDA MB231 breast cancer xenograft
+T7	Cell 441 453	cancer cells
+T8	Tissue 477 492	mammary fat pad
+T12	Cancer 815 829	Tumor sections
+T13	Cell 848 865	endothelial cells
+T18	Cancer 940 946	tumors
+T19	Cancer 980 986	tumors
+T20	Cancer 1041 1048	capsule
+T21	Cancer 1054 1060	cortex
+T22	Cancer 1087 1094	capsule
+T23	Multi-tissue_structure 1123 1136	Blood vessels
+T24	Tissue 1138 1149	capillaries
+T25	Cellular_component 1155 1177	endothelial pseudopods
+T26	Cancer 1227 1234	capsule
+T27	Cancer 1236 1245	subcortex
+T28	Cancer 1248 1254	Tumors
+T29	Multi-tissue_structure 1339 1352	blood vessels
+T30	Cancer 1360 1369	subcortex
+T31	Cellular_component 1379 1401	endothelial pseudopods
+T33	Cancer 1451 1457	tumors
+T36	Cancer 1576 1581	tumor
+T38	Cancer 1724 1729	tumor
+T1	Cancer 1543 1564	lung metastatic sites

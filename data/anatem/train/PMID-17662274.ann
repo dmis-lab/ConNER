@@ -1,0 +1,18 @@
+T4	Cell 129 147	oral keratinocytes
+T5	Organism_subdivision 166 170	oral
+T6	Cancer 191 203	oral cancers
+T7	Organism_substance 205 216	cytoplasmic
+T10	Cell 285 293	cellular
+T13	Cell 434 446	keratinocyte
+T16	Cell 516 521	cells
+T20	Cell 625 643	oral keratinocytes
+T27	Organism_substance 765 778	nucleoplasmic
+T28	Cellular_component 783 792	nucleolar
+T31	Organism_substance 825 836	cytoplasmic
+T32	Organism_substance 841 854	nucleoplasmic
+T33	Cellular_component 894 903	nucleolar
+T42	Cell 1222 1234	keratinocyte
+T49	Cell 1475 1483	cellular
+T50	Cell 1496 1514	oral keratinocytes
+T52	Organism_substance 1568 1579	cytoplasmic
+T90	Cellular_component 0 11	Subcellular

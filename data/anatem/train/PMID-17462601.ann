@@ -1,0 +1,13 @@
+T2	Cancer 65 70	tumor
+T7	Cancer 265 270	tumor
+T8	Cell 319 327	pericyte
+T9	Multi-tissue_structure 344 350	vessel
+T19	Cell 724 735	tumor cells
+T21	Cancer 791 796	tumor
+T25	Cancer 929 939	pancreatic
+T26	Cancer 941 947	BxPC-3
+T27	Cancer 955 1001	non-small cell lung (NCI-H460) tumor xenograft
+T30	Cancer 1061 1077	BxPC-3 xenograft
+T32	Cancer 1103 1108	tumor
+T37	Cancer 1302 1307	tumor
+T38	Cancer 1371 1378	cancers

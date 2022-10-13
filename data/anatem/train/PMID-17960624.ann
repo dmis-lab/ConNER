@@ -1,0 +1,24 @@
+T1	Cancer 0 15	Ovarian cancers
+T4	Cell 97 116	ovarian cancer cell
+T8	Cancer 266 272	cancer
+T9	Tissue 347 353	tissue
+T11	Cancer 470 475	tumor
+T14	Cancer 579 603	cancerous ovarian tissue
+T16	Cell 643 663	ovarian cancer cells
+T19	Cell 710 716	immune
+T20	Cell 721 736	granulosa cells
+T21	Tissue 747 761	ovarian tissue
+T22	Cancer 776 790	ovarian tumors
+T25	Cell 879 884	tumor
+T26	Cell 889 902	stromal cells
+T27	Cell 967 978	immune cell
+T28	Tissue 996 1007	microvessel
+T29	Cancer 1019 1052	epithelial-derived ovarian tumors
+T30	Organism_substance 1131 1159	ovarian tumor tissue lysates
+T31	Cell 1164 1189	ovarian cancer cell lines
+T34	Cell 1226 1251	ovarian cancer cell lines
+T39	Cancer 1458 1472	ovarian tumors
+T41	Organ 1509 1516	ovarian
+T42	Cell 1561 1572	tumor cells
+T43	Cell 1620 1632	immune cells
+T44	Cancer 1738 1752	ovarian cancer

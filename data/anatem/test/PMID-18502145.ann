@@ -1,0 +1,28 @@
+T1	Organism_substance 0 5	Serum
+T12	Cancer 276 281	tumor
+T14	Organism_substance 483 488	serum
+T17	Organism_substance 570 575	serum
+T20	Organism_substance 637 642	serum
+T24	Organism_substance 790 795	serum
+T35	Organism_substance 1104 1109	serum
+T40	Organism_substance 1318 1323	serum
+T42	Organism_substance 1381 1386	serum
+T7	Cancer 338 345	cancers
+T9	Cancer 57 79	non-Hodgkin's lymphoma
+T51	Cancer 135 141	cancer
+T54	Cancer 376 398	non-Hodgkin's lymphoma
+T55	Cancer 400 403	NHL
+T57	Cancer 528 531	NHL
+T58	Cancer 687 690	NHL
+T59	Cancer 1138 1141	NHL
+T60	Cancer 1672 1675	NHL
+T2	Organism_substance 10 15	urine
+T15	Organism_substance 493 498	urine
+T18	Organism_substance 580 585	urine
+T22	Organism_substance 652 657	urine
+T26	Organism_substance 805 810	urine
+T31	Organism_substance 926 931	urine
+T37	Organism_substance 1300 1305	urine
+T43	Organism_substance 1391 1396	urine
+T45	Organism_substance 1552 1557	urine
+T48	Organism_substance 1609 1614	urine

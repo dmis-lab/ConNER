@@ -1,0 +1,19 @@
+T1	Cellular_component 0 20	Extracellular matrix
+T2	Tissue 49 60	soft tissue
+T3	Cellular_component 81 101	extracellular matrix
+T4	Cellular_component 103 106	ECM
+T5	Tissue 299 311	soft tissues
+T6	Cellular_component 446 449	ECM
+T7	Cellular_component 846 849	ECM
+T9	Cell 927 943	progenitor cells
+T17	Tissue 574 580	tissue
+T19	Tissue 593 599	tissue
+T20	Tissue 779 785	tissue
+T22	Tissue 809 820	scar tissue
+T23	Tissue 859 865	tissue
+T25	Tissue 984 990	tissue
+T27	Tissue 1007 1013	tissue
+T28	Pathological_formation 1103 1109	hernia
+T29	Cellular_component 463 487	extracellular components
+T30	Cellular_component 661 685	extracellular components
+T8	Tissue 625 629	site

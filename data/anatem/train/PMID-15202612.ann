@@ -1,0 +1,9 @@
+T1	Organism_substance 178 185	urinary
+T2	Organism_substance 504 509	urine
+T3	Organ 1062 1067	renal
+T4	Organ 1122 1127	renal
+T5	Organism_substance 1232 1239	urinary
+T6	Multi-tissue_structure 781 802	renal proximal tubule
+T7	Organism_substance 946 961	uric acid stone
+T8	Organism_substance 242 248	stones
+T9	Organism_substance 1337 1353	uric acid stones

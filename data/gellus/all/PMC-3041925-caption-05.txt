@@ -1,0 +1,1 @@
+Intact mass analysis of a mixed population of proteins. A mixture of the membrane protein KCNJ12, the soluble TEV protease used to cleave the fusion tag, and the membrane protein HVCN1, which occurred as a contaminant from an earlier analysis on the same LC column.

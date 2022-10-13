@@ -1,0 +1,17 @@
+T16	Cancer 21 36	cervical cancer
+T17	Cancer 58 73	Cervical cancer
+T18	Pathological_formation 101 118	precursor lesions
+T19	Pathological_formation 141 175	cervical intraepithelial neoplasia
+T20	Pathological_formation 179 211	squamous intraepithelial lesions
+T21	Cancer 325 340	cervical cancer
+T22	Cancer 411 435	invasive cervical cancer
+T23	Cell 515 519	cell
+T9	Cell 619 627	cellular
+T10	Cell 666 670	cell
+T11	Cancer 739 755	cervical cancers
+T12	Cancer 785 800	cervical cancer
+T13	Cancer 949 954	tumor
+T14	Cancer 1269 1294	invasive cervical cancers
+T15	Cellular_component 1311 1322	chromosomal
+T25	Pathological_formation 45 55	precursors
+T27	Pathological_formation 349 359	precursors

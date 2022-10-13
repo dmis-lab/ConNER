@@ -1,0 +1,15 @@
+T2	Cancer 21 26	tumor
+T5	Cell 203 229	lymphatic endothelial cell
+T6	Tissue 244 248	tube
+T8	Cancer 320 325	tumor
+T10	Cancer 386 406	Lewis lung carcinoma
+T11	Cancer 408 411	LLC
+T12	Organism_subdivision 435 441	orally
+T14	Multi-tissue_structure 477 487	lymph node
+T15	Organ 492 496	lung
+T16	Cancer 549 554	tumor
+T17	Multi-tissue_structure 595 605	lymph node
+T18	Cancer 618 623	tumor
+T28	Cell 924 933	LLC cells
+T35	Multi-tissue_structure 1188 1198	lymph node
+T37	Cancer 1248 1253	tumor

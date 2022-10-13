@@ -1,0 +1,23 @@
+T1	Organism_substance 10 15	serum
+T4	Cancer 78 98	renal cell carcinoma
+T5	Cancer 157 169	solid tumors
+T8	Organism_substance 426 431	serum
+T12	Cancer 469 489	renal cell carcinoma
+T13	Cancer 491 494	RCC
+T15	Organism_substance 507 531	peripheral blood samples
+T16	Cancer 551 554	RCC
+T19	Cancer 588 594	cancer
+T20	Cancer 656 659	RCC
+T22	Organism_substance 670 683	serum samples
+T23	Multi-tissue_structure 718 739	bilateral renal veins
+T27	Cancer 879 882	RCC
+T29	Cancer 989 994	tumor
+T30	Multi-tissue_structure 1003 1014	renal veins
+T31	Cancer 1166 1171	tumor
+T32	Cancer 1187 1192	tumor
+T34	Cancer 1310 1315	tumor
+T36	Tissue 1600 1612	tumor tissue
+T37	Cancer 1616 1619	RCC
+T39	Organism_substance 1653 1658	blood
+T41	Cancer 1705 1708	RCC
+T2	Cancer 1237 1247	metastasis

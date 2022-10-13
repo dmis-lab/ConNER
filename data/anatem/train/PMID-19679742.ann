@@ -1,0 +1,17 @@
+T1	Anatomical_system 18 32	cardiovascular
+T2	Anatomical_system 69 83	Cardiovascular
+T3	Organism_substance 217 222	blood
+T4	Organism_substance 325 330	blood
+T5	Organ 510 514	skin
+T6	Organ 651 655	skin
+T7	Organism_substance 688 693	blood
+T8	Organism_subdivision 1005 1013	brachial
+T9	Multi-tissue_structure 1045 1050	aorta
+T10	Multi-tissue_structure 1105 1111	aortic
+T11	Multi-tissue_structure 1154 1162	arterial
+T12	Organ 1270 1274	skin
+T13	Multi-tissue_structure 1538 1546	arterial
+T14	Organism_substance 848 853	blood
+T15	Organism_subdivision 390 394	body
+T16	Organism_subdivision 1429 1433	body
+T17	Multi-tissue_structure 1064 1069	sites

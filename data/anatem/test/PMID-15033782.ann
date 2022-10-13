@@ -1,0 +1,22 @@
+T18	Cell 112 137	prostate epithelial cells
+T19	Organ 254 262	prostate
+T20	Cell 496 500	cell
+T21	Cell 580 584	cell
+T22	Cell 630 660	prostate epithelial cells PNT2
+T23	Cell 712 723	PNT1a cells
+T24	Organism_substance 737 742	serum
+T25	Organism_substance 850 855	serum
+T26	Cell 922 927	cells
+T27	Cell 929 933	cell
+T28	Organism_substance 1165 1170	serum
+T29	Cell 1297 1302	cells
+T13	Cellular_component 1441 1448	nucleus
+T14	Cancer 1652 1667	prostate cancer
+T15	Cell 1749 1753	cell
+T16	Cell 1794 1819	prostate epithelial cells
+T17	Organ 1883 1891	prostate
+T36	Cellular_component 0 7	Nuclear
+T37	Cell 665 670	PNT1a
+T38	Cellular_component 963 979	apoptotic bodies
+T39	Cellular_component 1307 1323	apoptotic bodies
+T40	Cellular_component 1456 1463	nuclear

@@ -1,0 +1,13 @@
+T1	Organism_substance 48 54	serous
+T2	Organism_substance 159 165	Serous
+T6	Organ 660 664	eyes
+T8	Organ 808 812	eyes
+T9	Multi-tissue_structure 903 912	Choroidal
+T10	Multi-tissue_structure 973 980	retinal
+T11	Organ 1028 1031	eye
+T12	Multi-tissue_structure 1071 1080	choroidal
+T13	Tissue 1133 1159	Retinal Pigment Epithelium
+T14	Tissue 1161 1164	RPE
+T16	Multi-tissue_structure 1267 1276	choroidal
+T17	Multi-tissue_structure 1313 1320	retinal
+T19	Tissue 1452 1455	RPE

@@ -1,0 +1,2 @@
+The genetics of transformation by SV 40. 
+Experiments using the tsA 58 allele of the SV 40-A gene have demonstrated that the SV 40 large T-antigen is strictly required both for immortalization and induction anchorage independence of cells. It has been suggested that the immortalized phenotype is mediated by an extra cellular factor. The synthesis and/or the excretion of this factor in a medium is controlled by the A gene.

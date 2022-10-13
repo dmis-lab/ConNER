@@ -1,0 +1,4 @@
+Supplementary Material
+Crystal structure: contains datablock(s) global, I. DOI: 10.1107/S1600536812002796/hg5166sup1.cif
+Structure factors: contains datablock(s) I. DOI: 10.1107/S1600536812002796/hg5166Isup2.hkl
+Additional supplementary materials: crystallographic information; 3D view; checkCIF report

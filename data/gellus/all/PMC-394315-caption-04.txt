@@ -1,0 +1,1 @@
+Collaxa BPEL Server Screenshot of Collaxa's bpelz design tool, building a choreography of GetHAPI and GetUMLS web services

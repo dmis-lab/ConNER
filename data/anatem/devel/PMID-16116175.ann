@@ -1,0 +1,35 @@
+T1	Cell 24 61	marrow-derived endothelial precursors
+T2	Multi-tissue_structure 65 82	tumor vasculature
+T3	Cell 106 114	vascular
+T4	Cell 119 136	hemopoietic cells
+T5	Cell 176 189	hemangioblast
+T6	Cell 233 255	endothelial precursors
+T7	Cell 265 282	bone marrow cells
+T8	Cancer 342 347	tumor
+T10	Multi-tissue_structure 411 422	bone marrow
+T11	Cell 432 455	endothelial progenitors
+T12	Cell 476 480	cell
+T13	Tissue 533 555	tumor microvasculature
+T14	Cell 671 714	tumor bone marrow-derived endothelial cells
+T15	Cell 748 766	marrow progenitors
+T16	Cell 782 786	cell
+T17	Cell 802 806	cell
+T18	Cell 874 885	hemopoietic
+T19	Cell 890 910	endothelial lineages
+T20	Cell 956 969	hemangioblast
+T22	Cell 1071 1082	tumor cells
+T24	Cell 1128 1145	bone marrow cells
+T25	Cell 1199 1237	marrow-derived endothelial progenitors
+T26	Multi-tissue_structure 1243 1260	tumor vasculature
+T28	Cell 1280 1306	umbilical cord blood cells
+T29	Cell 1321 1343	endothelial precursors
+T30	Cell 1382 1399	mononuclear cells
+T31	Cell 1431 1453	CD133+ cell population
+T33	Cell 1469 1473	cell
+T34	Cell 1531 1544	hemangioblast
+T35	Cell 1573 1590	marrow stem cells
+T36	Cell 1602 1621	endothelial lineage
+T38	Cell 1698 1715	hemopoietic cells
+T56	Cell 316 326	precursors
+T9	Cell 161 170	precursor
+T21	Cell 840 849	precursor

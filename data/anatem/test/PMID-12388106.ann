@@ -1,0 +1,14 @@
+T5	Tissue 36 47	microvessel
+T6	Multi-tissue_structure 69 84	embryonic aorta
+T12	Multi-tissue_structure 203 218	embryonic aorta
+T13	Multi-tissue_structure 238 262	embryonic aorta explants
+T15	Multi-tissue_structure 264 272	thoracic
+T16	Multi-tissue_structure 282 297	lateral vessels
+T17	Organ 312 323	mesonephros
+T18	Organ 328 339	metanephros
+T27	Tissue 511 528	Gs-IB(4-)positive
+T29	Tissue 530 543	CD31-positive
+T31	Tissue 549 576	Flk-1-positive microvessels
+T37	Tissue 630 641	microvessel
+T50	Multi-tissue_structure 868 883	embryonic aorta
+T56	Multi-tissue_structure 994 1009	embryonic aorta

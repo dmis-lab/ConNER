@@ -1,0 +1,22 @@
+T4	Cell 74 82	cellular
+T5	Cell 95 111	epithelial cells
+T8	Cell 191 202	trophoblast
+T9	Cell 242 253	tumour cell
+T10	Cancer 335 342	cancers
+T12	Cell 450 462	cancer cells
+T14	Cellular_component 485 498	transmembrane
+T16	Immaterial_anatomical_entity 534 547	extracellular
+T18	Organism_substance 575 586	cytoplasmic
+T20	Cell 637 653	epithelial cells
+T23	Cell 684 692	cellular
+T25	Cell 728 754	CL-S1 murine mammary cells
+T27	Cell 790 799	dendritic
+T30	Cell 915 950	MDCK canine kidney epithelial cells
+T34	Cell 1066 1071	cells
+T39	Cell 1208 1213	cells
+T41	Organism_substance 1273 1284	cytoplasmic
+T45	Immaterial_anatomical_entity 1491 1504	extracellular
+T46	Immaterial_anatomical_entity 1509 1522	intracellular
+T87	Cellular_component 43 61	cell-cell contacts
+T2	Cellular_component 661 679	cell-cell contacts
+T3	Cellular_component 1026 1044	cell-cell contacts

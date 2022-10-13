@@ -1,0 +1,6 @@
+Follow-up
+Patients were followed up at the outpatient clinic at 1, 4, and 7 months after the ablation procedure and every 6 months thereafter. Routine 24 or 48 h Holter monitoring was performed before each appointment, and a 12-lead electrocardiogram was obtained at each visit. Patients were asked to report to the emergency room or our arrhythmia unit for an ECG if any symptom suggestive of recurrence occurred between scheduled visits.
+After the ablation procedure, all patients received anti-arrhythmic treatment for at least 1 month to protect against early recurrences and continued oral anticoagulation for a minimum of 2 months to maintain an international normalized ratio between 2.0 and 3.0. Additionally, magnetic resonance angiography was repeated at 3-6 months after the procedure to evaluate the presence of PV stenosis.
+Arrhythmia recurrence was defined as a documented AF or atrial flutter episode of >30 s. Arrhythmic episodes within the first 3 months after the CPVA (healing period) were not considered in the evaluation of final success rates because they are often described as transient recurrences related to atrial inflammatory processes following RF lesions.26
+The endpoint of the study was freedom from arrhythmia recurrence after a single CPVA procedure, without anti-arrhythmic medication.
+A minimum follow-up of 3 months was required.

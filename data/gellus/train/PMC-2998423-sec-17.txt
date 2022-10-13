@@ -1,0 +1,2 @@
+Real time RT-PCR
+RNA extraction and real-time RT-PCR were performed as we described previously [22]. The sequences of ABCG2 primers are 5'-GGCTTTCTACCTGCACGAAAACCAGTTGAG-3' (forward) and 5'-ATGGCGTTGAGACCAG-3' (reverse). The sequences of GAPDH primers are 5'-AAGGACTCATGACCACAGTCCAT-3' (forward) and 5'-CCATCACGCCACAGTTTCC-3' (reverse). The relative ABCG2 RNA level (2DeltaCT) treated with inhibitors was expressed as percentage of the control (in the presence of 0.1% DMSO) where DeltaCT (threshold cycle) = (CTABCG2-CTGAPDH).

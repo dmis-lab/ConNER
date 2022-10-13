@@ -1,0 +1,2 @@
+RNA extraction and reverse transcription
+Total RNA were extracted from cells using either Trizol reagent (Invitrogen) or RNeasy kit (Qiagen) and treated with DNaseI reagent (Macherey-Nagel) for 30 min at room temperature. Reverse transcriptions were performed using 1microg total RNA and the High capacity cDNA reverse transcription kit with RNase Inhibitor (Applied Biosystems).

@@ -1,0 +1,11 @@
+Crystal data
+C15H12ClN3O2S2 F(000) = 752
+Mr = 365.85 Dx = 1.507 Mg m-3
+Monoclinic, P21/n Mo Kalpha radiation, lambda = 0.71073 A
+Hall symbol: -P 2yn Cell parameters from 25 reflections
+a = 10.175 (2) A theta = 9-12degrees
+b = 8.4958 (17) A micro = 0.51 mm-1
+c = 19.318 (4) A T = 293 K
+beta = 105.01 (3)degrees Block, yellow
+V = 1613.0 (6) A3 0.25 x 0.15 x 0.15 mm
+Z = 4

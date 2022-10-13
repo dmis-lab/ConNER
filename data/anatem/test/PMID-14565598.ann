@@ -1,0 +1,20 @@
+T1	Tissue 26 42	skeletal tissues
+T2	Cell 69 80	chondrocyte
+T3	Cell 216 228	chondrocytes
+T4	Cell 277 281	cell
+T5	Cell 445 449	cell
+T6	Cell 517 528	chondrocyte
+T7	Cellular_component 623 636	mitochondrial
+T8	Cell 694 699	cells
+T9	Cell 865 876	chondrocyte
+T10	Cell 921 925	cell
+T11	Cell 1029 1033	cell
+T12	Cell 1058 1062	cell
+T13	Cellular_component 1090 1103	mitochondrial
+T14	Cellular_component 1204 1226	mitochondrial membrane
+T15	Cellular_component 1269 1282	mitochondrial
+T16	Cellular_component 1443 1456	cell membrane
+T17	Cell 1867 1879	chondrocytes
+T18	Immaterial_anatomical_entity 1318 1331	intracellular
+T19	Tissue 1688 1697	cartilage
+T20	Cellular_component 1430 1435	blebs

@@ -1,0 +1,9 @@
+T1	Organ 509 513	bone
+T2	Organ 515 521	muscle
+T3	Tissue 526 540	adipose tissue
+T4	Tissue 762 768	tissue
+T5	Tissue 836 860	abdominal adipose tissue
+T6	Tissue 907 934	subcutaneous adipose tissue
+T7	Organism_subdivision 41 45	body
+T8	Organism_subdivision 254 258	body
+T9	Organism_subdivision 1012 1016	body

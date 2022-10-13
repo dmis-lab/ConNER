@@ -1,0 +1,15 @@
+T34	Cancer 309 316	cancers
+T35	Cancer 462 474	malignancies
+T36	Cancer 682 697	prostate cancer
+T37	Cell 781 812	prostate cancer cell line LNCaP
+T38	Organism_substance 962 967	serum
+T39	Cell 1208 1232	Y705F/S727E mutant cells
+T40	Cell 1257 1313	Y705F/S727A (inactivation of Y705 and S727) mutant cells
+T41	Cellular_component 1370 1376	nuclei
+T42	Cell 1535 1573	noncancerous prostate epithelial cells
+T43	Tissue 1647 1673	malignant prostate tissues
+T44	Tissue 1709 1725	prostate tissues
+T45	Tissue 1841 1864	prostate cancer tissues
+T46	Organ 1988 1996	prostate
+T60	Cell 1575 1581	RWPE-1
+T64	Organ 110 118	prostate

@@ -1,0 +1,25 @@
+T3	Cell 47 58	trophoblast
+T5	Organ 212 218	uterus
+T7	Cell 244 290	placental extravillous trophoblast (EVT) cells
+T8	Cell 323 338	malignant cells
+T9	Cancer 356 361	tumor
+T10	Cell 372 383	trophoblast
+T11	Organ 400 406	uterus
+T13	Cell 512 521	EVT cells
+T14	Cell 671 684	EVT cell line
+T15	Cancer 729 734	tumor
+T21	Cell 851 864	EVT cell line
+T22	Cell 866 870	HTR8
+T23	Cell 913 922	HTR8 line
+T26	Cell 995 1000	cells
+T27	Cell 1063 1067	line
+T28	Cell 1069 1075	RSVT-2
+T29	Cell 1120 1127	RSVT2/C
+T31	Cell 1430 1436	RSVT-2
+T32	Cell 1441 1459	RSVT2/C cell lines
+T33	Cell 1534 1548	HTR8 cell line
+T35	Cell 1661 1671	cell lines
+T37	Cell 1787 1797	cell lines
+T41	Cell 1966 1979	RSVT2/C cells
+T47	Cell 2220 2230	HTR8 cells
+T1	Cell 1110 1118	subclone

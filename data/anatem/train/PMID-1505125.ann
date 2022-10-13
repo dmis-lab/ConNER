@@ -1,0 +1,26 @@
+T1	Cell 0 19	NIH3T3 transfectant
+T4	Cancer 101 106	tumor
+T5	Cell 133 144	fibroblasts
+T6	Cell 149 154	clone
+T7	Cell 158 177	NIH3T3 transformant
+T8	Cell 179 182	H-3
+T11	Cell 233 258	colon carcinoma cell line
+T14	Cancer 301 329	metastatic pulmonary nodules
+T15	Immaterial_anatomical_entity 336 347	intravenous
+T16	Cell 365 370	cells
+T18	Cancer 449 454	tumor
+T19	Cancer 463 481	subcutaneous tumor
+T23	Cell 753 762	subclones
+T24	Cell 791 800	H-3 cells
+T25	Cell 854 860	clones
+T27	Cancer 1046 1052	tumors
+T29	Cell 1073 1078	clone
+T31	Cancer 1361 1366	tumor
+T33	Cell 1421 1430	H-3 cells
+T34	Cell 1453 1474	BALB/c3T3 fibroblasts
+T35	Cell 1507 1518	fibroblasts
+T37	Cell 1545 1556	tumor cells
+T40	Cell 1670 1679	H-3 cells
+T41	Cell 1684 1695	fibroblasts
+T44	Cell 1758 1769	Fibroblasts
+T46	Cell 1867 1876	H-3 cells

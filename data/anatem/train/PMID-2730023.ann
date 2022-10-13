@@ -1,0 +1,21 @@
+T1	Cancer 1 6	Tumor
+T2	Cancer 70 85	malignant tumor
+T3	Cancer 215 235	Lewis lung carcinoma
+T5	Cancer 303 316	primary tumor
+T6	Organ 328 337	pulmonary
+T7	Organ 449 453	lung
+T8	Pathological_formation 480 488	thrombus
+T9	Cancer 529 534	tumor
+T12	Cancer 616 622	tumors
+T16	Cell 765 776	tumor cells
+T20	Cellular_component 855 872	basement membrane
+T21	Tissue 891 904	tumor tissues
+T23	Cancer 978 983	tumor
+T25	Cancer 1044 1050	cancer
+T28	Cancer 1145 1155	tumor mass
+T29	Cancer 1180 1186	cancer
+T32	Tissue 1247 1253	tissue
+T33	Cancer 1275 1280	tumor
+T34	Immaterial_anatomical_entity 1409 1422	intravascular
+T56	Cancer 426 441	metastatic foci
+T4	Multi-tissue_structure 514 518	site

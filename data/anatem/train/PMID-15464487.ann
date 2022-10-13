@@ -1,0 +1,21 @@
+T2	Multi-tissue_structure 93 110	arterial conduits
+T3	Multi-tissue_structure 158 165	conduit
+T4	Multi-tissue_structure 334 342	coronary
+T5	Multi-tissue_structure 428 436	arterial
+T6	Multi-tissue_structure 704 729	radial arterial (RA) limb
+T7	Multi-tissue_structure 757 792	internal thoracic artery (ITA) limb
+T9	Multi-tissue_structure 945 953	coronary
+T10	Multi-tissue_structure 1053 1058	limbs
+T11	Multi-tissue_structure 1178 1185	RA limb
+T12	Multi-tissue_structure 1195 1197	RA
+T13	Multi-tissue_structure 1359 1362	ITA
+T14	Multi-tissue_structure 1017 1020	ITA
+T15	Multi-tissue_structure 988 990	RA
+T16	Multi-tissue_structure 1431 1434	ITA
+T17	Multi-tissue_structure 1451 1457	ITA/RA
+T18	Multi-tissue_structure 1524 1526	RA
+T19	Multi-tissue_structure 1552 1560	coronary
+T8	Multi-tissue_structure 861 865	limb
+T1	Multi-tissue_structure 43 56	radial artery
+T22	Multi-tissue_structure 523 527	limb
+T25	Multi-tissue_structure 21 38	internal thoracic

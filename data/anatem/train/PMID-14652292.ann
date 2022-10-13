@@ -1,0 +1,19 @@
+T2	Pathological_formation 29 39	ulcerative
+T3	Multi-tissue_structure 59 69	colorectal
+T8	Pathological_formation 196 216	colorectal dysplasia
+T9	Cancer 221 227	cancer
+T10	Pathological_formation 253 263	ulcerative
+T18	Cancer 406 418	colon cancer
+T22	Cancer 539 551	colon cancer
+T30	Cancer 813 827	colonic tumors
+T31	Pathological_formation 877 886	dysplasia
+T32	Cancer 890 904	adenocarcinoma
+T33	Pathological_formation 923 941	high-grade lesions
+T34	Pathological_formation 943 963	high-grade dysplasia
+T35	Cancer 964 981	carcinoma in situ
+T36	Cancer 986 1009	invasive adenocarcinoma
+T38	Pathological_formation 1139 1157	high-grade lesions
+T41	Pathological_formation 1444 1462	high-grade lesions
+T44	Multi-tissue_structure 1609 1619	colorectal
+T49	Multi-tissue_structure 1735 1745	colorectal
+T54	Multi-tissue_structure 1937 1947	colorectal

@@ -1,0 +1,21 @@
+T3	Cancer 36 41	tumor
+T5	Cancer 61 70	xenograft
+T7	Cancer 86 101	cervical cancer
+T10	Cancer 172 177	tumor
+T11	Cancer 219 228	xenograft
+T12	Cancer 238 253	cervical cancer
+T14	Cell 280 297	endothelial cells
+T19	Cell 413 434	cervical cancer cells
+T20	Cell 436 441	CaSki
+T21	Cell 446 450	SiHa
+T22	Organism_subdivision 475 481	flanks
+T24	Cancer 502 508	tumors
+T28	Cancer 621 626	tumor
+T29	Cancer 685 691	tumors
+T31	Cell 811 827	endothelial cell
+T33	Cell 889 906	endothelial cells
+T36	Cancer 951 956	tumor
+T37	Cancer 1130 1136	tumors
+T40	Cancer 1208 1213	tumor
+T41	Cancer 1265 1274	xenograft
+T42	Cancer 1284 1299	cervical cancer

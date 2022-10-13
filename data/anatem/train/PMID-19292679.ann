@@ -1,0 +1,18 @@
+T3	Multi-tissue_structure 66 91	tissue-engineered trachea
+T7	Multi-tissue_structure 200 225	tissue-engineered trachea
+T8	Multi-tissue_structure 227 230	TET
+T10	Tissue 336 342	tissue
+T12	Cell 412 422	epithelial
+T13	Tissue 476 490	TET epithelium
+T14	Cell 528 539	Chondrocyte
+T16	Tissue 653 659	Tissue
+T17	Tissue 672 696	TET epithelial scaffolds
+T19	Multi-tissue_structure 749 780	embryo chorioallantoic membrane
+T21	Tissue 821 835	TET epithelial
+T27	Cell 1254 1265	Chondrocyte
+T31	Tissue 1528 1537	capillary
+T32	Multi-tissue_structure 1580 1605	chorioallantoic membranes
+T34	Tissue 1696 1710	TET epithelial
+T35	Tissue 1728 1738	epithelial
+T36	Tissue 1799 1815	cartilage tissue
+T46	Organism_subdivision 1619 1623	body

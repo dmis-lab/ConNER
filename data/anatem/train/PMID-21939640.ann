@@ -1,0 +1,14 @@
+T2	Organ 27 43	small intestinal
+T6	Organism_subdivision 110 113	gut
+T8	Multi-tissue_structure 158 168	intestinal
+T10	Multi-tissue_structure 286 296	intestinal
+T11	Organ 318 333	small intestine
+T19	Cancer 484 490	tumors
+T23	Pathological_formation 548 560	splenomegaly
+T24	Organ 584 590	thymic
+T26	Organ 643 652	intestine
+T30	Cell 720 731	immune cell
+T31	Tissue 752 766	lamina propria
+T34	Cell 813 824	CD4 T cells
+T35	Tissue 832 846	lamina propria
+T38	Multi-tissue_structure 997 1007	intestinal

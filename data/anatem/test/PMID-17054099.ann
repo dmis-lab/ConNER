@@ -1,0 +1,19 @@
+T1	Organism_substance 360 366	plasma
+T2	Organ 368 375	hepatic
+T3	Organism_substance 421 427	plasma
+T4	Organism_substance 575 580	fecal
+T6	Organ 660 667	hepatic
+T8	Organ 159 163	root
+T9	Organ 258 262	root
+T10	Organ 756 760	root
+T11	Organ 828 835	hepatic
+T12	Organ 1031 1035	root
+T14	Organ 1173 1180	hepatic
+T16	Organ 1239 1246	hepatic
+T17	Organ 1355 1359	root
+T18	Organism_substance 1420 1426	plasma
+T19	Organism_substance 1142 1154	fecal matter
+T5	Organism_substance 614 618	bile
+T7	Organism_substance 699 703	bile
+T13	Organism_substance 1112 1116	bile
+T15	Organism_substance 1181 1185	bile

@@ -1,0 +1,35 @@
+T1	Tissue 29 37	visceral
+T2	Tissue 42 69	subcutaneous adipose tissue
+T4	Tissue 123 137	adipose tissue
+T5	Multi-tissue_structure 174 185	vasculature
+T6	Tissue 214 228	adipose tissue
+T8	Tissue 342 369	subcutaneous adipose tissue
+T9	Tissue 371 374	SAT
+T10	Tissue 380 403	visceral adipose tissue
+T11	Tissue 405 408	VAT
+T13	Tissue 489 511	Adipose tissue samples
+T14	Tissue 517 525	visceral
+T15	Tissue 527 530	VAT
+T16	Tissue 536 560	subcutaneous (SAT) sites
+T19	Multi-tissue_structure 666 690	chorioallantoic membrane
+T20	Multi-tissue_structure 692 695	CAM
+T21	Tissue 712 715	SAT
+T22	Tissue 720 723	VAT
+T25	Tissue 842 856	Adipose tissue
+T26	Multi-tissue_structure 868 871	CAM
+T27	Multi-tissue_structure 1068 1071	CAM
+T28	Tissue 1076 1098	adipose tissue vessels
+T31	Cell 1179 1196	endothelial cells
+T32	Tissue 1224 1238	adipose tissue
+T33	Tissue 1317 1328	SAT samples
+T34	Tissue 1340 1351	VAT samples
+T35	Cell 1359 1368	adipocyte
+T36	Tissue 1413 1428	adipose samples
+T37	Tissue 1440 1445	graft
+T38	Multi-tissue_structure 1449 1452	CAM
+T39	Tissue 1485 1499	adipose tissue
+T44	Tissue 1666 1680	adipose tissue
+T46	Tissue 1746 1749	SAT
+T47	Tissue 1754 1757	VAT
+T3	Tissue 975 982	samples
+T7	Tissue 1038 1045	samples

@@ -1,0 +1,28 @@
+T1	Immaterial_anatomical_entity 10 16	atrial
+T3	Immaterial_anatomical_entity 98 104	atrial
+T4	Tissue 136 142	tissue
+T5	Immaterial_anatomical_entity 202 208	atrial
+T6	Immaterial_anatomical_entity 235 241	atrial
+T7	Immaterial_anatomical_entity 278 284	atrial
+T8	Immaterial_anatomical_entity 367 373	atrial
+T9	Tissue 320 326	tissue
+T10	Immaterial_anatomical_entity 508 514	atrial
+T11	Immaterial_anatomical_entity 791 797	atrial
+T12	Multi-tissue_structure 867 874	lateral
+T13	Multi-tissue_structure 879 891	septal walls
+T14	Immaterial_anatomical_entity 899 910	left atrium
+T15	Immaterial_anatomical_entity 915 927	right atrium
+T16	Immaterial_anatomical_entity 1097 1108	left atrial
+T17	Immaterial_anatomical_entity 1282 1294	right atrial
+T18	Immaterial_anatomical_entity 1405 1416	left atrial
+T19	Immaterial_anatomical_entity 1491 1503	right atrial
+T20	Immaterial_anatomical_entity 1578 1589	left atrial
+T21	Immaterial_anatomical_entity 1687 1693	atrial
+T23	Immaterial_anatomical_entity 1027 1038	left atrium
+T2	Immaterial_anatomical_entity 947 954	chamber
+T22	Multi-tissue_structure 829 836	annular
+T24	Multi-tissue_structure 838 841	mid
+T25	Multi-tissue_structure 846 863	superior segments
+T26	Multi-tissue_structure 991 1000	posterior
+T27	Multi-tissue_structure 1005 1019	anterior walls
+T28	Immaterial_anatomical_entity 1073 1080	chamber

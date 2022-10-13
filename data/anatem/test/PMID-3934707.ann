@@ -1,0 +1,29 @@
+T1	Tissue 79 101	cheek pouch epithelium
+T3	Tissue 193 206	microvascular
+T4	Tissue 226 248	cheek pouch epithelium
+T8	Organism_subdivision 415 419	head
+T9	Organism_subdivision 424 428	neck
+T12	Tissue 544 560	microvasculature
+T14	Cancer 598 603	tumor
+T18	Cancer 1288 1297	neoplasms
+T23	Cancer 1663 1668	tumor
+T31	Tissue 2020 2029	capillary
+T32	Tissue 2160 2191	pericapillary connective tissue
+T34	Tissue 2304 2324	vascular endothelium
+T37	Cell 2480 2490	epithelial
+T38	Cell 2498 2515	endothelial cells
+T39	Multi-tissue_structure 2541 2553	vessel walls
+T41	Multi-tissue_structure 2646 2653	vessels
+T2	Multi-tissue_structure 790 804	Pouch vascular
+T5	Multi-tissue_structure 1221 1229	vascular
+T42	Multi-tissue_structure 1591 1599	vascular
+T43	Multi-tissue_structure 1811 1819	vascular
+T44	Organism_subdivision 1677 1690	cheek pouches
+T45	Multi-tissue_structure 44 52	vascular
+T55	Multi-tissue_structure 1126 1134	vascular
+T70	Tissue 2367 2387	premalignant tissues
+T28	Multi-tissue_structure 967 975	vascular
+T29	Multi-tissue_structure 2394 2402	vascular
+T71	Tissue 2407 2417	epithelial
+T83	Multi-tissue_structure 2192 2212	histohematic barrier
+T6	Cancer 2099 2109	neoplastic

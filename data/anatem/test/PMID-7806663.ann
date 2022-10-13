@@ -1,0 +1,40 @@
+T1	Cancer 44 62	gallbladder tumors
+T2	Cancer 82 104	primary adenocarcinoma
+T3	Organ 112 123	gallbladder
+T4	Organ 125 127	GB
+T5	Cancer 135 164	malignant fibrous histocytoma
+T6	Cancer 171 196	metastatic adenocarcinoma
+T7	Pathological_formation 203 210	adenoma
+T8	Pathological_formation 217 224	polypus
+T9	Pathological_formation 231 246	xanthogranuloma
+T10	Cancer 430 447	primary GB cancer
+T11	Multi-tissue_structure 473 477	wall
+T12	Organism_substance 514 528	arterial blood
+T13	Multi-tissue_structure 548 552	wall
+T14	Organ 560 562	GB
+T15	Cancer 592 609	metastatic cancer
+T16	Organ 617 619	GB
+T17	Organism_substance 627 632	blood
+T18	Multi-tissue_structure 652 656	wall
+T19	Organ 664 666	GB
+T20	Pathological_formation 688 702	benign lesions
+T21	Organ 710 712	GB
+T22	Organism_substance 750 755	blood
+T23	Cancer 795 816	primary GB malignancy
+T24	Organism_substance 850 864	arterial blood
+T25	Cancer 885 897	tumor masses
+T26	Organism_substance 902 907	blood
+T27	Cancer 965 990	metastatic adenocarcinoma
+T28	Pathological_formation 997 1004	adenoma
+T29	Pathological_formation 1011 1018	polypus
+T30	Organism_substance 1047 1061	arterial blood
+T31	Organ 1104 1106	GB
+T32	Multi-tissue_structure 1117 1124	GB wall
+T33	Cancer 1153 1170	primary GB cancer
+T34	Cancer 1203 1220	primary GB cancer
+T35	Cancer 1226 1236	metastatic
+T36	Pathological_formation 1241 1255	benign lesions
+T37	Organ 1263 1265	GB
+T38	Cancer 452 458	masses
+T39	Pathological_formation 940 946	masses
+T40	Cancer 1090 1096	masses

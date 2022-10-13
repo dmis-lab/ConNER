@@ -1,0 +1,23 @@
+T1	Organ 56 62	livers
+T2	Cellular_component 105 116	microtubule
+T3	Cellular_component 205 216	microtubule
+T4	Organism_substance 227 233	plasma
+T5	Organ 257 263	livers
+T6	Organism_substance 380 386	plasma
+T7	Multi-tissue_structure 419 431	liver slices
+T8	Cell 599 610	hepatocytes
+T9	Organ 671 676	liver
+T10	Multi-tissue_structure 661 667	slices
+T11	Developing_anatomical_structure 682 687	fetal
+T12	Multi-tissue_structure 945 957	liver slices
+T13	Developing_anatomical_structure 961 966	fetal
+T14	Organism_substance 1015 1021	plasma
+T15	Cellular_component 1167 1182	Golgi complexes
+T16	Cellular_component 1246 1257	microtubule
+T17	Organ 1362 1368	livers
+T18	Cellular_component 1487 1498	microtubule
+T19	Cellular_component 1728 1745	Golgi compartment
+T20	Cellular_component 1826 1837	microtubule
+T21	Cellular_component 1869 1874	Golgi
+T22	Cell 1896 1907	liver cells
+T23	Cellular_component 1968 1980	microtubules

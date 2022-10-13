@@ -1,0 +1,17 @@
+T1	Organism_substance 24 29	blood
+T6	Cancer 125 131	glioma
+T8	Organ 149 154	brain
+T9	Cancer 133 140	RG1 2.2
+T10	Cancer 172 186	RG1 2.2 glioma
+T12	Organ 194 199	brain
+T13	Organism_substance 207 212	blood
+T17	Cancer 444 449	tumor
+T18	Cancer 505 510	tumor
+T19	Organism_substance 511 516	blood
+T22	Cancer 740 745	tumor
+T26	Organism_substance 991 996	blood
+T28	Tissue 1027 1039	tumor tissue
+T29	Organ 1081 1086	brain
+T30	Cancer 1136 1141	tumor
+T32	Cancer 1198 1203	tumor
+T34	Cancer 1301 1307	tumors

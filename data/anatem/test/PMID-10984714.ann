@@ -1,0 +1,14 @@
+T3	Anatomical_system 24 35	vasculature
+T4	Anatomical_system 82 93	vasculature
+T5	Cell 177 193	mesodermal cells
+T8	Cell 224 241	endothelial cells
+T10	Anatomical_system 333 344	vasculature
+T17	Tissue 394 399	cords
+T18	Cell 452 461	pericytes
+T19	Cell 466 485	smooth muscle cells
+T22	Anatomical_system 502 518	vascular network
+T23	Anatomical_system 800 821	embryonic vasculature
+T26	Multi-tissue_structure 1091 1103	blood vessel
+T29	Multi-tissue_structure 1156 1178	embryonic blood vessel
+T11	Cell 370 375	cells
+T13	Developing_anatomical_structure 979 992	embryological

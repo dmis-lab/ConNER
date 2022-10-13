@@ -1,0 +1,38 @@
+T1	Tissue 27 36	embryonic
+T2	Tissue 41 63	extraembryonic tissues
+T3	Developing_anatomical_structure 1127 1133	embryo
+T4	Tissue 1330 1336	tissue
+T6	Tissue 1421 1442	extraembryonic tissue
+T7	Cell 1482 1509	endothelial precursor cells
+T8	Tissue 1396 1409	blood islands
+T5	Tissue 1513 1526	blood islands
+T9	Tissue 1777 1799	extraembryonic tissues
+T10	Tissue 1801 1814	Blood islands
+T11	Tissue 1833 1857	yolk sac mesodermal area
+T12	Tissue 1875 1894	visceral endodermal
+T13	Tissue 1899 1916	ectodermal layers
+T14	Cell 1935 1950	red blood cells
+T15	Cell 1977 1982	cells
+T16	Tissue 1986 1999	blood islands
+T17	Cell 2011 2025	hemangioblasts
+T18	Cell 2065 2082	endothelial cells
+T19	Multi-tissue_structure 2086 2123	extraembryonic blood vessel structure
+T20	Developing_anatomical_structure 2136 2142	embryo
+T21	Cell 2160 2177	endothelial cells
+T22	Tissue 2201 2214	blood islands
+T23	Cell 2262 2275	Erythroblasts
+T24	Tissue 2293 2306	blood islands
+T25	Cell 2318 2323	cells
+T26	Tissue 2185 2197	ventral part
+T27	Tissue 1462 1474	Ventral part
+T28	Developing_anatomical_structure 347 356	notochord
+T29	Developing_anatomical_structure 361 372	floor plate
+T30	Tissue 86 101	axial structure
+T31	Tissue 330 345	axial structure
+T32	Tissue 971 986	axial structure
+T33	Tissue 427 436	node area
+T34	Tissue 775 784	node area
+T35	Tissue 869 880	caudal area
+T36	Developing_anatomical_structure 910 926	primitive streak
+T37	Developing_anatomical_structure 888 892	node
+T38	Developing_anatomical_structure 1280 1293	Hensen's node

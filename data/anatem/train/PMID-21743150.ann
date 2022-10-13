@@ -1,0 +1,12 @@
+T2	Cancer 33 62	non-small cell lung carcinoma
+T4	Cancer 182 208	non-small cell lung cancer
+T5	Cancer 210 215	NSCLC
+T7	Cancer 275 280	NSCLC
+T8	Tissue 294 300	tissue
+T9	Cancer 304 309	NSCLC
+T10	Tissue 321 332	lung tissue
+T12	Multi-tissue_structure 512 522	lymph node
+T14	Cancer 599 604	NSCLC
+T15	Multi-tissue_structure 616 636	lung tissue sections
+T17	Multi-tissue_structure 805 815	lymph node
+T19	Cancer 916 921	NSCLC

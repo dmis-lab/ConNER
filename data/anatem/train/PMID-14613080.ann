@@ -1,0 +1,22 @@
+T1	Tissue 0 13	Microvascular
+T3	Multi-tissue_structure 104 114	lymph node
+T4	Organism_subdivision 131 136	betel
+T5	Cancer 148 176	oral squamous cell carcinoma
+T6	Cancer 231 236	tumor
+T9	Cell 340 357	endothelial cells
+T10	Tissue 372 389	miscrovascularity
+T12	Cancer 446 474	oral squamous cell carcinoma
+T13	Cancer 476 480	OSCC
+T16	Organism_subdivision 612 617	betel
+T17	Cancer 629 633	OSCC
+T18	Cancer 721 738	paraffin sections
+T20	Cancer 761 765	OSCC
+T21	Organism_substance 851 862	cytoplasmic
+T23	Cancer 909 923	tissue samples
+T25	Cancer 1014 1026	OSCC samples
+T27	Cancer 1116 1123	samples
+T29	Multi-tissue_structure 1197 1207	lymph node
+T31	Organism_subdivision 1366 1370	oral
+T33	Cancer 1406 1416	tumor site
+T36	Cancer 1627 1631	OSCC
+T37	Organism_subdivision 1655 1660	betel

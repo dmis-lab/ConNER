@@ -1,0 +1,37 @@
+T1	Multi-tissue_structure 14 17	PCL
+T2	Multi-tissue_structure 113 116	PCL
+T3	Multi-tissue_structure 167 170	PCL
+T4	Multi-tissue_structure 200 203	PCL
+T5	Multi-tissue_structure 288 291	PCL
+T6	Organ 350 355	tibia
+T7	Organ 360 365	femur
+T8	Organism_subdivision 151 155	knee
+T9	Organism_subdivision 270 274	knee
+T10	Multi-tissue_structure 397 400	PCL
+T11	Organ 425 430	tibia
+T12	Organ 451 458	femoral
+T13	Multi-tissue_structure 476 479	PCL
+T14	Multi-tissue_structure 543 546	PCL
+T15	Multi-tissue_structure 648 651	PCL
+T16	Organ 714 720	tibial
+T17	Multi-tissue_structure 741 744	PCL
+T18	Multi-tissue_structure 765 780	anterior tibial
+T19	Organism_subdivision 838 842	knee
+T20	Multi-tissue_structure 856 859	PCL
+T21	Multi-tissue_structure 935 938	PCL
+T22	Multi-tissue_structure 1131 1151	collateral ligaments
+T23	Multi-tissue_structure 1452 1455	PCL
+T24	Multi-tissue_structure 1575 1578	PCL
+T25	Multi-tissue_structure 1519 1522	PCL
+T26	Multi-tissue_structure 1659 1662	PCL
+T27	Multi-tissue_structure 1719 1722	PCL
+T28	Multi-tissue_structure 1789 1792	PCL
+T29	Multi-tissue_structure 2002 2005	PCL
+T30	Multi-tissue_structure 1850 1854	PCLs
+T31	Multi-tissue_structure 1900 1904	PCLs
+T32	Organism_subdivision 1700 1705	knees
+T33	Organ 2026 2031	tibia
+T34	Multi-tissue_structure 1108 1118	structures
+T35	Multi-tissue_structure 1228 1249	collateral structures
+T36	Multi-tissue_structure 1263 1273	structures
+T37	Multi-tissue_structure 1465 1486	collateral structures

@@ -1,0 +1,26 @@
+T1	Organ 47 52	brain
+T2	Multi-tissue_structure 141 165	ipsilateral motor cortex
+T3	Organism_subdivision 409 415	finger
+T4	Organism_subdivision 454 463	left hand
+T5	Organism_subdivision 480 486	finger
+T6	Organism_subdivision 516 526	right hand
+T7	Multi-tissue_structure 694 716	ipsilateral cerebellum
+T8	Multi-tissue_structure 728 751	ipsilateral motor areas
+T9	Multi-tissue_structure 1082 1104	lateral premotor areas
+T10	Multi-tissue_structure 1377 1409	ipsilateral cortical motor areas
+T11	Multi-tissue_structure 1414 1422	striatum
+T12	Multi-tissue_structure 210 226	left hemispheric
+T13	Organism_subdivision 973 977	hand
+T14	Organism_subdivision 1191 1195	hand
+T15	Organism_subdivision 1334 1338	hand
+T16	Organism_subdivision 1164 1168	hand
+T17	Organism_subdivision 895 899	hand
+T18	Organism_subdivision 921 925	hand
+T19	Multi-tissue_structure 1273 1281	cortical
+T22	Multi-tissue_structure 581 606	contralateral motor areas
+T23	Multi-tissue_structure 608 628	primary sensorimotor
+T20	Multi-tissue_structure 630 646	lateral premotor
+T21	Multi-tissue_structure 648 656	parietal
+T24	Multi-tissue_structure 661 688	supplementary motor regions
+T26	Multi-tissue_structure 1057 1077	primary sensorimotor
+T25	Organism_subdivision 445 450	right

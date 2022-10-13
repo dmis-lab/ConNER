@@ -1,0 +1,13 @@
+Results and Discussion
+Figure 4 shows the frequency response of the device before and after plating cells. In the frequency range measured (4-600 Hz), only two clear peaks can be seen in the bare device. After cells had adhered to the surface, there is a shift in both the resonant frequency and the height of these peaks. Table 1 shows the results for this trial and a second trial where the experiment was repeated to confirm the initial results. At a plating density of 1300 cells/mm2, there were approximately 140 cells on the portion of the cantilever free to vibrate (dimensions shown in Figure 1).
+Table 1
+Cantilever response data from two trials
+Experiment #1 Experiment #2
+Freq. 1 (kHz) Amp. 1 (deg) Freq. 2 (kHz) Amp. 2 (deg) Freq. 1 (kHz) Amp. 1 (deg) Freq. 2 (kHz) Amp. 2 (deg)
+Initial 313.0 .086 375.5 .055 313.9 .091 376.5 .071
+With cells 307.5 .031 371.0 .018 308 .052 370.5 .043
+Change 5.5 .055 4.5 .037 5.9 .039 6.0 .028
+Figure 4
+Phase angle vs. frequency. (left) Phase angle of impedance with linear regression line. (right) To provide an easier comparison, phase angles have been levelled with respect to the linear regression line that passes through each set of data. The addition of cells causes the peaks to shift to lower frequencies and decrease in amplitude.
+The two peaks shown were the only detectable resonances despite the relatively wide frequency range measured. The electrical detection of resonances is critically compromised by the strong damping imposed by the cell media, making these measurements more challenging than those carried out in air or in a vacuum where resonance peaks show much larger amplitude [18].
+In the desired in vivo application for this work, as a sensor for stent healing, it can be expected that in the course of normal healing the stent will be fully populated with a significantly thicker layer of endothelial cells. In the case of restenosis, this lining would be even thicker. This may hamper any movement of the cantilever and cause the peaks to eventually become undetectable. Frequent measurements of the resonant frequencies will differentiate this end state with the possibility of device failure. The noninvasive nature of these measurements that can be transmitted wirelessly to an external device make this an attractive and low risk option for monitoring healing.

@@ -1,0 +1,20 @@
+T19	Cancer 12 17	tumor
+T20	Cancer 106 129	squamous cell carcinoma
+T21	Cancer 131 134	SCC
+T22	Cancer 172 178	cancer
+T23	Tissue 253 259	tissue
+T24	Tissue 382 389	tissues
+T25	Cancer 430 440	SCC tumors
+T26	Cancer 478 481	SCC
+T27	Cell 511 536	keratinocytes lacking G45
+T28	Cancer 658 661	SCC
+T29	Cell 707 721	DeltaG45 cells
+T30	Cell 989 1003	DeltaG45 cells
+T31	Cancer 1065 1074	SCC tumor
+T32	Cancer 1096 1105	SCC tumor
+T33	Cancer 1149 1152	SCC
+T34	Tissue 1200 1206	tissue
+T17	Cancer 1317 1320	SCC
+T18	Cancer 1381 1387	cancer
+T43	Cell 538 546	DeltaG45
+T1	Cellular_component 608 614	matrix

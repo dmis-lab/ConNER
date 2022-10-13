@@ -1,0 +1,2 @@
+Analysis of furAII-katGII region
+The cDNA from M. fortuitum under the different stresses was analysed by PCR using the primers furAII-Fo and P1.1 (Table 2) to test the presence of furAII and katGII cotranscripts. PCR cycling was performed as follows: a denaturizing step at 95degreesC for 5 minutes; 36 cycles of 95degreesC for 45 seconds, 54degreesC for 45 seconds and 72degreesC for 1 minute; and a final extension at 72degreesC for 10 minutes.

@@ -1,0 +1,15 @@
+T1	Multi-tissue_structure 14 22	vascular
+T2	Cancer 49 61	malignancies
+T3	Cancer 115 120	tumor
+T4	Multi-tissue_structure 150 163	Tumor vessels
+T5	Multi-tissue_structure 295 309	tumor vascular
+T6	Cancer 377 382	tumor
+T7	Cancer 411 416	tumor
+T8	Multi-tissue_structure 454 472	tumor blood vessel
+T9	Cancer 504 509	tumor
+T10	Multi-tissue_structure 542 553	vasculature
+T11	Multi-tissue_structure 643 660	tumor vasculature
+T12	Multi-tissue_structure 884 902	tumor blood vessel
+T13	Multi-tissue_structure 971 979	vascular
+T14	Cell 1017 1040	tumor endothelial cells
+T15	Multi-tissue_structure 1069 1086	tumor vasculature

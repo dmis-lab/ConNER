@@ -1,0 +1,5 @@
+T1	Cancer 484 489	Tumor
+T2	Cancer 495 506	Astrocytoma
+T3	Multi-tissue_structure 508 521	Temporal lobe
+T4	Organism_subdivision 545 552	cranial
+T5	Organism_subdivision 981 985	head

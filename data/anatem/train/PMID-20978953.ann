@@ -1,0 +1,14 @@
+T1	Cell 8 30	stromal myofibroblasts
+T2	Cancer 34 56	invasive breast cancer
+T3	Cell 58 65	stromal
+T5	Cancer 250 272	epithelial solid tumor
+T6	Cancer 335 357	invasive breast cancer
+T7	Cell 422 436	myofibroblasts
+T8	Cancer 642 664	invasive breast cancer
+T10	Cancer 732 754	invasive breast cancer
+T12	Cell 813 827	myofibroblasts
+T13	Cancer 835 857	invasive breast cancer
+T21	Multi-tissue_structure 1554 1564	lymph node
+T22	Cell 1653 1667	Myofibroblasts
+T24	Cancer 1797 1819	invasive breast cancer
+T44	Cancer 874 881	samples

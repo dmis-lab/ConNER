@@ -1,0 +1,17 @@
+T1	Cancer 37 59	acute myeloid leukemia
+T6	Cell 345 356	neutrophils
+T7	Cancer 526 548	acute myeloid leukemia
+T8	Cancer 554 557	AML
+T10	Cancer 701 704	AML
+T13	Cell 923 940	malignant myeloid
+T15	Cancer 1135 1138	AML
+T19	Cell 1271 1279	cellular
+T20	Cell 1299 1311	marrow cells
+T26	Cell 1576 1580	cell
+T27	Multi-tissue_structure 1651 1662	bone marrow
+T29	Cancer 1716 1719	AML
+T30	Cell 1747 1751	stem
+T31	Cell 1756 1772	progenitor cells
+T38	Cancer 2133 2136	AML
+T39	Cell 2138 2161	hematopoietic stem cell
+T42	Cancer 2542 2552	malignancy

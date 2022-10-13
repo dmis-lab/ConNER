@@ -1,0 +1,15 @@
+T1	Cancer 32 48	rectal carcinoma
+T2	Cancer 68 84	rectal carcinoma
+T3	Cancer 126 143	surgical specimen
+T4	Cancer 226 237	tumor site,
+T5	Cell 366 389	peritumoral lymphocytic
+T6	Cancer 408 413	tumor
+T7	Multi-tissue_structure 450 461	lymph nodes
+T8	Cancer 582 596	gross specimen
+T9	Tissue 649 655	tissue
+T10	Cancer 678 699	lymph node metastases
+T11	Multi-tissue_structure 724 735	lymph nodes
+T12	Cancer 871 894	distal mesorectal tumor
+T13	Tissue 429 445	surgical margins
+T14	Tissue 481 519	circumferential (deep, lateral) margin
+T15	Multi-tissue_structure 798 815	distal mesorectum

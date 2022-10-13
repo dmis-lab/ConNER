@@ -1,0 +1,33 @@
+T1	Cell 10 19	platelets
+T2	Cell 28 47	ovarian cancer cell
+T3	Cell 62 70	cellular
+T4	Cell 103 111	platelet
+T5	Cancer 175 189	ovarian cancer
+T6	Cell 203 211	Platelet
+T7	Cancer 237 242	tumor
+T8	Cell 319 327	cellular
+T9	Cancer 337 342	tumor
+T10	Cell 391 400	platelets
+T12	Cell 414 438	ovarian cancer cell line
+T13	Cell 440 445	SKOV3
+T14	Cell 447 458	SKOV3 cells
+T18	Cell 551 560	platelets
+T19	Cell 604 614	tumor cell
+T20	Cell 672 681	platelets
+T24	Cell 750 760	SKOV3 cell
+T26	Cell 830 839	platelets
+T27	Cell 880 890	SKOV3 cell
+T29	Cellular_component 923 941	platelet membranes
+T30	Cell 989 997	platelet
+T31	Cell 1081 1089	platelet
+T34	Cell 1168 1179	SKOV3 cells
+T35	Cell 1193 1202	platelets
+T38	Cell 1263 1273	SKOV3 cell
+T39	Cell 1304 1313	platelets
+T40	Cell 1322 1327	SKOV3
+T42	Cell 1334 1353	ovarian cancer cell
+T45	Cell 1434 1444	SKOV3 cell
+T46	Cell 1496 1506	cell lines
+T48	Cancer 1621 1635	ovarian cancer
+T49	Cell 1637 1646	Platelets
+T51	Cancer 1730 1744	ovarian cancer

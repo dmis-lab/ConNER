@@ -1,0 +1,12 @@
+T5	Tissue 171 184	microvascular
+T11	Cell 330 346	endothelial cell
+T13	Tissue 416 420	tube
+T22	Cancer 67 84	malignant gliomas
+T23	Cancer 136 153	malignant gliomas
+T24	Cancer 825 842	malignant gliomas
+T25	Cancer 263 269	Tumour
+T26	Cancer 0 6	Tumour
+T27	Cancer 238 261	glioblastoma multiforme
+T28	Cellular_component 391 411	extracellular matrix
+T4	Cell 301 309	cellular
+T8	Immaterial_anatomical_entity 656 669	intracellular

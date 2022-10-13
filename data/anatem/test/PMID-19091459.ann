@@ -1,0 +1,12 @@
+T3	Cancer 30 35	tumor
+T11	Cancer 128 133	tumor
+T12	Cancer 179 185	tumors
+T15	Cancer 457 463	tumors
+T19	Cancer 500 539	HCT116 human colon carcinoma xenografts
+T21	Cancer 599 604	tumor
+T29	Multi-tissue_structure 765 772	vessels
+T30	Cancer 783 789	tumors
+T34	Cancer 888 894	tumors
+T42	Multi-tissue_structure 489 496	vessels
+T52	Cell 800 805	cells
+T16	Immaterial_anatomical_entity 662 675	intracellular

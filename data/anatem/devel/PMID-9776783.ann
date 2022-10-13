@@ -1,0 +1,21 @@
+T4	Developing_anatomical_structure 888 894	Embryo
+T1	Developing_anatomical_structure 695 698	egg
+T2	Developing_anatomical_structure 729 732	egg
+T3	Developing_anatomical_structure 815 818	egg
+T5	Organism_subdivision 990 994	body
+T6	Organ 999 1004	heart
+T7	Organ 1093 1098	liver
+T8	Organism_subdivision 1281 1285	body
+T9	Organ 1287 1292	liver
+T10	Organ 1298 1303	heart
+T11	Organism_subdivision 1395 1399	beak
+T12	Organism_subdivision 1403 1408	limbs
+T13	Pathological_formation 1426 1444	subcutaneous edema
+T14	Organism_substance 1446 1453	ascites
+T15	Pathological_formation 1458 1475	pericardial edema
+T16	Developing_anatomical_structure 1963 1967	eggs
+T17	Developing_anatomical_structure 1980 1986	embryo
+T18	Organ 2056 2063	hepatic
+T19	Organ 1502 1509	Hepatic
+T20	Organism_subdivision 454 460	orally
+T21	Organism_subdivision 406 412	necked

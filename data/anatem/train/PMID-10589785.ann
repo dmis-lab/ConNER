@@ -1,0 +1,15 @@
+T2	Cancer 62 104	von Hippel-Lindau paraganglioma xenografts
+T5	Cancer 235 273	von Hippel-Lindau (VHL)-related tumors
+T6	Tissue 275 305	Paraganglioma tissue fragments
+T10	Cancer 646 651	tumor
+T11	Cancer 771 776	tumor
+T12	Cancer 882 887	tumor
+T13	Organism_substance 888 893	blood
+T15	Multi-tissue_structure 950 963	blood vessels
+T16	Cancer 1027 1033	tumors
+T17	Multi-tissue_structure 1071 1079	vascular
+T18	Cancer 1140 1146	tumors
+T20	Cancer 1262 1267	tumor
+T23	Cancer 1464 1474	VHL tumors
+T1	Tissue 421 430	fragments
+T3	Tissue 476 485	fragments

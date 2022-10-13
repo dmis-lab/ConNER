@@ -1,0 +1,25 @@
+T22	Cell 95 103	cellular
+T23	Cell 140 151	tumour cell
+T25	Cell 247 298	bone marrow-derived haematopoietic progenitor cells
+T26	Cancer 395 401	tumour
+T27	Cell 441 458	cellular clusters
+T28	Cell 481 493	tumour cells
+T29	Cell 560 575	VEGFR1(+) cells
+T30	Multi-tissue_structure 585 596	bone marrow
+T31	Cancer 685 691	tumour
+T32	Cell 788 801	VEGFR1+ cells
+T33	Cancer 836 842	tumour
+T34	Cell 894 907	VEGFR1+ cells
+T35	Cancer 969 975	tumour
+T36	Cell 1052 1063	fibroblasts
+T37	Cell 1107 1119	tumour cells
+T38	Cancer 1162 1168	tumour
+T19	Organ 1519 1524	organ
+T20	Cancer 1534 1540	tumour
+T24	Multi-tissue_structure 411 431	pre-metastatic sites
+T41	Cell 648 671	pre-metastatic clusters
+T43	Cell 814 821	cluster
+T45	Cell 1255 1262	cluster
+T15	Cell 1364 1398	VEGFR1+ haematopoietic progenitors
+T21	Cell 0 54	VEGFR1-positive haematopoietic bone marrow progenitors
+T47	Cell 1488 1510	VEGFR1+VLA-4+ clusters

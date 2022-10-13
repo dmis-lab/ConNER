@@ -1,0 +1,13 @@
+T20	Cancer 33 59	non-small cell lung cancer
+T21	Cancer 265 277	malignancies
+T22	Cancer 346 372	non-small cell lung cancer
+T23	Cancer 374 379	NSCLC
+T24	Cancer 479 484	NSCLC
+T25	Cancer 689 694	NSCLC
+T26	Cancer 714 735	lymph node metastases
+T27	Cancer 822 827	NSCLC
+T28	Multi-tissue_structure 1002 1012	lymph node
+T29	Cancer 1091 1096	NSCLC
+T30	Cancer 1126 1132	tumors
+T31	Cancer 1156 1161	NSCLC
+T32	Cancer 1707 1718	lung cancer

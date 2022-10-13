@@ -1,0 +1,28 @@
+T1	Tissue 17 21	bone
+T3	Organ 76 84	mandible
+T4	Multi-tissue_structure 115 128	blood vessels
+T5	Multi-tissue_structure 176 188	blood vessel
+T7	Organ 282 290	mandible
+T9	Organ 361 369	mandible
+T10	Tissue 380 384	bone
+T12	Multi-tissue_structure 533 541	Vascular
+T13	Tissue 732 745	new-bone area
+T14	Multi-tissue_structure 804 816	blood vessel
+T15	Tissue 850 854	bone
+T16	Multi-tissue_structure 933 946	blood vessels
+T17	Tissue 962 984	soft connective tissue
+T18	Multi-tissue_structure 1031 1044	blood vessels
+T20	Multi-tissue_structure 1221 1233	blood vessel
+T21	Tissue 1245 1249	bone
+T22	Tissue 1290 1303	new-bone area
+T23	Tissue 1326 1339	new-bone area
+T24	Multi-tissue_structure 1388 1401	blood vessels
+T25	Multi-tissue_structure 1438 1451	blood vessels
+T26	Multi-tissue_structure 1485 1497	blood vessel
+T28	Tissue 1611 1633	soft connective tissue
+T29	Cell 1692 1697	cells
+T30	Multi-tissue_structure 1954 1967	blood vessels
+T31	Tissue 1989 1993	bone
+T33	Organ 2024 2032	mandible
+T2	Tissue 592 597	areas
+T6	Tissue 666 670	area

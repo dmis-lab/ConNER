@@ -1,0 +1,9 @@
+Full sequencing analysis of estrogen receptor-alpha gene polymorphism and its association with breast cancer risk.
+BACKGROUND:
+The estrogen receptor plays a critical role in breast cancer development and progression. So the genetic polymorphism of ER-alpha gene could affect cancer risk and phenotype.
+MATERIALS AND METHODS:
+We fully sequenced the ER-alpha gene to investigate its single nucleotide polymorphisms (SNPs) in 100 breast cancer patients and 100 controls.
+RESULTS:
+Six novel polymorphism in the control and 11 in cancer patients were found. The G/G genotype at C975 G and A/A genotype at G1782 A had a protective effect against breast cancer when compared to other genotypes (OR = 0.3 and 0.3, respectively). 975G allele was associated inversely with the p53 expression and positively with the bcl-2 expression in cancer with borderline significance. Combining this result with our previous study, these associations became more significant (p = 0.005 and 0.019, respectively).
+CONCLUSION:
+Polymorphisms in ER-alpha gene can affect the breast cancer susceptibility and may be related to other protein expression, such as p53 and bcl-2.

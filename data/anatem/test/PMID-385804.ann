@@ -1,0 +1,12 @@
+T1	Organism_substance 57 62	serum
+T2	Organism_substance 67 73	plasma
+T3	Developing_anatomical_structure 14 18	yolk
+T4	Cell 149 156	oocytes
+T5	Cell 409 416	oocytes
+T6	Cell 506 520	yolk platelets
+T7	Cell 548 555	oocytes
+T8	Cell 624 638	yolk platelets
+T9	Developing_anatomical_structure 680 684	yolk
+T10	Developing_anatomical_structure 769 773	yolk
+T11	Organism_substance 843 848	serum
+T12	Cell 865 872	oocytes

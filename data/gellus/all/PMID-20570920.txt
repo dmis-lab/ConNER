@@ -1,0 +1,9 @@
+Prognostic significance of TRAIL signaling molecules in stage II and III colorectal cancer.
+PURPOSE:
+We previously found that cellular FLICE-inhibitory protein (c-FLIP), caspase 8, and tumor necrosis factor-related apoptosis-inducing ligand (TRAIL) receptor 2 (DR5) are major regulators of cell viability and chemotherapy-induced apoptosis in colorectal cancer. In this study, we determined the prognostic significance of c-FLIP, caspase 8, TRAIL and DR5 expression in tissues from patients with stage II and III colorectal cancer.
+EXPERIMENTAL DESIGN:
+Tissue microarrays were constructed from matched normal and tumor tissue derived from patients (n = 253) enrolled in a phase III trial of adjuvant 5-fluorouracil-based chemotherapy versus postoperative observation alone. TRAIL, DR5, caspase 8, and c-FLIP expression levels were determined by immunohistochemistry.
+RESULTS:
+Colorectal tumors displayed significantly higher expression levels of c-FLIP (P < 0.001), caspase 8 (P = 0.01), and DR5 (P < 0.001), but lower levels of TRAIL (P < 0.001) compared with matched normal tissue. In univariate analysis, higher TRAIL expression in the tumor was associated with worse overall survival (P = 0.026), with a trend to decreased relapse-free survival (RFS; P = 0.06), and higher tumor c-FLIP expression was associated with a significantly decreased RFS (P = 0.015). Using multivariate predictive modeling for RFS in all patients and including all biomarkers, age, treatment, and stage, we found that the model was significant when the mean tumor c-FLIP expression score and disease stage were included (P < 0.001). As regards overall survival, the overall model was predictive when both TRAIL expression and disease stage were included (P < 0.001).
+CONCLUSIONS:
+High c-FLIP and TRAIL expression may be independent adverse prognostic markers in stage II and III colorectal cancer and might identify patients most at risk of relapse.

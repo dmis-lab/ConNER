@@ -1,0 +1,29 @@
+T2	Cancer 46 54	hepatoma
+T3	Cell 80 88	subclone
+T4	Cell 101 110	spheroids
+T5	Cancer 128 134	tumors
+T6	Cell 136 143	H4IIEC3
+T7	Cell 145 147	H4
+T9	Cell 171 184	hepatoma line
+T10	Cell 189 191	H5
+T11	Cell 214 222	subclone
+T12	Cell 259 268	spheroids
+T13	Cancer 286 305	subcutaneous tumors
+T15	Cell 324 332	H4 cells
+T16	Cell 353 362	spheroids
+T17	Cell 371 379	H5 cells
+T18	Cell 394 415	grape-like structures
+T21	Cell 475 487	H5 spheroids
+T22	Cell 499 511	H4 spheroids
+T23	Cancer 515 521	tumors
+T27	Cell 645 657	H5 spheroids
+T29	Cell 732 744	H4 spheroids
+T36	Cancer 889 895	Tumors
+T37	Cell 899 907	H4 cells
+T38	Cancer 935 941	tumors
+T39	Cell 945 953	H5 cells
+T44	Cancer 1111 1120	H4 tumors
+T47	Cell 1212 1214	H4
+T48	Cell 1219 1231	H5 spheroids
+T49	Cancer 1236 1242	tumors
+T1	Immaterial_anatomical_entity 992 996	i.v.

@@ -1,0 +1,2 @@
+Preliminary evidence for a pyridine nucleotide cycle in Bordetella pertussis.
+Preliminary evidence that Bordetella pertussis has a functional pyridine nucleotide cycle was the observation that [14C]-nicotinic acid was rapidly metabolized during its uptake by the bacteria to pyridine nucleotides and nicotinamide. Nicotinamide deamidase activity, necessary for the completion of the cycle by conversion of nicotinamide to nicotinic acid, was found in a soluble extract (20 000 X g supernatant) of B. pertussis cell lysates.

@@ -1,0 +1,10 @@
+T1	Organism_substance 37 48	whole blood
+T2	Organism_substance 123 134	whole blood
+T3	Organism_substance 187 199	blood sample
+T4	Organism_substance 239 245	plasma
+T5	Organism_substance 247 252	serum
+T6	Organism_substance 254 266	spinal fluid
+T7	Organism_substance 274 285	body fluids
+T8	Organism_substance 290 308	tissue homogenates
+T9	Organism_substance 1193 1204	whole blood
+T10	Organism_substance 1209 1215	plasma

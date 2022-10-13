@@ -1,0 +1,15 @@
+T1	Cell 16 24	cellular
+T3	Cancer 77 90	breast cancer
+T5	Anatomical_system 105 114	endocrine
+T7	Anatomical_system 270 279	endocrine
+T8	Cancer 290 303	breast cancer
+T9	Cancer 435 448	breast cancer
+T11	Anatomical_system 463 472	endocrine
+T14	Cell 606 614	cellular
+T17	Cell 923 934	lymphocytes
+T19	Cell 936 967	CD4+, CD8+, CD16+56+ (NK) cells
+T30	Cell 1289 1297	cellular
+T2	Cancer 133 143	metastases
+T4	Cancer 316 326	metastases
+T6	Cancer 491 501	metastases
+T10	Cancer 773 783	metastases

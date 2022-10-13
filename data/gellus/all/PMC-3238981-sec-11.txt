@@ -1,0 +1,5 @@
+Figures
+Fig. 1.
+A view of (I) with displacement ellipsoids drawn at the 30% probability level.
+Fig. 2.
+Stereoview of the sheet formed by C--H...pi interactions. Hydrogen atoms not involved in the motifs are not included.

@@ -1,0 +1,12 @@
+T5	Anatomical_system 227 241	cardiovascular
+T6	Tissue 277 283	tissue
+T10	Cell 519 536	endothelial cells
+T12	Cell 620 637	endothelial cells
+T13	Organism_subdivision 662 670	hindlimb
+T15	Cell 715 732	endothelial cells
+T18	Cell 783 787	cell
+T19	Tissue 802 808	sprout
+T24	Organism_subdivision 1024 1033	hindlimbs
+T25	Organism_substance 1062 1067	blood
+T30	Immaterial_anatomical_entity 1202 1215	intramuscular
+T31	Immaterial_anatomical_entity 1219 1234	intraperitoneal

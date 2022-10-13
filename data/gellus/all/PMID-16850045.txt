@@ -1,0 +1,13 @@
+Fluoroscopically guided cervical prolotherapy for instability with blinded pre and post radiographic reading.
+BACKGROUND:
+Several authors have postulated that cervical instability is a major cause of traumatic spinal pain.
+OBJECTIVE:
+The purpose of this prospective case series study (n = 6) was to determine if proliferant injections have an effect on cervical translation as measured by a blinded reader.
+DESIGN:
+This study was a prospective case series. Study participants were selected from patients seen for the primary complaint of Motor Vehicle Collision related neck pain in a private sub-specialty pain clinic.
+METHODS:
+Flexion and extension views were obtained by standard radiographs taken with a C-Arm fluoroscope under Valium sedation. Patients with more than 2.7 mm of absolute cervical translation and at least 50% reduction of cervical and referred pain with a two day rigid cervical immobilization test were admitted into the study. Participants underwent 3 prolotherapy injections at all sites that demonstrated translation. The difference in means between pre-test and post-test measurements (flexion translation, extension translation, and pain VAS scores) were assessed by a Wilcoxon signed ranks test (alpha = 0.05).
+RESULTS:
+The mean post-test VAS score (M= 3.83, SD=2.3, t=2.889) was significantly less (p=0.04) than the mean pre-test VAS score (M=5.75, SD=1.94). The correlation between difference in mean extension at C2-3 and C5-6 and difference in mean extension was significant (rho=0.89, p=0.02 and rho=0.85, p=0.03 respectively). Difference in mean flexion at C3-4 and C4-5 was significantly correlated with difference in mean flexion (rho=0.88, p=0.02 and rho=0.941, p <0.01 respectively).
+CONCLUSIONS:
+The results of this study demonstrate statistically significant correlations between proliferant injections, a reduction of both cervical flexion and extension translation, as well as a reduction in pain VAS score. Since patients with traumatic cervical instability have few viable treatment options other than surgical fusion, cervical proliferant injections under C-Arm fluoroscope may be a viable treatment option.

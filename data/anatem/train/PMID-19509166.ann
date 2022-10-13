@@ -1,0 +1,34 @@
+T1	Cell 0 56	Fibroblast growth factor receptor 2-positive fibroblasts
+T3	Cancer 97 102	tumor
+T4	Cancer 134 154	esophageal carcinoma
+T5	Cell 165 182	Tumor fibroblasts
+T6	Cell 184 186	TF
+T7	Cancer 260 265	tumor
+T8	Tissue 266 272	stroma
+T9	Cell 374 376	TF
+T10	Cancer 384 401	esophageal cancer
+T11	Cell 543 546	TFs
+T12	Cell 558 569	fibroblasts
+T13	Cancer 575 609	esophageal squamous cell carcinoma
+T14	Cancer 611 615	ESCC
+T15	Cell 811 814	TFs
+T16	Cell 836 840	cell
+T17	Cellular_component 856 876	extracellular matrix
+T20	Cell 1045 1048	TFs
+T21	Cell 1083 1094	fibroblasts
+T22	Cell 1123 1149	FGFR2-positive fibroblasts
+T24	Tissue 1180 1193	tumor tissues
+T25	Tissue 1205 1238	tumor-surrounding stromal tissues
+T27	Cell 1281 1283	TF
+T28	Cancer 1303 1307	ESCC
+T29	Cell 1347 1350	TFs
+T30	Cell 1383 1398	ESCC tumor cell
+T31	Cancer 1501 1518	esophageal cancer
+T32	Cell 1579 1591	FGFR2(+)-TFs
+T34	Cell 1606 1618	cancer cells
+T35	Cancer 1697 1703	cancer
+T36	Cell 1755 1766	cancer cell
+T37	Cell 1823 1827	cell
+T38	Cell 1853 1857	cell
+T39	Cell 1889 1899	epithelial
+T40	Cell 1900 1911	mesenchymal

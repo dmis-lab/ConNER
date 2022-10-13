@@ -1,0 +1,16 @@
+T1	Organ 86 94	vascular
+T2	Organ 99 125	non-vascular smooth muscle
+T5	Multi-tissue_structure 235 247	vas deferens
+T6	Tissue 1106 1113	tissues
+T7	Tissue 491 510	excitatory junction
+T8	Tissue 839 858	excitatory junction
+T9	Tissue 1300 1319	excitatory junction
+T10	Tissue 1383 1390	tissues
+T11	Tissue 1425 1444	excitatory junction
+T12	Tissue 41 75	sympathetic neuroeffector junction
+T13	Immaterial_anatomical_entity 307 320	extracellular
+T14	Immaterial_anatomical_entity 412 425	intracellular
+T4	Multi-tissue_structure 260 271	tail artery
+T15	Tissue 1468 1475	tissues
+T16	Multi-tissue_structure 1512 1520	membrane
+T3	Cellular_component 155 197	sympathetic postganglionic nerve terminals

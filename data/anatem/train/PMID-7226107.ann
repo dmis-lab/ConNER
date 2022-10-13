@@ -1,0 +1,14 @@
+T1	Cancer 47 52	tumor
+T2	Cancer 154 159	tumor
+T3	Organism_substance 185 200	cancer cachexia
+T6	Cancer 280 287	sarcoma
+T9	Cancer 425 430	tumor
+T10	Cancer 451 456	tumor
+T12	Cancer 522 528	tumors
+T14	Organism_substance 591 597	plasma
+T16	Organism_substance 617 622	blood
+T18	Organism_substance 710 716	plasma
+T20	Organism_substance 743 748	blood
+T26	Cancer 1056 1061	tumor
+T27	Cancer 1104 1112	cachexia
+T28	Cancer 1201 1219	malignant cachexia

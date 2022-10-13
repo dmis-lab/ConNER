@@ -1,0 +1,21 @@
+T4	Cancer 57 74	colorectal cancer
+T5	Cell 229 240	endothelial
+T6	Cancer 467 472	tumor
+T13	Cancer 568 585	colorectal cancer
+T14	Cell 657 661	cell
+T17	Cell 780 801	endothelial (HMVEC-d)
+T18	Cell 806 837	colorectal cancer (HT-29) cells
+T23	Cell 944 949	HT-29
+T25	Cancer 956 983	colorectal cancer xenograft
+T26	Cancer 1003 1009	tumour
+T27	Tissue 1018 1029	microvessel
+T29	Cancer 1080 1087	tumours
+T36	Cell 1261 1277	endothelial cell
+T37	Cell 1333 1338	HT-29
+T38	Cell 1343 1356	HMVEC-d cells
+T43	Cell 1564 1582	HT-29 cancer cells
+T44	Cancer 1589 1598	xenograft
+T48	Cancer 1671 1682	HT-29 tumor
+T49	Tissue 1694 1705	microvessel
+T53	Tissue 1815 1828	microvascular
+T54	Cancer 1914 1931	colorectal cancer

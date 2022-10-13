@@ -1,0 +1,35 @@
+T2	Cancer 49 55	cancer
+T3	Cellular_component 71 84	mitochondrial
+T4	Cancer 114 119	tumor
+T6	Cancer 255 261	cancer
+T7	Cell 288 298	tumor cell
+T8	Cancer 360 365	tumor
+T10	Cell 433 437	cell
+T11	Cell 493 501	cellular
+T14	Cell 598 612	umbilical vein
+T15	Cell 617 655	dermal microvascular endothelial cells
+T24	Multi-tissue_structure 935 952	capillary network
+T25	Cell 964 980	endothelial cell
+T27	Cancer 1043 1048	tumor
+T28	Cancer 1093 1116	breast cancer xenograft
+T29	Cell 1136 1140	cell
+T32	Cellular_component 1247 1274	mitochondrial transmembrane
+T34	Cell 1326 1347	embryonic fibroblasts
+T38	Cell 1418 1435	endothelial cells
+T43	Multi-tissue_structure 1592 1610	capillary networks
+T45	Cell 1676 1690	umbilical vein
+T46	Cell 1695 1733	dermal microvascular endothelial cells
+T48	Cell 1770 1774	Cell
+T50	Cellular_component 1838 1851	mitochondrial
+T52	Cellular_component 1913 1940	mitochondrial transmembrane
+T56	Cell 2008 2029	embryonic fibroblasts
+T58	Cancer 2054 2078	breast cancer xenografts
+T60	Cancer 2121 2127	tumors
+T61	Cell 2142 2152	tumor cell
+T62	Cancer 2230 2235	tumor
+T63	Multi-tissue_structure 2244 2257	blood vessels
+T65	Cancer 2302 2307	tumor
+T66	Cell 2333 2349	endothelial cell
+T69	Cellular_component 2472 2485	mitochondrial
+T70	Cancer 2562 2568	cancer
+T71	Cell 2615 2625	tumor cell

@@ -1,0 +1,14 @@
+T4	Organ 79 83	skin
+T6	Cancer 172 196	non-melanoma skin cancer
+T8	Organ 262 266	skin
+T9	Cell 296 300	cell
+T14	Cancer 443 454	skin tumors
+T15	Cancer 459 465	tumors
+T17	Pathological_formation 562 583	epidermal hyperplasia
+T18	Cell 635 639	cell
+T20	Cell 683 687	cell
+T24	Cell 883 888	cells
+T27	Cell 981 994	keratinocytes
+T31	Cell 1080 1084	cell
+T44	Cell 1473 1477	cell
+T50	Organ 1674 1678	skin

@@ -1,0 +1,2 @@
+Background
+HIV-1 infectivity depends on free cholesterol incorporated into the viral envelope. Here, we analyze HIV infectivity in the presence of drugs that stimulate cholesterol efflux.
