@@ -39,7 +39,9 @@ We updated our resource files of four biomedical benchmarks, pre-trained model, 
 * [Fine-tuned](http://nlp.dmis.korea.edu/projects/conner-jeong-et-al-2022/fine-tuned)
 
 ## Training and Inference
-TBD
+```bash
+make run-ner DATA_TYPE=doc_cons DATA_NAME=ncbi-disease MODEL_TYPE=roberta DATA_DIR='./data/' EPOCH=50 LR=3e-5 SEED=1 run_name=check MODEL_NAME=/directory/of/BioLM LM=biolm-large 
+```
 
 ## References
 Please cite our paper if you use ConNER in your work:
