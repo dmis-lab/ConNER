@@ -1,5 +1,5 @@
 # ConNER
-We present **ConNER** (Enhancing Label **Con**sistency on Document-level **N**amed **E**ntity **R**ecognition, a method that improves label agreement of specific tokens (i.e., tokens within biomedical entities) to make your models more consistent on biomedical text. This repository provides a way to train and evaluate our <em>ConNER</em> approach. Please see our [paper](TBD) for more details.)
+We present **ConNER** (Enhancing Label **Con**sistency on Document-level **N**amed **E**ntity **R**ecognition, a method that improves label agreement of modifiers (e.g., adjectives and prepositions) to make your models more consistent on biomedical text. This repository provides a way to train and evaluate our <em>ConNER</em> approach. Please see our [paper](TBD) for more details.)
 
 <div align="center">
       <img src="docs/images/conner_structure.PNG" width="95%">
@@ -7,7 +7,7 @@ We present **ConNER** (Enhancing Label **Con**sistency on Document-level **N**am
 
 ## Updates
 
-* \[**Sep 30, 2022**\] First code updates.
+* \[**Oct 12, 2022**\] First code updates.
 
 ## Quick Link
 * [Installation](#installation)
