@@ -625,7 +625,6 @@ def main():
 
     logger.info("Training/evaluation parameters %s", args)
 
-    import pdb; pdb.set_trace()
     # Training
     if args.do_train:
         # train_dataset = load_and_cache_examples(args, tokenizer, labels, pad_token_label_id, mode="sent_train", entity_name=args.data_name)
