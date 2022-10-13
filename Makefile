@@ -64,7 +64,7 @@ eval-ner:
     --adam_beta2 $(ADAM_BETA2) \
     --num_train_epochs $(EPOCH) \
     --warmup_steps $(WARMUP) \
-	--output_dir $(SAVE_DIR)/$(DATA_NAME)/$(LM)_EP$(EPOCH)_LR$(LR)_ML$(MAX_LENGTH)_WM$(WARMUP)_$(DATA_TYPE) \
+	--output_dir $(SAVE_DIR)/$(DATA_NAME)/$(LM)_EP$(EPOCH)_LR$(LR)_ML$(MAX_LENGTH)_WM$(WARMUP)_$(DATA_TYPE)_eval \
 	--per_gpu_train_batch_size $(BATCH_SIZE) \
 	--per_gpu_eval_batch_size $(BATCH_SIZE) \
 	--logging_steps $(LOGGING) \
