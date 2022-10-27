@@ -53,7 +53,14 @@ make run-ner DATA_TYPE=doc_cons DATA_NAME=ncbi-disease MODEL_TYPE=roberta DATA_D
 
 ## References
 Please cite our paper if you use ConNER in your work:
-TBD
+```bash
+@article{jeong2022enhancing,
+  title={Enhancing Label Consistency on Document-level Named Entity Recognition},
+  author={Jeong, Minbyul and Kang, Jaewoo},
+  journal={arXiv preprint arXiv:2210.12949},
+  year={2022}
+}
+```
 
 ## License
 Please see LICENSE for details.
