@@ -34,9 +34,17 @@ pip install -r requirements.txt
 
 ### 1. Datasets
 We updated our resource files of four biomedical benchmarks, pre-trained model, and fine-tuned models. 
-* [Datasets](http://nlp.dmis.korea.edu/projects/conner-jeong-et-al-2022/data)
-* [Pre-trained](http://nlp.dmis.korea.edu/projects/conner-jeong-et-al-2022/pre-trained)
-* [Fine-tuned](http://nlp.dmis.korea.edu/projects/conner-jeong-et-al-2022/fine-tuned)
+#### Datasets
+* [NCBI-disease](http://nlp.dmis.korea.edu/projects/conner-jeong-et-al-2022/data/ncbi-disease.tar.gz)
+* [CDR](http://nlp.dmis.korea.edu/projects/conner-jeong-et-al-2022/data/bc5cdr.tar.gz)
+* [AnatEM](http://nlp.dmis.korea.edu/projects/conner-jeong-et-al-2022/data/anatem.tar.gz)
+* [Gellus](http://nlp.dmis.korea.edu/projects/conner-jeong-et-al-2022/data/gellus.tar.gz)
+
+#### Fine-tuned
+* [NCBI-disease](http://nlp.dmis.korea.edu/projects/conner-jeong-et-al-2022/fine-tuned/ncbi-disease.tar.gz)
+* [CDR](http://nlp.dmis.korea.edu/projects/conner-jeong-et-al-2022/fine-tuned/bc5cdr.tar.gz)
+* [AnatEM](http://nlp.dmis.korea.edu/projects/conner-jeong-et-al-2022/fine-tuned/anatem.tar.gz)
+* [Gellus](http://nlp.dmis.korea.edu/projects/conner-jeong-et-al-2022/fine-tuned/gellus.tar.gz)
 
 ## Training and Inference
 ```bash
