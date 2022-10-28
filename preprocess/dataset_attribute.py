@@ -29,6 +29,36 @@ import numpy as np
 
 from tqdm import tqdm, trange
 
+from transformers import (
+    WEIGHTS_NAME,
+    AdamW,
+    BertConfig,
+    BertForTokenClassification,
+    BertTokenizer,
+    CamembertConfig,
+    CamembertForTokenClassification,
+    CamembertTokenizer,
+    DistilBertConfig,
+    DistilBertForTokenClassification,
+    DistilBertTokenizer,
+    RobertaConfig,
+    RobertaForTokenClassification,
+    RobertaTokenizer,
+    XLMRobertaConfig,
+    XLMRobertaForTokenClassification,
+    XLMRobertaTokenizer,
+    get_linear_schedule_with_warmup,
+)
+
+MODEL_CLASSES = {
+    "bert": (BertTokenizer),
+    "biobert": (BertTokenizer),
+    "roberta": (RobertaTokenizer),
+    "distilbert": (DistilBertTokenizer),
+    "camembert": (CamembertTokenizer),
+    "xlmroberta": (XLMRobertaTokenizer),
+}
+
 def token_frequency(token_freq_dict, token_cons_dict, words, labels, entity_name):
     temp_token_cons_dict = {}
     for word in words:
@@ -165,7 +195,6 @@ def out_of_density(train_entity_freq_dict, test_entity_freq_dict, out_of_dens_di
     test_entity_set = set([key for key in test_entity_freq_dict.keys()])
 
     diff_set = train_entity_set - test_entity_set
-
     for data_idx, data_inst in tqdm(enumerate(test_data), desc='Out of Density'):
         words = data_inst['str_words']
         labels = data_inst['tags']
@@ -211,8 +240,8 @@ def length_per_cons(train_entity_freq_dict, train_entity_cons_dict):
 
 def main():
     data_dir = '../data/'
-    entity_list = ['ncbi-disease']
-    file_list = ['doc_train.json', 'doc_test.json']
+    entity_list = ['ncbi-disease', 'bc5cdr', 'anatem', 'gellus']
+    file_list = ['doc_train.json', 'doc_dev.json', 'doc_test.json']
     # file_list = ['doc_train.json', 'doc_dev.json']
     # entity_name = 'ncbi-disease' 
     for entity_name in entity_list:
@@ -251,18 +280,40 @@ def main():
 
         length_cons_dict = length_per_cons(train_entity_freq_dict, train_entity_cons_dict)
 
-        import pdb; pdb.set_trace()
         # dens_cons_dict = dens_per_cons(train_entity_freq_dict, train_entity_density_list)
 
-        # # get out of density through a set of training entites 
-        # out_of_dens_dict = out_of_density(train_entity_freq_dict, test_entity_freq_dict, out_of_dens_dict, test_doc_len, test_data)
+        # get out of density through a set of training entites 
+        # out_of_dens_dict = out_of_density(train_entity_freq_dict, dev_entity_freq_dict, out_of_dens_dict, test_doc_len, test_data)        
         # get_list = []
         # for key, val_list in out_of_dens_dict.items():
         #     get_list.append(np.mean(val_list))
-
         # print (np.mean(get_list), np.std(get_list))
 
+        # find oov words containing subtokens
+        train_entity_set = set([key for key in train_entity_freq_dict.keys()])
+        test_entity_set = set([key for key in dev_entity_freq_dict.keys()])
+
+        diff_set = test_entity_set - train_entity_set
         
+        # load tokenizer 
+        tokenizer_class = MODEL_CLASSES["roberta"]
+        tokenizer = tokenizer_class.from_pretrained(
+        "/ssd0/minbyul/models/RoBERTa-large-PM-M3-Voc",
+        do_lower_case=False,
+        cache_dir="",
+        )
+
+        # print (tokenizer.tokenize("To study the molecular geneticsof classical and Duarte galactosemia , we analyzed the GALT mutations in 30 families with classical galactosemia , in 10 families with the D - 2 variant and in 3individuals carrying the D - 1 allele by denaturing gradient gel electrophoresis ( DGGE ) . "))
+        # print (tokenizer.tokenize("To learn more about the molecular basis of DTDST chondrodysplasias and about genotype - phenotype correlations , we studied fibroblast cultures of three new patients on with AO - 2 , one with DTD , and one with an intermediate phenotype ( AO2 / DTD  ) ."))
+        tokenized_cnt = 0
+        for oov_entity in list(diff_set):
+            # print ("Entity:: %s" % oov_entity) 
+            # print ("Tokenized::%s" % (tokenizer.tokenize(oov_entity)))
+            if len(oov_entity.split()) != len(tokenizer.tokenize(oov_entity)):
+                tokenized_cnt += 1
+
+        print ("tokenized %d and not %d" % (tokenized_cnt, len(list(diff_set))-tokenized_cnt))
+        print ("percentage of tokenized %.2f" % (100 * tokenized_cnt / len(list(diff_set))))
 
     ##########################################################################################################################################################################################################
     # data_dir = '../models/fine-tuned'
