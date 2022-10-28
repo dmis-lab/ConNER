@@ -662,7 +662,7 @@ def main():
         best_dev = [0, 0, 0]
             
         # result, _, best_dev, _ = evaluate(args, model, tokenizer, labels, pad_token_label_id, best=best_dev, mode="sent_dev", entity_name=args.data_name)
-        result, _, best_dev, _ = evaluate(args, model, tokenizer, labels, pad_token_label_id, best=best_dev, mode="doc_dev", entity_name=args.data_name)
+        result, predictions, best_dev, _ = evaluate(args, model, tokenizer, labels, pad_token_label_id, best=best_dev, mode="doc_dev", entity_name=args.data_name)
         results.update(result)
         output_eval_file = os.path.join(args.output_dir, "eval_results.txt")
         with open(output_eval_file, "w") as writer:
