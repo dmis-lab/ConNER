@@ -652,32 +652,36 @@ def main():
     # Evaluation
     results = {}
     if args.do_eval and args.local_rank in [-1, 0]:
-        tokenizer = tokenizer_class.from_pretrained(args.output_dir, do_lower_case=args.do_lower_case)
-        checkpoints = [os.path.join(args.output_dir, "checkpoint-best")]
-        if args.eval_all_checkpoints:
-            checkpoints = list(
-                os.path.dirname(c) for c in sorted(glob.glob(args.model_name_or_path + "/**/" + WEIGHTS_NAME, recursive=True))
-            )
-            logging.getLogger("pytorch_transformers.modeling_utils").setLevel(logging.WARN)  # Reduce logging
-        logger.info("Evaluate the following checkpoints: %s", checkpoints)
+        # tokenizer = tokenizer_class.from_pretrained(args.model_name_or_path, do_lower_case=args.do_lower_case)
+        if "checkpoint-best" in args.model_name_or_path:
+            model_path = args.model_name_or_path
+        else:
+            model_path = os.path.join(args.model_name_or_path, "checkpoint-best")
+        model = model_class.from_pretrained(model_path)
+        model.to(args.device)
         best_dev = [0, 0, 0]
             
-        for checkpoint in checkpoints:
-            global_step = checkpoint.split("-")[-1] if len(checkpoints) > 1 else ""
-            model = model_class.from_pretrained(checkpoint)
-            model.to(args.device)
-            # result, _, best_dev, _ = evaluate(args, model, tokenizer, labels, pad_token_label_id, best=best_dev, mode="sent_dev", entity_name=args.data_name, prefix=global_step)
-            result, _, best_dev, _ = evaluate(args, model, tokenizer, labels, pad_token_label_id, best=best_dev, mode="doc_dev", entity_name=args.data_name, prefix=global_step)
-            if global_step:
-                result = {"{}_{}".format(global_step, k): v for k, v in result.items()}
-            results.update(result)
+        # result, _, best_dev, _ = evaluate(args, model, tokenizer, labels, pad_token_label_id, best=best_dev, mode="sent_dev", entity_name=args.data_name)
+        result, _, best_dev, _ = evaluate(args, model, tokenizer, labels, pad_token_label_id, best=best_dev, mode="doc_dev", entity_name=args.data_name)
+        results.update(result)
         output_eval_file = os.path.join(args.output_dir, "eval_results.txt")
         with open(output_eval_file, "w") as writer:
             for key in sorted(results.keys()):
                 writer.write("{} = {}\n".format(key, str(results[key])))
+        
+        output_dev_predictions_file = os.path.join(args.output_dir, "dev_predictions.txt")
+        with open(output_dev_predictions_file, "w") as writer:
+            with open(os.path.join(args.eval_dir, "doc_dev.json"), "r") as f:
+                example_id = 0
+                data = json.load(f)
+                for item in data:
+                    for word_idx in range(len(predictions[example_id])):
+                        output_line = str(item["str_words"][word_idx]) + " " + str(item["tags"][word_idx]) + " " + predictions[example_id][word_idx] + "\n"
+                        writer.write(output_line)
+                    example_id += 1
+
 
     if args.do_predict and args.local_rank in [-1, 0]:
-        tokenizer = tokenizer_class.from_pretrained(args.model_name_or_path, do_lower_case=args.do_lower_case)
         if "checkpoint-best" in args.model_name_or_path:
             model_path = args.model_name_or_path
         else:
@@ -686,18 +690,17 @@ def main():
         model.to(args.device)
         best_test = [0, 0, 0]
         
-        # result, predictions, _, _ = evaluate(args, model, tokenizer, labels, pad_token_label_id, best=best_test, entity_name=args.data_name, mode="sent_test")
         result, predictions, _, _ = evaluate(args, model, tokenizer, labels, pad_token_label_id, best=best_test, entity_name=args.data_name, mode="doc_test")
+
         # Save results
-        output_test_results_file = os.path.join(model_path, "test_results.txt")
+        output_test_results_file = os.path.join(args.output_dir, "test_results.txt")
         with open(output_test_results_file, "w") as writer:
             for key in sorted(result.keys()):
                 writer.write("{} = {}\n".format(key, str(result[key])))
-        # Save predictions
 
-        output_test_predictions_file = os.path.join(model_path, "test_predictions.txt")
+        # Save predictions
+        output_test_predictions_file = os.path.join(args.output_dir, "test_predictions.txt")
         with open(output_test_predictions_file, "w") as writer:
-            # with open(os.path.join(args.eval_dir, "sent_test.json"), "r") as f:
             with open(os.path.join(args.eval_dir, "doc_test.json"), "r") as f:
                 example_id = 0
                 data = json.load(f)
