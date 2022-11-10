@@ -46,6 +46,12 @@ We updated our resource files of four biomedical benchmarks, pre-trained model, 
 * [AnatEM](http://nlp.dmis.korea.edu/projects/conner-jeong-et-al-2022/fine-tuned/anatem.tar.gz)
 * [Gellus](http://nlp.dmis.korea.edu/projects/conner-jeong-et-al-2022/fine-tuned/gellus.tar.gz)
 
+#### Pre-trained Models (BioBERT or BioLM)
+```bash
+wget https://dl.fbaipublicfiles.com/biolm/RoBERTa-large-PM-M3-Voc-hf.tar.gz
+tar -zxvf RoBERTa-large-PM-M3-Voc-hf.tar.gz
+```
+
 ## Training and Inference
 ```bash
 make run-ner DATA_TYPE=doc_cons DATA_NAME=ncbi-disease MODEL_TYPE=roberta DATA_DIR='./data/' EPOCH=50 LR=3e-5 SEED=1 run_name=check MODEL_NAME=/directory/of/BioLM LM=biolm-large 
