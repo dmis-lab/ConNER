@@ -1,12 +1,12 @@
 # ConNER
-We present **ConNER** (Enhancing Label **Con**sistency on Document-level **N**amed **E**ntity **R**ecognition), a method that improves label agreement of modifiers (e.g., adjectives and prepositions) to make your models more consistent on biomedical text. This repository provides a way to train and evaluate our <em>ConNER</em> approach. Please see our [paper](https://arxiv.org/abs/2210.12949) for more details.
+We present **ConNER** (**Con**sistency Enhancement of Model Prediction on Document-level **N**amed **E**ntity **R**ecognition), a method that improves label consistency of modifiers (e.g., adjectives and prepositions) to make your models more consistent on biomedical text. This repository provides a way to train and evaluate our <em>ConNER</em> approach. Please see our [paper](https://arxiv.org/abs/2210.12949) for more details.
 
 <div align="center">
       <img src="docs/images/conner_structure.PNG" width="95%">
 </div>
 
 ## Updates
-
+* \[**May 20, 2023**\] Accepted at Bioinformatics!
 * \[**Oct 12, 2022**\] First code updates.
 
 ## Quick Link
@@ -58,7 +58,7 @@ make run-ner DATA_TYPE=doc_cons DATA_NAME=ncbi-disease MODEL_TYPE=roberta DATA_D
 ```
 
 ## References
-Please cite our paper if you use ConNER in your work:
+Please cite our paper if you use ConNER in your work (it will be updated soon!):
 ```bash
 @article{jeong2022enhancing,
   title={Enhancing Label Consistency on Document-level Named Entity Recognition},
