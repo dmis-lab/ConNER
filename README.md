@@ -1,5 +1,5 @@
 # ConNER
-We present **ConNER** (**Con**sistency Enhancement of Model Prediction on Document-level **N**amed **E**ntity **R**ecognition), a method that improves label consistency of modifiers (e.g., adjectives and prepositions) to make your models more consistent on biomedical text. This repository provides a way to train and evaluate our <em>ConNER</em> approach. Please see our [paper](https://arxiv.org/abs/2210.12949) for more details.
+We present **ConNER** (**Con**sistency Enhancement of Model Prediction on Document-level **N**amed **E**ntity **R**ecognition), a method that improves label consistency of modifiers (e.g., adjectives and prepositions) to make your models more consistent on biomedical text. This repository provides a way to train and evaluate our <em>ConNER</em> approach. Please see our [paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btad361/7188100) for more details.
 
 <div align="center">
       <img src="docs/images/conner_structure.PNG" width="95%">
